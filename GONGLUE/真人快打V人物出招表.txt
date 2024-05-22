@@ -1,0 +1,422 @@
+真人快打V人物出招表
+
+kof提供 
+
+设定
+
+F：前　B：后　U：上　D：下　H：高　L：低　P：拳　K：脚　BL：格档
+Liu Kang
+
+Weapon: B - F - LK
+
+High Fireball: F - F - HP (can do in air)
+
+Low Fireball: F - F - LP
+
+Flying Kick: F - F - HK
+
+Bicycle Kick: Hold LK 3 secs, Release
+
++Finishers+
+
+Dragon: F - F - F - D+HK+LK+BL (sweep)
+
+Throw & Fire: F - D - D - U+HP (close)
+
+Prison Stage: F - F - B+LP
+
+Goro’s Lair: F - F - B+HK
+
+Jarek
+
+Weapon: F - F - HP
+
+Cannonball Roll: B - F - LK
+
+Vertical Roll: F - D - F - HP
+
+Ground Shaker: B - D - B - HK
+
+Tri-Blade: D - B - LP
+
++Finishers+
+
+Heart Rip: F-B-F-F+LK (close)
+
+Eye Lasers: U-U-F-F+BL (sweep+)
+
+Prison Stage: F - D - F+HK
+
+Goro’s Lair: B - F - F+LP
+
+
+Quan Chi
+
+Weapon: D - B - HK
+
+Air Throw: BL (close; in air)
+
+Flying Skull: F - F - LP
+
+Weapon Steal: F - B - HP
+
+Tele-Stomp: F - D - LK
+
+Slide Kick: F - F - HK
+
++Finishers+
+
+Leg Beatup: (LK)5sec D-F-D-F+Rel (close)
+
+Impersonator: U - U - D - D+LP (sweep+)
+
+Prison Stage: F - F - D+HP
+
+Goro’s Lair: F - F - B+LK 
+
+Johnny Cage
+
+Weapon: F-D-F-LK
+
+Shadow Kick: B - F - LK
+
+Split Punch: BL+LP
+
+Shadow Uppercut: B - D - B - HP
+
+High Fireball: D - F - HP
+
+Low Fireball: D - B - LP
+
++Finishers+
+
+Torso: F - B - D - D+HK (close)
+
+Decap: D-D-F-D+BL (close)
+
+Prison Stage: D - F - F+HK 
+
+Goro’s Lair: B - F - F+LK
+
+Reptile
+
+Weapon: B - B - LK
+
+Super Krawl: B - F - LK
+
+Acid Spit: D - F - HP
+
+Invisibility: BL+HK
+
+Dashing Punch: B - F - LP
+
++Finishers+
+
+Face Chew: (HP+LP+HK+LK) U (close)
+
+Acid Puke: U - D - D - D+HP (sweep+)
+
+Prison Stage: D - F - F+LP
+
+Goro’s Lair: D - D - F+HK
+
+Tanya
+
+Weapon: F-F-HK
+
+Fireball: D - F - HP
+
+Split Kick: F - D - B - LK
+
+Air Fireball: D - B - LP (in air)
+
+Corkscrew Kick: F - F - LK
+
++Finishers+
+
+Kiss: D-D-U-D+HP+BL (close)
+
+Neck Twist: D-F-D-F+HK (close)
+
+Prison Stage: B - F - D+HP
+
+Goro’s Lair: F - F - F+LP
+
+Sub-Zero
+
+Weapon: D - F - HK
+
+Ice Blast: D - F - LP
+
+Slide: LP+BL+LK
+
+Ice Clone: D - B - LP (+ air)
+
++Finishers+
+
+Spine Rip: F - B - F - D - HP+BL (close)
+
+Uppercut: B - B - D - B+HP (sweep+)
+
+Prison Stage: (BL)D-U-U-U+HK (close)
+
+Goro’s Lair: D - D - D+LK
+
+Raiden
+
+Weapon: F - B - HP
+
+Torpedo Dive: F - F - LK (+ air)
+
+Lightning Bolt: D - B - LP 
+
+Teleport: D - U 
+
++Finishers+ 
+
+Execution: (BL)F-B-U-U+HK(close)
+
+Impale: D-U-U-U+HP (close)
+
+Prison Stage: D - F - B+BL
+
+Goro’s Lair: F - F - D+LP 
+
+
+
+Scorpion
+
+Weapon: F - F - HK
+
+Spear: B - B - LP
+
+Teleport Punch: D - B - HP (+ air)
+
+Air Throw: BL (close; in air)
+
+Breathe Fire: D - F - LP
+
++Finishers+
+
+Toasty 3D: B - F - F - B+BL (sweep+)
+
+Scorpion Sting: B - F - D - U+HP (close)
+
+Prison Stage: F - D - D+LK
+
+Goro’s Lair: B - F - F+LK
+
+Fujin
+
+Weapon: B - B - LP
+
+Tornado Lift: F - D - F - F - B+HP
+
+Slam after Lift: B-F-D-LK
+
+Whirlwind Spin: F-D-(LP)
+
+Dive Kick: D+LK (in air)
+
+Rising Knee: D - F - HK
+
++Finishers+
+
+Tornado & Shoot: RN+BL x5 (sweep)
+
+Wind Skinner: D-F-F-U+BL (sweep+)
+
+Prison Stage: D - D - D+HK
+
+Goro’s Lair: B - F - F+LK
+
+
+Reiko
+
+Weapon: D - B - HP
+
+Teleport: D - U
+
+Slam: BL
+
+Punch (combo starter): HP or LP
+
+Kick (combo starter): HK or LK
+
+Flip Kick: B - D - F - HK
+
+Shurikens: D - F - LP
+
+Circular Teleport: B - F - LK
+
++Finishers+
+
+Torso Kick: F - D - F+LP+BL+HK+LK (close)
+
+Multi-Shuriken: B - B - D - D+HK (sweep+)
+
+Prison Stage: D - D - B+LP
+
+Goro’s Lair: F - F - D+LK
+
+Jax
+
+Weapon: D-F-HP
+
+Ground Wave: F - F - D - LK
+
+Dash Punch: D - B - LP
+
+Backbreaker: BL (in air; close)
+
+Fist Fireball: D - F - LP
+
+Multi-Slam: LP(close)-(RN+BL+HK)(HP+LP+LK)(HP+BL+LK)(HP+LP+HK+LK)
+
++Finishers+ 
+
+Arm Rip:(LK)5s F-F-D-F+Rel(close)
+
+Head Clap: B-F-F-D+BL (close)
+
+Prison Stage: F - F - B+LK 
+
+Goro’s Lair: F - F - B+HP 
+
+Sonya
+
+Weapon: F - F - LK
+
+Front Flip Kick: B - D - F - LK
+
+Ring Blast: D - F - LP
+
+Leg Grab: D+LP+BL
+
+Vertical Bicycle Kick: B - B - D - HK
+
+Square Wave Punch: F - B - HP
+
+Air Throw: BL (close; in air)
+
++Finishers+
+
+Death Kiss: D - D - D - U - RN (sweep)
+
+Leg Split: U - D - D - U - HK (sweep+)
+
+Prison Stage: D - B - B - HK
+
+Goro’s Lair: F - D - F - HP
+
+
+Kai
+
+Weapon: D - B - LP
+
+Handstand: BL+LK (BL to feet)
+
+Spin: Hold LP
+
+Kicks: HK or LK
+
+Air Fist: D - F - HP
+
+Falling Fireball: B - B - HP
+
+Rising Fireball: F-F-LP (+air)
+
+Super Roundhouse: D-F-LK
+
++Finishers+
+
+Body Rip:(BL)U-F-U-B+HK(close)
+
+Decap: U-U-U-D+BL(sweep+)
+
+Prison Stage: F - F - D+BL
+
+Goro’s Lair: B - F - D+HK
+
+
+Shinnok
+
+Weapon: B - F - LP
+
+Fujin: F - F - B - HK
+
+Sonya: F - D - F - HP
+
+Jarek: B - B - B - LK
+
+Sub-Zero: D - B - LP
+
+Quan Chi: F - B - F - LK
+
+Tanya: B - F - D - BL 
+
+Raiden: D - F - F - HP
+
+Kai: F - F - F - LK
+
+Cage: D - D - HP 
+
+Reptile: B - B - F - BL
+
+Reiko: B - B - B - BL
+
+Scorpion: F - B - LP 
+
+Jax: F - D - F - HK
+
+Liu Kang: B - B - F - HK
+
++Finishers+ 
+
+The Grip: D-B-F-D+RN (close)
+
+Prison Stage: D - D - F+HK
+
+Two Hand Smash: D-U-U-D+BL (close)
+
+Goro’s Lair: D - F - B+HP
+
+Goro
+
+Weapon: None
+
+Fireball: F - B - HP
+
+Air Stomp: F - F - B - HK
+
+Two Hand Swipe: F - F - HP
+
+Lunge Kick: B - B - HK
+
+Ground Stomp: B - F - D - D - HK
+
+Super Uppercut: D - D - HP
+
+Noob Saibot
+
+Weapon: F - F - HK
+
+Teleport: D - U
+
+Slam: BL
+
+Punch: HP or LP
+
+Kick: HK or LK
+
+Fireball: D - F - LP (also in air)
+
+Air Throw: BL (close; in air)
+
++Finishers+
+
+Prison Stage: D - B - B+HK
+
+Goro’s Lair: F - D - F+HK
+
+

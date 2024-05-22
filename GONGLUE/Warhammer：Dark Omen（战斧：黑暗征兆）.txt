@@ -1,0 +1,42 @@
+Warhammer：Dark Omen（战斧：黑暗征兆）
+
+在游戏中可以使用以下秘技：
+
+输入fudgeislush以击活"Troop Roster"秘技模式,然后输入以下秘技:
+
+CTRL-C-G =增加现金1000 gc
+CTRL-C-T =减少现金1000 gc 
+CTRL-C-E =增加指定个体的经验值
+CTRL-C-U =使指定个体在战争中不受损伤
+
+输入dontmesswithme 以使用下列秘技:
+
+CTRL-C-M =获得全部魔法
+CTRL-C-M =每个成员加满XP
+
+输入bringemon以使用’In Battle’秘技
+按下CTRL,选丁目标敌人.当然你不能指望他去攻击其他敌人,但你至少可以定住他们并去掉其魔法和使用他们的火焰弹. 爽吧!
+使用选定目标的火焰弹开火时按下K,百分之百没错。
+按下W，可以增加魔法点数至最大
+
+输入overbychristmas后按F12可以自动取得任何一场比赛的胜利（按一次或两次）
+（注意不要在最后一场作战中使用此方法，否则你将会错过动人的结束场面。）
+输入squarewindow 可在屏幕右上角放置一个放大镜。
+输入smeghead 可使3D heads变成pinheads!
+输入blackmarket 可在多人战役模式中无限使用魔法。 
+输入bennyhill 击活快速作战模式。
+输入thelivinggem =goto point in campaign. (At Great Forest 1 (just before wight battle)) 
+输入handyman 在战斗中转到你遇见Urgat的地方
+输入ridethestorm 在战斗中转到你第二次遇见Azguz的地方。
+输入youandi 在结束任务前，演示场景动画，然后转到另一场战斗。
+输入ohdear 播放屠杀场面
+输入welcome 播放开始动画
+输入groovetown 播放第一场战斗的动画
+输入lightreading 未知结果
+输入smallpebble 展示Morrslieb的宝石
+输入badbreath 未知结果
+输入whitegrail 未知结果
+输入atimetofight 播放进行曲
+输入wewontheday 播放结局动画
+输入credits 现实存款
+

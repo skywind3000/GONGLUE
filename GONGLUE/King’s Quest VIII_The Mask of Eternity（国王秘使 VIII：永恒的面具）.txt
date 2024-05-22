@@ -1,0 +1,181 @@
+King’s Quest VIII_The Mask of Eternity（国王秘使 VIII：永恒的面具）
+
+在游戏的控制画面同时按下"CTRL"+"SHIFT"+"7"键后会看见一个提示符要求输入PASSWORD，
+不过不必管它，这只是个玩笑而已，直接输入以下的字符串就可得到相应的密技功能：
+NoConCollide：快速模式、穿墙模式等
+ConCollide：关闭快速模式
+teleport：地图会完全显露，然后在世界地图上点击一个地点后主角就会被传送到那里去
+Debug：游戏碰撞
+Bump：使主角向前移动一点然后穿墙
+Give：得到物品。只要输入相应的物品名字和数量就可以得到要求数量的该物品。
+例如：Give Dagger 2 以下是完整的游戏物品列表，不过要注意不要太贪心了，否则可能
+导致游戏无法进行下去
+
+武器物品
+item0= Dagger
+item1= SmallAx
+item2= BroadSword
+item3= Mace
+item4= LakeSword
+item5= SkelKingSword
+item6= BattleAx
+item7= WarHammer
+item8= Pike
+item9= LongSword
+item10= FlameSword
+item11= TempleSword
+item12= SmCrossbow
+item13= AzrielHammer
+item14= SmCpndCBow
+item15= ShortBow
+item16= LongBow
+item17= CrossBow
+item18= CpndCrossbow
+item19= FlameBow
+item20= IceCrossbow
+item21= WeeperEyes
+item22= DemonRocks
+item23= SkelBow
+item24= SlmSlime
+item25= WitchBolt
+item26= Lava
+item27= Fists
+item28= Icycle
+
+防具物品
+item29= LeatherGloves
+item30= LeatherArmor
+item31= LeatherBoots
+item32= ChainMailShirt
+item33= ChainMailGloves
+item34= ChainMailSuit
+item35= PlateMail
+item36= BronzePlate
+item37= FullArmor
+item38= Helmet
+item39= TempleArmor
+item40= GodArmor
+
+生命和魔法物品
+item41= Mushroom
+item42= SacredWater
+item43= Crystal
+item44= ElixerOfLife
+item45= Clarity
+item46= Invisible
+item47= Invulnerable
+item48= Strength
+
+道具
+item49= RingOfDeadHero
+item50= Ashes
+item51= Candle
+item52= SilverCoins
+item53= MagicMap
+item54= RopeAndHook
+item55= RingOfLight
+item56= KeyToDeathMaze
+item57= Mold
+item58= BrokenShield
+item59= RustedBrokenShield
+item60= HearingHorn
+item61= AntiPoisonFlower
+item62= GreenMushroomPiece
+item63= Rock
+item64= IronLock
+item65= OakRoot
+item66= LodeStone
+item67= CrystalPyramid
+item68= BlackDiamond
+item69= AmberGlow
+item70= BasiliskTongue
+item71= FireGem
+item72= PipeCap1
+item73= PipeCap2
+item74= DragonKey
+item75= RockKey
+item76= BlueAdamant
+item77= JailKey
+item78= DecipheringAmulet
+item79= Paddle
+item80= Feather
+item81= GoodSkull
+item82= BadSkull
+item83= RoundKey
+item84= SquareKey
+item85= Ladle
+item86= hmhand
+item87= Mask1
+item88= Mask2
+item89= Mask3
+item90= Mask4
+item91= Mask5
+item92= Piece1
+item93= Piece2
+item94= Piece3
+item95= Piece4
+item96= Scroll
+item97= LadyBell
+item98= RustedLock
+item99= KeepKey
+item100= StoneOrder
+item101= MetalShaft
+item102= TruthKey
+item103= LightKey
+item104= OrderKey
+item105= MarbleTablet0
+item106= MaskMedalian
+item107= Grail
+item108= Mask3B
+item109= Piece5
+item110= UniHorn
+item111= SpellPage
+item112= Mask1A
+item113= Piece1A
+item114= DarkPyramid
+item115= ShardFuse
+item116= MarbleTablet1
+item117= MarbleTablet2
+item118= MarbleTablet3
+item119= GriffRoomKey
+item120= GriffCageKey
+item121= ClockShaft
+item122= HookDown
+item123= HookUp
+item124= SpinningMask
+item125= Orcbow
+item126= Spear
+item127= IceShard
+item128= IceLever
+Lucreto的权利物品
+item129= LucretoFire
+
+主角不到物品和道具开始游戏
+item130= NoRanged
+item131= NoArmor
+item132= BirthdaySuit
+item133= Logo1
+item134= Logo2
+
+god：刀枪不入，游戏中的怪物无法再伤害主角，不过自然伤害如溺水、高处坠落等依然可
+以导致主角死亡
+ungod ：从以上模式回到正常状态
+ruth：复活节彩蛋（下同）
+welch-piel：同上
+oscar：同上
+rocket：同上
+testCast：长时间暂停
+
+以下密技功能基本如字面意思，自己试一试就知道了。
+Mask
+console
+Run
+alias
+setFirstPerson
+setThirdPerson
+exist
+listActive
+handsOff
+show
+Lookup
+

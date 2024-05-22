@@ -1,0 +1,7 @@
+F_A_ Premier Football Manager 2000
+
+启动游戏时加入以下参数：
+/fastbuild777：快速建造
+/cash777：更多的钱
+/showstat777：为不熟练的玩家显示状态 
+

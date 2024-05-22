@@ -1,0 +1,4 @@
+Motorhead（机车领袖）
+
+超级赛车模式:
+在个人选项菜单(personaloptions),’name’选项输入Supercars; ’team’选项输入Grem.这时游戏就会显示角摄影镜头.大弹簧模式:在个人选项菜单(personal options),’name’选项输入Demon; ’team’选项输入Grem.你的赛车便会装配上极佳的缓冲装置.

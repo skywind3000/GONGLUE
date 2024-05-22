@@ -1,0 +1,7 @@
+Tribal Rage
+
+按住Shift+Ctrl+:
+R 打开所有地图 
+V 胜利 
+Z 加1000块钱 
+

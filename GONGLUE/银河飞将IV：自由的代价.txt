@@ -1,0 +1,244 @@
+银河飞将IV：自由的代价
+
+上帝偏爱步兵提供 
+
+　　《银河飞将IV：自由的代价》是银河飞将的最新系列，也可以说是又一部辉煌的游戏篇章，精美的全电影效果，震撼的立体声音效，紧张刺激的战斗过程加上多线式选择的剧情为我们带来了几乎是完美的享受。 
+
+　　游戏容量为6张光碟，所需基本配置为486/DX66＋8M＋VL或者PCI显示卡，建议最好是在PE NTIUM/100＋16MRAM的机器上运行。 
+
+　　游戏为模拟射击类，每关的设计都非常巧妙，其中不乏构思细腻之作，下面将每关的重点作简单叙述。 
+
+任务1.1 
+
+　　你来到酒店见MANIAC，这时一位退伍军人会来向你要钱买酒喝，你可以选择回答： HELP HIM OUT，他会在8.2的任务中助你一臂之力。 
+　　STRAIGHTEN HIM OUT，他会愤怒地离开。 
+　　MANIAC来到，他要求和你挑战一场，你可以选择： 
+　　AFFIRMATIVE，接受挑战。 
+　　NEGATIVE MANIAC，拒绝，会遭到MANIAC的嘲笑。 
+　　MANIAC会在出发前把武器改为训练模式，在战斗中务必要用速度的优势将海盗除掉，并向 MANIAC呼叫：“BREAK AND ATTACK.” 
+　　任务成功，进入任务2.1。任务失败，则GAME OVER。 
+　　当你来到ORLANDO DEOPT 时， 发现居然被炸毁，于是你改变航向向 BLUE POINTSTATION 飞去。 
+
+任务2.1 
+　　你的任务是护送一艘运输舰到达跳跃点，虽然拦截的海盗火力凶猛，而且全部是针对运输舰，当你保护了RADER ARRAY时，你会发现一群敌机，你被告知只许跟踪， 不许开火，于是你和敌机群保持和12000-14000之间，如果收到“PROCEED TO THE NEXT WAYPOINT” 信息时回到LEXINGON。 
+　　任务成功，知道敌人基地在何处，进入任务2.2。任务失败，也进入任务2.2，但难度相对大些。 
+
+任务2.2 
+　　你将独自驾驶LONGBOW直捣敌人基地，在执行任务前，你会和CATSCRATCH对话： 
+　　I LIKE THE KID，增加他对你的好感，也增加你的攻击率。 
+　　WHAT’S THIS KID WANT WITH ME， 他对你印象变差，并降低你的攻击率。 
+　　在这过程中你最好接受LONGBOW上的电脑劝告来选择武器使用， 并用重火力将敌方主舰摧毁。 
+　　任务成功，摧毁敌人主舰，进入任务2.3。任务失败，敌人主舰逃走，也进入任务2.3，但难度相对大些。 
+
+任务2.3 
+　　这次的任务是派你靠近敌人基地拍摄一些照片，以方便我方展开营救行动。在战斗中首先要用飞弹将敌人的空中激光摧毁，然后甩掉敌机，使用H键来转换武器/照相，然后返回。 
+　　任务成功，进入任务2.4。任务失败，进入任务2.4。 
+
+任务2.4 
+　　地面救援人员任务。 
+
+任务3.1 
+　　你的任务是保护运输舰去修复一座被海盗夺去的实验室， 在执行任务前， 你会和CATSC RATCH对话： 
+　　NEW BRASS，增加他对你的好感，也增加你的攻击率。 
+　　THIS KID ASKS TOO MANY QUESTIONS，对你印象变差，降低你的攻击率。 
+　　在运输舰停泊之时，两架敌人的AVENGER会接近，务必将他们迅速消灭，随后你得在两分钟内将所有敌人解决?? 
+　　任务成功，进入任务3.2。任务失败，GAME OVER。 
+
+任务3.2 
+　　发现有BORDER WORLD舰队靠近，你的任务是驾机捍卫领土，出发前VEGABOND和MANIAC发生了争吵，但你的回答并没有什么影响。 
+　　战斗开始了，你向敌人发出了警告，但他们对你的警告漠视不理。于是你采用新式的TORP EDOES武器攻击对方母舰，并集中火力将对方的一艘主力舰打沉。 
+　　任务成功，进入任务3.3。任务失败，进入任务3.3。 
+
+任务3.3  
+　　EISEN忽然叛变，我奉命前去追击，和CATSCRATCH对话： 
+　　THE KID’S GOT A POINT，增加他对你的好感，也增加你的攻击率。 
+　　WHO’S HE TO QUESTION CONFED，对你印象变差，降低你的攻击率。 
+　　在执行任务时，VEGABOND也说要追随EISEN，你将面临背叛和追杀的抉择： 
+　　选择背叛的任务是消灭追随而来的队友，若任务成功，你将和EISEN和VEGABOND离开，进入任务4.1，若任务失败，GAME OVER。 或选择追击的任务是将VEGABOND干掉，尽管这是件痛苦的决定。 任务成功，进入任务6.1。任务失败，GAME OVER。 
+
+任务4.1 
+　　你来到INTERPID舰上，这是叛军的主力，而此时CONFEDERATION 的战机向你发起了疯狂的攻击，你的任务是将它们全部消灭，并等到敌人THUNDERBOLT 战机出现时用飞弹将它干掉。任务成功，进入任务4.2。任务失败，GAME OVER。 
+
+任务4.2 
+　　和技师PLIERS交谈，可选择回答： 
+　　BET THIS OLD COOT KNOWS WHAT HE’S DOING? 他对你印象变好。 
+　　HERE’S A GUY THEY SHOULD HAVE PUT OUT TO PASTURE，对你印象变差。 
+　　(他对你印象的好坏决定你的战机的性能好坏。) 
+　　在几个巡逻点的巡逻任务中，你将CONFEDERATION的全部战机击落，给他们一个教训，让他们不要小看人。任务成功，进入任务4.3。任务失败，进入任务4.3。 
+
+任务4.3 
+　　和技师PLIERS交谈，可选择回答： 
+
+
+　　WELL, HE IS RESOURCEFUL，他对你印象变好。 
+　　I KNEW THIS GUY WAS TROUBLE，对你印象变差。 
+　　虽然你们取得了局部的优势，但现在必须转移了，你得驾机护送INTREPID到跳跃点上，但由于LEXINGTON的阻拦，你只能将它从道路上铲除。 
+　　任务成功，进入任务5.1。任务失败，GAME OVER。 
+
+任务5.1 
+　　和PANTHER交谈，可选择回答： 
+　　YEAH...YOU’D THINK，对你印象变好。 
+　　SHE’S DREAMING，对你印象变差。 
+　　一艘BORDER WORLDS的船被CONFEDERATION的战机攻击，你得去拯救它。 
+　　无论任务成功或失败，都进入任务5.2。 
+
+任务5.2 
+　　和技师PLIERS交谈，可选择回答： 
+　　THIS THING COULD BE VERY USEFUL. 对你印象变好。 
+　　I CAN’T TRUST THIS GUY. 对你印象变差。 
+　　发现敌方的通讯站，你必须将敌方通讯站附近的RADAR BUOY全部消灭，然后在敌机全部毁灭后用 VAGABOND 和 SOSA 两名战友送入敌方通讯站， 当你回收的时候， 你发现，VAGABOND不幸牺牲在通讯站，你的心情异常难过。 
+　　任务成功，进入任务7.1。任务失败，GAME OVER。 
+
+任务6.1 
+　　你到处搜索EISEN的下落，但是一无所获。 
+　　无论任务成功或失败，都进入任务6.2。 
+
+任务6.2 
+　　你会和CATSCRATCH对话： 
+　　WHAT A SELF-IMPORTANT BASTARD. 增加他对你的好感，增加你的攻击率。 
+　　EVERYTHING’S GOING TO HELL. 对你印象变差，降低你的攻击率。 
+　　你和SEETHER出动攻击叛军的主舰INTREPID，SEETHER捉住了对方的一个驾驶员，总算是没有白费精力。 
+　　无论任务成功或失败，都进入任务6.3。 
+
+任务6.3 
+　　似乎是有什么问题，VAGABOND的死让你感到惭愧，当你再次率领战机群攻击叛军的主舰时， EISEN向你发出邀请。 
+　　AFFIRMATIVE 选择叛变：消灭LEXINGTON，进入任务7.1 ， 无法消灭 LEXINGTON ，GAME OVER。NEGATIVE 不叛变，GAME OVER。 
+
+任务7.1 
+　　和技师PLIERS交谈，可选择回答： 
+　　BET THIS OLD COOT KNOWS WHAT HE’S DOING. 对你印象变好。 
+　　HERE’S A GUY THEY SHOULD HAVE PUT OUT TO PASTURE. 对你印象变差。 
+　　你受到一艘运输舰的求救信号，当你成功地将敌人消灭并护送运输舰回来时，你发现发动攻击的是KILRATHI的战机。 
+　　无论任务成功与失败，都进入任务7.2。 
+
+任务7.2 
+　　和PANTHER、CASTCRATH交谈，可选择回答： 
+　　STRAIGTEN THIS KID OUT. PANTHER对你印象变好。CASTCRATH对你的印象变差。 
+　　DO I LOOK LIKE I HAVE ALL THE ANSWERS? CASTCRATH对你的印象变好。PANTHER 对你印象变差。 
+　　和HAWK对话，可选择回答： 
+　　HE’S MISSING THE POINT... 对你的印象变好。 
+　　BITTER GUY. 对你的印象变差。 
+　　忽然发现CONFEDERATION正在对KILRATHI星球发动攻击， 作为银河新的正义的象征，你的任务自然是要帮助弱小的KILRATHI星球将CONFEDERATION战机全部摧毁。ノ蘼廴挝癯晒τ胧О埽都进入任务7.3。 
+
+任务7.3 
+　　虽然这里附近的星系相对安静了很多，但敌方基地还是对你们构成威胁。你的任务主要是扫荡附近的航点，并将DEKKER和MELEK安全送入对方基地。 
+　　无论任务成功与失败，都将进入任务8.1。 
+
+任务8.1 
+　　不明物体发出的电波严重干扰了INTREPID的仪器，你率领战机在主机仪器失灵的情况下还是将干扰源消灭。ノ蘼廴挝癯晒τ胧О埽都将进入任务8.2。 
+
+任务8.2 
+　　(如果在任务1.1中请一个退伍军人喝酒，他会在这关给你回报。) 
+　　你的任务主要是消灭敌人母舰 
+　　任务成功，进入任务9.1。任务失败，GAME OVER。 
+
+任务9.1 
+　　和TOLWYN的对话： 
+　　I OWE HIM... 放他走 
+　　I OWE HIM NOTHING... 他自己逃走 
+　　和PANTHER和HAWK对话，可选择 
+　　如果PANTHER对你的印象变好，HAWK对你的印象变坏，进入任务9.11.1。 
+　　如果HAWK对你的印象变好，PANTHER对你的印象变差，进入任务9.12.1。 
+　　MANIAC和DEKKER对话： 
+　　MANIAC’S GONNA GET CREAMED.  
+　　THIS I GOTTA SEE MANIAC. DEKKER被打了一拳。 
+
+任务9.11.1 
+　　这里有三个任务，你可以自由选择顺序，分别是： 
+　　(1) 对地作战，将敌人试图攻击气候控制中心的坦克消灭。 
+　　(2) 护送三艘运输舰来回运输三趟。 
+　　(3) 巡逻航行并摧毁一切敌人战机。 
+　　无论任务成功与失败，都将进入任务9.11.2。 
+
+任务9.11.2 
+　　当你进行切断敌人补给线的任务时， SOSA 忽然告诉你， 正在执行另一项任务的CATSC RATCH有危险，现在你面临的抉择是继续完成任务还是救援CATSCRATCH。 
+　　不救援，全力攻击对方的运输舰，无论任务成功与失败，都将进入任务9.11.3第二任务。救援，用曳光束将CATSCRATCH拉回，然后将他的战机炸毁，无论任务成功与失败，都将进入任务9. 11.3任意一任务。 
+
+任务9.11.3 
+　　和技师PLIERS交谈，可选择回答： 
+　　WHO NEEDS A WINGMAN? 对你印象变好。 
+　　I PREFER A WINGMAN. 对你印象变差。 
+　　和PANTHER、HAWKH交谈，可选择回答： 
+　　THERE’S ALWAYS HOPE... PANTHER对你印象变好。HAWK对你的印象变差。 
+　　WE DIE TRYING... HAWK对你的印象变好。PANTHER对你印象变差。 
+　　第一任务：为了弥补因救援而造成的任务失败，你必需将敌人的补给线切断。 
+　　第二任务：将DEKKER和一些人由MIP发射到敌人总指挥站，然后将CONFEDERATION的一艘船舰炸毁。 
+　　任务成功，进入任务10.1。任务失败，GAME OVER。  
+
+任务9.12.1 
+　　这里有三个任务，你可以自由选择顺序，分别是： 
+　　(1) 摧毁工厂，护送DEKKER到兵工厂后离开。 
+　　(2) 抢夺隐形战机。 
+　　(3) 攻击敌人母舰。 
+　　无论任务成功与失败，都将进入任务9.12.2。 
+
+务9.12.2 
+　　当你进行将DEKKER送入敌人船舶的任务时，SOSA忽然告诉你，正在执行另一项任务的CATSCRA TCH有危险，现在你面临的抉择是继续完成任务还是救援CATSCRATCH。 
+　　不救援，全力攻击对方敌机，将DEKKER送入敌人船舶中。无论任务成功与失败，都将进入任务 9.12.3第二任务。救援，将THUNDERBOLTS击落后再将敌人所有运输舰消灭。无论任务成功与失败，都将进入任务9.11.3任意一任务。 
+
+任务9.12.3 
+　　和技师PLIERS交谈，可选择回答： 
+　　I COULD USE THE EXTRA FIREPOWER. 对你印象变好。 
+　　I GOT A NEED FOR SPEED. 对你印象变差。 
+　　和PANTHER、HAWKH交谈，可选择回答： 
+　　THERE’S ALWAYS HOPE... PANTHER对你印象变好。HAWK对你的印象变差。 
+　　WE DIE TRYING... HAWK对你的印象变好。PANTHER对你印象变差。 
+　　第一任务： 
+　　将CONFEDERATION船舰消灭。 
+　　第二任务： 
+　　保护抢到战机的飞行员，并将DEKKER护送到另一艘船舶中去。 
+　　任务成功，进入任务10.1。 
+　　任务失败，GAME OVER。  
+
+任务10.1 
+　　和技师PLIERS交谈，可选择回答： 
+　　LET ME AT THESE BABIES. 对你印象变好。 
+　　THEY COULD BE DEATHTRAPS. 对你印象变差。 
+　　你的任务是护送DEKKER到FT957号星球，以便调查该地发出的奇异信号。 
+　　任务成功，进入任务10.2。 任务失败，GAME OVER。  
+
+任务10.2 
+　　你的任务是将两架DRAGON战机消灭掉，以确保跳跃行动的正常进行。 
+　　任务成功，进入任务10.3。任务失败，GAME OVER。  
+
+任务10.3 
+　　采用隐形技术回到INTERPID上，对BLACK LANCE FORCE可使用TORPEDOES。 
+　　任务成功，进入任务11.1。任务失败，GAME OVER。  
+
+任务11.1 
+　　和PANTHER、HAWK交谈，可选择回答： 
+　　PANTHER RIGHT... PANTHER对你印象变好。HAWK对你的印象变差，执行护航任务。 
+　　HAWK RIGHT... HAWK对你的印象变好。PANTHER对你印象变差，执行歼灭任务。 
+　　任务成功，进入任务11.2。任务失败，GAME OVER。  
+
+任务11.2 
+　　你收到INTERPID的求救信号，你的任务是将攻击INTERPID的所有敌人全部消灭。 
+　　任务成功，进入任务11.3。任务失败，GAME OVER。  
+
+任务11.3 
+　　在EISEN的支援下，你和战友并肩奋战，将所有敌人战机全部摧毁。 
+　　任务成功，进入任务11.4。任务失败，GAME OVER。  
+
+任务11.4 
+　　你得用FLASHPAK摧毁VESUVIUS，如果FLASHAK已经使用， 那么只能尝试钻入敌人VESUVIUS的内部进行攻击。 
+　　任务成功，进入任务11.5。任务失败，GAME OVER。  
+
+任务11.5 
+　　为了揭穿TOLWYN的虚假面具和险恶用心，你必须代表自由的战士赶往星际会议中心，但路途上敌人一群DRAGON战机在拦截你，你必须将他们全部消灭。 
+　　任务成功，进入任务11.6。任务失败，GAME OVER。  
+
+任务11.6 
+　　最后的任务是文字题： 
+　　TOLWYN：IF THERE IS A CANCER AMONGST US,LET US CUT IT OUT: 
+　　SEIZE THE MOMENT PALADIN. 大会让你发言。 
+　　CAREFUL FOOLS RUSH IN... 游戏GAME OVER。 
+　　TOLWYN：HARMONY IS MAINTAINED THROUGH CONTROL。 
+　　正确的回答：HE’LL TRIP HIMSELF UP. 不正确的回答：HE’S MAD WITH POWER. TOLWYN：EFFECTIVE SOLDIERS REQUIRE EFFECTIVE TOOLS。 
+　　正确的回答：LIKE BIOWEAPONS? 
+　　不正确的回答：LIKE SECRET,UNMARKED FIGHTERS? 
+　　BLAIR：THE SKIES ARE FULL OF CRIMINALS,AREN’T THEY? 
+　　正确的回答：TELL THEM MORE... 
+　　不正确的回答：ATTACK TOLWYN. 
+
+　　最后，祝你在这声光奇幻的未来世界中旅途愉快。 
+

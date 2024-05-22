@@ -1,0 +1,5 @@
+Centipede
+
+在游戏中按住L + R + A + B + X + Y，并且旋转
+Analog-stick。如果输入正确，就会出现"Get a 
+life"或"All levels"（为选关提供的）

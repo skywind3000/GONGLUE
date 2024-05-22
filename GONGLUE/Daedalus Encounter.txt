@@ -1,0 +1,9 @@
+Daedalus Encounter
+
+选景色：
+将光标移动到“Game Option”上，输入[Alt] + [F5]，
+选择“Jump to”选项来选择景色。
+跳过谜题：
+游戏中输入[Alt] + [Shift]，然后输入谜题的第一个
+字母（注：Orbit谜题应该输入[Alt] + [Shift] + I） 
+

@@ -1,0 +1,18 @@
+地狱门
+
+在启动游戏时加上参数YOKI， 
+例如： C:\Program Files\智冠科技股份有限公司\地狱门\Game.exe yoki 
+进入游戏按 Enter键会出现一个可输入密技的对话窗： 
+
+FIGHT =无敌 
+MAGIC =可学得全部的魔法,使用不扣妖力值 
+RAISE #=各主角升级一次 (#为要加的级数) 
+GETOBJ # =得到物品 (#为物品编号) 
+GOLD #=得到金钱 (#为要加的数目) 
+FOG =迷雾开关 
+MAP =游戏地图 
+SETEVEN =设定事件 
+VIEWEVEN =观察已设事件 
+VIEWMSG =观察讯息流向 
+BUY #=买卖系统测试 (#为要测试的项目) 
+

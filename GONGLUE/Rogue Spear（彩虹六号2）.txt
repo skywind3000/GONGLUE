@@ -1,0 +1,8 @@
+Rogue Spear（彩虹六号2）
+
+按下;然后输入:
+
+teamgod 所有队员进入上帝模式
+playergod 所选队员进入上帝模式
+5fingerdiscount 加满所有弹药和物品 
+explore 探测模式

@@ -1,0 +1,29 @@
+Sub Culture
+
+在游戏中输入以下密码
+bedlk 无敌
+billy 加速
+colours 到第5关
+cotton 到第2关
+delicates 到第3关
+didit 过关
+dryer 到第1关
+halfload 到第6关
+haveall 可执行所有任务
+havesome 可执行部分任务
+imnotluc 无敌
+kamikaze 自杀
+mutant 防辐射
+refill 护甲加强
+rinse 到第0关
+tick 测量器
+tonka 装甲加强
+tumble 到第4关
+wonga 加钱
+scotty 传送到某地(输入后,游戏会暂停,再按地名即可移动到那里)
+地名如下：
+Touka   Boot   Flats    Beluga    Knob     Anchor    Velcova    Arch      Outlet2
+Tryton   Pipe    Outlet3    Aquatraz    Volcano   Pipe2   Refinery   Cave
+Bucket   Ribs   Tunnel   Outlet   Wood    Can   Limpet   Abyss    Cleft
+
+

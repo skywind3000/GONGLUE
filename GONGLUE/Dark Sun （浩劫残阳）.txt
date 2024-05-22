@@ -1,0 +1,8 @@
+Dark Sun £¨ºÆ½Ù²ÐÑô£©
+
+Use DSUN -K911 to start the game to enable cheat keys:
+[T] - Raise level
+[M] - Restore all magic
+[Alt]-[F2] - Increase attack power
+[Alt]-[F4] - Learn all spell
+

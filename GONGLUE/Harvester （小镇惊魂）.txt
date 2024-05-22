@@ -1,0 +1,11 @@
+Harvester （小镇惊魂）
+
+BOSTON STRANGLER：传送到小屋第2层
+BRUCE：战斗中无敌
+CHARLES MANSON：传送到小屋第3层终点
+DUSTIN：传送到小屋底层
+HELTER SKELER：传送到小屋第3层
+MURDERER：得到所有武器
+NICK：生命力恢复
+SON OF SAM：得到所有物品
+

@@ -1,0 +1,14 @@
+SimCopter（模拟直升机）
+
+按下Ctrl+Alt+X启动作弊模式，键入如下的内容：
+
+I’m the CEO of McDonnell Douglas:让你得到1至9种的直升机，如果全部按下会得到所有的直升机。
+
+Warp me to caree:x(x的取值0到30)：让你到其它的城市（只能在career games模式下使用）。
+
+Been there,done that:完成任务。
+
+Gas does grow on trees：给直升机加满油。
+
+Give me bucks or give me death:x(x的取值在0到50000)：加满线，如果x的取值超过50000，那么等待你的将是shutdown??死机。
+

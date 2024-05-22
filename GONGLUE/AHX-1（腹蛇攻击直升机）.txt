@@ -1,0 +1,9 @@
+AHX-1（腹蛇攻击直升机）
+
+在LOGIN画面时输入 VIPER =启动密技
+alt键 + I =无敌
+alt键 + L =武器
+alt键 + R =修复
+alt键 + X =自杀
+alt键 + Q =更改飞行模式
+alt键 + A =雷达显示所有目标

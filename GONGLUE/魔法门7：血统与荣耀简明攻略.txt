@@ -1,0 +1,366 @@
+魔法门7：血统与荣耀简明攻略
+
+罗后强提供
+
+兵种特性
+◆骑士（Knight）
+作为大陆上最强大的战士，却对魔法一无所知。相对其它兵种而言，骑士具有更高的生命值与生命发展潜能，所以在战斗中他总能战斗到最后的一刻。他们刚开始都装备有长剑（Sword）与皮甲（Leather），另外两种应该具有的技能是ArmsMaster与Shield（盾牌）或BodyBuilding（健身术）。在基本能力中，骑士应以Might、Accuracy、Speed以及Endurance等基本能力为主。现列出骑士所能学会的技能如下：
+
+
+Normal          Expert          Master          GrandMaster
+Disarm          Staff           Axe             Sword
+Trap            Dagger          Mace            Plate
+learning        Bow             Leather         Spear
+                Unarmed         Chain           Shield
+                Dodge                           BodyBuilding
+                Perception                      Repair item
+                Merchant                        ArmsMaster
+                                                Blaster
+◆盗贼（Thieves） 
+盗贼唯一值得骄傲的技能是其祖师级的开锁技能，另外的特技便是其本行“偷盗”。盗贼可以学会一些魔法，但相对而言，他的战斗力更强一些。盗贼都会Dagger和Stealing，另外两种盗贼应该掌握的技能是Disarm和Perception或Identify item。盗贼会以下技能：
+
+
+Normal          Expert          Master          GrandMaster
+Shield          Bow             Sword           Dagger
+Fire            Mace            Dodge           Leather
+Water           Unarmed         Perception      Disarm
+Body            Chain           Merchant        Trap
+Dark            Learning        Identify item   Stealing
+Light           BodyBuilding    ArmsMaster      Blaster
+Repair item     Alchemy
+◆僧侣（Monk）
+僧侣是最伟大的徒手素身斗士，在战斗中赤手空拳比装备武器和装甲更具威力，僧侣最应具有的能力是Might、Accuracy、Speed和Endurance。他们具有的初始技能是Dodging和Unarmed，另两样应掌握的技能是ArmsMaster和BodyBuilding。僧侣所能学得的技能依据与他们从事与黑暗或光明，以下为僧侣的技能，（E）为邪恶，（G）为善良。
+
+
+Normal          Expert          Master          GrandMaster
+Bow             Sword           Leather         Staff
+Spirit（E）     Spear           Disarm          Unarmed
+Mind（E）       Dagger          ArmsMaster      Dodge
+Body（E）       Spirit（G）                     Learning
+Stealing（G）   Spirit（G）                     BodyBuilding
+                Body（G）                       Blaster
+                Stealing（E）
+                Disarm（G）
+                Perception
+                Identify monster
+◆游侠（Paladin）
+游侠是一种很好的选择，因为他们不但精通于好几项战斗技能，也擅长于一些魔法，正因为这些魔法，我个人认为游侠比骑士更具吸引力。游侠首先应长于Might、Speed和Accuracy，另外Personal也是必不可少的。游侠的基本技能是Mace和Spirit，另两样应选择的技能是Leather和Repair Item。同样的，游侠的技能也依据于他们选择的方向：
+
+
+Normal          Expert          Master          GrandMaster
+Staff           Axe             Sword           Mace
+Unarmed         Spear           Plate           Shield
+Dodge           Dodger          Spirit          Repair item
+Dark（E）       Bow             Mind            Blaster
+Light（G）      Leather         Body
+Perception      Chain           BodyBuilding
+Learning        Merchant
+                Meditation
+                ArmsMaster
+◆弓箭手（Archer） 
+弓箭手有一样不容忽视的技能：恐怖的祖师级的Bow，弓箭手擅长于远程攻击，同时也擅长于元素魔法。弓箭手最重要的能力是Accuracy，Intellect和Speed也是必不可少的。他们的初始技能是Bow和Air，他们的另二项技能最好选择Spear和诸如Air或Water等元素魔法。下面是他们可学习的技能：
+
+
+Normal          Expert          Master          GrandMaster
+Staff           Sword           Spear           Bow
+Unarmed         Axe             Leather         Chain
+Dark（E）       Dagger          Fir             Perception
+Light（G）      Merchant        Water           Blaster
+                Meditation      Air
+                BodyBuilding    Earth
+                Repair item     Learning
+                ArmsMaster
+◆浪人（Ranger）
+浪人可以学习除了Light和Dark以外的所有魔法，并且弓箭和战斗也毫不逊色。他们还可以学会所有的流浪技能。重要的基本属性有Might和Accuracy，为了学习魔法，Personal和Intellect也是必不可少的。浪人都会Air和Perception，Bow和Identify Monster是另两个值得学习的技能。以下为浪人可能学会的技能：
+
+
+Normal          Expert          Master          GrandMaster
+Staff           Sword           Bow             Axe
+Unarmed         Spear           Leather         Identify Monster
+Merchant        Dagger          Chain           Blaster
+Meditation      Shield          Perception
+Identify item   Dodge
+Repair item     Fire
+Alchemy         Air
+                Earth
+                Water
+                Body
+                Spirit
+                Mind
+                Disarm
+                Trap
+                Learning
+                BodyBuilding
+                ArmsMaster
+                Stealing
+◆牧师（Cleric）
+虽然对元素魔法一无所知，但那些奇妙的治疗技能却是牧师的专利，根据您的选择，牧师还可以学会Dark或Light魔法。同时，牧师也有一定的战斗力。Personal对牧师是最重要的，另外Might和Accuracy也极为重要。牧师都会Mace和Body，也许选择Spirit和Learning是明智的选择。
+
+
+Normal          Expert             Master          GrandMaster
+Staff           Bow                Mace            Spirit
+Body            Leather            Shield          Body
+                Chain              Learning        Mind
+                Perception         Meditation      Dark（E）
+                Identify monster   Repair item     Light（G）
+                Alchemy                            Blaster
+◆德鲁依（Druid） 
+德鲁依作为可以学会最多魔法的兵种，是一种不错的选择。同时祖师级的Alchemy也是德鲁依的独门技能。虽然不大擅长于战斗，德鲁依仍有祖师级的Dagger。良好的Intellect和Personal对德鲁依很重要。他们的初始技能是Dagger和Earth，也许，你应该选择Body和Meditation为另外两项技能。
+
+
+Normal          Expert             Master          GrandMaster
+Staff           Mace               Dagger          Meditation
+Bow             Leather            Fire            Alchemy
+ArmsMaster      Shield             Air             Blaster
+                Perception         Water
+                Merchant           Earth
+                Identify item      Body
+                Identify monster   Mind
+                                   Spirit
+                                   Learning
+◆巫师（Sorcerer)
+很容易便可以明白为什么巫师是在魔法与力量战斗中的获胜者：他们是天生的魔法师，是唯一可以掌握祖师级元素魔法和Light或Dark（依据于你的选择）的兵种。但不幸的是，他们也是最差的战士，所以在战斗中往往是最先牺牲。Intellect和Speed是巫师必不可少的能力。除了Staff和Fire外，你还可以选择Identify Item或Identify Monster与Air。
+
+
+Normal          Expert             Master          GrandMaster
+Bow             Dagger             Staff           Fir
+Merchant        Leather            Learning        Air
+                Perception         Meditation      Water
+                Repair item        Alchemy         Light（G）
+                                                   Dark（E）
+                                                   Identify item
+                                                   Identify monster
+                                                   Blaster
+
+简明攻略
+
+◆骑墙攻略：
+    我和我的朋友们被船送到了小岛上，这就是我们发达的源地了，也许这也会是我们的墓地。一踏上小岛，迎面走来一位女士，她是我们的向导，将陪伴我们在岛上的时光。在她的带领下，我们拜见了Hormondale原来的主人，并接受了我们在岛上的任务，也就是我们成为Hormondale的主人的任务。
+
+    在废弃的月亮神庙里，我们得到了地板砖和士兵的帽子，在龙的洞穴里，在龙反应过来之前抢得弓后迅速退出，在海边的女士那儿买了乐器，在后山海边得到海贝并自己配了一瓶红药水后，便结束了岛上的任务，成为Hormondale的主人。（海贝可以从另一女士处买到，帽子可以用红药水和山上的士兵换得）
+
+    不料回Hormondale后，管家告诉我，我的宫殿已经被一群小鬼占领了。这还了得，我与伙伴们冲进大殿，一起开始我们王宫的清洁工作。之后去酒馆接回管家，他告诉我，要重建家园，没有矮人们得帮助是不可能的。
+
+    刚出镇子，发现小鬼们正在大举进攻我的领地，而士兵们正在苦苦支撑。愤怒的我们马上又投入了战斗。消灭小鬼后，从南方的小路我们到达了矮人居住的Stone City。矮人国王同意帮我们重修王宫，但必须先到布兰卡沙漠的红色矮人矿井中救被美都萨石化的工人。
+
+    到达布兰卡沙漠后，冲过狮鹫的包围，我们进入矿井。在和软体动物的战斗后，救下了7个被石化的矮人。
+
+    矮人国王对我的援手表示感谢，并帮我修好了王宫。
+
+    虽然我们的管家看起来很平凡，但却极有眼光，他告诉我，若要在这片动乱的大陆上生存，必须和周围的大国缔结同盟。和矮人的同盟已经完成了，接下来便是和Eithria及Forest的领主同盟。
+
+    同样的，Eithria的女王和Forest的妖精王都同意和我同盟，却也都有任务。女王让我去Forest救一位被囚禁的间谍，而妖精王却让我去女王处偷得一份作战计划。我能做什么呢？两个都是我不能得罪的！没办法，我只有耍两面派，先到妖精王处告诉他女王的计划，得到一个与前间谍酷似的间谍，以到女王处交差。到女王处交差后，又告诉女王妖精王要偷作战计划的计划，得到一份假的计划回去交差。
+
+    接下来就是找Judge来调解他们，不幸的是，当我在Eithria训练结束后，刚一踏上我们国家的领土，一个士兵飞马报告：年迈的Judge不幸去世了，鉴于Eithria和Forest的战争，最后决定由我这个和平者来选择新的Judge。
+
+    但新的Judge有两个：位于布兰卡沙漠的代表光明的候选人和位于Deyja的代表黑暗的候选人。我该怎么办呢？任意选择一个，就代表和另外一个作对！！！
+
+光明之路
+    最终我选择了光明，在布兰卡沙漠的旅馆找到了新的Judge并带到了Judge的大厅。新的Judge一上任便找来女王和妖精王，根据两人的需要，经过调解，重新划定各自的边界，大陆终于又恢复了暂时的和平。Judge对我光明的选择表示高兴，并答应为我打开通往梦中天国Celeste的传送门。
+
+    于是我又踏上布兰卡大沙漠，通过一个传送器我到达了一个位于高山上的传送门旁。当我靠近时，一个声音问我是否要到传说中的天堂：塞勒施特。我当然同意啦，眼前便闪过一片白光，当我清醒过来时，我已经在兰天之上，四周到处都是天使在飞翔。辨认了一下方向，我向宏伟的皇宫走去，在侍卫们的提醒下，我终于见到了天国的领导者加文·曼格鲁施。他首先对我的正确选择表示欢迎，但同时却对我的能力表示怀疑，于是便给我出了一个难题：从Wall of MIST的前门进去，从后门出来。条件是不能杀一个人。为了我心中的理想，为了我子民的幸福，明知道这是一个难题，我还是答应了。
+
+    不料我刚踏近Wall of MIST的前门，便遭到魔法师和灯怪的攻击，无奈之下我只好退了出来。好在加文·曼格鲁施没有规定时间，我便在天国里乱串，顺便也见识一下天国的风情，这个过程中却意外地见到了空气系魔法的终极商店，于是买了一本飞行和隐身的魔法书，刚好我又升级到了Wizard，学会了隐身后，我又进入了Wall of MIST。很幸运，守卫们没有注意我的到来，进入大厅后，我发现正对着我有三个传送门，在大厅的另一面有三个机关，但却被锁上了，那么我的首要任务便是找寻钥匙了。
+
+    我首先从左边的门穿过去，来到了另一个大厅，从魔力神眼中，我发现大厅的中央与四周不是一个整体，也许第一把钥匙便放在这儿。我便先到左边的长廊尽头，把三个机关按下，又来到右边长廊的尽头，将中间一个机关按下，伴随着轰隆的声音，大厅的中央陷下去一块，露出一个箱子。打开箱子，得到了第一把钥匙。
+
+    从传送门回去后，我又从第二道传送门到了一个高台上，跳下高台，我走上墙边的升降器，到了一间小屋，打开箱子，第二把钥匙也到手了。
+
+    第三把钥匙的找寻也很轻松，只需把两边水池的机关按下，正前方就可以出现一个空洞，跳下去后，从箱子里得到最后一把钥匙。
+
+    果然，这三把钥匙就是三个机关的钥匙，打开机关后，在一片轰隆声中，机关后面的墙打开了。
+
+    穿过后门，我又到皇宫去见加文·曼格鲁施，他对我迅速通过Wall of MIST表示惊讶与赞赏，答应让我与天国的大臣们见面。
+
+告别加文·曼格鲁施，我在天国的东面找到了四位大臣，接受了其中三位交给我的任务：
+
+1.从光明圣庙中得到钥匙的一半，再从黑暗神庙中得到另一半。光明圣庙由于和天国是同盟，没有受到刁难便得到了一半（走卫兵允许你走的地方就可以了）。黑暗神庙的另一半钥匙，从大门进去，走到一石桌前，从侧面碰一下，石桌移开，另一半就在里面。 
+
+2.从PIT的魔宫（He Castle Gloaming）中得到Soul Jars。一直走到第二个大厅，上楼，在西方的出口进去可得到Case of Sole Jars。
+
+3.到Tatalia的The Wine Celiai（一间民房）去实行三光政策，即可交差。
+
+    穿过Deyja的地道The PIT Hall，我来到了炼鬼师的大本营PIT。刚进入PIT的领土，便受到炼鬼师和地鬼的攻击。对凶恶的炼鬼师和地鬼没有什么可客气的，经过艰苦的战斗（被打回去好几次），我终于到了黑暗神庙，在艰苦的战斗和探索后，终于得到了另一半钥匙。不想和邪恶军团战斗的我匆匆离开黑暗神庙后，又到了阿基巴德的魔宫，同样是艰苦的战斗和探索，终于完成了所有的任务。（说着轻松，打起来可不是玩的）回天国交差后，得到了第四位大臣的任务：去PIT的一间屋子（The Small House）你杀死一个Tolberti，拿回Cube。到了PIT后，很容易就找到了他，原以为四个打一个很轻松，不料刚一开战，我最勇猛的Knight便被灭绝了，无奈之下，只好取盘再战，好不容易，终于解决了他（第一次见到用枪的）。
+
+    回到天国后，在加文·曼格鲁施旁边一位叫Resurectr的女士教给我Blaster的技巧，并送我一把远古的Blaster枪，让我去Land of Gaints Devel的基地里消灭外星球来的怪兽。在四位大臣中的两位大臣那儿我的Blaster技能升级到Master，再找Resurectr女士升级到GrandMaster。我先到Nighon，通过雷拳山的地洞我来到一个叫Tunnel to Eeobol的通道，在这蜿蜒曲折的通道里，到处都是远古巨兽和美都莎。但光明的力量保佑着我，在远古神兵的强大威力下，远古怪兽一步也靠不近我（在连续射击中，远古怪兽不能行动？！），美都莎也不能和远古神兵对抗。经过长途的跋涉，我终于踏上了Land of Gaints。刚走出洞口，PIT的主人铁拳·阿基巴德出现在我的眼前。原以为要打上一仗，不料阿基巴德是来求我去救他的兄弟铁拳·罗兰德。（我的天，我心目中的英雄，“蠢笨”的罗兰德还活着）并送我一只Blaster。Land of Gaints是一片泰坦巨人和龙的大陆，看来骄傲的泰坦巨人和狂暴的龙都不欢迎我这个不速之客。没办法，我也只好战斗。（注意泰坦巨人的“致死”，个人认为泰坦巨人比龙可怕多了）。
+
+    在消灭龙和泰坦巨人后，我靠近外星人的基地。我不想和门口的守卫纠缠，快速地通过他们（用隐身）进入基地内部。在楼上左边的最后一间屋的笼子里，发现我们可爱的罗兰德王正在脱光衣服荡秋千。救出罗兰德，他给我一把钥匙后便匆匆离开了，我继续进行对外星人的种族清洗工作。下楼后发现刚才可以看见的一条通道打开了，于是继续清洗。在三楼把一个叫Leofonx的魔鬼杀死后便可回天国交差，（交差时有一情节：阿基巴德到女王的宫殿里去请功并希望得到一块陆地，凯瑟琳女王指责他杀了很多人，干了很多坏事，但由于罗兰德国王证实阿基巴德救了他，所以将妖精王旁边的小岛给了他，好狡猾的一箭双雕！）得到最后的任务：在这片大陆上彻底杜绝外星人。我的任务是去Avlee西边的海底找飞船的控制中心，为此我还获得四件潜水服以潜入深海。
+
+    我来到Avlee西边的海上，潜入深海，找到沉没的飞船（不是那架沉船），进入后受到机器怪兽的袭击，消灭这些怪兽后，却发现许多门打不开，便走可以走的地方，一边走，一边打，一边听着机器烦躁的声音，到走不动时就往回走，却发现打不开的门可以打开了，就这样见兽打兽，竟让我找到了控制中心（水晶状）。回到天国后，就可以看到爆机画面了。
+
+黑暗之路
+    看够了Eithria和Forest这些所谓的英明和仁慈的统治者的丑恶嘴脸，我决定选择为了强权而不择手段的炼鬼师族的Judge。在Deyja的旅馆里，我找到了我要找的人，并把他带到了Judge的行政大厅。这时贪婪的Eithria和Forest的统治者们都来了，只为了各自更多的土地，更多的税收，他们在Judge的大厅里就吵闹开来，继而两个国家为了各自的利益，发动了全面的战争，结果自然是血流成河，尸横遍野。这些丑陋的伪善更加剧了我去找Archibird的决心。
+
+    在Judge的指导下，我从Deyja的The Hall of PIT到了PIT，在他的宫殿里找到了他。他对我英明的选择表示欢迎，但作为一员反伪善的战将，他对我的实力表示怀疑，让我先通过一个实验。他是对的，没有实力，哪儿来的统治呢？他让我从The Bleeding Zone的前门进去，从后门出来。
+
+    来到The Bleeding Zone，我一路的战斗，把那些没有生命的怪物杀死后，从后门回到了PIT。Archibird对我的快速通过表示惊讶，也同意我去见他的四个大臣。在西南角我找到了他们，并接受了三位大臣的三个任务：
+1.在光明神庙和黑暗神庙各找到一块Altar Piece。黑暗神庙因为和我同盟，并没有受到刁难。另一块在光明神庙，我刚踏上Celeste，就无端受到魔法师的攻击，而那些以善良和感化而闻名的天使也把我当作攻击对象。无奈之下我只好还手，到了光明神庙前，为了不多杀生，我只好隐身而入，沿着大路，来到一大厅，大厅的中央是一个四角星，周围有三组开关，把他们都按下后，我刚碰了一下中央的星，我的前方就出现了一个秘门，在里边的箱子里，我得到了我的目标！ 
+
+2.清理位于Forest的Clanker实验室并关闭机关。关键在于一间书房里靠右边的小角有一开关可打开秘门，来到一石条门前，在左边按下机关打开门，进去按下机关即可。 
+
+3.在Nighon Tunnel中Warlock的书库里把灵魂罐抢出来。
+
+    完成后第四个大臣给了我最后一个任务：去Celeste东边的小屋里杀死一个用枪的人，把他的Cube抢回来。
+
+    任务完成后，可学会Blaster，就在PIT旁边的屋子升级到Master，再去宫殿里找PIT的新领主Kastore，可学会GrandMaster的Blaster，并接到一个新的任务：让我去Land of Gaints，Devil的基地里消灭外星球来的怪兽。
+
+    我先到Nighon，通过雷拳山的地洞我来到一个叫Tunnel to Eeobol的通道，在这蜿蜒曲折的通道里，到处都是远古巨兽和美都莎。但黑暗的力量保佑着我，在远古神兵与黑暗魔法的强大威力下，远古怪兽一步也靠不近我（在连续射击中，远古怪兽不能行动？！），美都莎也不能和远古神兵对抗。经过长途的跋涉，我终于踏上了Land of Gaints。刚走出洞口，PIT的主人铁拳·阿基巴德出现在我的眼前。他给了我另一把枪，并让我去把他的兄弟罗兰德·铁拳救出来。
+
+    在Land of Gaints里，到处都是龙和泰坦巨人，不过对我来说，我无所畏惧，一连十二个末日风暴（一边还得治疗自己），大陆上就没剩什么生命了。（不然泰坦巨人的“致死”和Devil的“流星雨”可能让你吃不了兜着走）。
+
+接下来对外星人基地的任务与光明之路一致。
+
+魔法升级
+
+
+Normal Expert                       Master                    GrandMaster
+Air    Forest（－17330，－17276）   Avlee（17980，19189）     Desert（8136，15850）
+Water  Forest（－18329，－16583）   Nighon（－584，－13166）  Hormondale（－15326，4196）
+Fire   Forest（－15658，－17204）   Hormondale（7315，8945）  Erathia（21482，16467）
+Earth  Hormondale（－12354，－6202）Forest（－13538，－13364）Deyja（－17862，－4274）
+Body   Eirathia（－13969，9361）    Tatalia（9905，－11877）  Avlee（－8591，14886）
+Mind   Eirathia（－13781，10322）   Avlee（15593，18319）     Tatalia（－502，－4429）
+Spirit Tatalia（86，－5140）        Erathia（21479，16028）   Forest（－14667，－13320）
+Light  Desert（14420，－18419）     Celeste（4664，7678）     Castle lambent（－3453，12730）
+Dark   Deyja（7014，－11469）       Pit（3388，－7940）       Pit（castle gloaming）
+另：远古兵器的升级地点视你选择的光明或黑暗系而不同，地点为Expert、Master在四个大臣中的两个处，GrandMaster在宫殿内部。
+
+魔法学习
+
+
+Magic     Normal         Expert          Master             GrandMaster
+Air       ＊             Harmondale      Forest             Celeste
+Earth     Harmondale     Forest          StoneCity          Pit
+Water     Harmondale     Forest          Desert             Evenmorn
+Fir       ＊             Harmondale      Forest             Nighon　
+Body      ＊             Hormondale      Eirathia           Avlee
+Spirit    ＊             Harmondale      Deyja              Eirathia
+Mind      Hormondale     Eirathia        Tatalia（旅馆楼上）Avlee
+Light     Desert         Desert          Desert             Celeste
+Dark      Deyja          Deyja           Deyja              Pit
+注：＊为你初始时的小岛 升级任务
+一、初级转职
+1.Knight→Cavalier
+接受任务：Erathia
+任务完成：将位于Borrow Down的Haunted Massion的不死怪物全部杀死，注意在楼上有一秘门，只有把里面的全杀死才行。机关在靠左边第一队书架。
+
+2.THIFE→Rogue
+接受任务：Erathia的下水道里找William lasker
+任务完成：去Tatalia偷
+
+3.Monk→Initiate
+接受任务：Harmondale
+任务完成：去Borrow Down的墓地里找Lost Meditation，在一间叫TOMB的屋子里，具体走向如下表，虽不全，但足可找到TOMB。另在Ⅱ可找到Hormondale神庙里需要的Latern of light。
+
+
+房间          左上        左下        右上         右下
+Ⅻ            ⅪⅤ        Ⅳ          Ⅴ           Ⅲ
+Ⅵ            ⅩⅢ        TOMB＊      Ⅺ           Ⅰ
+Ⅰ            Ⅺ          Ⅵ          Ⅴ           ⅩⅤ
+ⅩⅤ          ⅤⅢ        ⅪⅤ        Ⅳ           Ⅰ
+Ⅴ            Ⅱ＊        Ⅰ          Ⅸ           Ⅻ
+ⅤⅢ          ⅪⅤ        Ⅲ          ⅩⅤ         ⅩⅢ
+注意：左上为左边拉杆在上边，走左方通道。其余同理。
+
+4.Paladin→Crusader
+任务接受：Erathia
+任务完成：去Tatalia北方雪山下的洞里杀死龙。
+
+5.Archer→Warrior Mage
+任务接受：Avlee
+任务完成：在布兰卡沙漠矮人的洞穴里，下层里最右边洞的尽头，有一机关，碰一下绳子消失后迅速离开洞穴。（游戏时间一小时内）
+
+6.Ranger→Hunter
+任务接受：Tularean Forest（在高台上靠北方的一高柱子房子）
+任务完成：去Avlee村庄西北方山下的洞穴里，围着土堆转上两圈，即可看到一口子打开，进去可遇到妖精王，谈话即可。
+
+7.Cleric→Priest
+任务接受：Deyja西北方的村庄里。
+任务完成：Tatalia西方小岛上，有一洞穴（小岛上只有一武器店和一盔甲店）。进去后，在船的船舱里地洞左边墙上可以打开秘门。
+
+8.Druid→Great Druid
+任务接受：Tularean Forest马房旁。
+任务完成：在Tatalia、Avlee、Evenmorn的三个石柱群触摸一下即可。（去Evenmorn之前需先完成任务7)。
+
+9.Sorcerer→Wizerd
+任务接受：布兰卡沙漠School of Sorcerer
+任务完成：（1）在布兰卡沙漠马房后走廊下；
+（2）在Tatalia的小岛上（任务7的小岛）；
+（3）在Avlee西方的小岛上（有许多水元素）；
+（4）在Barrow Down的一个桥的尽头；
+（5，6）在Deyja北方和东南方沙漠上各有一个。收集完毕后在Golem头像上连点六下即可。 
+
+二、光明转职
+1.Cavalier→Champion
+任务接受：布兰卡沙漠
+任务完成：完成5次Knight的挑战，周末在布兰卡沙漠的马房乘车。
+
+2.Rogue→Spy
+任务接受：布兰卡沙漠
+任务完成：从位于Deyja的Guard Six的前门进去，从另一道偏门出来。 
+
+3.Initiate→Master
+任务接受：同一级转职。
+任务完成：到Avlee的西南角的The Temple of Bea里，从东边的环行梯下去（别跳，也别乘自动梯），直往前走，到一有楼梯与蜘蛛的大厅，杀光里面的生物即可。
+
+4.Crusader→Hero
+任务接受：Erathia（同前）
+任务完成：去Deyja南方的村庄最右边的屋子里救一少女，注意杀死士兵后可在其身上得到一钥匙，在楼上左边的房间一碰即可救出少女。
+
+5.Warrior Mage→Master Archer
+任务接受：Harmondale
+任务接受：在Avlee的Titan’s Stronghold找到一把弓（在左边一没人守的大厅里），注意实力哦。
+
+6.Hunter→Ranger
+任务接受：布兰卡沙漠
+任务完成：先去Forest东南方的小岛上找老树精谈话，然后去Tatalia北方的村庄The Mercenary Guild中得到树心，再回去与老树精谈话后回去交差即可。
+
+7.Priest→Priest of Light
+任务接受：Celeste（天上）东方
+任务完成：从Desert乘船到Evenmorn的月亮神庙中，直接走到大厅（不用上楼）去毁坏祭坛。
+
+8.Great Druid→Arch Druid
+任务接受：同第一次转职
+任务完成： 先去Stong City下边的Nighon Tunel中找到头骨，然后去Borrow Down的墓地里找Lost Meditation，在一间叫TOMB的屋子里，碰一下石棺后回去交差。（石棺在直接往前走的密室里）
+
+9.Wizerd→Arch Mage
+任务接受：同第一次转职
+任务完成：在PIT的The Bleeding Zone，需从桥边跳下去，沿地道到一有水池的屋子，在你的对面，有一秘门，找到一间迷宫一样的屋子，你的书就在里面。（北方的机关打开南方的秘门，南方的机关打开北方的秘门，书就在那儿）
+
+三、黑暗转职
+1.Cavalier→Black Knight
+任务取得：Eithria
+任务完成：到妖精王的宫殿，在左边的宫殿图书馆对门的门旁边按一下空格，可以出现一个地道，进去消灭所有的人就可以了。
+
+2.Rogue→Assassin 
+任务取得：Deyja北方的村庄。
+任务完成：去天国杀一位叫Eleonar Carmine的女士，然后到Judge哪儿去拿一把匕首。
+
+3.Initiate→Ninja
+任务取得：PIT
+任务完成：先到布兰卡沙漠得魔法师学校，然后到Eithria，沿着河向南走，在左手边可以发现Hiden Tomb，开关得顺序是“北、东、南、西、中”，也就是“上、右、下、左、中”，点击开关后石门打开，可进入坟墓，在棺材里拿回忍者的面具。
+
+4.Crusader→Villain
+任务取得：Deyja南方的村庄。
+任务完成：去女王的城堡，在左手边一间平时上锁的屋子里可以绑架一位女士，把她带走。
+
+5.Warrior Mage→Sniper 
+任务取得：Avlee第一次任务取得处。
+任务完成：到Avlee的Titan’s Stronghold去取得Pefect Bow。没有什么迷宫，只有打仗的难度。
+
+6.Hunter→Bounty Hunter 
+任务取得：Forest，同第一次转职。
+任务完成：取得猎屋奖赏并获得金钱10000。
+
+7.Priest→Priest of the Dark
+任务取得：Deyja北方的村庄
+任务完成：到Evenmorn的太阳圣庙中，把大厅中的圣坛毁坏。进门后直往前走，圣坛在第二个大厅中央。
+
+8.Great Druid→Warlock
+任务取得：Nighon南方的村庄。
+任务完成：从The Lad of Gaint北方雪山的The Dragon Caves进去，在洞的尾端得到龙蛋。龙穴中大约有6、7条龙。
+
+9.Wizard→Lich
+任务取得：PIT
+任务完成：到天国的The Wall of MIST中得到四个灵魂罐，走法同光明系同盟任务。
+

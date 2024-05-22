@@ -1,0 +1,9 @@
+Starfleet Academy
+
+1.在第七个任务中的第一个战役完成后,到基地的传输机中按I,然后输入
+"****TIBERIUS"就可以重装光子.
+2.在Omega 12-300中输入"$PUNISH"可以加强光子能量
+3.在END GAME附近的地方输入"MERCURY"可以杀掉romulan
+4.输入"$->me!"可以杀掉smugglers den上的sherak
+5.在基地的系统中输入"KNAT ATTACK",可以进入隐藏关
+

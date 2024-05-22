@@ -1,0 +1,16 @@
+七国演义2
+
+在游戏中输入!!!@@@###后,再输入下列密码:
+
+Ctrl+B = 建筑立刻完成
+Ctrl+C = Cash and life points (+1000 each)
+Ctrl+M = 显示地图
+Ctrl+T = 科技升级
+Ctrl+U = 英明君主
+Ctrl+Z = 快速建筑模式
+Ctrl+\ = 食物+1000
+Ctrl+/ = Add 1000 life points
+Ctrl+; = 城市人口+10
+Ctrl++ = Seat of power full pray point, tower of science full pray point, full spy skill
+Ctrl+! = Increase fryhtan battling score by 10
+

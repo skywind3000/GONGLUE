@@ -1,0 +1,51 @@
+Dungeon Keeper 2（地下城守护者2）
+
+在游戏中输入这些密码前，先按下CTRL+ALT+C键：
+
+给钱 show me the money
+
+显示地图 now the rain has gone
+
+所有手下升到10级　 　feel the power
+
+获得所有房间 this is my church
+
+获得所有门、陷阱 fit the best
+
+获得所有魔法 i believe its magic
+
+获得本关的胜利 do not fear the reaper 
+
+ha ha thisaway ha ha thataway 加+100,000魔法力(用在最新的版本上) 
+
+一个小bug:
+　　在一个特定的情况下可以搞出一个影子小鬼！敌人看不见他，他可以把地板铺到敌人的任何地方，还可以破除任何机关！
+条件是要有8级以上的小鬼，在他用瞬间转移时从怪物栏里把所 
+有的小鬼抓起来，如果时间正好的话，他正从某处消失，在别出还没现出来，这时你的手里有所有的小鬼，但你的地板还是在铺，对付人特别有用！
+祭品（前面是祭品，后面是效果）
+2 Salamanders         1 Dark Mistress 
+2 Rogues         1 Salamander 
+2 Warlocks         1 Goblin 
+2 Bile Demons         1 Rogue 
+2 Black Knights     1 Vampire 
+1 Salamander + 1 Dark Elf     1 Dark Mistress 
+2 Skeletons         1 Dark Elf 
+2 Wizards         1 Bile Demon 
+1 Skeleton + 1 Troll     1 Bile Demon 
+2 Dark Elves         1 Troll 
+2 Vampires         1 Bile Demon 
+2 Dark Mistresses     1 Skeleton 
+2 Trolls         1 Warlock 
+3 Monks Mana Boost 
+1 Bile Demon + 1 Warlock + 1 Dark Elf Receive Imps 
+2 Dwarves + 1 Dark Mistress Make Safe 
+
+
+选关：
+
+运行dk2.exe，带一个level参数，如：
+dk2.exe -level level10
+
+在游戏安装目录里的\DATA\EDITOR\MAPS\目录你可以看到所有关卡，关卡的名字从Level1 到Level20，每一关有好几个名字，如："level6a" "level6b"
+秘密关卡：secret1 -> secret5 
+

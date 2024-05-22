@@ -1,0 +1,10 @@
+Wheel of Time（时空之轮）
+
+按~键调出控制台，然后输入以下密码：
+god = 无敌
+allammo = 所有枪和弹药
+ghost = 穿墙
+fly = 飞行模式
+walk = 走路模式
+BEHINDVIEW 1 = 第三人称视角
+BEHINDVIEW 0 = 第一人称视角

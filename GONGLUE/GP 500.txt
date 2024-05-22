@@ -1,0 +1,11 @@
+GP 500
+
+在单人游戏画面输入名字的地方输入以下密码： 
+
+!Scooter! = 骑踏板车比赛 
+Ghostriders = 你变成一个幽灵 
+BeamTeam = 新车 
+RedJocks = 穿内衣比赛 
+!Maate! = ??? 
+!Junior! = ??? 
+

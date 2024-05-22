@@ -1,0 +1,19 @@
+Venus the Flytrap
+
+代码：
+JUPITER：时间无限
+PLUTO：弹药无限
+MARS：全部武器
+MERCURY：飞行不受限制
+SATURN：不详？？
+过关密码：
+2 - Mantids
+3 - Cicadas
+4 - Psyllids
+5 - Pierids
+6 - Satyrid
+7 - Lycaenid
+8 - Pyralid
+9 - Noctuid 
+
+

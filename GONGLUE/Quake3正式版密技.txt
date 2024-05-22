@@ -1,0 +1,21 @@
+Quake3正式版密技
+
+（一 ）看所有的动画 
+　　在dos下用命令行启动Quake3 
+　　quake3.exe +seta g_spVideos"\tier1\1\tier2\2\tier3\3\tier4\4\tier5\5\tier6\6\tier7\7\tier8\8" 
+
+　　（二）解开所有的关，使技术水平为1 
+
+　　在控制台输入：/iamacheater 
+
+　　（三）将所有的奖励设为100 
+
+　　在控制台输入/iamamonkey 
+
+　　（四）设置无敌、使用所有武器的方法 
+
+　　在控制台输入/devmap +map 
+　　all weapons: /give all 
+　　god mode : /god 
+
+

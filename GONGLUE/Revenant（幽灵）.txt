@@ -1,0 +1,15 @@
+Revenant（幽灵）
+
+按回车后输入： 
+
+alreadydead 加满血 
+potionsnlotions 得到很多药剂 
+alchemy 钱为999999 
+noamnesia 效果未知 
+nahkranoth 效果未知 
+lookunderthehood 效果未知 
+abracadabra 效果未知 
+spell pouch 效果未知 
+gimmesomegrub 效果未知 
+debug 效果未知 
+potionmix 效果未知

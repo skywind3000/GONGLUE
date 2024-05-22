@@ -1,0 +1,17 @@
+Force21
+
+amazon :没有树木 
+avatar :汽车和建筑物四周环绕黄箱子 
+london :没有云 
+hasselhoff :立刻失败 
+ispy :没有战争迷雾 
+killenemy :消灭所有敌人 
+grid :显示格线 
+chessmatch :雷达全开 
+commanders :关闭指挥官功能 
+stratperspective :改变视角 
+novictory :停止胜利奖励 
+hurt :攻击队伍中第一台车 
+chillout :锁定车辆 
+gameoverman :立即胜利 
+

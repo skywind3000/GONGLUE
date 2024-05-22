@@ -1,0 +1,19 @@
+Sim City 3000（模拟城市3000）
+
+游戏进行中按 [CTRL]+[ALT]+[SHIFT]+[C]，在屏幕左上端会出现一个窗口，在窗口中输入以下英文语句： 
+　
+ 
+i am weak 建筑物、公共设施、区域规划、运输、种树、制造水源，全部不要钱啦！ 
+call cousin Vinnie 会议视窗中会出现一个人，很阿莎力地会给你一些钱。你可以接受也可以拒绝。 
+zyxwvu 必须先使用上一个密码，拒绝他的捐献。然後使用这个密码，奖励选单里面就会出现一座漂亮的城堡。这个城堡不只酷，可让土地价值飙涨，邻近的区域也会得到好处。 
+garbage in, garbage out 可以盖所有的垃圾处理设施
+power to the masses 可以盖所有的电力设施
+water in the desert 可以盖所有的水源设施
+Salt on 将海洋变为咸水 
+Salt off 将海洋变为饮用水 
+Terrain one up 升高地表一层 
+Terrain one down 降低地表一层 
+Terrain ten up 升高地表十层 
+Terrain ten down 降低地表十层 
+ 
+

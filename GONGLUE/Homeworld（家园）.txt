@@ -1,0 +1,85 @@
+Homeworld（家园）
+
+用以下命令为选项启动游戏：（如：c:\homeworld\homeworld.exe /debug）
+
+/debug 打开调试窗口
+/noSound 关掉声效
+/noSpeech 关掉语音
+/reverseStereo 换掉左右声道
+/noBG 关掉画面背景
+/noFilter 关掉非线性过滤
+/nilTexture 不要材质
+/NoFETextures 关掉字体和材质
+/stipple 打开ALPHA混色
+/noShowDamage 关掉攻击效果
+/noCompPlayer 禁止电脑AI玩家
+/notactics 禁止战术战略
+/noretreat 禁止撤退
+/dockLines -显示船坞线
+/gunLines - 显示弹道
+/lightLines - 显示光线
+/640 - 640x480 分辩率
+/800 - 800x600 分辩率
+/1024 - 1024x768 分辩率
+/1280 - 1280x1024 分辩率
+/1600 - 1600x1200 分辩率
+/d16 - 16 位色
+/d24 - 24 位色
+/d32 - 32 位色
+/captaincyLogOff 打开舰长日志
+/captaincyLogOn 关掉舰长日志
+/demoRecord 录像
+/demoPlay 播放录像
+
+其它：
+/heap - Sets size of global memory heap to [n]
+/prepath - Sets path to search for opening files
+/CDpath - Sets path to CD-ROM in case of ambiguity
+/freemouse - Mouse free to move about entire screen at startup. Use F11 to toggle during play
+/ignoreBigfiles - don’t use anything from bigfile(s)
+/logFileLoads - create log of data files loaded
+/disableKatmai - don’t use KNI even if support is detected
+/forceKatmai - force usage of KNI even if determined to be unavailable
+/waveout - forces mixer to write to Waveout even if a DirectSound supported object is available
+/dsound - forces mixer to write to DirectSound driver, even if driver reports not certified
+/noSmooth - do not use polygon smoothing
+/sw - reset rendering system to defaults at startup
+/fullscreen - display fullscreen with software renderer (default)
+/window - display in a window
+/noBorder - no border on window
+/truecolor - try 24bit modes before 15/16bit
+/slowBlits - use slow screen blits if the default is buggy
+/device - select an rGL device by name, eg. sw, fx, d3d
+/gl - select default OpenGL as renderer
+/d3d - select Direct3D as renderer
+/nohint - disable usage of OpenGL perspective correction hints
+/noPause - don’t pause when you alt-tab
+/noMinimize - don’t minimize when you alt-tab
+/boxes - render bounding bowties on the ships
+/textFeedback - enable text feedback for in game commands
+
+COMPUTER PLAYER AND STATS
+/aiplayerLog - enable AI Player Logging
+/determCompPlayer - makes computer players deterministic
+/gatherStats- enable gathering of stats
+/showStatsFight= to show stats fight i,j
+/showStatsFancyFight=filename.script
+
+NETWORK PLAY
+
+/logOff - turns of network logging file
+/logOn - turns network logging file on
+/logOnVerbose - turns verbose network logging file on
+/statLogOn - generates game stats log file
+/intOnSync - Generates an Int 3 when a sync error occurs
+/syncDump=! X = size of SyncDumpWindow Y = granularity in universe Frames
+/logFilePath=filepath.txt
+/debugSync autosaves game frequently, records packets, logonverbose
+/forceLAN - allow LAN play regardless of version
+/testNIS - enables NIS testing mode using [nisFile]
+/testNISScript - enables NIS testing mode using [scriptFile]
+/packetRecord - record packets of this multiplayer game
+/packetPlay - play back packet recording
+/disablePacking - don’t use the packed textures if available
+/smCentreCamera - centres the SM world plane about 0,0,0 rather than the camera
+/closeCaptioned - close captioned for the hearing impared

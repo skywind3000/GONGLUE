@@ -1,0 +1,58 @@
+横扫千军：王国
+
+在skirmish或多人模式游戏中按[Enter]，然后输入以下密码： 
+　　+atm = 增加1000金属和能量 
+　　+bigbrother = Traces unit/structures in order that they were built 
+　　+bps = 在多人游戏模式中显示数据传输 
+　　+clock = 显示游戏时钟 
+　　+cdstart 或 cdplay = 播放CD音乐 
+　　+cdstop = 停止播放CD音乐 
+　　+combustion = 敌人死亡 
+　　+contour[1-15] = View 3D contour mesh 
+　　+control[0-3] = 控制skirmish的AI 
+　　+dither = Dithering replaces gray line of sight 
+　　+doubleshot = 武器的破坏力加倍 
+　　+halfshot = 武器的破坏力减半 
+　　+ilose = 立刻失败 
+　　+infrared = 战争迷雾 开/关 
+　　+iwin = 立刻胜利 
+　　+kill = 杀死所有部队 
+　　+kill 0-4 = 杀死玩家 0-4 
+　　+light 1000 = Darker structures 
+　　+light = Black structures 
+　　+logo [1-9] = 在skirmish中改变对手的颜色 
+　　+lushee = 有限的资源增加 
+　　+mapping = Cover the screen in black 
+　　+meteor = 随机陨石雨 
+　　+nanolathing = 使用Nanolathing和金属要双倍 
+　　+noenergy = 减少能源 
+　　+nometal = 减少金属 
+　　+noshake = 取消爆炸效果 
+　　+nowisee 或los = 全地图 
+　　+radar = 全雷达 
+　　+shadow = 阴影开关 
+　　+share radar = 共享雷达 
+　　+share metal = 共享金属 
+　　+share energy = 共享能源 
+　　+share all = 共享所有资源 
+　　+shootall = 也射击建筑 
+　　+showranges = Display ranges by holding [Shift] when pointer is over unit 
+　　+sing = 选中的部队会唱歌 
+　　+sound3d = 3D音效开关 
+　　+switchalt = 按[Alt] + [number]转换部队 
+　　+tilt = 最多人数和资源 
+　　+view [0-4] = 显示对手的能量和金属 
+　　+zipper = 快速建造 
+
+　　在挑战模式和多人模式中，按下[Enter]叫出对话窗，输入下列密码： 
+　　+lightrange [1-20]：改变光影颜色 (从 1 到 20) 
+　　+rollingfog：迷雾效果 (需要 3D 加速卡) 
+　　+wackyfog：波浪迷雾效果 (需要 3D 加速卡) 
+　　+quit：离开游戏 
+　　+lotsablood：更血腥 
+　　+nameunit [unit]：更改部队名字 
+　　+f2menu：显示菜单 
+　　+makeposter：抓图 
+　　+vidmode：改变分辨率 
+　　+selectunits：取消选择的单位 
+　　+fogcolor [1-256]：改变战争迷雾的颜色 (从 1 到 256)

@@ -1,0 +1,34 @@
+Q3A1_09中的秘籍
+
+这是Skywalker朋友给大家提供的Q3A中的秘籍，当然这些秘籍在连网时也可以使用，条件是你设服务器端。Skywalker朋友还给大家提供两张抓钩的图片，由于我现在还没用专线所以不便上传太大的图。为了速度，我一般不在首页放图，以后会给大家看的。再次感谢 Skywalker朋友。 
+
+　　首先在控制台（按“~”键，不会有人不知道把^_^）键入 
+
+　　\devmap xxx（xxx为地图名） 
+　　\god 无敌 
+　　\give all 获得所有的武器和弹药 
+　　\give health 增加生命值 
+　　\give armor 增加装甲值 
+　　\give ammo 获得弹药 
+
+　　POWERUPS 
+　　\give Personal Teleporter 获得重生，相当与瞬间转移 
+　　\give Medkit 获得强心针，使用后将血加到100 
+　　\give Quad Damage 加强攻击力 
+　　\give Battle Suit 减少被攻击时的伤害 
+　　\give Speed 加速 
+　　\give Invisibility 影身 
+　　\give Regeneration 加血，自动把血加到200 
+　　\give Flight 飞行 
+
+　　WEAPONS 
+　　\give Grappling Hook 获得飞抓 
+　　进入Team DM方法: 
+　　先在控制台键入 
+　　\seta g_gametype 3 设置游戏为 Team DM 
+　　\seta fraglimit 0 取消杀人人数限制 
+　　\devmap xxx xxx为地图名 
+　　进入游戏后就可在游戏菜单中选择加入红队或蓝队 
+
+　　搜集整理：SKY==JS==
+

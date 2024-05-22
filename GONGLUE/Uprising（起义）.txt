@@ -1,0 +1,20 @@
+Uprising（起义）
+
+1.在通信窗口中键入"M",再输入以下密码:
+$@! : 得到1千万(只能用3次)
+afterlife : 半死
+chump(连续输入两次): 伤害减轻且速度增加
+dangerous : 武器工厂
+samnmax : 可看到sam和max
+tuff ass : 得到强力武器
+2.输入chump后可输入以下密码
+dangerous chump : 无限武器,无敌
+dangerous super chump : 无限武器,加速,无敌
+super chump : 加速,无敌
+tuff ass chump : 强力武器,无敌
+3.输入dangerous super chump后可输入以下密码
+tuff ass dangerous super chump : 无限武器,强力武器,加速,无敌
+4.在战役模式选择画面上
+dread: 过当前关
+nofog: 显示全地图,连续输入两次可以进入所有关
+

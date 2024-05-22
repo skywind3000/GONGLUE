@@ -1,0 +1,13 @@
+Team 47 Goman
+
+按~或F6输入
+owquitit - 退出
+power - 敌人智能下降
+powertie - 血全满
+powerup - 敌人血全满
+tripwire - 自杀
+typewriter - 测试帧数
+youpyro - 敌我转换
+youtwit - 敌我转换复完
+wipeout - 消灭敌人
+

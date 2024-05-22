@@ -1,0 +1,22 @@
+赛普特拉战记
+
+
+
+
+
+　　在游戏中按下‘F12’键后输入下列密码： 
+
+　　enemies＝查看敌人攻击力 
+
+　　sight＝Show Line of Sight 
+
+　　spy＝查看Debug数值 
+
+　　makethemstopmommie＝敌人不攻击 
+
+　　hidetext＝关闭字幕 
+
+　　fps＝显示游戏帧数 
+
+　　mapmaker＝以BMP格式显示地图 
+

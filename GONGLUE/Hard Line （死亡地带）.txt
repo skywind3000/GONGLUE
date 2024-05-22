@@ -1,0 +1,12 @@
+Hard Line （死亡地带）
+
+游戏安装后在C盘根目录下将生成一个名为HARDLINE.CFG的目录，以EDIT打开该目录中的ETUP.CFG文件，在最后加上如下一行字符（注意字母大写及空格）：
+CHEATING IS SOMETIMES USEFUL BUT FOR HOW LONG ???
+存盘之后再进入游戏则具有以下特殊功能键：
+INSERT 加血
+HOME 为使用中的武器增加弹药
+PgUp 为身上携带的武器增加弹药
+X 无敌
+BACKSPACE 敌人全灭
+
+

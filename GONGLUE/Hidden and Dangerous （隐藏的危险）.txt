@@ -1,0 +1,18 @@
+Hidden and Dangerous （隐藏的危险）
+
+在战役选单中输入 unlockcheatmode 打开作弊模式，便可在游戏中输入以下秘技
+zombie＝Type after being killed and you’ll comeback as a zombie（不知所谓） 
+bighead＝大头模式
+killthemall＝敌全灭
+showtheend＝观看爆机动画
+missiondone＝立即过关
+missionfail＝任务失败
+openalldoor＝打开所有的门
+goodhealth＝加血
+allammo＝所有武器、装备
+laracroft＝换上Lara Croft的衣服 
+enemylookf＝观看敌人
+enemylookb＝后脑长眼？？
+playercoords＝展示服装
+noplayerhits＝让你不能开枪射击
+

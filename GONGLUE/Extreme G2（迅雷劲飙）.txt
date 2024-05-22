@@ -1,0 +1,17 @@
+Extreme G2（迅雷劲飙）
+
+在游戏中输入姓名时，输入以下名字：
+
+neutron = 电影"Tron"的场景跑道
+spyeye = 飞船视角
+spiral = 旋转摄像机视角
+nitroid = 无限超高速加速
+misplace = 得到最好的武器
+mistake = 飞弹无限
+xcharge = 无限武器和盾牌能量
+2064 = 未来车
+xxx = 速度增加
+flick = 比赛时只会显示1/4的画面
+pixie = 缩短背景的可视范围
+juggle = Juggle mode
+linear = Wireframe graphics

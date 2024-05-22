@@ -1,0 +1,12 @@
+MageSlayer（魔法杀手）
+
+键入“~”使控制台（console）升起，然后。
+impulse 11 无敌
+ode to jack 干掉所有敌人
+impulse 10 大魔法攻击
+fly 按下跳键飞行
+dir maps 列出等级
+map x “x”为地图名
+impulse 43 自杀
+impulse 69 另一自杀。
+

@@ -1,0 +1,70 @@
+魔法门7
+
+药水配方大法
+Normal Level Potions ... 
+Red Potion = Cure Wounds
+Yellow Potion = Cure Weekness
+Blue Potion = Magic Potion
+
+Red + Yellow = Cure Disease (Orange)
+Red + Blue = Cure Poison (Purple)
+Yellow + Blue = Awaken (Green) Expert Level Potions ...
+Green + Blue = Recharge Item (Green/Blue)
+Green + Yellow = Harden Item (Green/Yellow)
+Green + Red = Bless (Green/Red)
+Green + Orange = Cure Insanity (Green/Orange) 
+Green + Purple = Remove Curse (Green/Purple)
+Orange + Red = Haste (Orange/Red) 
+Orange + Yellow = Stone Skin (Orange/Yellow)
+Orange + Blue = Preservation (Orange/Blue)
+Orange + Purple = Remove Fear (Orange/Purple)
+Purple + Red = Heroism (Purple/Red)
+Purple + Yellow = Water Breathing (Purple/Yellow)
+Purple + Blue = Shield (Purple/Blue) Master Level Potions ... 
+Green/Blue + Orange = Noxious Potion (White)
+Green/Blue + Green = Personality Boost (White)
+Green/Blue + Purple = Swift Potion (White)
+Green/Blue + Green/Yellow = Divine Power (White)
+Green/Blue + Orange/Red = Divine Restoration (White) 
+Green/Blue + Orange/Yellow = Body Resistance (White)
+Green/Blue + Purple/Red = Mind Resistance (White) 
+Green/Yellow + Orange = Cure Paralysis (White)
+Green/Yellow + Green = Intellect Boost (White) 
+Green/Yellow + Purple = Noxious Potion (White)
+Green/Yellow + Orange/Red = Fire Resistance (White) 
+Green/Yellow + Purple/Red = Divine Restoration (White)
+Green/Yellow + Purple/Blue = Water Resistance (White) 
+Orange/Red + Orange = Speed Boost (White)
+Orange/Red + Green = Flaming Potion (White)
+Orange/Red + Purple = Shocking Potion (White) 
+Orange/Red + Orange/Yellow = Divine Cure (White) 
+Orange/Red + Purple/Blue = Air Resistance (White) 
+Orange/Yellow + Orange = Accuracy Boost (White)
+Orange/Yellow + Green = Cure Paralysis (White)
+Orange/Yellow + Purple = Flaming Potion (White) 
+Orange/Yellow + Purple/Red = Earth Resistance (White)
+Orange/Yellow + Purple/Blue = Divine Restoration (White)
+Purple/Red + Orange = Shocking Potion (White) 
+Purple/Red + Green = Freezing Potion (White)
+Purple/Red + Purple = Might Boost (White)
+Purple/Red + Purple/Blue = Luck Boost (White) 
+Purple/Blue + Orange = Freezing Potion (White)
+Purple/Blue + Green = Swift Potion (White) 
+Purple/Blue + Purple = Endurance Boost (White) Grand Master Level Potions ...
+Orange/Yellow + Orange + Green = Pure Accuracy (Black) 
+Green/blue + Green + Purple = Pure Personality (Black)
+Green/Yellow + Green + Orange = Pure Intellect (Black)
+Orange/Red + Orange + Purple = Pure Speed (Black)
+Purple/Red + Purple + Orange = Pure Might (Black)
+Purple/Red + Purple/Blue + ??? = Pure Luck (Black)
+Purple/Blue + Purple + Green = Pure Endurance (Black)
+
+获取经验值的小秘密：
+杀死一个经验值高的怪物之后（例如一条龙），在尸体上投掷麻痹弹（paralyze）以使其重新获得生命， 再次杀死它（救活的龙的生命值很低，很容易就被搞掂）这样你就又一次获得了经验值，重复此方法，就能 获得你所需要的经验值。
+
+从龙那里获得更多的东西
+在开始游戏时，玩家可以从被杀死的红龙那里获得许多东西。在已死红龙的身体上按鼠标（有滴答声）以 得到物品，如果红龙没有从屏幕消失则进行存盘。然后再次单击红龙，再次存盘。如果单击红龙后，龙的尸 体消失了，则读取存盘并再次单击。重复上述步骤多次，直到你认为已经够实力去应战了。
+
+大量金钱获得法：
+当你得到了魔法书之后就去Harmondale（铺头）卖了它，然后去arbiter（仲裁社）并单击“I lost it”，就能重新获得一本。到外边暂且丢掉它，然后再进来重复刚才的步骤又能得到一本。不断重复直到你认为够了时到外边捡回你扔掉的书，留下一本用，其余的全卖掉。（最好和大的贸易商进行交易，能卖个好价）
+

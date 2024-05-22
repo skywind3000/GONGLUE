@@ -1,0 +1,20 @@
+Outlaw
+
+在任何时候都可以输入以下密码
+LA 作用同DARK FORCES。
+LACDS 超级地图模式，按三次回车键可以恢复到原来的正常地图模式
+LADATA 不显示游戏者的地图模式
+LANTFH 用传输口
+LAPOGO 飞行模式
+LAPOSTAL 给你所有的武器和弹药，再输入多一次可以给你更多的 GATLING GUN 的弹药
+LAUNLOCK 给你一些最高级的物品，
+OLAIRHEAD 飞行模式，在这个模式中用“X”键上升，“C”键下降
+OLCDS 超级地图模式。
+OLFPS 显示游戏进行的帧数和BUFFER 信息
+OLGPS 显示游戏者的地图模式
+OLJACKPOT 给你一些最高级的物品，
+OLPOSTAL 给你所有的武器和弹药，再输入多一次可以给你更多的 GATLING GUN 的弹药
+OLZIP 用传输口
+跳关密码：第一只CD ：OLHIDEOUT ；OLTOWN ；OLTRAIN ；OLCANYON
+第二只CD ：OLMILL ；OLSIMMS ；OLMINER ；OLCLIFF ；OLRANCH 
+

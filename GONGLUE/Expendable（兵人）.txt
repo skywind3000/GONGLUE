@@ -1,0 +1,23 @@
+Expendable（兵人）
+
+在游戏时输入：ad astra
+将会获得无限生命
+
+在游戏的快捷方式中加入以下命令：
+-mumford＝Hodspodkins 模式
+-whostayedlate＝Rockhard 模式
+-whostayedlateagain＝EasterEgg 模式
+
+例子：
+"C:\Expend\go.exe" -whostayedlate 
+
+在游戏中先按下小键盘上的 - 再输入下列密码：
+bod＝打开作弊模式
+mrbenn＝跳关
+zippy＝无敌
+bucketofchicken＝后视
+babapapa＝加分
+crystaltips＝加命
+dunky＝进入高分榜
+albertofrog＝手榴弹威力提升
+bing＝关闭作弊模式

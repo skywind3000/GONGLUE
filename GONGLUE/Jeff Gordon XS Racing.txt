@@ -1,0 +1,7 @@
+Jeff Gordon XS Racing
+
+在主菜单中键入“icancheat”，回车后听到一声，然后在汽车
+选择菜单输入以下代码并回车：
+wildone：使用Wraith Car
+widebodyopen：使用X-Wave Car 
+

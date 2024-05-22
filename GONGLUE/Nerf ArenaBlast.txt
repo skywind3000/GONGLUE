@@ -1,0 +1,18 @@
+Nerf ArenaBlast
+
+在游戏中输入“~”，接着输入以下代码：
+god--上帝模式
+allammo--所有的枪都有999颗子弹
+fly--飞行模式
+ghost--穿墙术
+walk--关闭飞行和穿墙术
+open [mapname]--打开地图，地图名如下：AR-Asteroid/
+AR-Barracuda/AR-Luna/AR-Orbital/AR-Sequoia/AR-Sky/
+AR-Tut/Autoplay/Entry/Nerf/Nerf-Plaza/PM-Amateur/
+PM-Asteroid/PM-Barracuda/PM-Champion/PM-Luna/PM-Sky/
+PM-Orbital/PM-Sequoia/PM-Tut/PMX2-Luna/PMX-Asteroid/
+PMX-Luna/PMX-Orbital/RR-Amateur/RR-Asteroid/RR-Luna/
+RR-Barracuda/RR-Champion/RR-Orbital/RR-Sequoia/RR-Sky/
+SH-asteroid/SH-Barracuda/SH-Luna/SH-Orbital/SH-Sky/
+
+

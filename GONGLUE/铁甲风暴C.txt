@@ -1,0 +1,13 @@
+铁甲风暴
+
+在游戏中按Enter，输入
+
+luckybirdT 完成任务
+pitybird 任务失败
+thunderbird 我方生产加速
+magicbird 选中部队无敌
+magicbird 取消无敌 
+richbird 加钱10000 
+tomgog 交电脑托管
+amitofo 选中部队加血
+sunshine 地图全亮

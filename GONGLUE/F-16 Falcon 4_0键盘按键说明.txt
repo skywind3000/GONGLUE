@@ -1,0 +1,96 @@
+F-16 Falcon 4_0键盘按键说明
+
+海底眼提供 
+
+　　这个说明是直接翻译游戏的键盘说明文件的根据经验，这些说明文件都是不全的，有些按键的说明可能会没有。我还没空来玩这个游戏，所以有些地方也翻译的不好大家就瞧着办吧。 ^_^
+
+************ 飞行操作
+Cycle_botLft_MFD = [ 向前调节左下方的显示屏幕的显示模式
+Cycle_uppLft_MFD = SHF [ 向后调节左下方的显示屏幕的显示模式
+Cycle_botRgt_MFD = ] 向前调节右下方的显示屏幕的显示模式
+Cycle_uppRgt_MFD = SHF ] 向后调节右下方的显示屏幕的显示模式
+Break_lock = KP。 持续打开减速板(小键盘的"。"键)
+Open_Speed_brake = SHF b 打开地面刹车
+Close_spd_brake = CTL b 关闭地面刹车
+Cycle_Nav_modes = \ 切换导航模式
+SpeedBrakeToggle = b 打开减速板
+EJECT = CTL e 弹射逃生
+
+************ 战斗
+chaff = x 放出雷达诱饵
+flare = z 放出红外诱饵
+chaff_flare_auto = ALT z 自动放出红外诱饵
+Pickle_weapon = SPC 发射武器
+Fire_gun = / 发射机炮
+Cycle_A-G_weapns = BSP 切换对地武器
+Cycle_A-A_weapon = ENT 切换对空武器
+MRM_mode = m 切换中程导弹工作模式
+Cycle_MSL_hardpt = SHF / 切换导弹的??? 
+Dogfight_OVRD = d 近距格斗模式
+Missile_OVRD = m 导弹攻击模式
+Cancel_OVRD = c 取消近距格斗/导弹攻击模式 
+ACM_10x60 = CTL F8 集束炸弹投弹方式1
+ACM_Boresight = CTL F5 集束炸弹投弹方式2
+ACM_30x20 = CTL F6 集束炸弹投弹方式3
+ACM_Slewable = CTL F7 集束炸弹投弹方式 4
+
+************ 雷达
+Radar_Stand_by = CTL r 雷达关机 
+Designate_target = KP0 设定目标(小键盘"0"键)
+UNCAGE = u 取消目标?
+Cycle_A-G_radar = F2 对地雷达工作模式切换 
+Cycle_A-A_radar = F1 对空雷达工作模式切换 
+Cycle_RDRsubmode = F8 切换雷达工作子模式
+Decrease_rdr_rng = F3 缩小雷达搜索范围
+Increase_rdr_Rng = F4 增大雷达搜索范围
+Freeze_GM_RDR = F10 地形扫描雷达图像暂停
+RDR_Elevation_up = F7 雷达上视模式
+RDR_Elevation_dn = F5 雷达下视模式
+RDR_Elev_CENTER = F6 雷达正常水平模式
+Dec_radar_gain = SHF F3 减少雷达信号接收?
+Incr_radar_gain = SHF F4 增加雷达信号接收?
+Radar_bar_scan = SHF F8 雷达扫描方式?
+Rdr_azimuth = F8 雷达方位角探测? 
+Dec_HSD_Range = F11 减少HSD工作距离?
+Inc_HSD_Range = F12 增加HSD工作距离?
+
+************ 视角
+glance_forward = KPENT 察看前方(小键盘"ENTER"键)
+Padlock_view = 4 察看机舱外面
+Ground_Map_FOV = F9 战场地图观察 
+View_up = KP8 向上看
+View_Down = KP2 向下看
+View_Left = KP4 向左看
+View_Right = KP6 向右看
+Toggle_lights = SCRLCK 灯光调整
+Satellite_view = ` 鸟瞰视角
+Action_view = SHF ` 行动视角
+Hud_only_view = 1 只显示瞄准具
+2-D_cockpit = 2 2-D 的座舱显示
+Virtual_Cockpit = 3 虚拟座舱显示
+Extended_FOV = 5 扩展视角 
+Tracking_view = 6 跟踪视角
+Incoming_view = 7 导弹飞近视角 
+Friendly_view = 8 友军视角
+Weapon_view = SHF 7 武器挂载视角
+Friendly_GD_unit = SHF 8 地面友军目标
+Weapon_TRGT_view = ALT 7 目标视角
+Chase_view = 9 跟踪视角
+Flyby_view = SHF 9 飞行视角
+Orbit_view = 0 盘旋视角
+Manual_picth_ovr = o 人手调整机头显示区域? 
+Toggle_SAB = SHF 3 调整SAB??? 
+
+************ 通信
+AWACS_radio_comm = q 与预警机通信
+Wingman_radio_cm = w 与僚机通信
+Element_radio_cm = e ??无线电通信
+Flight_radio_com = r 飞行控制无线电通信 
+Tower_Radio_comm = t 与地面指挥塔通信
+Tanker_Radio_com = y 与加油机通信
+Radio_Wilco = SHF y 答应接受无线电指示
+Chng_Radio_chanl = ALT y 改变无线电通道 
+Radio_unable = SHF u 无线电关机
+Instr_mode_swtch = i 实时通信模式切换?
+Chat_in_multplay = SHF t 多人游戏交谈 
+

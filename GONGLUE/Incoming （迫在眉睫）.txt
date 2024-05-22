@@ -1,0 +1,30 @@
+Incoming （迫在眉睫）
+
+在主菜单下输入“numbronedacrestreet"可进入另一个隐藏菜单，这样可进入5处隐藏关卡。按住[shift]不放即可输入下列秘技：
+wirewewaiting   去除贴图
+whatsthepoint   将画面变成一些小圆点
+soldasarock   无敌
+flatbroke   没有阴影
+flymetothemoon    进入月球模式
+haveall   得到所有装备
+superdaisy   一炮将全部敌人干掉
+supershoot   一炮将全部敌人干掉
+invunerability   无敌
+infinitelives   无限生命
+infiniteweapons   无限弹药
+masteroftheuniverse   切换贴图
+oldmacdonald   出现跳跃的奶牛
+
+作弊功能键：
+[F2]   瞄准变易
+[F3]   不死
+[F4]   无限生命
+[F5]   弹药无限
+[F6]   强力炸弹
+[F7]   退出游戏
+[F8]   存储当前状况
+[F9]   载入存储状况
+[F10]   等待模式
+[F11]   重新开始游戏
+
+

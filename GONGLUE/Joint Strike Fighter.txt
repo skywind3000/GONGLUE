@@ -1,0 +1,11 @@
+Joint Strike Fighter
+
+在驾驶选择窗口中同时按CTRL+右CTRL+ENTER,就可以使用所有飞机在游戏中按以下键
+ctrl+T+U - 加速
+ctrl+C+O - 取得当前战役的胜利
+ctrl+G+O - 当前战役失败
+ctrl+G+U - 得到导弹
+ctrl+s - 烟幕变色
+ctrl+ctrl+s - 屏幕捉图
+
+

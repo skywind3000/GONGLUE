@@ -1,0 +1,21 @@
+Touring Car Championship
+
+cmcatdog: 下雨的猫和狗
+cmchun: kart车模式
+cmcopter: 飞机视角
+cmdisco: disco模式(仅用于3dfx)
+cmfollow TV: 电影模式
+cmgarage: 新车
+cmhandy: 大手模式
+cmlograv: 低重力模式
+cmmayhem: 让其它车发疯
+cmmicro: 俯视
+cmnohits: 穿越汽车,使你不会撞车
+cmrainup: 下雨
+cmstars: 背景为夜晚
+cmtoon: 卡通模式
+flexmobile: 动后轮驱,使汽车能更好地贴地而行
+tank: 按喇叭向敌人攻击
+xboostme: 虚拟模式
+
+

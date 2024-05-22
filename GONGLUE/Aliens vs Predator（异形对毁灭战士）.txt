@@ -1,0 +1,44 @@
+Aliens vs Predator（异形对毁灭战士）
+
+隐藏的奖金： 
+
+开始新的游戏在难易度的设置屏幕里按“~”，显示控制台然后输入 
+　　RIPLEY_WAS_HERE 
+
+在开始游戏的文件加入以下命令行 -lampcxtr -debug 
+
+　　在游戏中按“~”键呼出对话框然后输入以下的代码。 
+
+　　QUICK SAV 即使存档 
+　　QUICK LOAD 即使读档 
+　　SAVE# / LOAD# “#”范围内是1--8，建立存档文件和读存档文件。 
+　　SAVESLEFT 显示当前难度的所在任务下已存档的次数，这个数字在每 　　　　　　　一次存档和读档时都会显示以下的秘技输入后要加入响应 　　　　　　　的数字，才有效，可以用 
+　　“LIST VAR”查看数字是几 
+　　MOTION TRACKER VOLUME 调节声音大小，1.0为默任最大值,0.75和o.5 　　　　　　　　　　　　　会逐渐变小声。 
+　　CROUCH MODE # 通过改变“#”的值（0-1）来使异形蹲或爬。 
+
+下面的秘技不适用于多人模式，有些用了后可能过不了关。用“LISTCMD” 可查看有关的帮助。 
+
+　　GOD 天下无敌 
+　　GIVE ALL WEAPONS 全部武器 
+　　SHOWFPS 显示当前画面的帧数 
+　　SHOWPOLYCOUNT 显示当前多边形数 
+　　LIGHT 在身边出现光环，可以重复使用，使周围越来越亮 
+　　MOTION TRACKER SPEED# 改变生物探测器扫描频率（0-16）1为默任值 
+　　TIME SCALE# 改变游戏速度，当打开“TIMESCALE0.5”时游戏是平常 　　　　　　　　速度的一半运行。 
+　　WIREFAMEMODE 角色变成金属线模型，即去掉贴图 
+　　DOPPLERSHIFT# 打开或关闭主角的叫声（“#”代表声音的大小） 
+　　SKY_RED# 天空变红（“#”代表深度） 
+　　SKY_GREEN# 天空变绿（“#”代表深度） 
+　　SKY_BLUE# 天空变蓝（“#”代表深度） 
+　　LEANSCALE# 横移动时改变镜头 
+
+请注意，下面几种生物使用后可能会造成死机。制造生物时只要在命令后 加入“-1”就会进入无敌状态，有关数字可以使用“LIST VAR”查看。 
+
+　　ALIENBOT 制造一只异形 
+　　MARINEBOT# 制造海军陆战队员或者平民,（“#”代表数量） 
+　　PREDOBOT# 制造一只PREDATOR（“#”代表不同的PREDATOR） 
+　　PREDALIENBOT 制造一只PREDAOT-ALIEN 
+　　PRAETORIANBOT 制造一只PRAETORIANAIEN 
+　　XENOBORG 制造一只XENOBORG
+

@@ -1,0 +1,11 @@
+Mortal Kombat 1&2（真人快打1&2）
+
+按F10进入设定菜单，再按住SHIFT不放输入DIP。 
+这样就能进入欺骗菜单， 功能如下： 
+
+　　SWITCH 1 切换玩者控制角色无敌模式 
+　　SWITCH 2 切换喷血模式 　　 
+　　SWITCH 3 切换漫画模式 
+　　SWITCH 4 切换电脑对手无敌模式 
+　　SWITCH 5 切换自由播放功能 
+

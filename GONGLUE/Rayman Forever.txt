@@ -1,0 +1,7 @@
+Rayman Forever
+
+raylives：99条命
+raypoint：能量全满
+goldfist：金拳头
+power：全部正常能量 
+

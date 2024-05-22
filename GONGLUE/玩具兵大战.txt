@@ -1,0 +1,10 @@
+玩具兵大战
+
+在游戏中按下ESC键后，输入以下密技： 
+　　INVULNERABLE－无敌 
+　　OCCULTATION－隐身 
+　　PARALYSIS－冻结敌人 
+　　AEROBALLISTICS－空中支援力量全满 
+　　PLETHORA－弹药无限 
+　　TRIUMPH－过关 
+

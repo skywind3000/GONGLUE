@@ -1,0 +1,8 @@
+Exhunmed （发掘）
+
+lobocop: 所有武器
+lobodeity: 无敌
+loboswag: 所有物品回复
+lobopick: 所有钥匙
+
+

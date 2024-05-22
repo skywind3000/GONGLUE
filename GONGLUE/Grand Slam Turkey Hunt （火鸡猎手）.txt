@@ -1,0 +1,10 @@
+Grand Slam Turkey Hunt （火鸡猎手）
+
+在游戏中输入下列密码：
+gstracker＝在地图和定位器上查看火鸡位置
+gsfind＝快速接近火鸡
+gsdeadeye＝标记
+gscallin＝使附近出现大量火鸡
+gslock＝攻击火鸡
+gsflash＝猎手移动加快
+

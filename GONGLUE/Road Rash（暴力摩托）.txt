@@ -1,0 +1,12 @@
+Road Rash（暴力摩托）
+
+在游戏中输入“XYZZY”就能输入下列秘技：
+
+YES,OCCIFER 杀掉警察
+BRIBE 杀掉警察
+SPOON! 得到硝石
+THWACK! 得到机关枪
+K’THUNK! 得到木棒
+PLUGH 秘技失效
+
+

@@ -1,0 +1,15 @@
+Sid Meier’s Gettysburg
+
+步骤：
+1)按 SHIFT-ENTER 2)键入一个密码 3)按 ENTER 完成 
+加强每一个单位: Union: Hooker; Confederacy: Longstreet 
+消去讨厌的东东: U: Hancock, C: Jackson
+增加经验: U: Mcclellan; C: Beauregard
+调整时钟到开始的时间: U: Buford; C: Stuart
+调整时钟到结束的时间: U: Sedgewick; C: Pickett
+立即调来救兵: U: Reynolds; C: Hill 
+电脑之间AI大战模式: U: Halleck; C: Halleck 
+重整部队: U: Sheridan; C: Lee
+看见所有部队: U: Warren; C: Hotchkiss
+看到敌人的作战编排: U: Custer; C: HarrisonAbe’s Oddysee 
+

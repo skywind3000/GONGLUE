@@ -1,0 +1,16 @@
+Magic Carpet II（魔法飞毯II）
+
+在按下回车后，键入“I”和“WINDY”：
+Alt-F1 学会所有魔法
+Alt-F2 增加魔法值
+Alt-F3 干掉所有对手
+Alt-F4 毁灭所有城堡
+Alt-F5 消灭所有气球
+Alt-F6 补充体力
+Alt-F7 杀死所有人
+Alt-F8 魔法经验值增加
+Alt-F9 使用魔法/不使用
+Alt-F10 无敌开/关
+Shift-D 完成任务
+Shift-C 爆机
+

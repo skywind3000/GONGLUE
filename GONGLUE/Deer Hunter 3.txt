@@ -1,0 +1,13 @@
+Deer Hunter 3
+
+键入F2，然后输入以下代码，再次键入F2确认：
+dh3find：带你到最近的动物
+dh3nofear：动物不害怕你
+dh3leadeye：视线跟着子弹 
+dh3water：下雨
+dh3ice：下雪
+dh3zeus：闪电
+dh3monster：大鹿
+dh3homegym：猎人不死
+dh3showme：在地图上看鹿
+dh3skyhook：飞行模式

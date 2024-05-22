@@ -1,0 +1,11 @@
+SimAnt（模拟蚂蚁）
+
+在游戏中输入以下密码
+HOLE-增加大量的洞
+JEFF-每个蚂蚁都可以得到一个colony
+JENN-colony有无限生命
+JUST-得到十个女王
+QEEN-得到一个特别的女王
+SUSI-蚂蚁有无限生命
+WILL-战争中不会失去蚂蚁
+

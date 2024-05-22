@@ -1,0 +1,22 @@
+Quake 3_ Arena (测试版)
+
+如果想使用密技，游戏的创建者必须在创建时打开密技模式。这样你在游戏中就可以输入以下密码： 
+
+god 上帝模式 
+give all 获得所有的武器和工具 
+give health 增加生命值 
+give armor 增加装甲值 
+give quad damage 获得Quad Damage 
+give personal teleporter 获得Personal Teleporter 
+give gauntlet 获得Gauntlet 
+give machinegun 获得Machinegun 
+give shotgun 获得Shotgun 
+give granade launcher 获得Granade Launcher 
+give rocket launcher 获得Rocket Launcher 
+give lightning gun 获得Lightning Gun 
+give railgun 获得Railgun 
+give plasma gun 获得Plasma Gun 
+give bfg10k 获得BFG10K 
+give grappling hook 获得Grappling Hook 
+give ammo 获得弹药
+

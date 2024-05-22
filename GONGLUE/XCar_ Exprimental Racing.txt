@@ -1,0 +1,10 @@
+XCar_ Exprimental Racing
+
+在游戏过程中：
+CTRL+SHIFT+F8 ：改变画面颜色。
+CTRL+SHIFT+F9 ：修复伤害。
+CTRL+SHIFT+F10：消除黑雾。
+在赛道选择画面时：
+当选择了一条赛道时，按下“S”或“R”选择下雨或阳光灿烂的天气。
+按下“M”后选择单一赛道后就能使用导弹。
+

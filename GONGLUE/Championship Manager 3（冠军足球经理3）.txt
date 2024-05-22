@@ -1,0 +1,61 @@
+Championship Manager 3（冠军足球经理3）
+
+控制国家队
+
+以英格兰为例，开始新游戏选择俱乐部队时，或在游戏中选择Add Manager后选择俱乐部队时，任意选择一家俱乐部，再选择任意一名本土球员(在本例中也就是英格兰籍的球员)查看他的详细资料，这时他的国籍显示England,单击England，就出现英格兰国家队，再选择Take Control，就可以控制英格兰国家队了。其他国家与此相同。
+
+最好的球员
+
+记住他们的名字吧，在现在或在将来，他们会是全世界最好的球员
+Vance Warner
+David Woozley
+Dean Chandler
+Malcom Christie
+Carl Laurie
+Peter Prospar
+Jamie Shore
+Daniel Montenegro
+Martin Palermo
+Leyder Preciado
+Bosco
+Bizzarri
+Pablo Aimar
+
+Free Players
+
+First, when you find a player you want, start a second team who have enough money to buy him (Arsenal, or Man Utd are good bets) then, with the team you want to buy him for, place an offer of ￡0 for him.
+Then, with the second team, place an offer of the amount the club want for him.
+Having done this, go to adjust offer with the same team, and near the top left corner will be a little arrow click it and your team name should be there, click that, and hey presto, you have control of whether to accept the first offer or not. But don’t forget to withdraw the second offer of the right amount
+
+Players for free
+
+Go to the player you want to buy. Put an offer in for twice as much as his value,they will accept, you go to ’adjust offer’, put your offer down to free and press cancel.
+
+Free Transfers For Every Team
+
+1. Go to the player you want to buy e.g. Michael Owen
+2. Bid NO Fee
+3. Add another manager
+4. Chose a team
+5. Bid for Micheal Owen (NO Fee)
+6. Go to "CHANGE TRANSFER OFFER"
+7. Click on the Arrow in the top left hand corner of the screen and select the original team.
+8. Now go to "ACCEPT"
+9. Withdraw the transfer offer from the 2nd team
+10. The transfer will now be complete if the player and team can agree personal terms
+
+前锋疯狂进球
+
+让你的前锋(Striker)盯住(Mark)对方的守门员，这招非常有效，你的前锋进球数会大大增加的
+
+无限资金
+
+以JIMMY RULES作为名字，你就有无限资金了
+
+好的赛季
+
+在tactics菜单输入CHAMPION
+
+轻松取得胜利
+
+First chose the team you are playing against (has to be in the nation you selected earlier) Then take control of that team as another manager. During the game move all the players from the team you want to lose up to attack then your players should have no problem scoring.

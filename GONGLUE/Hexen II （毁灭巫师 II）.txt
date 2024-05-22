@@ -1,0 +1,83 @@
+Hexen II （毁灭巫师 II）
+
+god =无敌
+noclip =穿墙
+give h ### =补血(###=生命值) 
+give 2 =2号武器
+give 3 =3号武器 
+give 4 =4号武器
+notarget =敌人无法识别你
+skill # =困难度(#=0-3)
+playerclass # =选择角色(#=1-4)
+changelevel # =选关(#=关卡名称)
+map #=选关(#=关卡名称)
+restart =重新关卡
+name # =改名字
+impulse 9 =武器/法力全满
+mpulse 13 =升高物件
+impulse 36 =冻结敌人
+impulse 37 解冻敌人
+mpulse 39 =飞行
+impulse 40 =人物升级
+impulse 41 =增加经验值
+impulse 43 =武器/法力/物品全满
+impulse 44 =丢弃物品
+impulse 299 =物品全满
+crosshair 1=十字准星
+chase_active 0=正常视角
+chase_active 1=尾追视角
+midi_play =音乐开始
+midi_stop =音乐停止
+midi_pause =音乐暂停
+midi_loop =音乐循环
+echo =显示讯息
+screenshot =抓图
+timerefresh =图片更新率
+sv_friction # =摩擦力(4)
+sv_gravity # =重力 (800)
+sv_maxspeed # =极速 (800)
+关卡名称:
+demo1 =Blackmarsh
+demo2 =Barbican
+demo3 =The Mill
+village1 = King’s Court
+village2 =Inner Courtyard
+village3 =Stables
+village4 =Palace Entrance
+village5 =The Forgotten Chapel
+rider1a =Famine’s Domain
+meso2 =Plaza of the Sun
+meso1 =The Palace of Columns
+meso3 =Square of the Stream
+meso4 = Tomb of the High Priest
+meso5 =Obelisk of the Moon
+meso6 =Court of 1000 Warriors
+meso8 =Bridge of Stars
+meso9 =Well of Souls
+egypt1 =Temple of Horus
+egypt2 =Ancient Temple of Nefertum
+egypt3 =Temple of Nefertum
+egypt4 =Palace of the Pharaoh
+egypt5 =Pyramid of Anubis
+egypt6 =Temple of Light
+egypt7 =Shrine of Naos
+rider2c =Pestilence’s Lair
+romeric1 =The Hall of Heroes
+romeric2 =Gardens of Athena
+romeric3 =Forum of Zeus
+romeric4 =Baths of Demetrius
+romeric5 =Temple of Mars
+romeric6 =Coliseum of War
+romeric7 =Reflecting Pool
+cath =Cathedral
+tower =Tower of the Dark Mage
+castle4 =The Underhalls
+castle5 =Eidolon’s Ordeal
+eidolon =Eidolon’s Lair
+ravdm1 =Atrium of Immolation
+ravdm2 =Total Carnage
+ravdm3 =Reckless Abandon
+ravdm4 =Temple of RA
+ravdm5 =Tom FooleryDemo
+
+

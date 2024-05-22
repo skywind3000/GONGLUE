@@ -1,0 +1,12 @@
+Airline Tycoon
+
+atmissall　　　　所有任务 
+donaldtrump　　　额外的金钱 
+expander　　　　 更大的飞机场 
+mentat　　　　　 所有助手激活 
+nodebts　　　　　没有债务 
+showall　　　　　所有飞行可见 
+thinkpad 　　　　记事本 
+winning 　　　　 完成任务 
+missioncrowd　　 机场很多人 
+runningman 　　　人们走得更快

@@ -1,0 +1,9 @@
+Postal
+
+carrymore: 背包
+crotchbomb: 地雷
+explodarama: 炸弹发射器和炸弹
+flamenstein: 所有武器和弹药
+firehurler: 火焰投掷器和燃料罐
+lobitfar: 手榴弹和燃烧弹
+titaniit: 火箭发射器和火箭弹

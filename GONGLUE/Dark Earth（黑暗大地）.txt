@@ -1,0 +1,38 @@
+Dark Earth（黑暗大地）
+
+按P键暂停游戏后输入FORTYTWO按Enter（回车）会出现Easy Mode On的确认讯息后可输入下列密技：
+    DWARF         人物缩小
+    NORMAL        人物恢复正常
+    BAFFE        大手
+    BIGFOOT        大脚
+    BIGHEAD        大头
+    Ctrl+D        Arkhan生命值回复
+    D        对手生命值减至1
+    MUCHBETTER    Arkhan生命值回复
+    游戏中可输入以下秘技：
+    LABUG          使主角可以穿过缝隙
+    LACDS         改变地图的显示模式，共有三种模式
+    LADATA         显示目前的坐标位置。
+    LAINLANE     无敌模式，而且敌人的子弹不容地反弹到自己身上。
+    LANTFH         将你传送回上次按此秘键的地方，史得你来回跑。
+    LAPOGO         忽略游戏的高度检查，使我们的英雄可一步登天。
+    LAPOSTAL     补充武器、弹药、生命、防护盾等各种消耗品。
+    LARANDY         开启武器快速攻击模式。
+    LAREDLITE     按一次让敌人停止行动，再按一次则敌人会死亡。
+    LASKIP        瞬间过关。
+    游戏的过关密码分别如下：
+    第1关        LASECBASE
+    第2关        LATALAY
+    第3关        LASEWERS
+    第4关        LATESTBASE
+    第5关        LAGROMAS
+    第6关        LADTENTION
+    第7关        LARAMSHED
+    第8关        LAROBOTICS
+    第9关        LANARSHADA
+    第10关        LAJABSHIP
+    第11关        LAIMPCITY
+    第12关        LAFUELSTAR
+    第13关        LAEXECUTOR
+    第14关        LAARC
+

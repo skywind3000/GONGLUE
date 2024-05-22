@@ -1,0 +1,12 @@
+African Safari（非洲之旅）
+
+HUGEGUNS＝无限弹药
+VULTURE＝飞行模式
+SPAWNALL＝制造兽群
+XRAY＝看成群的动物撕杀
+HGWELLS=隐形
+FLAGALL＝取消所有动物身上的标记
+FLAGEVERY＝在所有动物身上标记
+GPS＝标记你当前位置
+无限金钱：
+将鼠标指针移到屏幕的左上角然后按下Ctrl + 4。

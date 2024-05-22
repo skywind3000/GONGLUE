@@ -1,0 +1,4 @@
+Pinball Illusions（幻想弹珠台）
+
+在游戏中输入earthquake,可以给无限的tilt,如果输入vacuum,就可以有更多的东西
+

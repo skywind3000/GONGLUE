@@ -1,0 +1,6 @@
+A-10 Cuba
+
+选中设置"Invincible Aircraft",然后在飞行中键入以下代码:
+[Ctrl]+[Tab] 高度增加500英尺
+[Ctrl]+[Tab]+S 慢动作模式
+[Ctrl]+[Tab]+X 使用摇杆

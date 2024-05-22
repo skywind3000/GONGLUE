@@ -1,0 +1,50 @@
+QUAKE II（雷神之锤II）
+
+-------------------------------------------------
+按 ~ 後
+god =无敌
+noclip =穿墙模式
+notarget =敌人无法视别你
+give all =所有物品全满
+give health =生命值全满
+give weapons =武器全满
+give ammo =弹药全满
+give armor =护甲全满
+give jacket armor =护甲
+give blaster =手枪 
+give shotgun =散弹枪
+give super shotgun =超级散弹枪 
+give machinegun =机枪 
+give chaingun =链枪 
+give grenade launcher =榴弹炮
+give rocket launcher =火箭筒 
+give railgun = Railgun 
+give bfg10k =终极武器 
+give shells =弹荚 
+give bullets =子弹 
+give cells =电池 
+give grenades =手榴弹 
+give rockets =火箭 
+give slugs = Slugs 
+give quad damage =四分仪 
+give invulnerability =无敌 
+give silencer =灭音器 
+give rebreather =呼吸器 
+give environment suit =隐形装 
+give ancient head = Ancient Head 
+give adrenaline = Adrenaline 
+give bandolier = Bandolier 
+give ammo pack =弹药背包 
+give data cd =资料CD 
+give power cube =能源块
+give pyramid key =角锥钥匙 
+give data spinner =资料串 
+give airstrike marker = AirStrike Marker
+give blue key =蓝钥匙 
+give red key =红钥匙 
+give security pass =保全通行 
+give commander’s head = Commander’s Head 
+give power shield =能源护盾 
+give armor shard = Armor Shard 
+give combat armor =战斗盔甲 
+

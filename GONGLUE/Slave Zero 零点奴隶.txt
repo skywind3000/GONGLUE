@@ -1,0 +1,111 @@
+Slave Zero 零点奴隶
+
+在游戏中按"T"，然后输入以下密码：
+/goodies = 武器升级
+/i win = 在当前任务中立刻胜利
+/big ass = 退出游戏
+/onass = Throws Player Backwards
+/ouch = Hurts Player
+/wilcox = Makes Player Shake
+/3prong = 开/关 阴影
+/weezie = 敌人不攻击你
+/mission 关卡名 = 跳关（关卡名见下表）
+
+关卡名（和/mission一起使用）：
+CREDITS
+M00_INTRO
+M00_STARTUP
+M01_A
+M01_B
+M02_A
+M02_B
+M03_A
+M03_B
+M03_C
+M04_A
+M04_B
+M05_A
+M05_B
+M06_A
+M07_A
+M07_B
+M07_C
+M08_A
+M08_B
+M08_C
+M09_A
+M09_B
+M09_C
+M11_A
+M11_B
+M11_C
+M12_A
+M12_B
+M12_C
+M13_A
+M13_B
+M13_C
+M14_A
+M14_B
+M14_C
+M15_A
+M15_B
+M15_C
+MULTI_4_CORNERS
+MULTI_ARENA
+MULTI_BOXOFUN
+MULTI_COMPLEX
+MULTI_DELTA_FAB
+MULTI_GRUDGEMATCH
+MULTI_HOUSEOFCHAN
+MULTI_JUNCTION
+MULTI_SLAYERTON
+MULTI_STREETS
+MULTI_THE_TOWER
+MULTI_TUNNELS
+
+Hex info for those making trainers: 
+
+The game moves the health and ammo locations when each level is loaded, so do a new search for weapon one ammo. When this is found, freeze it at hex 2c 01. Weapon two will be four bytes more. Freeze it at hex 64. Weapon three will be four bytes further. Freeze it at hex 32. Health will be hex 18e less than the address of the first byte of weapon 1. Freeze it at hex c8. 
+
+.ini Cheat Method:
+Submitted by: Sze Leung 
+
+1) Go to the tools\Tools folder in the SlaveZero CD-ROM Disc. Copy the following files to the Data folder in the Slave Zero folder in your hard disk: (Typical: "C:\Program Files\Infogrames\Slave Zero\Data") 
+
+*zip.exe
+*ini2dat.exe 
+
+2) Now go to the tools\Ini folder in the CD. Copy the following files also to the Data folder as mentioned above: 
+
+*SlaveZero.ini
+*SlaveZeroEasy.ini
+*SlaveZeroHard.ini 
+
+3) Using a text editor (eg: Notepad), open the .ini files. SlaveZero.ini contains settings for a Medium difficulty game. SlaveZeroEasy.ini contains those for Easy difficulty and SlaveZeroHard.ini contain settings for Hard difficulty. You can change settings (eg. Weapon damage, Enemy health, your max ammo etc.) to what ever you like. 
+
+4) After you have changed the settings, save and exit the text editor. 
+
+5) Run ini2dat.exe on your hard disk. In the Source Ini File text box, enter the .ini file that you edited. You can click on the ... button to select the file. 
+
+6) In the Destination Dat Path text box, enter C:\Program Files\Infogrames\Slave Zero\Data. (If you installed the game to different path, change it to the correct path and add \Data folder behind.) 
+
+7) In the Zip File text box, enter C:\Program Files\Infogrames\Slave Zero\Data\dat.zip. (Again, change the file name to suit yourself.) 
+
+8) When everything is ready, click the Run button. The program will compile the .ini file and save it into the zip file. 
+
+9) Load up Slave Zero and play with the new settings! 
+
+Alternate Cheat Method
+Go in you your SZ folder (by default C:\Program Files\Infogrames\Slave Zero) in there you should see the szOptions.ini file. Open it and under [Settings] you will find these: 
+
+Game Mode=1
+Gallery Mode=0 
+
+Now, make it look like this: 
+
+Game Mode=0
+Gallery Mode=1 
+
+Now, when in the game, you are invincible, and have unlimited ammo! You can also press "R" to fly.
+

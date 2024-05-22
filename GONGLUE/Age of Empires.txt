@@ -1,0 +1,20 @@
+Age of Empires
+
+进入“Chat模式”，然后输入以下代码：
+BIG BERTHA：飞机弹射器射程为16，有效直径为10
+FLYING DUTCHMAN：Juggernaught能够在地面移动
+HOYOHOYO：Priest的速度为6，并且增加生命值600
+ICBM：Ballista射程为100
+NO FOG：关掉战斗中的烟雾
+STEROIDS：打开快速建造
+HARI KARI：破坏你的全部建筑和部队
+HOME RUN：快速过关
+DIE DIE DIE：包括你在内的全部人都死掉 
+REVEAL MAP：揭开整个地图
+PEPPERONI PIZZA：得到1000食物
+COINAGE：得到1000黄金
+WOODSTOCK：得到1000木材
+QUARRY：得到1000石头
+E=MC2 TROOPER：接受核武器部队
+PHOTON MAN：获得一个未来激光枪战士 
+

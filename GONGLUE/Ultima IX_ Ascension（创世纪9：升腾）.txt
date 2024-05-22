@@ -1,0 +1,32 @@
+Ultima IX_ Ascension（创世纪9：升腾）
+
+在遊戲目錄中找到 default.kmp 這個檔
+將下列指令加到 [Cheat Commands] 底下
+
+alt+shift+i = toggle_avatar_invulnerable
+alt+shift+l = toggle_avatar_fly
+
+在遊戲進行中即可使用密技
+
+alt+shift+i = 聖者無敵
+alt+shift+l = 聖者飛行
+
+以下是其他的有用指令
+
+pass_one_hour
+unpass_one_hour
+sunrise_sunset
+pass_one_minute
+unpass_one_minute
+toggle_sun
+toggle_wind
+toggle_storms
+toggle_avatar_fast
+
+
+只要把 Game Disc movie 下的 .dat 檔全改成
+.mpg , 你就可以用撥放軟體來看了. 不過還是勸
+你別先偷看,以免破壞你的玩完遊戲的決心了.
+
+依影片來看,淨化完八根黑岩之柱,就是跟守護神的
+對決之日了。

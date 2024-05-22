@@ -1,0 +1,15 @@
+哀悼之剑
+
+在游戏过程中按下回车键会弹出一个输入窗口，这时输入密码就可以获得相应的功能： 
+Icompletedthisghostgame 带你来到一个虚幻的世界 
+IfIwantIgotit XX 获得指定的物品 
+Seethesilverlining 地图全开 
+Thefierceunknownpower 99 增加魔法值到99 
+Thegreathealthpower 99 增加生命值到99 
+Thehealthyspiritpower 99 增加智力值到99 
+Theoriginaldexteritypower 99 增加灵敏值到99 
+Therealmusclepower 99 增加力量值到99 
+ThesoulHunter'sholyPower 10 增加体力值到99 
+Youcansaymoneyiseverything 10000 增加10000金钱 
+Yougainasoneplease XX 获得指定的武器 
+（注意：密码输入时要区分大小写）

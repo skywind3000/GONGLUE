@@ -1,0 +1,11 @@
+Arcade
+
+按下ESC键，输入7TH再输入下列秘技，若成功应该听到一声“Cool”。
+FATBOYCANTJUMP 飞行
+GIMMEAMMO 加10发子弹
+GIMMETIME 时间设定在10分钟
+GOLDENGUN 500发子弹
+ILOVEJOEY 50条命
+MAKEAWISH 加10条命
+OMNIJOEY 无敌
+URHOPELESS 得到特殊物品

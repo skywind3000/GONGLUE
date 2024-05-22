@@ -1,0 +1,9 @@
+Waterworld
+
+在DOS状态下键入：
+1>water -tooledup
+-twinky
+-freestuff
+你就可以使用以上的三样东东了。
+2>在游戏中键入W 你就可以跳关了。
+

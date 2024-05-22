@@ -1,0 +1,11 @@
+Slave Zero
+
+在游戏中按下“T”，输入以下代码：
+/goodies：武器升级
+/i win：完成本关任务
+/big ass：退出游戏
+/onass：将玩家向后仍
+/ouch：伤害玩家
+/wilcox：使玩家震动
+/3prong：阴影转换开/关 
+

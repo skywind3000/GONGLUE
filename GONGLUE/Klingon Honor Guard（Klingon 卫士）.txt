@@ -1,0 +1,48 @@
+Klingon Honor Guard（Klingon 卫士）
+
+按 TAB 键後再输入密技
+allammo = 弹药全满
+behindview1 = 第三人称视角
+behindview0 =第一人称视角
+flush = 重绘图素
+fly = 飞行模式
+ghost = 穿墙模式
+god = 无敌模式
+hideactors = 隐藏所有怪物,武器和物品
+showactors = 显示所有怪物,武器和物品
+invisible0 = 关闭隐形模式
+invisible1 = 开启隐形模式
+killall # = 杀死特定怪物 (#=怪物名称)
+killpawns = 杀死所有怪物
+open # = 跳关 (#=关卡名称)
+playersonly = 计时器暂停
+slomo # =设定游戏时序 (#=1 为正常)
+summon # = 得到武器,物品或怪物 (#=武器,物品或怪物名称)
+suicide = 自杀
+walk =由飞行或穿墙模式中回复
+
+按 ~键後, 输入 summon klingons. # 可得到以下物品
+Daktagh =武器 1
+Disruptorpistol =武器 2
+Disruptorrifle =武器 3
+Assaultdisruptor =武器 4
+Spinclaw =武器 5
+Grenadelauncher =武器 6
+Rocketlauncher =武器 7
+Sithhar =武器 8
+Particlecannon =武器 9
+Batleth =武器 10
+Cipherkey =钥匙 
+Genetickey =钥匙 
+Palmkey =钥匙 
+Passcardkey =钥匙 
+Retinalkey =钥匙 
+
+其它物品
+Combatarmor
+Combatgoggles
+Communicator
+Gagh
+Tricorder
+Vacsuit
+

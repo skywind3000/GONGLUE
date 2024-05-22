@@ -1,0 +1,49 @@
+Midtown Madness
+
+在主画面中开启新的 Player 档案，打入以下的名字来启动秘技∶ 
+
+Showme Cops∶在地图上显示各警车位置 
+Big Bus Party∶路上的车辆全都是巴士 
+Tiny Car∶路上的车辆全都是小型汽车 
+Jet Planes∶路上的车辆全都是飞机 
+amizdA eoJ∶路上的车辆全都倒转头驾驶 
+Warp Eleven∶所有电脑车辆以10倍速度行走 
+
+与上面的使用方法一样，但只能在单人模式的 Cruise Mode 中使用∶ 
+
+名称 选择汽车 效用 
+vasedans Cadillac 驾驶 Generic Car 
+vasedanl Bullet 驾驶 Generic Light Car 
+vacompact VW Bug 驾驶兔形的小型汽车 
+vavan Ford F350 驾驶 Van 
+vapickup Ford F350 驾驶 Pickup Truck 
+vadelivery Ford F350 驾驶 Delivery Truck 
+vadiesels City Bus 驾驶 The Diesel 
+vabus City Bus 驾驶贴上 New Paint Job 的巴士 
+vaboeing_small City Bus 驾驶 Mini-jet 
+valimo Mustang GT 驾驶随机的大型豪华轿车 
+valimoangel Mustang GT 驾驶白色的大型豪华轿车 
+valimoblack Mustang GT 驾驶黑色的大型豪华轿车 
+vataxi Cadillac 驾驶黄色的士 
+vataxicheck Cadillac 驾驶绿色不规则的的士 
+
+在单人模式进行时，同时按下 Ctrl、Alt、Shift、F7 会出现一个匣让您打入秘技码∶ 
+
+/nodamage∶永不损坏模式 
+/damage∶回复损坏模式 
+/dizzy∶旋转的天空 
+/fuzz∶启动警察雷达 
+/bridge∶桥梁升降加快 
+/ufo∶把飞机换做UFO 
+/swap∶把火车换做一列737 
+/slide∶周遭的车辆与路面没有摩擦力 
+/puck∶玩家的车辆与路面没有摩擦力 
+　　/grav∶地心吸力减半 
+/postal∶按喇叭会发射邮箱 
+/talkfast∶评述速度加快 
+/talkslow∶评述速度减慢 
+/big∶路人变大 
+/tiny∶路人变小 
+/nosmoke∶车辆不会出烟 
+/smoke∶车辆会出烟 
+

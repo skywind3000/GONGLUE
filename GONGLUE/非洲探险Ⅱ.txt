@@ -1,0 +1,10 @@
+非洲探险Ⅱ
+
+键入africa-pdmode进入游戏就会开启作弊模式，这样在游戏进行中键入如下内容：
+
+pandapror:直接购买道具
+
+pandamagic: 直接购买法术
+
+editperson: 直接修改人物基本属性
+

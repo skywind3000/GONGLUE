@@ -1,0 +1,9 @@
+Delta Force（三角洲部队）
+
+在单人任务中按下“~”键，然後输入密技：
+
+IWILLSURVIVE =无敌 
+RAINDROPSKEEPFALLINONMYHEAD = 火炮支援 
+HITMEWITHYOURBESTSHOT =电脑对手战力增强 
+TAKEITTOTHELIMIT =弹药无限
+CLOSETOYOU =隐形

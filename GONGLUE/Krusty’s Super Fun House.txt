@@ -1,0 +1,12 @@
+Krusty’s Super Fun House
+
+在游戏中等待直到屏幕上出现 "Hi Kids" 的提示， 
+就可以输入以下密码以进入不同的关卡： 
+
+Level 1 - rats 
+Level 2 - carumba 
+Level 3 - nuclear 
+Level 4 - framed 
+Level 选择 - snotned 
+
+

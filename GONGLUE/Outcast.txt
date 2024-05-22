@@ -1,0 +1,21 @@
+Outcast
+
+游戏中输入“HOKKUSPOKKUS”，现在可以用F12呼叫
+出控制台：
+ARSENAL：全部武器
+AMMO_FLOW：弹药无限
+DYNAMIT：炸药
+KILL_SOLDIERS：杀死所有敌人
+IAMINVISIBLE：隐形
+FLY：飞行模式开/关
+TRACKER：雷达
+BENNY：No Clipping 
+POW #：能量等于指定值#
+POINTS：显示得分
+QUIT：退出
+NEIGE：Ranzaar 
+TEMPLES：Shamazaar 
+VILLE：Okriana 
+MONTAGNE：Motazaar 
+MARCHES：Okasankaar 
+FOREST：Okar

@@ -1,0 +1,12 @@
+《NOX》欺骗密技
+
+按F1调出控制台，输入’Racoiaws’激活作弊模式，然后输入以下密码：
+cheat 
+cheat ability
+cheat goto
+cheat health
+cheat mana
+cheat level
+cheat spells
+cheat gold 
+

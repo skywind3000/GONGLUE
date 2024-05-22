@@ -1,0 +1,21 @@
+Starcraft（星际争霸）
+
+游戏中先按下ENTER键，然后在CHAT框内键入以下字符，再按ENTER键激活密技。
+power overwhelming：打开上帝模式
+operation cwal：建造速度加快
+the gathering：技能点数无限
+noglues：使对方无法使用
+game over man：当前关卡失败
+staying alive：在关卡胜利后继续玩下去
+show me the money：各种资源增加10000个单位
+there is no cow level：立即通过本关
+whats mine is mine：得到500单位水晶石
+breathe deep：得到500单位瓦斯
+something for nothing：开启所有可生产的选项
+black sheep wall：展现完整的地图
+medieval man：作战单位免费升级
+modify the phase variance：可生产所有的建筑物
+war aint what it used to be：关闭遮罩的迷雾
+food for thought：使你能够无限制的建造作战单位
+ophelia：跳到任何一关（按enter键激活后，再按数字键，跳到所要的关卡数）
+

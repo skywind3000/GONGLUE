@@ -1,0 +1,6 @@
+Jurassic War（侏罗纪圣战）
+
+在游戏中按ENTER,再输入
+food: 得到5000食物
+next: 跳关
+

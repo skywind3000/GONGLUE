@@ -1,0 +1,65 @@
+Heretic II （异教徙 II）
+
+在游戏中按键盘左上方的「~」键进入控制模式，然后输入以下字符串获得相应密技功能： 
+playbetter＝无敌（再按一次则会关掉） 
+twoweeks＝增强力量（再按一次则会关掉） 
+meatwagon＝杀掉所有非头目类的怪物 
+victor＝杀掉所有怪物（包括头目） 
+angermonsters＝怪物变得愤怒 
+crazymonsters＝怪物变得疯狂 
+kiwi＝可穿过墙壁（再按一次则会关掉） 
+showcoords＝显示座标 
+weapprev＝选择前一种武器 
+weapnext＝选择下一种武器 
+suckitdown chicken＝把你变成鸡
+suckitdown all＝得到所有物品
+suckitdown health＝加满血
+suckitdown mana＝加满魔法
+suckitdown armor＝第一次使用得到银盾防御，第二次使用得到金盾防御
+suckitdown powerup＝给你提升力量的魔法书
+suckitdown teleport＝得到瞬间移动魔法（只适用于DEMO版）
+suckitdown polymorph＝得到小鸡魔法（只适用于DEMO版）
+spawn item_weapon_hellstaff＝得到地狱手杖
+spawn ＝制造物品
+
+物品列表如下：
+item_weapon_firewall 
+item_weapon_maceballs 
+item_weapon_magicmissile 
+item_weapon_phoenixbow 
+item_weapon_redrain_bow 
+item_weapon_sphereofannihilation 
+item_defense_meteorbarrier 
+item_defense_polymorph 
+item_defense_powerup 
+item_defense_ringofrepulsion 
+item_defense_shield 
+item_defense_teleport 
+item_health_full 
+item_health_half 
+item_mana_combo_half 
+item_mana_combo_quarter 
+item_mana_defensive_full 
+item_mana_defensive_half 
+item_mana_offensive_full 
+item_mana_offensive_half 
+item_puzzle_canyonkey 
+item_puzzle_cloudkey 
+item_puzzle_cog 
+item_puzzle_crystal 
+item_puzzle_dungeonkeyitem_puzzle_highpriestesskey 
+item_puzzle_highpriestesssymbol 
+item_puzzle_hive2amulet 
+item_puzzle_hive2gem 
+item_puzzle_hive2spear 
+item_puzzle_minecartwheel 
+item_puzzle_ore 
+item_puzzle_plazacontainer 
+item_puzzle_potion 
+item_puzzle_refinedore 
+item_puzzle_shield 
+item_puzzle_slumcontainer 
+item_puzzle_tavernkey 
+item_puzzle_tome 
+item_puzzle_townkey 
+

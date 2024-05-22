@@ -1,0 +1,11 @@
+METAL LNIGHT（铁甲风暴）
+
+按回车键输入下面字母
+SUNSHINE：地图全显
+MAGICBIRD： 所有建筑受损伤
+THUNDETBIRD：加快建造速度
+RICHBIRD： 增加10000金钱
+LUCKYBIRD：过关
+AMITOFO： 修好建筑的损伤
+
+

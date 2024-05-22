@@ -1,0 +1,17 @@
+Warzone 2100
+
+注:密技仅能使用於V1.01版
+游戏中按T键,输入下列密码後,再按Enter:
+time toggle = 停止或开始任务的计时器
+get off my land = 杀死地图上所有的敌人
+show me the power = 得到1000单位的动力
+hallo mein schatz = 跳到下一关
+work harder = 完成目前所有有效的论题
+double up = 你的单位防御增为两倍
+timedemo = 显示画面更新速率及gfx的数据
+kill selected = 杀死所选择的单位
+easy = 设定游戏等级为easy
+normal = 设定游戏等级为normal
+hard = 设定游戏等级为hard
+version = 告诉你何时用了哪些密技
+

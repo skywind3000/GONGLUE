@@ -1,0 +1,9 @@
+TNN Outdoors Pro Hunter
+
+在 游戏中输入“~”，然后输入以下代码：
+DEER - 得到10分的BUCK
+TOM - 得到Turkey
+GOD - 上帝模式
+FLY - 飞行模式
+GHOST - 穿墙术
+ALLAMMO - 弹药无限

@@ -1,0 +1,16 @@
+Lamentation Sword
+
+在游戏过程中按回车键，即会弹出一个输入窗口， 
+这时你就可以输入以下 密码：（密码输入时区分大小写） 
+
+　　Icompletedthisghostgame - 带你来到一个虚幻的世界。 
+　　IfIwantIgotit XX - 给你代号为XX的物品 
+　　Seethesilverlining - 扫清黑幕 
+　　Thefierceunknownpower 99 - 增加魔法值到99 
+　　Thegreathealthpower 99 - 增加生命值 
+　　Thehealthyspiritpower 99 - 增加智力值到99 
+　　Theoriginaldexteritypower 99 - 增加灵敏值到99 
+　　Therealmusclepower 99 - 增加力量值到99 
+　　ThesoulHunter’sholyPower 10 - 增加效力值到99 
+　　Youcansaymoneyiseverything 10000 - 增加美金 
+　　Yougainasoneplease XX - 给你代号为XX的武器

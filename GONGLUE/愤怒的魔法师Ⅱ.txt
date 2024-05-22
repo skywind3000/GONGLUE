@@ -1,0 +1,48 @@
+愤怒的魔法师Ⅱ
+
+在游戏中按Enter鍵，出现信息后，打入#Chicken或##Coward来启动密技功能,再输入下列密码： 
+
+　　#modify self +god：无敌 
+　　#modify army +god：无敌 
+　　#modify self +spell：所有咒语 
+　　#modify self +spells：所有咒语 
+　　#modify army +spell：所有咒语 
+　　#modify army +spells：所有咒语 
+　　#killall：杀死所有敌人 
+　　#kill all：杀死所有敌人 
+　　#pickup all：拾起地上所有物品 
+　　#show map：显示地图 
+　　#hide map：隐藏地图 
+　　#victory：立即获胜 
+　　#create xxx Gold：增加黄金xxx 
+　　#event xxx：显示所有同级部队的对話(xxx=数字) 
+　　#create Very Rare Crystal Two Handed Sword：得双手剑 
+　　#create Very Rare Crystal Long Sword：获得长剑 
+　　#create Very Rare Crystal Two Handed：获得特殊武器 
+　　#create Very Rare Crystal Axe：获得斧头 
+　　#create Very Rare Crystal Mace：获得权杖 
+　　#create Very Rare Crystal War Hammer：获得战锤 
+　　#create Very Rare Crystal Pike：获得长枪 
+　　#create Very Rare Crystal Morning Star：得武器-晨星 
+　　#create Very Rare Crystal Cuirass：得胸甲 
+　　#create Very Rare Crystal Plate Cuirass：得金属胸甲 
+　　#create Very Rare Crystal Plate Bracers：得金属护腕 
+　　#create Very Rare Crystal Amulet：获得护身符 
+　　#create Very Rare Crystal Ring：获得戒指 
+　　#create Very Rare Crystal Plate Helm：获得金属头盔 
+　　#create Very Rare Crystal Plate Boots：获得金属靴子 
+　　#create Very Rare Crystal Scale Gauntlets：得铁手套 
+　　#create None Gloves：魔法手套(Def +2) 
+　　#create None Robe：魔法长袍(Def +5) 
+　　#create None Cloak：魔法披风(Def +3) 
+　　#create None Shoes：魔法鞋(Def +3) 
+　　#create None Dress：魔法衣(Def +10) 
+　　#create None Cape：魔法披肩(Def +6) 
+　　#create None Cap：魔法手套(Def +1) 
+　　#create None Hat：魔法手套(Def +5) 
+　　#kill cheaters：未知 
+　　#kill [number]：未知 
+　　#modify self +knowledge：未知 
+　　#modify army +knowledge：未知 
+　　#summon hero：未知 
+

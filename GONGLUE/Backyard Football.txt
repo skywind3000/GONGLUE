@@ -1,0 +1,6 @@
+Backyard Football
+
+1. 在比赛中输入：moreplays,会获得隐藏赛事
+2. 在比赛中输入：superspeed,会使速度加快
+3.在过人/传球之前输入：sharpeye,会很容易的达到目的
+4.在防守时，输入：whatatackle,同上

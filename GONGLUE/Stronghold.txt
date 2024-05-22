@@ -1,0 +1,12 @@
+Stronghold
+
+以strong debug作为命令行进入游戏,在游戏中按
+ALT-B : 改变一个建筑物类型
+ALT-C : 改变人物
+ALT-F : 改变多个建筑物类型
+ALT-L(按住不放再点击人物) : 增加人物级数
+ALT-K : 破坏敌人的要塞
+ALT-P : 提升人物
+ALT-Z : 破坏敌人的单位
+
+

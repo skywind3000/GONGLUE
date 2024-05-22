@@ -1,0 +1,32 @@
+DragonFire_ The Well of Souls
+
+/clan69 = Clan 69
+/restorelife = 恢复生命
+/godmode = 无敌 开/关
+/invisible = 隐形 开/关
+/changelevel = 选关
+
+以下秘技未被证实
+/repeat = 重复
+/suicide = 自杀
+/misirlou = 自杀
+/barre = 自杀
+/gilhooley = 自杀
+/streamer = 恢复生命
+/lensman = 恢复生命
+/jenna = 无敌 开/关
+/mitts = 无敌 开/关
+/manson = 无敌 开/关
+/link = 隐形 开/关
+/oxygene = 隐形 开/关
+/funkk = 隐形 开/关
+/info = 信息 开/关
+/grid = 网格 开/关
+/gold 
+/tile
+/spawn
+/monster
+/trig
+/level
+/room
+

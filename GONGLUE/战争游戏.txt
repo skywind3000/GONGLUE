@@ -1,0 +1,18 @@
+战争游戏
+
+在游戏中按“T”键，然后就可以输入以下秘技： 
+eyeofgod 初级单位可用高倍视野 
+saladtossed 选择关卡 
+twobyfour 生产任何单位 
+hermes 加速建造单位 
+donkeys 射出吉普车 
+morningafter 关闭战争迷雾 
+gimmiegimmie 不用基地即可生产仕单位 
+unclejohn 无敌 
+chaching 金钱增加10000 
+mrmuscle 己方护甲升級 
+bigsofty 降低敌方护甲甲 
+coffee 己方速度升级 
+beer 降低敌方速度 
+shaft 己方火力升级 
+shank 降低敌方火力

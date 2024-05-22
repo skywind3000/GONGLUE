@@ -1,0 +1,22 @@
+System Shock 2
+
+在游戏中同时按下“SHIFT”和“；”（分号），然后输入以下代码：
+summon_obj [item],其中的ITEM可以是：
+medical kit/psi amp /wrench/pistol/shotgun/
+assault rifle/laser/pistol/ap clip/he clip/
+standard clip/pellet shot box/rifled slug box/
+large worm beaker/detox patch/psi booster/reflec armor/
+french-epstein device/portable battery/maintenance tool/
+hack soft v3/repair soft v3/research soft v3/
+modify soft v3/EMP Rifle/Electro Shock/Gren Launcher/
+Stasis Field Generator/Fusion Cannon/Crystal Shard/
+Viral Prolif/Worm Launcher...
+也可以输入以下代码：
+bow to the avatar! :上帝模式
+psi_full:加满玩家的PSI值
+show_version：在游戏模式中显示版本
+wpn_setting_toggle：在武器设置之间转换
+clear_teleport：清除任何存在的远程端口记录者
+quicksave：在当前子目录存盘
+quickload:从当前子目录加载
+

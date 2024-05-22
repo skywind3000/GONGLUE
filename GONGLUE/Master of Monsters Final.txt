@@ -1,0 +1,14 @@
+Master of Monsters Final
+
+存档:GMENVx.MM3 
+(x=1,2,3 表示存档 1,2,3) 
+工具:PCTOOLS Or NU Or 其它可修改的工具 
+位址:SECTOR 1 
+位址 单位 代表内容 
+166 DB 等级 
+167-168 DW HP值 
+169-170 DW HP最大值 
+171-172 DW MP值 
+173-174 DW MP最大值 
+
+

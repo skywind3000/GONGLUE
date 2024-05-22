@@ -1,0 +1,81 @@
+Nocturne(夜曲)
+
+正式版: 
+
+按[F10]然后输入：
+godgames = 无敌
+gasmask = 得到防毒面具
+elephant = 得到大笨象枪（BFG 和 BIG firepower）
+TAB Key = debug模式
+gold = -- shows advertisment for the company's new game "Fly" the screen will say "Buy Fly! today!"
+winblows = 得到所有武器和弹药
+skeletonkey = 得到Skeleton钥匙（有的版本可以得到所有钥匙）
+moreammo = 得到更多的弹药
+goremode = 开关血腥画面
+thunderstorm = 下雨
+snowstorm = 下雪
+bighead = 大头模式
+healme = 回复生命值
+silver = 得到500颗Silver子弹
+aqua = 得到 500颗Aqua Vampire子弹
+mercury = 得到 500颗Mercury子弹
+burningstake = 得到火焰箭
+oldhat = 陌生人戴奇怪的帽子
+youfarted = 陌生人得到防毒面具（只能用于升级版）
+dismember = 更血腥（只能用于升级版）
+pinkbunny = 使电池重新充电（只能用于升级版）
+bandaid = 恢复生命值（只能用于升级版）
+goldmode = 对你说"buy FLY!"
+freezer = 打开/关闭 冻住敌人
+ifarted = 陌生人得到防毒面具
+recharge = 使电池重新充电
+bigboom = 见下面详细说明（只能用于升级版）
+headOfHorrors = 见下面详细说明
+shotgunshell = 得到散弹枪和500颗子弹（能用于升级版和未升级版）
+baronsaturday = 得到Baron
+gimmecrap = 所有武器和弹药
+keysuper = Skeleton钥匙
+reallycold = 开/关 敌人的AI
+driveby = Tommy Gun
+woodenstakegun = Wooden Stake Crossbow
+t2000 = Terminator mode
+layitonme = 更多弹药
+iamacheatingbastard = 无敌
+ebola = 杀死周围的生物 
+
+注意：以上某些秘技在最新版本中已经被取消了 
+
+BigBoom 和 headOfHorrors 说明：
+当你被一大群敌人围攻时，按F10然后输入bigboom，会发生意想不到的情况，有时只会杀死一个敌人，有时会杀死所有敌人。如果你输入了headOfHorrors，你就可以让bigboom按你预期的方法起作用。 
+
+小提示：
+
+Tip: Let Svetlana kill as many vampires as possible in the village of Falkenberg. The ammo you save here will be badly needed when the two of you split up at Castle Gaustadt. 
+
+Tip: Before heading into the town of Redeye, be sure to grab the shovel propped up against the tombstone outside the church. It's actually quite effective against even two zombies at a time, especially if you can back up against a wall or door and limit the angles from which enemies can attack. 
+
+Tip: Several of the game's cinematic scenes are immediately followed by attacks from enemies--be ready to start blasting as soon as any cut scene is finished. 
+
+Tip: Explore every room and area possible, including the bloody remains of zombies, vampires, and monsters. Hidden areas often contain ammo or health power-ups, and enemies sometimes carry keys to unlock doors. 
+
+试玩版: 
+
+giveallammo = 给当前武器加100颗子弹
+gathering = 无敌
+crossbow = 得到Crossbow 
+tommygun = 得到Tommygun 
+beavis = 得到Flamethrower 
+shotgun = 得到Shotgun 
+flametip = Enables Flaming Arrows 
+freeze = 冻住/解冻敌人
+battery = 充电Flashlight
+baron = Summon the Baron 
+masterkey = Gives Skeleton Key 
+dismember = Dismemberment On/Off 
+bighead = Bighead Mode 
+dynamite = Gives Dynamite 
+light = Gives Flashlight 
+rain = Rain On/Off 
+snow = Snow On/Off 
+movie = Record a Movie
+

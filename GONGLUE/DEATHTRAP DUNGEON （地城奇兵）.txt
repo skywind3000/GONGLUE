@@ -1,0 +1,6 @@
+DEATHTRAP DUNGEON （地城奇兵）
+
+在游戏中途键入:
+ELVIS =生命值无限
+HELP =游戏暂停
+

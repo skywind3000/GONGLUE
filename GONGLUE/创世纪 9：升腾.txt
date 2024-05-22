@@ -1,0 +1,10 @@
+创世纪 9：升腾
+
+在游戏目录中找到 default.kmp 这个文件，有写字板之类的文本
+编辑工具打开它，将下列指令加到 Cheat Commands 底下 
+alt+shift+i = toggle_avatar_invulnerable 
+alt+shift+l = toggle_avatar_fly 
+在游戏进行中即可使用秘技 
+alt+shift+i = 圣者无敌 
+alt+shift+l = 圣者飞行
+

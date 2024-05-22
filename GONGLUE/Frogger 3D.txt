@@ -1,0 +1,8 @@
+Frogger 3D
+
+按“ESC”键暂停游戏，然后输入以下代码：
+NO MORE ROAD SPLATS -无限生命
+SHOW ME MORE ZONES PLEASE - 打开所有区域
+WAY TOO HARD FOR THE LIKES OF ME -打开全部级别
+TIME FLIES WHEN YOURE HAVING TROUBLE - 无限时间 
+

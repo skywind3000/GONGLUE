@@ -1,0 +1,77 @@
+破碎虚空
+
+在战斗画面按Ctrl+F12键出现密码视窗,输入: 
+
+高典静: 
+
+sonic = 天籁之音 
+timeless = 八方云动 
+mind = 心狂忆乱 
+jadebust = 玉石俱焚 
+perish = 毁天灭地 
+lightning = 雷霆万钧 
+damnation = 十面埋伏 
+music = 沧海啸声 
+
+白莲珏: 
+
+antigue = 迷情眼 
+cloudm = 撒云手 
+magic = 归元术 
+paisonm = 毒线甲 
+mantis = 金丝螳螂 
+knot = 迷魂蝶 
+mosquito = 南蜀蚊 
+egret = 仙鹤神喙 
+golden = 百眼金芒 
+horse = 神马奔雷 
+assail = 溜之大吉 
+
+传鹰: 
+
+aaron = 火焰飞击 
+dragon = 寒冰龙涎 
+
+战神录: 
+
+revice = 阴阳相继 
+revert = 大地精萃 
+aerial = 玄天一气 
+tiger = 玄武白虎 
+unharmed = 遇忌无损 
+gold = 金玉万坚 
+peerless = 破碎虚空 
+super = 长生未散 
+stony = 树静石动 
+thunderbolt = 树静石动 
+thunder = 赤雷三击 
+ground = 伏土千化 
+defense = 白雾幻影 
+mount = 道见百山 
+time = 天时无违 
+aircurrent = 伏气中结 
+norn = 孚号有厉 
+flux = 道远流虚 
+movement = 动静之机 
+ghost = 天地鬼神 
+triple = 九三重刚 
+quickly = 迁变融贯 
+autumn = 秋风如刀 
+splash = 太阴冥水 
+message = 脉断神诀 
+rampart = 轻烟飞漫 
+shore = 法空灵岸 
+heaven = 空用之神 
+flower = 日月精华 
+sword = 密雨狂剑 
+taichi = 天地太极 
+mars = 战神初现 
+
+MONEY # = 增加金钱(#=1~9999) 
+
+在平时非战斗画面: 
+
+DIPPER = 可任意移动 
+VISITANT = 隐形(不会有中途的战斗) 
+HIDE = 避敌
+

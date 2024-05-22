@@ -1,0 +1,15 @@
+Vigilante 8_ Second Offense
+
+当作密码输入：
+RAPID_FIRE--快速射击
+BLAST_FIRE--超级导弹
+MORE_SPEED--更快的车
+GO_RAMMING--更重型的车
+QUICK_PLAY--快速行动
+UNDER_FIRE--吸引敌人
+GO_SLOW_MO--慢速模式
+NO_GRAVITY--无重力
+GO_MONSTER--大车轮
+DRIVE_ONLY--无轮车
+MIXES_CARS--多人游戏中有同样的车 
+

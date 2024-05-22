@@ -1,0 +1,16 @@
+Planescape_ Torment
+
+编辑你的Torment.ini文件，找到[Movies]段，在该段内
+按下面编辑，即可看见全部电影：
+[Movies]
+BISLOGO=1
+TSRLOGO=1
+OPENING=1
+SS_MSLAB=1
+SIGIL=1
+TIME=1
+SS_PHARD=1
+SS_ADETH=1
+ALYBIRTH=1
+DEATH=1
+MAZE1=1

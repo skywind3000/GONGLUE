@@ -1,0 +1,4 @@
+Wing Commander II（银河飞将II）
+
+以WC2 Origin -k作为命令行进入游戏,你就会变为无敌,按Alt+Del可以消灭敌人
+

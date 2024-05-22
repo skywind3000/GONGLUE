@@ -1,0 +1,5 @@
+DeathDrome（死亡宫殿）
+
+以下是各个关卡的选关代码：
+2REVOLT The Abyss    3ACCUSED The Outpost    SHORT4TIME Citadel    5GETAWAYS The Inferno    BOLT6DOWN The Wall    ARREST7 The Spike     LASTMEAL8 Purgatory
+

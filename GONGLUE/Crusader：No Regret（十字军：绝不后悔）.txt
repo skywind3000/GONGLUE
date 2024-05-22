@@ -1,0 +1,24 @@
+Crusader：No Regret（十字军：绝不后悔）
+
+输入LOOSECANNON 16,便可听到,Crusaader: No Regret,这时可以使用以下秘技键:
+
+F = 显示物品结构
+H = 开始行动
+F7 = 显示铁丝网位置
+F10 = 获得所有物品
+Alt+F7 = 显示铁丝网位置
+Alt+F10 = 无敌
+Ctrl+L = 显示目前位置
+Ctrl+V = 显示记忆体状况,游戏版本及其他资料
+Ctrl+F7 = 显示铁丝网位置
+Ctrl+F10 = 无敌
+
+
+游戏参数:
+在Dos Prompt加入以下参数启动游戏便可获得以下秘技:
+
+-debug = 除错模式
+-skill # = 将技能改到等级 #
+-warp # = 跳关到关卡 #
+-asylum = 显示讯息Enabling Enhanced mode
+-demo = 重覆播放Demo

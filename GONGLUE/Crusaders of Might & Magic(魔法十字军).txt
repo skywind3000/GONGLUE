@@ -1,0 +1,15 @@
+Crusaders of Might & Magic(魔法十字军)
+
+按[ENTER]键输入以下秘技：
+Code Result
+-EMBIGGENME 上帝模式
+-CRAZYGUY 所有符咒和超能力
+-WHOAH 飞行模式（LMB=快速，RMB=慢速）
+-UBERLOAD 跳关
+-SHOWFPS 显示帧速
+-CALCFPS 计算帧速
+-DEBUG 显示调试信息
+-BOUNDINGBOX 在目标周围绘制范围框 
+-3DNOW! 3D显示（开/关）
+CSWIRE 地形显示（开/关）
+注意：负号“-”也要输入。

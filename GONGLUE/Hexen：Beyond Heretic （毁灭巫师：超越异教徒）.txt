@@ -1,0 +1,25 @@
+Hexen：Beyond Heretic （毁灭巫师：超越异教徒）
+
+在游戏进行时键入下列密码：
+Butcher 敌人全灭
+Casper 穿墙术
+Conan 失去所有武器
+Deliverance 把自己变成小猪
+Indiana 所有物品
+Init 重新开始
+Kills 显示在死亡竞赛模式下歼敌数目
+Locksmith 所有钥匙
+Mapsco 显示地图
+Martek 键入三次后死去
+Noise 编辑音效
+NRA 所有武器
+Puke 正本模式
+Satan 无敌
+Shadowcaster x(0,1,2) 改变主角的职业
+Sherlock 得到所有过关必须的物品
+Ticker 显示每秒帧数
+Visit x (0-31 或 41) 跳到第x关
+Where 显示坐标
+~ x (x为音轨的号码) 点歌
+
+

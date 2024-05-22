@@ -1,0 +1,36 @@
+night shift
+
+在游戏得分排行榜中以 MPICKLE 命名，便可进入下一关。 
+
+选关密码： 
+
+02 - Kirsche, Banane, Banane, Zitrone 
+03 - Banane, Kirsche, Ananas, Pflaume 
+04 - Ananas, Zitrone, Ananas, Ananas 
+05 - Ananas, Ananas, Zitrone, Kirsche 
+06 - Kirsche, Pflaume, Pflaume, Ananas 
+07 - Kirsche, Ananas, Zitrone, Banana 
+08 - Ananas, Banane, Ananas, Kirsche 
+09 - Ananas, Zitrone, Zitrone, Kirsche 
+10 - Zitrone, Banane, Pflaume, Plaume 
+11 - Banane, Ananas, Kirsche, Pflaume 
+12 - Kirsche, Pflaume, Banane, Ananas 
+13 - Pflaume, Kirsche, Banane, Ananas 
+14 - Ananas, Kirsche, Plaume, Banane 
+15 - Pflaume, Pflaume, Ananas, Ananas 
+16 - Banane, Banane, Ananas, Banane 
+17 - Banane, Pflaume, Kirsche, Pflaume 
+18 - Pflaume, Zitrone, Zitrone, Pflaume 
+19 - Zitrone, Ananas, Kirsche, Pflaume 
+20 - Kirsche, Ananas, Ananas, Kirsche 
+21 - Zitrone, Kirsche, Ananas, Ananas 
+22 - Pflaume, Kirsche, Zitrone, Banane 
+23 - Pflaume, Kirsche, Kirsche, Zitrone 
+24 - Pflaume, Ananas, Zitrone, Zitrone 
+25 - Banane, Ananas, Ananas, Zitrone 
+26 - Pflaume, Kirsche, Kirsche, Banane 
+27 - Banane, Kirsche, Zitrone, Banane 
+28 - Pflaume, Banane, Banane, Ananas 
+29 - Kirsche Pflaume, Kirsche, Ananas 
+30 - Kirsche, Kirsche, Banane, Pflaume 
+

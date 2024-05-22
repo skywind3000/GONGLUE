@@ -1,0 +1,25 @@
+Rage of Mages II（巫师之怒 II）
+
+在游戏地图中按下“Enter”再输入“##Coward”开启作弊模式:
+
+#create Gold
+#modify self +god
+#modify self +spell
+#modify self +spells
+#modify self +knowledge
+#modify army +god
+#modify army +spell
+#modify army +spells
+#modify army +knowledge
+#summon hero
+#killall
+#kill all
+#kill cheaters
+#kill ?
+#pickup all
+#show map
+#hide map
+#victory
+#event ? 
+
+

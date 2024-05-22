@@ -1,0 +1,17 @@
+Return Fire II（多重火力 II）
+
+選擇地圖畫面時, 依左上,右上,左下, 右下次序點選畫面右上的姓名欄的四個箭頭即可選擇地圖
+
+在基地中按 ~ 鍵後再輸入 FUBAR! =神風式吉普車
+
+遊戲進行中按 ~ 鍵後再輸入以下密技
+
+AMMO! = 彈藥無限
+EASTER! = 砲彈碎片變成彩蛋
+FUEL! =燃料無限
+GOD! =無敵
+GUN! =機關槍
+SAM! = 防空飛彈
+TURRETS! =機槍砲台
+VEHICLES! =交通工具無限
+

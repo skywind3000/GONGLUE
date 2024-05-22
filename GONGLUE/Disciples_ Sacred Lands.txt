@@ -1,0 +1,16 @@
+Disciples_ Sacred Lands
+
+键入“Enter”键，接着输入以下代码，再键入“Enter”：
+PLAYHIDEANDSEEK -- 隐形
+UPGRADEME -- 升级
+WOULDYOU? -- 与全部对手结盟
+IWANTTOKILLEVERYBODY -- 与全部对手处于战争状态
+IWANTTOBUILDAGAIN -- 再造一次
+IWILLKEEPANEYEONYOU -- 查看敌人状况
+WHOTURNEDOFFTHELIGHTS -- 隐藏地图
+NOWICANSEEYOU -- 揭开地图
+WHATALOSERIAM -- 立即失败
+NOBODYCANBEATME -- 立即胜利
+GIVEMEANOTHERCHANCE -- 复活已经死了的部队
+MAKEMESTRONGER -- 恢复健康
+GIVEMEMONEY --获得金子

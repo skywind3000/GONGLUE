@@ -1,0 +1,15 @@
+Urban Chaos
+
+键入[F9]显示控制窗口，接着输入“bangunsnotgames”
+来激活作弊模式和无敌。然后输入以下代码：
+darci--选择Officer D’arci
+roper--选择Roper
+win--过关
+lose--放弃本关
+cctv--图象发绿色荧光
+world--选择音乐 
+ambient [red] [green] [blue]--选择外界环境的颜色
+fade [number]--设置雾的浓度
+tels--将当前位置存盘
+telr--返回存盘位置 
+

@@ -1,0 +1,21 @@
+HYPE：The Time Quest
+
+在游戏中直接输入下列密码：
+HYPE：生命值全满 
+DRUIDE：魔法值全满 
+GORK：防御值全满 
+GLITTERGOLD：获得金钱 
+LITTLETROLL：生命值再生，每次一点 
+LITTLEGOGOUD：魔法值再生，每次一点 
+OUIOUI：加十支蓝箭 
+NONNON：加十支红箭 
+GROLO：在每个道具栏加进红蓝箭各十支 
+HOUDINI：无限箭 
+HERMETIK：无限魔法 
+TOUTUNDEFI：破坏HYPE的盔甲 
+POULETFRIT：在道具栏加进Speed Boot 
+THEREYOUGO：所有魔法 
+WONDERFUL：跑得超级快 
+END02：在战斗开始前打 
+Barnak：一下可立即杀死它 
+THUNDERGOD：隐形

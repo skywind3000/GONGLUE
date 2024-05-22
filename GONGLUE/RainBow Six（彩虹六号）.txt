@@ -1,0 +1,19 @@
+RainBow Six（彩虹六号）
+
+按‘’’键激活作弊模式后输入：
+
+TEAMGOD＝所有队员不死
+AVATARGOD＝玩家控制队员不死
+STUMPY＝Stumpy模式
+CLODHOPPER＝扩大玩家控制队员的脚和手
+MEGANOGGIN＝Mega模式
+BIGNOGGIN＝大头模式
+5FINGERDISCOUNT＝重装弹药
+NOBRAINER＝AI关闭
+DEBUGKEYS＝Debug键激活
+SILENTBUTDEADLY＝？
+FASTACTIONRESPONSETEAM＝？
+TURNPUNCHKICK＝改变3D队员为2D
+1-900＝重呼吸
+EXPLORE＝胜利条件开/关
+

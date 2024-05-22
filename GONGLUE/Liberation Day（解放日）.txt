@@ -1,0 +1,9 @@
+Liberation Day（解放日）
+
+到游戏安装目录(缺省是Iday)内的EXE目录下,打开并编辑libday.ini文件,将文件中cheats=0改为cheats=1. 然后进入游戏,同时按下:
+TAB和W:任务胜利
+TAB和L:任务失败
+TAB和D:得到城市和发展模式下的资源
+TAB和R:防御无限
+TAB和Q:行动力无限
+

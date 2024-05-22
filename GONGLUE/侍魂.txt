@@ -1,0 +1,5 @@
+侍魂
+
+L=左 R=右 U=上 D=下 A=轻拳 B=重拳 C=轻脚 D=重脚绝招：狗王：LDRL+D 十兵卫：LDRL+C右京：LRDL+AB猫女：LRDL+A幻十郎：LDRL+A忍者：LDRL+D霸王丸：LDRL+A西洋剑：LDRL+BQ版： 幻十郎：LDRLR+D狗王：LDRLR+C秘技：狗王&忍者：LRLRLRD+BCD
+
+

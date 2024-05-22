@@ -1,0 +1,5 @@
+Wing Commander IV（银河飞将IV）
+
+在飞行中"C"提示时输入 WC4_CHICKEN ,然后按住CTRL+W,可以破坏已经选择了的目标.如果按住CTRL+ALT+W则可以破坏全体.
+
+

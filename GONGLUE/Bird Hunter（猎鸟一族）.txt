@@ -1,0 +1,16 @@
+Bird Hunter（猎鸟一族）
+
+以下秘技在猎人视角与地图视角同时适用：
+
+DGGOLDENEGG：使鸟类外表变得古怪，有些象幽灵；
+DGLUCKYDUCK：变出好多好多的鸟。
+以下秘技只有在地图视角中使用：
+DGBIRDSEYE：在地图中显示出鸟的图标；
+DGWARP：允许猎人能够"瞬间移动"。
+
+以下秘技只有在猎人视角中使用：Only the hunt view:
+
+DGEGGSACT：停止枪支抖动；
+DGFAMINE：使鸟类自己出来寻觅饲养点；
+DGPREDATOR：调出食肉动物模式；
+DGSNOWGOOSE：调出气候影响模式。

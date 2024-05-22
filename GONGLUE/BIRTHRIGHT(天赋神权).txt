@@ -1,0 +1,10 @@
+BIRTHRIGHT(天赋神权)
+
+按住F3然后输入：
+
+SYNFLY：飞行
+SYNHEAL：恢复健康
+SYNAVD：升级
+SYNCASH：得到1000块
+SOCIOLOGY：得到?
+

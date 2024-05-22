@@ -1,0 +1,39 @@
+柏德之门2
+
+在修改之前建议先将重要文档做个备份，然后用任何文本编辑器打开 Baldur.ini 文档，找到以下的参数行： 
+[Program Options] 
+输入： 
+Debug Mode=1 
+保存退出，以后在游戏中只要按下 Ctrl 和 空格键 便能开启控制台，这样你就可以输入以下的密码了： 
+CLUAConsole:SetCurrentXP(amount) 给当前角色或者小组以指定的XP（注意上限是2950000） 
+CLUAConsole:AddGold(amount) 得到金钱 
+CLUAConsole:CreateItem("物品代码",数量) 得到指定数量的物品（注意在数量处没有逗号） 
+下面是个得到指定数量卷轴的例子： 
+CLUAConsole:CreateItem("scrl75",100) 
+物品清单： 
+chan06--Drizzt's +4 Chainmail 
+leat08---镶钉皮革 +3:影子盔甲 
+plat05--全板 +1 
+helm04--护卫头盔 
+shld04--中型盔甲 +1 
+shld06--大型盔甲 +1 
+shld17--小圆盾 +1 
+ring07--防御戒指 +2 
+ring08--魔法戒指 
+brac14--护带 AC 4 
+clck02--护身斗篷 +2 
+belt06--巨人强度的腰带 
+boot01--加速靴子 
+staf08--武杖 +3 
+hamm08--战锤 +2 
+sw1h09--短剑 +2 
+sw1h40--玫瑰刀(长剑 +3 +2Cha) 
+sw1h49--忍术 +1 
+sw2h09--战刀(2-H sword +4) 
+bow18--短弓 +2 
+bow17--长弓 +2 
+slng03--投石器 +3 
+ax1h03--战斧 +2 
+halb03--戟 +2 
+最高状态： 
+等建立一个角色时你开启了 debug mode=1 或者 cheats=1 并且按下 Ctrl、Shift和8 则可获得最高状态。假如在这么做之前你的某些属性削减了一点，那么你要尽力提升到19（譬如精灵技巧）。

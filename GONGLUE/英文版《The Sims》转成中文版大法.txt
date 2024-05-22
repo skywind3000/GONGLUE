@@ -1,0 +1,5 @@
+英文版《The Sims》转成中文版大法
+
+使用Windows的Regedit，修改Registry。 
+　　进入Regedit找寻“HKEY_LOCAL_MACHINESoftwareMaxisThe Sims”，修改SIMS_LANGUAGE，将「USEnglish」，改成「TraditionalChinese」，执行游戏，整个界面都会换成中文。
+

@@ -1,0 +1,9 @@
+Hellbender （星际飞龙）
+
+AUNTEM#（# = 1-8）：跳到1-8号星球
+IMPUMPD：得到所有武器
+IMSTUCK：进入下一星球
+MAXMEUP：护盾恢复至100%
+STEROIDS：无敌
+TOTLPWR：主能源升到100%
+URDEAD#（# = 0-9）：得到0-9号武器

@@ -1,0 +1,3 @@
+Armored Fist（装甲雄狮）
+
+游戏中按住 Backspace 并输入 kyle 可修复坦克，在主菜单还会出现弹药和燃料的选项。

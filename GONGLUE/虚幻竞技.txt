@@ -1,0 +1,24 @@
+虚幻竞技
+
+单人模式下的密技
+按“`”后输入下列密码
+iamtheone——开启密技模式
+god——无敌模式
+loaded——所有武器
+allammo——所有盔甲
+ghost——穿墙
+fly——飞行模式
+walk——行走模式
+killall [class]——杀掉所有等级为[class]的敌人
+playersonly——时间暂停
+behindview 1——后视角
+behindview 0——正常视角
+open [mapname]——跳到“XXX”地图
+summon [item] ——得到一种枪
+枪的名称：
+Cannon
+Eightball
+Flakcannon
+Nali
+Skaarjwarrior
+Quad Shot

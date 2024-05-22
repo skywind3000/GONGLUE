@@ -1,0 +1,19 @@
+NHL 98（冰球９８）
+
+awaygoal: 给定目标
+check: 自动检查对手以及和别人通信
+flash: 站立摄影
+grab: 和check功能相似
+homegoal: 给定目标
+injury: 伤害
+mantis: 给你武器
+nhlkids: 自动控制
+penalty: 罚款
+spots: 开灯
+victory: 开始比试
+zambo: 把zamboni放在冰上
+以下密码要在credits菜单处于加亮状态时输入,如果正确会有一个提示的声音
+eaeao: EA Blades队可用
+stanley: 看过关电影
+ultimatejudge: 允许通过Internet进行游戏
+

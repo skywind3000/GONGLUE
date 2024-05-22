@@ -1,0 +1,18 @@
+霹雳小组3
+
+游戏中， 按SHIFT + ~调出控制台，然后输入以下密码： 
+iamleet = 立刻胜利 
+johnwoo = 速度变慢 
+swatlord = 整个小队无敌 
+biggerpockets = 弹药无限 
+casual = 小队队员没穿衣裤 
+doubleshot = 开火速度变快 
+nc17 = 受伤后流血更多 
+noshades = 夜晚的任务在变白天 
+hotstuff = 嫌疑犯变得很难杀死 
+justin = 嫌疑犯不会投降 
+不会伤害自己人： 
+用文本编辑工具编辑"swat.cfg"这个文件，把"shootgoodguys=1"改成
+"shootgoodguys=0"。 
+
+

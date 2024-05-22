@@ -1,0 +1,13 @@
+Excessive Speed
+
+在主菜单中输入以下代码：
+alltracks:全部赛道
+allcars：全部汽车
+addmissile：重装导弹
+addturbo：加TURBO
+addlife：加命
+addshield:加防护盾
+addearthquake：地震
+addenergy：加能量
+addmine：加矿物
+addghost：幽灵车

@@ -1,0 +1,14 @@
+DeadLock 2(死亡之锁 2)
+
+游戏中按下Ctrl+F2,然后输入：
+PILE IT ON 增加资源
+Q40 研究所有项目
+GREEBLIE 完成当前研究项目
+WALL2WALL 人口数目最大
+LEO 显示敌人地区的资源和军队
+BIGBRO 显示部分区域
+CHARISMA 和对手结盟
+S-MART-Skirineen 马上出现
+SQUISH 胜利
+注意:以上秘籍在Campaign模式里无效
+

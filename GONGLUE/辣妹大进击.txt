@@ -1,0 +1,8 @@
+辣妹大进击
+
+在游戏进行中，可以输入下列秘技：
+    ~dansmartbomb         屏幕上敌人全灭
+    ~ingesta        弹药全满
+    ~ingesth        生命全满
+    ~ingestw        弹药全满
+    ~ingetste       能源全满

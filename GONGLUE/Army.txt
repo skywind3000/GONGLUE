@@ -1,0 +1,14 @@
+Army
+
+在游戏中按下“\”键，再输入“!when all else fails...”启动秘技模式。再输入以下秘技：
+!a better tomorrow ＝火焰枪
+!armageddon＝决战战场
+!doctor doctor＝治疗
+!acme discs＝埋设地雷
+!beautiful nikita＝狙击枪
+!god of gamblers＝同上
+!fourth of july＝M80机枪
+!gnomish inventions＝炸药
+!geronimo!＝空中攻击
+!jumpjets＝飞行
+

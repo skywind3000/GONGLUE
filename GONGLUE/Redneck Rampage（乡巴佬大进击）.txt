@@ -1,0 +1,23 @@
+Redneck Rampage（乡巴佬大进击）
+
+在游戏进行时键入下列密码：
+
+RDALL 得到一切(钥匙，武器，弹药等)
+RDBETA 显示"Eat me!"
+RDCLIP 穿墙术
+RDDEBUG 编辑模式开关
+RDELVIS 显示 "Elvis Lives!"
+RDGUNS 所有武器
+RDHOUNDDO 显示"Elvis is dead!"
+RINVENTORY 所有物品
+RDKEYS 所有钥匙
+RDMAXX 显示 "Maxx rules"
+RDMONSTERS 敌人全灭
+RDMOONSHINE 月光模式
+RDRAFAEL 显示 "For your grandpa!"
+RDRATE 显示每秒帧数
+RDSHOWMAP 显示地图
+RDSKILL#(#：1-4) 设定难度为#
+RDUNLOCK 打开所有的锁
+
+

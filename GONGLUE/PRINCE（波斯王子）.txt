@@ -1,0 +1,19 @@
+PRINCE（波斯王子）
+
+启动游戏时键入PRINCE MEGAHIT进入游戏后，可使
+用以下密技：
+＋：增加时间
+—：减少时间
+K：把屏幕上敌人全部KILL
+R:王子复活
+SHIFT+L:过关
+SHIFT+T:增加一条生命
+SHIFT+S：治疗
+SHIFT+W：可安全由高处跳下
+SHIFT+I：上下颠倒
+SHIFT+N：观看画面以下的地方
+SHIFT+U：观看画面以上的地方
+SHIFT+H：看左面
+SHIFT+J：看右面
+SHIFT+B：改变化面显示情况
+

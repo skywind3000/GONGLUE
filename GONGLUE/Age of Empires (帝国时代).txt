@@ -1,0 +1,33 @@
+Age of Empires (帝国时代)
+
+测试版
+按CTAL-N开始新游戏，然后进入单人游戏的任务MODE：
+然后按以下键:
+CTAL-Q：快速建造
+CTAL-W：木材1000单位
+CTAL-G：钱1000单位
+CTAL-F：食物1000单位
+CTAL-S：石料1000单位
+正式版
+在游戏中按下回车键激活密技模式，然后输入以下字符串以获得相应的密技功能:
+big bertha - 攻城器（Catapult）的最大攻击距离达到16，直径为10 
+JACK BE NIMBLE：攻城器发出混合弹药 
+big daddy - 得到赛车
+coinage - 1000金
+flying dutchman - 得战舰,可上陆地
+gaia - 魔法师力量变强
+home run - 过关
+medusa - 农民被杀后变骑士,再被杀变投石车
+no fog - 雾效果取消
+reveal map - 全地图
+steroids - 加速
+pepperoni pizza - 1000食物
+photonman - 可以得到一个手持激光武器的人
+quarry - 1000石头
+woodstock - 1000木材
+E=MC2：骑兵带上核子武器
+HOYOHOYO：牧师的速度变为6，生命力变为600 
+ICBM：弩炮的范围达到100 
+HARI KARI：摧毁你所有的建筑和单位
+DIEDIEDIE：所有人（包括自己）死亡
+RESIGN：投降

@@ -1,0 +1,8 @@
+SimCopter by Maxis
+
+I’m CEO of Mcdonnell Douglas ：当你在hanger 上选择直升机
+时，从1 按到9 ，你就可以得到所有的直升机。
+Warp me to Career ？ ：在“career ”模式中能让你改变“career ”，其中？
+表示career 的城市，可选项从0 到30 。
+Gas does grow on trees ：给你无限的汽油，而且不会受到伤害。
+

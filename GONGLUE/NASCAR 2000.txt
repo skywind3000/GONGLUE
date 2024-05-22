@@ -1,0 +1,17 @@
+NASCAR 2000
+
+Benny Parson 
+　　选择 “Richmond”赛道 , 选择赛车并键入， 右, 右, Z, Z, 左, 左, C-上, C-上, C-下, C-下. 如果你键入的正确，你可以听到一声响声。 
+
+　　Cale Yarborough 
+　　选择 “Darlington”赛道, 选择赛车并键入 ，C-上, C-左, C-下, C-右, C-上, C-左, C-下, C-右, Z, Z. 
+
+　　Davey Allison 
+　　选择“ Talledega” 赛道, 选择赛车并键入 ，C-上, C-下, C-左, C-右, C-上, C-下, C-左, C-右, Z, Z. 
+
+　　Alan Kulwicki 
+　　选择“ Bristol” 赛道, 选择赛车并键入，左, 右, C-上, C-上, C-上, C-上, C-左, C-左, C-右, C-右. 
+
+　　David Parson 
+　　选择 “Martinsville” 赛道, 选择赛车并键入， 左, Z, 右, C-右, C-下, C-左 , C-上, C-右, Z, Z.
+

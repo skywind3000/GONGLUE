@@ -1,0 +1,13 @@
+Rocket Jockey（暴力飞车）
+
+本密技只有在联线版本（multiplayer version）才有效，在菜单画面时能输入下列密技：
+
+FEZME 作为Fez Boy参赛
+LEVELME 选关
+ROCKETME 得到隐藏的火箭车
+在菜单画面时能输入下列密技：
+ANCHORME 得到铁锚
+CLAWME 得到爪子
+COOLME 得到冷冻剂
+PROBEME 得到探针
+

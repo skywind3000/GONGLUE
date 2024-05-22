@@ -1,0 +1,10 @@
+FIFA2000
+
+在游戏选项菜单中键入下列字 
+MOMONEY = 无限资金 
+HOOLIGAN = 附加队 
+BURNABY = EAC球场 
+SIZZLE = 闪电模式 
+DIZZY = 异形模式 
+LIGHTSOUT = 发光（glow)模式 
+

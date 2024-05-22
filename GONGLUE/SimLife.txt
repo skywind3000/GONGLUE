@@ -1,0 +1,12 @@
+SimLife
+
+游戏中输入以下代码：
+food：停止Ultra-Food来源
+joke：显示笑话
+fund：显示"You are now $10,000 richer" 
+weiss：不详？？
+seed：到处长满植物
+wall：岩石变成墙壁
+baby：不详？？
+just：奇怪的噪音 
+

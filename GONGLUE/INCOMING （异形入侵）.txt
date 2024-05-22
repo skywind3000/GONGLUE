@@ -1,0 +1,31 @@
+INCOMING （异形入侵）
+
+在主画面输入 NUMBERONEDACRESTREET
+画面会出现密技选单
+按住 SHIFT 键输入:
+WIREWEWAITING =地形变断层图
+SOLIDASAROCK =断层图恢复正常
+OLDMACDONALD =牛会跳起来保护农场
+FLYMETOTHEMOON =在月球上赛车
+HAVEALL =得到全部东西
+SUPERDAISY =一枪消灭所有敌人
+SUPERSHOOT =一枪消灭所有敌人
+INVUNERABILITY =无敌
+INFINITELIVES =弹药无限
+INFINITEWEAPONS =武器无限
+GOURAUD =阴影模式
+FLATBROKE =关掉阴影
+WHATSTHEPOINT = Turns graphics to the dots
+MASTEROFTHEUNIVERSE = Atleast it changes textures on & off
+
+密技功能键:
+F2 =敌人容易射击
+F3 =无敌
+F4 =无限条命
+F5 =武器无限
+F6 =精灵炸弹
+F7 =离开
+F8 =存档
+F9 =读取存档
+F10 =显示框页新关卡
+

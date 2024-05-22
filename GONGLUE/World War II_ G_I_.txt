@@ -1,0 +1,13 @@
+World War II_ G_I_
+
+ww2god －上帝模式 
+ww2blood －获得所有物品 
+ww2level －过关 
+ww2rate －第一人称模式 
+ww2matt －疯牛模式 
+ww2showmap －显示地图 
+ww2ryan －上帝模式 
+ww2clip －没有墙壁阻隔 
+ww2debug －检测模式 
+
+

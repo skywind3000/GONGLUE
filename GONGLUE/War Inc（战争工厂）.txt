@@ -1,0 +1,22 @@
+War Inc（战争工厂）
+
+在游戏中按下ALT键不放然后键入"WAR",松开ALT键后输入以下密技:
+togglefog:消除战场上的迷雾 
+viewmap:显示整张地图 
+lockandload:重整所有的作战单位(包括敌方) 
+autowin:立即消灭敌方所有作战单位 
+toggleai:电脑AI开/关 
+rearm:重整所有活动的作战单位 
+moremoney:得到一百万元和1000Rus 
+combo:同时实现消除迷雾、显示整张地图、快速建造以及得到一百万元和1000Rus
+veteran: 将当前作战单位升级 
+godmoade: 打开无敌模式 
+killactiveunit:消灭当前的作战单位 
+enemypowerup:给敌人一个总部命令 
+showdanger:显示危险系数 
+loadunits:激活所有作战单位和建筑 
+dolemite: 使当前作战单位增至最大 
+dogeatdog:双倍电力输出 
+wincampaign:立即通过当前关卡 
+quickbuild:快速建造 
+

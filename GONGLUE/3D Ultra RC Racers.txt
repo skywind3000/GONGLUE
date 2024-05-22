@@ -1,0 +1,10 @@
+3D Ultra RC Racers
+
+在比赛中快速输入以下代码：
+sticky：增加所有车的牵引力
+slippery：使车象在冰上行使一样
+turbo：车速度加倍
+war：每个人都有无限的Bottle Rockets
+hitme：好斗的电脑司机 
+moon：减少重力
+heavy：增加重力

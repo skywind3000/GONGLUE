@@ -1,0 +1,13 @@
+Streets of SimCity
+
+按CTRL+ALT+X打开作弊对话框,以下秘技只能在"player’s choice part of the game"中使用,在"Screnario"和"network"中是不行的.
+cruise control-自动控制
+earth- 地心重力和地球相同
+im back- 修复
+jupiter- 地心重力为地球四分之一相同
+lock and load- 加满弹药
+mr fabulous- 无敌
+moon- 地心重力和月球相同
+mars- 地心重力和火星相同
+
+

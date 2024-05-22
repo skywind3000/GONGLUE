@@ -1,0 +1,21 @@
+Ripper（凶兆）
+
+在解谜或者动作破关过程中键入下列密码就能直接跳过：
+
+密码     谜题或动作关卡名
+----     ----------------
+ARCADE   Catherine’s well ice
+ARCADE   Falconetti’s shooting gallery
+ARCADE   Orestes’ well ice
+ARCADE   Odysseus’ well
+ASPIRIN  Pegasus’ well chess game
+CAFFEINE Catherine’s brain
+HEADACHE Falconetti’s secret well puzzle
+PARADISE Falcon Eddie’s well
+PISCES   Catherine’s apartment
+PRETZEL  Anti-Viral well puzzle
+SPARKY   Dr. Burton’s secret lab
+SPONGE   Falconetti’s book puzzle
+ZZTOP    Web Runners archive sliding puzzle
+
+

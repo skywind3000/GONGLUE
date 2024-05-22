@@ -1,0 +1,11 @@
+赛普拉特之核
+
+在游戏中按下F12键然后输入“imarealweenie”，以后按下F12键输入以下密码即可： 
+enemies 列出敌人的打击点 
+sight 显示视线 
+spy 显示调试数值 
+makethemstopmommie 敌人不会攻击 
+hidetext 关闭说过的文字 
+fps 显示刷新率 
+mapmaker 以BMP格式显示地图 
+Ctrl_F3 取得胜利并赢得点数及金钱

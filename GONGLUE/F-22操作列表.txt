@@ -1,0 +1,232 @@
+F-22操作列表
+
+幻翼提供 
+
+Quit = /N LSHF Q
+
+Move_to_Awacs = /N ESC
+
+Options_screen = /N LSHF O
+
+go_to_ACMI = /N LSHF a
+
+game_pause = /N p
+
+next_event = /N LSHF S
+
+accelerated_time = /N LSHF T
+
+pilot_aids = /N ALT g
+
+ACMI_on_off = /N ALT r
+Cockpit Views
+
+wide_angle = /N k
+
+defense_mfd = /N KP1
+
+situation_mfd = /N KP2
+
+attack_mfd = /N KP3
+
+warnings_mfd = /N KP4
+
+up_front_mfd = /N KP5
+
+Artificial_horizon = /N KP6
+
+Forward_View = /N KP8
+
+Systems_mfd = /N KP0
+
+Virtual Cockpit
+
+virtual_cockpit = /N F1
+
+check_six = /N LSHF F1
+
+Current_target_padlock = /N F2
+
+threat_padlock = /N F3
+
+views_paflock = /N F4
+
+
+
+External Views 
+
+cycle_player\target = /N LSHF F2
+
+cycle_player\threat = /N LSHF F3
+
+cycle_player\object = /N LSHF F4
+
+movable_external = /N F5
+
+cycle_player_views = /N LSHF F5
+
+player_flyby = /N F6
+
+player_looping_flyby = /N LSHF F6
+
+player\ground_static_view = /N F7
+
+missile_view\pylon_view = /N f8
+
+padlock_movable_external = /N F9
+
+padlock_fixed_external = /N LSHF F9
+
+padlock_flyby = /N F10
+
+padlock_looped_flyby = /N LSHF F10
+
+Padlock_browse_filters = /N LSHF F11
+
+Smart View 
+
+smart_view_on = /N F12
+
+smart_view_hold\unhold = /N F9
+
+smart_view_object = /N F10
+
+smart_view_allegiance = /N F11
+
+Engine/Throttle
+
+Engine_1_On/Off = /N [
+
+Engine_2_On/Off = /N ]
+
+Both_Engs_On/Off = /N [ /N ]
+
+Throttle_Up = -
+
+Throttle_Down = +
+
+snap_throttle_full = /N LSHF +
+
+snap_throttle idle = /N LSHF -
+
+Flight Control
+
+auto_Recovery = /N d
+
+landing_Gear = /N g
+
+Brakes = /N b
+
+left_rudder = /N ,
+
+right_rudder = /N .
+
+left_toe_brake = /N LSHF ,
+
+right_toe_brake = /N LSHF .
+
+eject = /N LSHF ESC
+
+open_canopy = /N i
+
+jettison_menu = /N j
+
+thrust_vectoring = /H `
+
+bomb_bay_doors = /H o
+
+
+
+AutoPilot
+
+AutoPilot_On/Off = /N a
+
+cycle_back_Waypoint = /N q
+
+cycle_forward_waypoint = /N w
+
+Combat Controls
+
+Fire_Weapon = /N SPC
+
+change_Fire_mode = /N f
+
+cycle_targets_backwards = /N x
+
+cycle_targets_Forwards = /N z
+
+cycle_group_forwards = /N LSHF |
+
+cycle_group_backwards = /N LSHF Z
+
+create_shoot_list = t
+
+shoot_list_forwards = /N x
+
+shoot_list_backwards = /N c
+
+add_target_to_shootlist = /N s
+
+add_target_to_wingmans_shootlist = /N m
+
+
+
+Laser Designator
+
+cycle_LANTIRN_modes /N l
+
+Systems Control
+
+emissions_menu = /N e
+
+night_vision = /N v
+
+
+
+HUD Controls
+
+HUD_cycle_mode =/N h
+
+HUD_cycle_colour = /N LSHF H
+
+HUD_AIR-AIR = /N ENT
+
+HUD_AIR-GRND = BSP
+
+Countermeasures
+
+launch_chaff = RAW (#4C#F0#4C)
+
+launch_flare_string = RAW (#52#F0#52)
+
+launch_decoy = /H RAW (#12#4A#F0#4A#F0#12)
+
+Stores Control
+
+jettison_menu = /N j
+
+Communications
+
+wingmen_menu = /N TAB
+
+frequency_1_= /N 1
+
+frequency_2 = /N 2
+
+frequency_3 = /N 3
+
+frequency_4_= /N 4
+
+user_message = /N 5
+
+team_message = /N 6
+
+repeat_last_message = /N r
+
+answer_yes = /N y
+
+answer_no = /N n
+
+Misc Controls
+
+

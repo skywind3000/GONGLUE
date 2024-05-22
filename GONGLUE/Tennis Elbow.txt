@@ -1,0 +1,9 @@
+Tennis Elbow
+
+在游戏中输入以下密码
+MTBAL-增加球的尺寸
+MTKIL-赢得比赛
+MTRUN-加速
+MTWIN -胜利
+空格,右SHIFT,-键一起按可以赢得所有分数
+

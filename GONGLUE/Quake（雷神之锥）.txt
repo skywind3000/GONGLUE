@@ -1,0 +1,27 @@
+Quake（雷神之锥）
+
+键入“~”激活欺骗模式，再输入以下密码：
+
+COLORxx（xx：00-13） 改变主角的衣服
+FLY 切换飞行模式
+GAMMA#.#（#.#：0.0-1.0） 调节亮度
+GIVE # 得到第#号武器
+GIVE C ### 把能量调至###
+GIVE H ### 把血格调至###
+GIVE N ### 把钉子数调至###
+GIVE R ### 把火箭数调至###
+GIVE S ### 把护盾调至###
+GOD 切换无敌模式
+IMPULSE # 挑选各种武器( # = 1-7）
+IMPULSE 9 所有武器和钥匙
+IMPULSE 11 传送到大关的关底
+IMPULSE 255 加大伤害
+KILL 自杀
+MAP E#M# 跳入第#大关中的第#小关
+NAME 改变玩家的名字
+NOCLIP 穿墙术
+NOTARGET 隐形
+SKILL #（0为EASY级, 3为NIGHTMARE级）设定难度为#
+STATUS 显示当前状态
+SV_GRAVITYxxx（xxx：00-850，00为无重力，850为正常重力）设定重力为#
+VERSION 显示版本信息

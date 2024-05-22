@@ -1,0 +1,70 @@
+Quake II：Ground Zero（雷神之锤II：核爆毁灭）
+
+和《雷神之锤II》一样，在游戏中输入"GiVE XXX"和"MAP XXX"（XXX为相应物品和关卡名称）后回车可得到相应物品和关卡：
+
+物品名称列表
+
+ChainFist
+ETF Rifle
+Plasma Beam
+Prox Launcher
+Tesla
+Double Damage
+Hunter Sphere
+Defender Sphere
+Vengeance Sphere
+A-M Bomb
+IR Goggles
+Doppleganger
+Flechettes
+Prox
+
+更简单的是直接使用输入以下命令行： 
+
+give all
+give weapons
+give ammo
+
+关卡地图列表（使用"MAP"命令）
+
+单人游戏地图：
+
+RMINE1 Lower Mines
+RMINE2 Mine Engineering
+RLAVA1 Thaelite Mines
+RLAVA2 Tectonic Stabilizer
+RWARE1 Eastern Warehouse
+RWARE2 Waterfront Storage
+RBASE1 Logistics Complex
+RBASE2 Tactical Command
+RHANGAR1 Research Hangar
+RHANGAR2 Maintenance Hangars
+RSEWER1 Waste Processing
+RSEWER2 Waste Disposal
+RAMMO1 Munitions Plant
+RAMMO2 Ammo Depot
+RBOSS Widow’s Lair
+
+多人地图列表
+
+RDM1 The Low Road
+RDM2 The High Road
+RDM3 Boxed In
+RDM4 Razor Close
+RDM5 Stone Hinge
+RDM6 Nexus
+RDM7 Sewer Citadel
+RDM8 Styx and Stones
+RDM9 Scenic Overlook
+RDM10 Great Divide
+RDM11 Dish It Out
+RDM12 Fall From Grace
+RDM13 Roads To Nowhere
+RDM14 Rogue’s Edge
+
+其余三个在游戏说明文件中找不到的三个地图列表
+
+RUNIT2 \
+RUNIT3 > Weapon- & Ammo Depot for Units 2, 3 & 4
+RUNIT4 /
+

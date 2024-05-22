@@ -1,0 +1,26 @@
+Escape_ Or Die Trying（虎口馀生）
+
+在游戏主画面输入下列密技∶
+
+lacrimosa = Level select; appears after new game and character chosen
+sophia = Sophia now playable
+karma = Karma now playable
+
+
+在游戏暂停时输入下列密技∶
+
+xul = Full energy
+boz = Full mana
+jbb = Full capacity on all four weapons
+math = Increase power slightly on all four weapons
+grabo = Increase armor, weapon, and spirit levels slightly
+mumu = Maximum experience
+alex = 50 lives
+rik = All spells
+vince = Add one star to each acquired spell
+cachou = Full energy, mana, experience, weapon power;50 lives, slightly increased armor, weapon, and spirit; all spells with 4 stars
+bar = Unknown
+birdy = Unknown
+odt = Unknown
+
+注∶输入成功後会有音效产生。

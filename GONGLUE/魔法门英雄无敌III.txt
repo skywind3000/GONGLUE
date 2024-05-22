@@ -1,0 +1,18 @@
+魔法门英雄无敌III
+
+游戏中按下tab键后输入以下字符串，再按下回车便可获得相应的密技功能：
+nwconlyamodel = 立刻建出城里所有建筑
+nwcsirrobin = 任务立即失败
+nwctrojanrabbit = 任务立即完成 
+nwcavertingoureyes = 英雄部队里的每个空位都填上五个天使长 
+nwcantioch = 英雄获得弩车、医疗车和弹药车 
+nwcigotbetter = 英雄升一级 
+nwccastleanthrax = 英雄获得最大幸运 
+nwccoconuts = 英雄行动力无限 
+nwcmuchrejoicing = 英雄获得最大士气 
+nwcalreadygotone = 观看完全打开的藏宝图 
+nwcgeneraldirection = 打开地图 
+nwcshrubbery = 加各项资源 
+nwctim = 英雄学会全部魔法，且魔法点(spell points)变成999 
+注意游戏被使用了密码后等级为cheater，得分为1，排在最后。 
+

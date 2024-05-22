@@ -1,0 +1,7 @@
+Deep
+
+在游戏中键入
+ds10x 比平时多10倍的鱼 
+dsnobreak 使鱼线不会断 
+dscatchnow 可以立刻钓到鱼 
+dsbluemarlin 使下一条鱼是Blue Marlin

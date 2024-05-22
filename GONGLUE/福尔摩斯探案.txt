@@ -1,0 +1,154 @@
+福尔摩斯探案
+
+！注意！ 在游戏中你必须和所有人尽可能的谈话， 谈到没有话题为止。此外， 在游戏中每项可以得到的物品都一定要 Look 过一遍， 否则会失去很重要的线索， 在攻略中不再赘述。
+
+攻略开始...
+
+211B Baker Street:
+
+　　在住所中， 拿走 Sheet Music (不拿也没关系)， 出门。跟 Winggins 聊聊， 将来破案可要看他了， 注意他手中有一个 Gyroscope 。前往凶案现场 Alley 。
+
+Alley:
+
+　　仔细观察尸体， 再检查 Knife Wounds， 拿走 White powdery residue (如果在此处错过这项物品， 在 Morgue 亦可获得)。捡起左侧地上的烟蒂、中间的 A battered piece of paper 和门边的 Iron Bar， 进门。目击证人惊吓过度， 跟华生要点镇静剂。拿走 Perfume Bottle， Flowers 和花瓶上的 A handwritten card。观察门右上角的 Stain。开门.. 什麽?! 门卡住了? 捡起 Wardrobe 下的 Spring 交给戏院经理即可出门。前往死者住处。
+
+Sarah Carroway’s Flat:
+
+　　检查右边的洗衣篮， 发现一件毛衣， 捡起(Pick up)毛衣， 得知 Kensing- ton Rugby Club。拿起雨伞， 找到一把钥匙。回到 Alley ， 发现尸体被移到 Morgue (停尸间)。前往停尸间。
+
+Southwark Morgue:
+
+　　向法医(Coroner)索取死者私人物品， 未果， 请一旁的 Gregson 帮忙... 看来得请他跑一趟苏格兰场(Scotland Yard)才成。
+
+Scotland Yard:
+
+　　Sergeant Duncan 然不太合作， 华生建议问问外头的瞎子。没想到那家伙原来是假瞎子， 不过他倒给了一个很好的建议。果然奏效， 顺利取得 Pass， 回到 Morgue 取得一把 Large key， 前往 Alley。
+
+Alley:
+
+　　用 Large key 打开戏院後门， 再用 Brass key 打开右边两个抽屉， 取走上层抽屉中的戏票(Opera ticket)， 得知 Sarah 有个姐姐在 Chancery Opera House 唱歌剧。前往 Chancery Opera House。
+
+Chancery Opera House:
+
+　　把戏票给服务生看一下， 即可进场。向右走上包厢， 再把票给 Mrs. Worth- ington 看， 原来她是戏院老板， 向她取得搜查 Anna Carroway 更衣室的授权信， 交给戏院经理。进入房间。
+
+Anna’s Dressing Room:
+
+　　戏院经理有够铁齿的， 硬是不肯搜查， 只好退出房间， 但华生有个好点子.. 再进去一次， 叫华生把经理引开。打开抽屉， 将一串钥匙拿走， 离开房间，回到 Baker Street 的住所。
+211B Baker Street:
+
+　　把从死者身上得到的白色粉末作化验(Use Residue on lab table)， 先将粉末倒入试管， 使用火加热， 再加一点粉末， 发现粉末含砷(arsenic)的成份。再将花拿去化验(Use flower on Microscope)， 发现花是经过人工染色的。用火将锥瓶(flask)加热， 再将花放入， 得知该染料含碘(Iodine)。出门， 将花交给 Wiggins ， 请他查出花的出处。前往香水店一探究竟。
+
+Belle’s Parfumerie:
+
+　　向老板娘询问最近买香水的顾客(2，3，3，1)， 推测是一名橄榄球员。打扫的女孩好像有话要说， 得想办法引开老板娘。La Cote D’Azur 的香水柜好像空了.. 向老板娘买一罐， 她会到後面补货， 趁机向打扫的女孩询问， 得知该名顾客抽香烟的是 Senior Service 牌。前往橄榄球场。
+
+Kensington Rugby Club:
+
+　　跟教练要人， 结果是 James Sanders ， 但他矢口否认。把香水瓶拿给他看，他虽然口头上不承认， 但心虚了。到他住的地方问问他吧。
+
+Eaton Dormitory:
+
+　　把 Sarah 死亡的消息告诉他， 他硬是不信， 看来得找些证据。向法医要死亡证明? 行不通。拿隔天的报纸给他看吧。回到 Baker Street。
+
+211B Baker Street:
+
+　　向 Jonas 要隔天的报纸， 可惜卖光了， 不过他倒知道哪里还有剩。嗯， 叫 Wiggins 跑一趟吧(如果 Wiggins 这时不在， 先跳至地图画面， 再进入 Baker Street， 多进出几次 Wiggins 就会出现)。哇， 真快! 话才刚说完，报纸就到手了。同时 Wiggins 查出花了的来源。先去点醒 James。
+
+Eaton Dormitory:
+
+　　将报纸拿给 James 看， 突破他的心防... 他似乎知道蛮多事的: Anna 的未婚夫 Antonio Caruso 平时喜欢泡在撞球店。Anna 常常去游乐场(Pic- nic Site and Playground)看一个小孩。看来他没有嫌疑。去游乐场看看那小孩吧。
+
+Picnic Site and Playground:
+
+　　那小孩果真沈默寡言， 华生建议先到撞球店找 Anna 的未婚夫。
+
+St. Bernard’s Publick House:
+
+　　Nobby Charleton 和旁边那位观众(Spectator)竟然互踢皮球。Jock Ma- honey 沉不住气， 脱口说出他知道 Antonio 的地址， 但摆出一副为朋友两肋插刀的姿态， 硬是不肯透露。问问酒保， 得知他已经结婚了。 没想到这家伙竟然还在外面拈花惹草， 如何能逃过福尔摩斯敏锐的观察力... 哈哈! 终於说出 Antonio 的住处， 即刻前往。 (此处说话要看时机， 通常是另一个人击球完毕之後才能谈话)
+Antonio Caruso’s Flat:
+
+　　从他口中得到了 Anna Carroway 的住址， 并得知游乐场的小孩一直想要一个 Gyroscope 。咦? Wiggins 不是刚好有一个吗?! 回去跟他买过来。接下来该去游乐场瞧瞧了。
+
+Picnic Site and Playground:
+
+　　把 Gyroscope 给那孩子， 得知他名字叫 Paul ， 但姓什麽他不肯说。他临走的时候忘了把帽子带走。先借用一下好了， 会还的。前往 Anna 家。
+
+Anna Carroway’s Flat:
+
+　　礼貌一下， 先按声铃， 敲个门， 不过没人应门。突然想起 Antonio 说过管家的耳朵不好， 也许... 算了， 自己开门进去好了(Use a ring of keys on door)。好华丽的房子， 跟妹妹 Sarah 的简直有天壤之别。拿起桌上的 Calling card ， 是一个叫 Jacob Farthington 的家伙， 待会儿再去拜访他。上楼， 有管家在不好办事， 华生又有一个调皮的点子了， 把楼下的花瓶打翻， 来个调虎离山。把雕像移开， 拿起 Anna 的日记。原来 Pendant 本身并不珍贵， 最重要的是里头的一封信。去 Jacob 处。
+
+Law Office of Mr. Jacob Farthington:
+
+　　这家伙披露了一个惊人的故事， 原来 Anna 有一个私生子。我看八成是游乐场那个小孩。先去花店看看。
+
+Covent Garden:
+
+　　向卖花的女孩(Lesley)询问最近买花的人(如果问不出个所以然， 表示你没审视过 Hand written card)。把 Hand written card 给 Lesley。买花那家伙好像掉了东西在桶子里。捡起桶子上的 Wire basket ， 再用 Wire Ba- sket 把桶子内的东西勾出来(Use Wire basket on barrel)， 上面有 G.B. 的缩写。进左边的建筑物看看， 原来是一位叫 Rosa 的灵媒(名字後来会碰到)。进入 Moongate Pub ， 捡起地上的羽毛。跟三位酒客玩射飞镖， 赢了之後再打败酒保， 得知一位常客在 Hattington Street 工作。顺便向他询问 Cuff Link ， 得知其为 Blackwind 所有。前往 Hattington Street。
+
+Hattington Street Chemist:
+
+　　跟药剂师买瓶药， 才能与助手谈话。看来 Richard 虽然不老实， 但似乎跟本案无关。前往 Bradley’s Tobacco Shop 询问 G.B. 的事。
+
+Bradley’s Tobacco Shop:
+
+　　Move 3 个 Cigar crate (每个都 Move 2 次)， 走上去 Move Moose Head，得到 Oxford Textdermy， 188 Oxford Street， London 的住址， 往之。
+Oxford Texidermy:
+
+　　拿起桌上的 Knife (凶刀?) 和衣架上的 Smock ， 向 Lars 问出 G.B. 的去向， 华生建议找 Toby (一条狗) 帮忙。前往 Old Sherman’s 处。
+
+Old Sherman’s:
+
+　　向 Old Sherman 要 Toby ， Use leash on Toby ， 来到码头边。拿走左边的绳子; 将 Shed door 打开， 拿起　子。将桶子推到门边， 爬上去拿走水桶; 将桶子推回原处， 再将布捡起。拿水桶装水， 将布沾， 拿布把窗户擦乾净， 往里头瞧一瞧， 发现只有两个， 可以上了。用　子将门打开， 抓到 George Blackwind ， 可惜另一个家伙跑掉了。去 Scotland Yard 跟 Duncan 拿到通行证， 去 Police Court 看看 G.B. 有什麽说词。
+
+Bow Street Police Court:
+
+　　将 Pass 给守卫看即可通过。原来 G.B. 杀错人了， 而他也错过了他该拿到的信。他说去找 Jaimeson 看看， 也许能找到什麽线索。
+
+Jaimeson’s buing and selling:
+
+　　没想到 Pendant 已经卖给 Moorehead 了。但意外得到另一个人名 Robert Hunt 也对 Pendant 感兴趣。去 Moorehead 的办公室查查。
+
+Moorehead and Gardner Detective Agency:
+
+　　Moorehead 不在， 至於 Gardner 则去了动物园， 还没来上班。去动物园查查有何蛛丝马迹。
+
+The London Zoological Gardens:
+
+　　太迟了! 有人被杀了， 赶紧去看看。是 Gardner ! 死得太惨了。根据 zookeeper office 里 Hollingston 的说词， Simon Kingsley 似乎是唯一可能目击整个事件的人， 此外， 他跟狮子 Felix 感情不错。去看看狮子吧， 说不定有线索。狮子笼里有一个东西， 找找 Simon 看看能不能帮忙。
+
+Simon Kingsley’s Flat:
+
+　　起先 Simon 三缄其口。看看火炉旁的靴子和门边的图画， 慢慢引诱他说出事实， 原来他看到 Simon 咬死了 Gardner ， 怕 Felix 受到连累， 於是把尸体移到办公室旁.... 好伟大的情操。那麽狮子笼里的东西就麻烦你啦...
+
+The London Zoological Gardens:
+
+　　进狮子笼里将该物品拿起， 原来是一个怀表， 将它打开， 里头有一张纸，写著 11-17-86 ， 可能是保险箱号码吧? 回去 Detective Agency 告诉他们这个坏消息吧。
+Moorehead and Gardner Detective Agency:
+
+　　用打字机打破窗户， 进门， 得知 Moorehead 的去向。接下来是一段精彩的语音及动画。从 Baker Street 再回到此处。将书柜前的沙发搬开，捡起地上的纸， 再把右下角原本被沙发挡住的书移开， 发现一个保险箱。用怀表中找到的号码将保险箱打开， 找到了失落已久的 Pendant。里头有一封信， 诉说著一项极大的密秘。把沙发移回处才能出门。没线索了吗? 把小孩的帽子拿出来仔细的瞧瞧， 得到帽子的出处。
+
+Eddington’s Equestrian Shop:
+
+　　老板不肯透露帽子的买主， 华生又有鬼点子... 瞧瞧中间那个 Coat of arms ， 原来是赝品， 便宜货。这麽一提， 马上把顾客都吓跑了， 老板只得乖乖说出是 Lord Brumwell 买了这顶帽子给他儿子。前往 Lord Brum- well’s Mansion。
+
+Lord Brumwell’s Mansion:
+
+　　原来一切是 Lord Brumwell 的阴谋。一代宗师福尔摩斯在此又被反锁一次了。拉拉左边那把刀， 再将壁画打开， 发现保险箱。拿起保险箱中的钥匙， 打开门出去， 发现 Brumwell 要寻死... 好吧， 那就去死吧， 反正也救不活了... :) 前往 Robert Hunt 的住处搜搜看有什麽线索。
+
+Robert Hunt’s Flat:
+
+　　打开床头柜上的书， 拿走 Claim tikcet 。打开床边的箱子， 使用 Iron Bar 撬开箱子底， 发现一份文件。到当　去赎回 Robert 的东西。
+
+Jaimeson’s buing and selling:
+
+　　原来是一副算命用的纸牌， 但盒子底下有一枝钥匙。不用说， 那一定是用来启 Madame Rosa 处的某个锁。前往 Covent Garden。
+
+Covent Garden:
+
+　　人去楼空， 刚好方便办事。用从纸牌中得到的钥匙打开桌子的抽屉， 拿到一把银钥匙。动动左边的蜡烛台， 发现一个隐藏的箱子。用银钥匙打开箱子， 取得一份收据， 并得知 Savoy Street Pier ， 往之。
+
+Savoy Street Pier:
+
+　　往窗子里瞧瞧， 赫然发现 Sarah 被绑在里面， 而火药也快爆炸了， 你还在犹豫什麽? 赶快拿出铁棒(Iron Bar)把门撬开， 救出 Sarah 。接下来请慢慢欣赏精彩大结局...
+

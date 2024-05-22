@@ -1,0 +1,14 @@
+Baldur’s Gate
+
+编辑在游戏所在目录的文件baldur.ini，在Game Options条目内增加一行“Cheats=1”。
+存盘后运行游戏，在游戏中输入Ctrl-Tab，来打开/关闭控制台。在控制台输入以下代码,
+回车后即可激活欺骗秘技：
+Cheats:CriticalItems()：得到游戏中全部关键物品
+Cheats:DrizztDefends()：产生一个友好的Drizzt 
+Cheats:DrizztAttacks()：产生一个敌对的Drizzt 
+Cheats:Midas()：获得500黄金
+Cheats:CowKill()：如果你附近有COW，就会得到一个Cow Kill魔法 
+Cheats:TheGreatGonzo()：召唤10个Killer Chickens为你作战 
+Cheats:ExploreArea()：类似与得到千里眼魔法 
+CLUAConsole:SetCurrentXP("[number]")：设置经验值（如：SetCurrentXP("30000")） 
+

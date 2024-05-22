@@ -1,0 +1,10 @@
+Tarzan（泰山）
+
+stlevel＝跳关
+ststage＝选关
+stanimals＝杀死所有敌人
+stsave＝保存游戏
+stload＝载入游戏
+sttarzan＝改变泰山外型
+stjane＝改变简外型
+stcolour＝明亮色彩

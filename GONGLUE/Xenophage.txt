@@ -1,0 +1,16 @@
+Xenophage
+
+在免费版或完全版中：
+BLOOD 血腥攻击。
+STAIN 血流满地。
+HELIUM 地心吸力降低。
+GLASSJAW 作用不明？
+INVISTBLE 战斗者隐型。
+SHADOWS 战斗者隐型，但留下影子。
+BISHOP 发出声音：You suck!
+THOUGHTJINX 挂掉。
+在完全版中：
+ORCHID 令Selena生长。
+CHAMPS 使用BOSS属性。
+XACMAN 进入小游戏
+

@@ -1,0 +1,13 @@
+M_A_X_2（铁血兵团II）
+
+编辑文件名Max2.ini的文件，将其中的设定作如下改动便可进入所有关。
+current_campaign_1_mission=1
+current_campaign_mission=49
+last_campaign_played=49
+在游戏中可输入下列字符开启相应功能：
+[maxspy]显示所有敌人
+[maxstorage]资源变多
+[maxsurvey]显示所有矿藏位置
+[maxsuper]强化选中的单位
+注意：方括号是密码的一部分，不要漏掉！
+

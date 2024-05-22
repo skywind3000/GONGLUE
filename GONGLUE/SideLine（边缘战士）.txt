@@ -1,0 +1,13 @@
+SideLine（边缘战士）
+
+游戏中可键入下列秘技：
+    EMAGBLESS        增加五架战机
+    EMAGCHANGESHIPSHAPE    交换飞机图形
+    EMAGDEMON        观看游戏Demo
+    EMAGMFULLN         指定导弹获得全部补给（
+    EMAGNOF             画面稳速开关
+    EMAGPUTCOINS         增加五次接关）
+    EMAGWFULLN         指定武器获得全部补给
+    EMAGXCHGLEFTRIGHT    屏幕左右相反
+
+

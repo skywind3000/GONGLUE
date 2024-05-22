@@ -1,0 +1,24 @@
+Prince of Persia 3D（波丝王子）
+
+用以下参数即可让游戏从一个特定的关卡开始。
+
+
+-l "geometry\rooms\prisonfix"
+-l "geometry\rooms\ivorytwr"
+-l "geometry\rooms\cistern"
+-l "geometry\rooms\palace2"
+-l "geometry\rooms\palace3"
+-l "geometry\rooms\palace4"
+-l "geometry\rooms\roof1"
+-l "geometry\rooms\cityanddocks"
+-l "geometry\rooms\dirig1a"
+-l "geometry\rooms\dirig1b"
+-l "geometry\rooms\dirig2"
+-l "geometry\rooms\dirigfinale"
+-l "geometry\rooms\ruins"
+-l "geometry\rooms\cliffs"
+-l "geometry\rooms\solar1"
+-l "geometry\rooms\moontemple"
+-l "geometry\rooms\finale"
+进入后选"New Game"即可。注意这样的话，你就不能用正常的顺序玩通游戏了。 
+

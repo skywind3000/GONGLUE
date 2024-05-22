@@ -1,0 +1,3 @@
+Indiana Jones and the Infernal Machine
+
+在游戏中按下F10，在命令窗口中输入以下代码： talkit_marion on:上帝模式： God Mode urgon_elsa：全部武器 All Weapons azerim_sophia：健康项目 Health Items nub_ willie:全部提示： Free Hints

@@ -1,0 +1,19 @@
+Sim Earth
+
+Modify ocean level
+Hold [Option] in the Edit window. Then select “Raise/Lower” land tool. Additional options should appear allowing you to change the sea level. 
+
+当鼠标指向工具框（Toolbox）时输入“fund”，就可得到更多金钱
+
+当鼠标指向工具框（Toolbox）时输入“erad”，动植物就会灭绝
+
+在地图窗口输入“rand”，就会产生随机的海拔高度
+
+游戏中输入大写的"SMOOTH"，就可平整地面
+
+Robots
+Place an atomic bomb in a city of the Nanotech Age. The robots will escape and live as separate life forms. 
+
+JOKE: type at the Gaia window to turn her face into a frying pan.
+
+

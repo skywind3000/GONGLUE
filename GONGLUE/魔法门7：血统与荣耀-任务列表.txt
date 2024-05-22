@@ -1,0 +1,277 @@
+魔法门7：血统与荣耀-任务列表
+
+摘自 魔法门7中文网
+
+任务列表（按地区排列）
+
+由于《魔法门VII》中一般任务的难度降低，只要仔细搜索迷宫即可发现相关任务物品或NPC，故此不一一给出详细的任务解决方法，仅在文后提供部分较困难任务相关资料，以免降低玩家的游戏乐趣。任务的难度分类共分：很容易、容易、中等、略困难、困难、极困难六级。其中很容易和容易两个级别的任务可以以游戏初期的状态完成，中等和略困难的任务需要在游戏中期完成，困难的任务则应该在游戏后期进行，而标注极困难的任务则应该在等级到达一定程度后再考虑。一般说来，不作弊的话，等级60以下的队伍完成最后一类任务都会有风险。
+
+Emerald Island
+
+1、清道夫打猎赛（主线任务） 极容易
+完成：
+找到一瓶红色药水（red potion）并交给岛上的裁判
+找到一枚海贝（Seashell）并交给岛上的裁判
+找到一把长弓（longbow）并交给岛上的裁判
+找到一块地板碎片（Floor tile）并交给岛上的裁判 
+找到一件乐器（Musical instrument）并交给岛上的裁判
+找到一顶有钱人的帽子（Wealthy hat）并交给岛上的裁判
+
+得到的奖励：每找回一件物品，+500经验值，+2声望（fame）；全部完成后，+1000经验值，+4声望。
+
+2、寻找失踪的参赛者（支线任务）容易
+完成：在龙穴中找到失踪的参赛者留下的盾牌并作为证据带给Lord Markham
+得到的奖励：+1000经验值，1000金子，+4声望
+
+
+Harmondale
+
+1、清理Harmondale城堡（主线任务）容易
+完成：进入城堡，杀死所有生物
+得到的奖励：+5000经验值，+20声望
+
+2、修复城堡（主线任务）极容易
+和Stone City的矮人王谈话找到修复Harmondale城堡的方法
+得到的奖励：没有奖励
+
+3、寻找新的仲裁者（主线任务）容易
+寻找一个新的仲裁者作为已去世的Judge Grey的继任人。这是光明和黑暗路线的选择点，如果选择Bracada Desert沙漠旅店中的人作为仲裁者，则进入光明路线；选择Deyja的那位野心勃勃的人则会进入黑暗路线。
+
+4、从Bracada Desert中央的大传送点进入Celeste，并与Lambent城堡中的Gavin Magnus谈话（光明路线主线任务）容易
+
+5、从Hall of the Pit进入Pit并与Gloaming城堡中的Archibald谈话（黑暗路线主线任务）容易
+
+6、Davrik的戒指（支线任务）一般 
+从Erathia东北方的盗贼洞穴（Bandit Caves）中夺回Davrik的签字戒指（Signet ring）并还给他
+得到的奖励：+5000经验值，5000金子，+20声望
+
+7、查找Darron哥哥的命运（支线任务）容易
+完成：进入白色峭壁洞穴（White Cliff Caves）找回一副ArcoMage纸牌，然后带着纸牌回到Darron处。
+得到的奖励：+2000经验值，750金，+8声望，得到ArcoMage纸牌（可以开始在各地进行ArcoMage纸牌比赛）
+
+8、光明提灯（支线任务）略困难
+完成：从Barrow Downs的通道中找回光明提灯（Lantern of Light）
+
+9、弓箭大师任务（转职任务，光明系）略困难 
+完成：找回完美之弓（Perfect Bow）然后交给Lawrence Mark。这把弓藏在Avlee的泰坦城堡（Titan’s Stronghold）中，城堡里有大量的泰坦和龙，等级较低的玩家只有施展隐形术去偷出这把弓。
+得到的奖励：队伍中所有的魔战士转为弓箭大师（Master Archer），其他人获得荣誉弓箭大师称号
+
+10、学道者任务（转职任务）略困难
+完成：在Barrow Down的通道中找到失踪的冥想点（lost meditation spot）
+得到的奖励：队伍中所有的僧侣转职称为学道者（Initiate），其他人获得荣誉学道者称号
+
+11、大师任务（转职任务，光明系）略困难
+完成：杀死位于Avlee巴之神庙（temple of Baa）中的高级巴之神父（High Priest of Baa）然后向Hume报告。
+注意：你一定要把绵羊披风（cloak of sheep）带回去。
+得到的奖励：队伍中所有的学道者转为大师（Master），其他人获得荣誉大师称号
+
+
+Barrow Downs
+
+1、解救矮人（主线任务）略困难
+完成：解救红色矮人矿中被石化的矮人（共有7个）。红色矮人矿位于Bracada Desert的东北角
+
+2、清理Stone City的地下通道（支线任务）一般
+完成：杀死Stone City地下通道中的所有穴居兽（Troglodyte）即可
+
+
+Bracada Desert 
+
+1、季节披肩（支线任务）一般
+从The Hall of the Pit中取回季节披肩（the Season’s Stole）然后把它还给Bracada Desert的Gary Zimm即可。
+
+2、巫师任务（转职任务）一般
+完成：收集齐6个元素人的部件，然后向巫师学校的Thomas Grey报告
+得到的奖励：队伍中所有的魔法师转职为巫师（Wizard），其他人获得荣誉巫师称号
+
+3、大法师任务（转职任务，光明系）困难
+完成：从Pit中取回神之干涉（Divine Intervention）魔法书，然后交给巫师学校的Thomas Grey
+得到的奖励：队伍中所有的巫师转职为大法师（Archmage），其他人获得荣誉大法师称号
+
+4、突击队长任务（转职任务，光明系）容易
+完成：平息Tulerean Forest中的树林。需要到Tulerean Forest和最老的树（the oldest tree）谈话，然后完成它给你的任务后，向Lysander Sweet报告。
+获得的奖励：队伍中所有的猎人转职为突击队长（Ranger Lord），其他人获得荣誉突击队长称号
+
+5、冠军任务（转职任务，光明系）困难
+完成赢得五场骑士（knight）级以上的竞技场比武。
+得到的奖励：队伍中所有的武士转职为冠军（Champion），其他人获得荣誉冠军称号
+
+
+Erathia 
+
+1、Acromage比赛（支线任务）一般
+赢得所有13家旅馆中的Acromage游戏，然后向Gina Barnes报告
+得到的奖励：几件神器和一些金钱
+
+2、密信传送（支线任务）极容易
+把密信带给Tatalia的领主Markham。然后把牧师的羽毛笔（Parson’s Quill）带回来给Norbert Thrush
+得到的奖励：+5000 xp，2000金子，+20声望
+
+3、解救间谍（主线任务）略困难
+完成：从Tularean Forest的Tularean Caves中解救出Loren Steel并带他返回到凯瑟琳女王处（Queen Catherine）
+
+4、假的军事计划书（主线任务）极容易
+把假的Riverstride军事计划书交给位于Tularean Forest中Navan城堡的Eldrich Parson
+
+5、武士任务（转职任务）略困难
+完成：将位于Barrow Down西北的Haunted Massion中所有的不死生物全部消灭
+得到的奖励：所有骑士转职为武士（Cavalier），其他人转职为荣誉武士
+
+6、黑骑士任务（转职任务，黑暗系）略困难
+完成：掠夺Tularean Forest的Navan城堡（Castle Nava）中的精灵族财宝然后向Frederick Org报告
+获得的奖励：队伍中所有的武士转职为黑骑士（Black Knight），其他人获得荣誉黑骑士称号
+
+7、十字军任务（转职任务）一般
+完成：杀死位于Tatalia北方山洞中的蓝龙Wromthrax the Heartless，然后向随行的查理斯爵士（Sir Charles Quixote）报告
+得到的奖励：队伍中所有的游侠转职为十字军（Crusader），其他人获得荣誉十字军称号
+
+8、英雄任务（转职任务，光明系）一般
+完成：从Deyja的William Setag’s Tower（西方的一座塔）救出Alice Heargrave然后向Sir Charles Quixote报告
+得到的奖励：队伍中所有的十字军转职为英雄，其他人获得荣誉英雄称号
+
+9、流氓任务（转职任务）一般
+完成：从Erathia的下水道进入，找Bill Lasker接到任务后，到位于Tatalia的Markham领主的城堡中偷取一个花瓶（Vase），然后向Bill Lasker报告
+得到的奖励：队伍中所有的盗贼转职为流氓（Rogue），其他人转职为荣誉流氓
+
+10、间谍任务（转职任务，光明系）困难
+完成：移掉位于Deyja的6号了望塔顶的平衡物。只需要触动塔顶南方小屋中的开关即可，然后向Bill Lasker报告
+得到的奖励：队伍中所有的流氓转职为间谍（Spy），其他人获得荣誉间谍称号
+
+
+Tularen Forest
+
+1、三个雕象（支线任务）困难
+完成：找回三个雕象并把他们放置在Bracada Desert, Tatalia和Avlee的神龛中
+得到的奖励：大量的经验值和声望的提升，获得50000金子
+
+2、密信传送（支线任务）极容易
+把密信带给Avlee的仙女国王（Faerie King）。他的居所在Hall Under the Hill，Avlee的西北方
+得到的奖励：+2000经验值，+8声望
+
+3、森林之心（支线任务）困难
+完成：到Tatalia的雇佣兵营（Mercenary Guild）中取回森林之心（Heart of Forest），然后交给最老的树（the Oldest Tree）
+
+3、假的间谍（主线任务）极容易 把假的Loren imposter带给Erathia的凯瑟琳女王（Queen Catherine）。她住在Gryphonheart城堡中
+
+4、军事计划书（主线任务）困难
+从Fort Riverstride中夺取军事计划书并还给Tularean Forest的精灵王Eldrich Parson
+
+5、猎人任务（转职任务）极容易
+完成：与仙女国王（Faerie King）谈话即可
+得到的奖励：队伍中所有的突击队员转职为猎人（Hunter），其他人获得荣誉猎人称号
+
+6、大德鲁依任务（转职任务）一般
+完成：访问位于Tatalia，Evenmorn Islands和Avlee的三个石圈（stonehenge）
+得到的奖励：队伍中所有的德鲁依转职为大德鲁依（Great Druid），其他人获得荣誉大德鲁依称号
+
+7、圣德鲁依任务（转职任务，光明系）困难
+完成：在从Stone City通往Nighon的迷宫中找到矮人王（Dwarf King）的遗骨并将其安放到barrow downs的通道中。这个通道与学道者的转职任务位于同一地方
+得到的奖励：队伍中所有的大德鲁依转职为圣德鲁依（Archdruid），其他人得到荣誉圣德鲁依称号
+
+8、赏金猎人（转职任务，黑暗系）一般
+完成：从市镇中心的悬赏中赢取10000金子然后向Ebednezer Sower报告
+得到的奖励：队伍中所有猎人转职为赏金猎人，其他人获得荣誉赏金猎人称号
+
+
+Tatalia
+
+1、牧师的羽毛笔（支线任务）极容易
+完成：把牧师的羽毛笔（Parson’s Quill）还给Erathia的Norbert Thrush
+
+2、三幅画像（支线任务）困难
+完成：找回三幅画像（paintings）并还给Tatalia的Ferdinand Visconti
+
+
+Avlee
+
+1、仙女之笛（支线任务）极容易 
+完成：把仙女之笛（Faerie Pipes）还给Tularean Forest的Johann Kerrid 
+
+2、魔战士任务（转职任务）一般
+完成：先到Snick处接受任务，取得绳索，然后前往红色矮人矿坑，下矿坑二层调查那部靠墙的奇怪机器，调查后在一小时内撤出，向Snick报告
+得到的奖励：队伍中所有弓箭手转职为魔战士（Warrior Mage），其他人获得荣誉魔战士称号
+
+3、狙击手任务（转职任务，黑暗系）略困难
+完成：找回完美之弓（Perfect Bow）然后交给Steagal Snick。这把弓藏在Avlee的泰坦城堡（Titan’s Stronghold）中，城堡里有大量的泰坦和龙，等级较低的玩家只有施展隐形术去偷出这把弓。
+
+得到的奖励：队伍中所有的魔战士转职为狙击手（Snipper），其他人获得荣誉狙击手称号
+
+
+Mount Nighon
+
+1、Haldar’s remains（支线任务）困难
+完成：从Nighon的迷宫里（The Maze in Nighon）找回Haldar的遗骨并还给Nighon的Mazim Dusk 
+
+2、术士任务（转职任务，黑暗系）极困难
+完成：从巨人大陆（Land of the Giants）的龙穴（Dragon Cave）中取回龙蛋（dragon egg）然后交给Tor Anwyn
+得到的奖励：队伍中所有的大德鲁依转职为术士，其他人获得荣誉术士称号
+
+
+Deyja
+
+1、神父（转职任务）一般
+完成：从Tatalia的海盗洞穴（Tidewater Caverns）找到失落的海盗地图（the Lost Pirate Map）然后交给Daedalus Falk
+得到的奖励：队伍中所有的牧师转职为神父，其他人获得荣誉神父称号。同时通往Evenmorn Isle的船只开通
+
+2、黑暗神父（转职任务，黑暗系）困难
+完成：丑化evermorn island上太阳神庙（temple of the sun）中的祭坛 
+得到的奖励：队伍中所有的神父转职为黑暗神父，其他人获得荣誉黑暗神父称号
+
+3、恶棍（转职任务，黑暗系）困难
+完成：从Gryphonheart城堡（Castle Gryphonheart）中绑架Alice Hargreaves然后把她送回Deyja的William’s Tower
+得到的奖励：队伍中所有的十字军转职为恶棍（Villain），其他人获得荣誉恶棍称号
+
+4、暗杀者（转职任务，黑暗系）困难
+完成：到Celeste的天空庭院（Celestial Court）中暗杀Lady Eleanor Carmine，然后带着证据向Seknit Undershadow报告
+
+
+The Pit（黑暗路线才有）
+
+1、饲养区（主线任务）困难 
+完成：通过饲养区（Breeding Zone）然后向Pit的Archibald报告 
+
+2、灵魂之坛（主线任务）极困难
+完成：从铁拳山（Thunderfist Mountain）取回灵魂之坛（Case of Soul Jars）并交给Pit的Maximus
+
+3、祭坛碎片（主线任务）困难
+完成：从Celeste的光明神庙和Pit的黑暗神庙中取回祭坛钥匙的碎片（altar piece）并交给Pit的Kastore
+
+4、叮当实验室（主线任务）困难
+完成：摧毁叮当实验室（Clanker’s Laboratory）中的魔法防御然后向Pit的Dark Shade报告
+
+5、6、7几个任务与光明路线类似，就不详述了。
+
+8、忍者任务（转职任务，黑暗系）困难
+完成：破译Bracada Desert中巫师学校（School of Sorcery）中的密码，找到The Tomb of Anshwar Nog’Nogoth的位置。进入坟墓后拿到证据然后向Stephan Sand报告
+得到的奖励：队伍中所有的学道者转职为忍者（Ninja），其他人获得荣誉忍者称号
+
+9、黑暗法师任务（转职任务，黑暗系）困难
+完成：从Celeste的试炼之地（the Proving Grounds）中取回黑暗法师之坛（the Lich Jars），然后向Halfgild Mynac报告
+得到的奖励：队伍中所有的巫师转职为黑暗法师，其他人获得荣誉黑暗法师称号
+
+
+City of Celeste（光明路线才有）
+
+1、迷雾之厅（主线任务）困难
+完成：在不伤害任何生物的情况下通过迷雾之厅（Halls of Mist）迷宫然后向Celeste的Gavin Magnus报告
+
+2、地下酒窖（主线任务）极容易（或者困难）
+完成：调查Tatalia的地下酒窖（Wine Cellars）然后向Celeste的Crag Hack报告
+
+3、祭坛碎片（主线任务）困难
+从Celeste的光明神庙和Pit的黑暗神庙中取回祭坛钥匙的碎片（altar piece）并交给Celeste的Resurectra
+
+4、灵魂之坛（主线任务）困难
+完成：取回灵魂之坛（Case of Soul Jars）并交给Celeste的Sir Caneghem
+
+5、控制方块（主线任务）困难 
+完成：杀死藏在Pit中一间小屋里的Tolberti然后把他的控制方块（control cube）交给Celeste的Robert the Wise
+
+6、消灭恶魔（主线任务）极困难
+完成：到巨人大陆（the land of the Giants）的外星人基地中（Colony Zod）杀死Xenofex，然后向在Celeste中Lambent城堡里的Resurectra报告
+
+7、加速器（主线任务）极困难 
+完成：到Avlee西方海洋中的Lincoln中夺回振荡加速推进器（Oscillation Overthruster）并还给Celeste的Resurectra（注：终极任务）
+
+8、光明神父任务（转职任务）困难 
+完成：净化evermorn island上月亮神庙（temple of the moon）中的祭坛 得到的奖励：队伍中所有的神父转职为光明神父，其他人获得荣誉光明神父称号

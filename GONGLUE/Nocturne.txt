@@ -1,0 +1,14 @@
+Nocturne
+
+在游戏中按F10，然后输入以下代码（某些在使用补丁的版本内无效）：
+godgames：上帝模式
+winblows：全部武器和弹药 
+moreammo：更多弹药 
+thunderstorm：外面下雨 
+snowstorm：外面下雪 
+healme：恢复健康 
+silver：得到500颗银子弹 
+aqua：得到500颗Aqua Vampire子弹
+mercury：得到500颗Mercury子弹
+goldmode：秘密消息
+bigboom：快速杀敌

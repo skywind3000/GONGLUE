@@ -1,0 +1,15 @@
+SimAnt
+
+暂停游戏，并且输入以下代码：
+OOPS：10只多产的红蚁后
+just：10只蚁后
+queen或qeen：额外的黑蚁后
+Queen或QEEN：额外的红蚁后
+jenn：黑蚁群不死
+holes：黑蚂蚁有更多的洞穴
+eggs：更多的黑蚂蚁卵
+EGGS：更多的红蚂蚁卵
+mick：倒转蜘蛛
+fred：看结束画面
+Derek：黄蚂蚁不死 
+

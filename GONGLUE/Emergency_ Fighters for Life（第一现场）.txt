@@ -1,0 +1,11 @@
+Emergency_ Fighters for Life（第一现场）
+
+选关
+在事故视窗中将滑鼠指标移到Options上，接著键入SIXTEEN，成功後就会出现任务选择画面。
+
+12 Waterdrops from Plane
+Code: FLOOD
+
+Cars for Free
+Go into the Cars Directory and open all files (don’t change hai.dat and zf.dat). Replace in every file the first line to 0.
+

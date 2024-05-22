@@ -1,0 +1,18 @@
+Crusader：No Remorse（十字军：义无反顾）
+
+输入JASSICA 16,便可听到,Crusaader: No Remorse,这时可以使用以下秘技键:
+
+H = 开始行动
+F10 = 获得所有物品
+Alt+F10 = 无敌
+Ctrl+L = 显示目前位置
+Ctrl+V = 显示游戏版本
+
+
+游戏参数:
+在Dos Prompt加入以下参数启动游戏便可获得以下秘技:
+
+-debug = 除错模式
+-skill # = 将技能改到等级 #
+-warp # = 跳关到关卡 #
+

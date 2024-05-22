@@ -1,0 +1,9 @@
+Genocide_ Remixed Edition
+
+键入TAB，然后输入以下代码：
+god：上帝模式 God Mode 
+framesync Framesync开/关 
+fps：显示刷新率
+give [item]：获得物品。其中ITEM可以是：rocketl/minigun/
+nailgun/pulserifle/health/armor/ammo1/ammo2/ammo3 
+

@@ -1,0 +1,13 @@
+Outlaws
+
+秘技：
+olairhead - 飞行模式 
+olash - 弹药无限
+olcds - 超级地图模式
+olfps - 显示帧速率
+olgps - 显示玩家装备
+oljackpot - 增加财产清单
+olpostal - 全部武器子弹全满
+olredlite - 冻结敌人
+olzip - 空间传送 
+

@@ -1,0 +1,22 @@
+Test Drive IV（生死赛车）
+
+注意: 使用了以下密码后要把进度存在第十个存档中,如果在多人模式下使用,每个人都会受到影响
+在游戏中输入
+aardvark = 不会碰撞
+bandw = 黑白模式
+birdview = 鸟视角观察
+bobcred = 显示制作人员
+colour 改变分辨率
+creditz = 显示分数
+gonzon = 加速模式
+gonzoff = 关闭加速模式
+itslate = 作用未明(如果知道,请告诉0start)
+levellla = 可以使用所有赛道
+miktrout = 大车
+mpalmer = 小车
+nitroxxx = 按喇叭加速
+noaicars = 不允许电脑参赛
+spazzy = 奇幻模式
+sraclla = 使用所有汽车
+stickier = 汽车不会飞起来
+

@@ -1,0 +1,16 @@
+Virtua Squad II（VR特警II）
+
+1.修改vcop2.ini,在[gamesetting]最后加上extra=2,在游戏中按F6进行设置,多了两个新选项
+special
+single click reload - 单击装子弹
+random mode - 敌人随机出现
+mirror mode - 影像模式
+big head mode - 大头模式
+cheat
+auto reload - 自动装子弹
+gun select - 按F3暂停时可用右键选特殊枪
+special gun select - 得到一把无限子弹的枪
+2.在选关时,对着第一关的箭头不断按左键,当时间过后就马上可和最终boss决斗
+
+
+

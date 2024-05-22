@@ -1,0 +1,13 @@
+狂战一族
+
+在游戏中你可以输入以下的密码： 
+/godmode 无敌模式 
+/nextlevel 直接跳关 
+/room ## 传送到指定的房间 
+/moregold 得到100金钱 
+/tinymonsters 微小的怪物 
+/tinyplayers 微小的玩家 
+/insanity 怪物之间互相攻击 
+/repeat 重复上一个的秘技功能 
+/trig （不详） 
+/spawn # 得到指定的物品(#为物品代码1～80)

@@ -1,0 +1,10 @@
+Revolt（梦幻遥控车）
+
+在游戏目录下的 CAR 目录中找到 Paremeters.txt 
+可修改以下各参数 
+
+TopSpeed =极速 
+acceleration =加速性 
+steering rate =操控性 
+wheel size =轮圈尺寸
+

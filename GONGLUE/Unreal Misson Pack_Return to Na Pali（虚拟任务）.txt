@@ -1,0 +1,7 @@
+Unreal Misson Pack_Return to Na Pali（虚拟任务）
+
+在游戏的过程中输入下列代码： 
+效果－－－－－－－－代码 
+取得CA来福枪－－－－Summon CARifle 
+取得枪榴弹－－－－－Summon Grenadelauncher 
+取得火箭筒－－－－－Summon Rocketlauncher

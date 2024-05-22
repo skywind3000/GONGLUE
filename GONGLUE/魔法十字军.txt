@@ -1,0 +1,14 @@
+魔法十字军
+
+在游戏期间，按下Enter并键入下列代码的：
+-EMBIGGENME 上帝模式 
+-CRAZYGUY 全部的咒符和超自然的力量 
+-WHOAH 飞行模式 
+-UBERLOAD 随机的跳关 
+-SHOWFPS 帧频显示 
+-CALCFPS 帧频计算 
+-DEBUG 显示DEBUG信息 
+-BOUNDINGBOX 周围的物体被拉进箱子 
+-3DNOW！ AMD’s 3DNow!支撑开关 
+CSWIRE 风景开关 
+

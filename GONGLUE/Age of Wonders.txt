@@ -1,0 +1,9 @@
+Age of Wonders
+
+首先，使用命令行参数“beatrix”启动游戏（如：
+C:\Age of Wonders\aow.exe" beatrix），然后在游戏
+中按住[CTRL] + [SHIFT] + C，输入以下代码：
+gold--1000金币
+mana--1000魔法水晶
+fog--烟雾开/关
+explore--转换Exploration

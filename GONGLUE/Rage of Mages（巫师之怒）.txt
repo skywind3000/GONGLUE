@@ -1,0 +1,14 @@
+Rage of Mages（巫师之怒）
+
+在游戏中输入#Chicken启动密技模式：
+
+#hide map＝隐藏地图
+#show map＝显示地图
+#create gold＝增加金钱
+#kill all＝杀死所有敌人
+#pickup all＝拾起地上所有物品
+#event X＝显示所有同级部队的对话 (X=数字)
+#modify self+god＝无敌
+modify army+god＝无敌
+#victory＝结束回合立即获得胜利并过关
+

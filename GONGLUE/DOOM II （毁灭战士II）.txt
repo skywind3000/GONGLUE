@@ -1,0 +1,18 @@
+DOOM II （毁灭战士II）
+
+DDQD：无敌
+IDKFA：满枪，弹药，钥匙。
+IDCHOPPERS：得电锯
+IDCLIP：穿墙模式
+IDMYPOS：显示目前位置
+IDCLEVxy：跳关，xy表示第几章第几关
+IDMUSxy：播放某关的音乐
+IDBEHOLDx：x分别键入以下字符：
+a：得完整的地图
+i：隐形，有时间限制
+l：夜视镜
+r：得防护衣
+s：力量爆增
+v：无敌，有时间限制
+
+

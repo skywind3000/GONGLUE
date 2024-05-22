@@ -1,0 +1,8 @@
+Tank Racer
+
+用十六进制来编写tanksave.dat文件： 
+
+　　把04改成FF = 可以用到所有的杯子 
+　　0F改成FF = 可以用到所有的BONI 
+
+

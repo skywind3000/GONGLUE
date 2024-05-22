@@ -1,0 +1,7 @@
+Diablo_ Hellfire （恐惧_ 地狱火）
+
+1.有10000元以上的钱,把10000元钱扔在地上,用任意物品填满物品栏,关掉物品栏去拾10000元钱,
+这时你再打开物品栏就可以剩下的钱己变成10000元了.
+2.建立一个名为command.txt的文件,在文件中加入multitest;cowquest;theoquest;bardtest就可
+以得到一个新角色,并且也可以在网络或局域网中进行连线对战,还可以得到两个新任务.
+3.在command.txt中再加入barbariantest可以得到barbarian,最大有270力气.

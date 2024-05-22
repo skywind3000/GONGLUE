@@ -1,0 +1,11 @@
+天旋地转3
+
+游戏中输入以下密码： 
+burgergod: 无敌 
+ivegotit: 加装所有武器，装备以及工具
+moreclang: 过关 
+testicus: 加掩护 
+deadofnight: 杀死所有敌人 
+byebyemonkey: 后视 
+framelength: 显示帧速 
+treesquid: 全显地图

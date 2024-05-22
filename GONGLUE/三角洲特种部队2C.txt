@@ -1,0 +1,10 @@
+三角洲特种部队2
+
+首先按下“~”键，呼叫出控制台（就像Quake里一样，呵呵） 
+　　然后键入下面作弊代码： 
+　　thetrooper = 无敌模式 
+　　sunandsteel = 充填弹药 
+　　diewithyourbooyson = 无限弹药 
+　　stilllife = 隐身（太黑了吧） 
+　　revelation = 还不清楚 
+

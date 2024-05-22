@@ -1,0 +1,6 @@
+Lego Racers
+
+FLYSKYHIGH : 火箭车
+NWHLS ：无轮车 
+FSTFRWRD：快速模式 
+NCHSSS：无底盘

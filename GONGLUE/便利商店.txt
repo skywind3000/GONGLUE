@@ -1,0 +1,50 @@
+便利商店
+
+徵人選單時按 enter鍵後
+OhBabe =天心娃娃(顧客暴增)
+Ilike7 =貞子娃娃(晚上連續7次出現在對方店中)
+FatRat =出現大老鼠可攻擊對方
+DoDoLo = 出現走出栗鼠攻擊對方
+IAmBab = 出現哥吉拉攻擊對方
+
+
+大小寫要注意
+
+進入你變更、排放商店擺設的地方上面不是可以輸入店面名稱嗎？原本輸入的是：我的便利商店 總店你只要在上面，直接打上密技就行了近乎所有的密碼 (注意大小寫)
+
+OhBabe
+ILike7
+SickOfYou
+IAmBad
+FatRat
+EtGoHome
+GoGoAlien
+DoDoLo
+OhKawaii
+OhKawaiiPart2
+OhKawaii Part3
+Jaff
+SmallWhite
+SmallDuck
+BadDog
+ShinJun
+IHaveNoMoney
+SkyHeare
+WeAreFamily
+5230
+SpaceMan
+IAmSuperMan 
+
+
+呼叫天心店長的秘技
+
+在佈置架子處我的便利商店總店改為SkyHeart 按enter之後到徵人選單選 打勾就可以了
+
+
+幽靈店員
+
+先有兩家店,按"人員專家按鈕"把其中一家的店員解僱會出現一個空的格子,按[人員調度按鈕]直接按確定[v],就會出現一個幽靈店員(可以做四個以上)若這時候按[確定按鈕],會出現職位有空的狀態無法離開這個對話方塊,就在上面分店的位置選擇另外一家再按[確定按鈕],就會出現一個個不做事的幽靈店員了
+
+沒薪水的店長
+
+先製造一個幽靈店長,再跟正常的店員交換職位那個正常的店員就會變成不領薪水的店長了※

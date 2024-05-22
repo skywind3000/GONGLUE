@@ -1,0 +1,9 @@
+Shadow Man（影子人）
+
+在游戏目录 DATA\SCRIPTS\MENUS\ENGLISH 中有3个文件 
+E3.MSC, DEBUG.MSC 和 RELEASE.MSC 
+重新命名 RELEASE.MSC 成 RELEASE.MEN 
+再把 DEBUG.MSC 复制一份取文件名为 RELEASE.MSC 
+重新开启游戏时,就会有密技选单了 
+
+

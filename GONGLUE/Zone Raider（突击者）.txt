@@ -1,0 +1,17 @@
+Zone Raider（突击者）
+
+按下F8或F10就能输入下列秘技：
+
+ISIBEENTHERE 进入隐藏关卡
+ISIDRIVE 得到所有车辆
+ISIFATPACKED 武器和弹药全满
+ISIJAVANET 护盾和装甲恢复到最大
+ISILETSBAIL 任务完成
+ISIMAKEITSO 进入所有关卡
+ISIQ 邪恶化
+ISISLEEP 催眠敌人
+ISITWENTY20 显示地图
+ISIWHEELS 得到X-CAR
+ISIWIRES 显示坐标
+
+

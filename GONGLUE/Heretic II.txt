@@ -1,0 +1,14 @@
+Heretic II
+
+键入“~”，然后输入以下代码：
+SUKITDOWN ALL：获得全部物品
+SHOWCOORDS：显示装备
+PLAYBETTER：上帝模式
+GIVE <0-999>：获得生命值（0-999）
+CRAZYMONSTERS：疯狂怪物
+ANGERMONSTERS：生气的怪物
+VICTOR：在boss-levels杀死怪物
+MEATWAGON：在non-boss levels杀死怪物
+CHANGELEVEL：选关
+WEAPNEXT：选下一件武器
+WEAPPREV：选上一件武器

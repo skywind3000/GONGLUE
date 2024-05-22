@@ -1,0 +1,8 @@
+FIFA 2000
+
+MOMONEY = 无限资金 
+HOOLIGAN = 附加队 
+BURNABY = EAC Pitch 
+SIZZLE = 闪电模式 
+DIZZY = 异形模式 
+LIGHTSOUT = 发光（glow)模式?

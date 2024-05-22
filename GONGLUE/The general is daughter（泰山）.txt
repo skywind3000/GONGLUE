@@ -1,0 +1,12 @@
+The general is daughter（泰山）
+
+密码:
+stlevel 跳过当前关 
+ststage 选关 
+stanimals 杀死所有空闲的动物 
+stsave 储存游戏 
+stload 读取游戏 
+sttarzan 变成泰山 
+stjane 变成简 
+stcolour 发亮 
+

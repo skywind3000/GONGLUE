@@ -1,0 +1,11 @@
+Extreme Paintbrawl
+
+主角变成加拿大皇家骑警
+同时按下[Ctrl] + [Alt] + [Shift]，然后输入“Aye! Yo mother was a mounty!”，再按回车。
+
+穿墙
+同时按下 [Ctrl] + [Alt] + [Shift]，然后输入“dnclip”，再按回车。
+
+作弊模式
+以MAFIA作为小队的名字，就可得到最好的弹药、武器和队员
+

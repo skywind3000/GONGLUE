@@ -1,0 +1,6 @@
+Biohazard 2
+
+无限弹药：
+进入物品选择屏幕，输入：up, up, down, down, left,
+right,left, right, Right Trigger。 
+

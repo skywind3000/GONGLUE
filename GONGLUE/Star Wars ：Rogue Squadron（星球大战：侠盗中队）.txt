@@ -1,0 +1,20 @@
+Star Wars ：Rogue Squadron（星球大战：侠盗中队）
+
+请在过关密码窗口输入下列秘籍，返回菜单后即可生效（同时提供N64和PC版秘籍）
+
+CREDITS (PC/N64)：在结尾电影处显示隐藏的credits名单
+LEIAWRKOUT (PC版有效)：激活力回馈摇杆的振动功能
+GUNDARK (PC版有效)：修正力回馈摇杆的振动功能
+RADAR (N64 only)：使雷达功能更真实，如位于上方的飞船在雷达上显示较亮，下方的则较暗些
+CHICKEN (PC/N64)：原文为：“Play as an AT-ST!”……不懂是什么意思
+ACE (N64 only)：顶尖高手模式，游戏难度最高级别
+DIRECTOR (PC/N64)：开启所有过场电影，可以在高分榜菜单选择"At the Movies"观看所有电影片段。
+MAESTRO (PC/N64)：开启所有主题旋律音乐，可在高分榜菜单选择"Concert Hall"选择所有主题音乐。
+IGIVEUP (N64有效)：无限生命
+IAMDOLLY (PC版有效)：无限生命
+TOUGHGUY (PC/N64)：得到所有高级武器！
+USEDAFORCE (PC only)：作用未知
+FARMBOY (N64 only)：允许在任务中使用千年X（抱歉，拼不出来）飞船。
+TIEDUP (N64 only)：允许在任务中使用钛战机
+HARDROCK (N64 only)：作用不明 
+

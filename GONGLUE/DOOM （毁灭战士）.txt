@@ -1,0 +1,15 @@
+DOOM （毁灭战士）
+
+IDDQD：无敌
+IDKFA：满枪，弹药，钥匙。
+IDCHOPPERS：得电锯
+IDSPISPOPD：穿墙模式
+IDCLEV xy：跳关，xy表示第几章第几关
+IDBEHOLDx：x分别键入以下字符：
+a：得完整的地图
+i：隐形，有时间限制
+r：得防护衣
+s：力量爆增
+v：无敌，有时间限制 
+
+

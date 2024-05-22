@@ -1,0 +1,12 @@
+NAM（浴血越南）
+
+在游戏中键入:
+NAVGOD 无敌 
+NVACALEB 无敌 
+NVASHOWMAP 显示所有地图 
+NVABLOOD 得到所有武器 
+NVUNLOCK 打开所有的锁 
+NVAMATT 对讲机 
+NVACLIP 穿墙 
+NVALEVEL # 跳关 
+

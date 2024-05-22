@@ -1,0 +1,21 @@
+Earth 2150（公元2150）
+
+按回车键，然后输入"I_wanna_cheat"，然后按住左边的[SHIFT]键和数字键盘的[0]键不放，同时再按下回车键。最后，再按次回车，然后输入以下密码，输完密码后还要按次回车键。
+
+x-mas_pack = 修理并重新装填弹药
+fireworks = 地雷
+i_love_this_game # = Give # of CR 
+i_hate_limits # = Set Unit Limit to # CR 
+einstein 1 = Fast Explore On (0 for Off) 
+help_me_please!!! = 1 Fast Explore On - Player Only (0 for Off)
+the_hammer_of_thor = Kil All Enemies at Range of 8 
+massacre = Kills All Objects at Range of 8 
+see_you_next_life = 杀死被选中的部队
+hasta_la_vista_enemigos = 摧毁所有可见的目标
+bad_time_bad_place = Damage All Near Units
+eagle_eye = See All
+let_be_darkness = 雾
+no_one_hides = See All Units
+no_more_secrets = 地图全开
+armageddon = Meteor Shower
+

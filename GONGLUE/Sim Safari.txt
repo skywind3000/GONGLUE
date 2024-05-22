@@ -1,0 +1,12 @@
+Sim Safari
+
+游戏中输入以下代码：
+?daddy warbucks?--得到$10,000
+?more money?--额外的钱
+?flush fund please?--使当前基金增加$750,000
+?rattle them bones?--增加偷猎者
+?cats and dogs?--增加在公园里的动物
+?shiver me timbers?--帐篷内有树
+?in the beginning?--把时间改为起点
+?win free money?--金钱无限 
+

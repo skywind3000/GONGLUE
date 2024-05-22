@@ -1,0 +1,21 @@
+模拟人生(The Sims)
+
+在游戏过种中，按下Ctrl + Shift + Alt + C然后敲入以下代码set_hour # ?/td> 改变月天数 # (1-24) 
+set_speed # ?/td> 改变游戏的速度 # (-1000-1000) 
+interests ?/td> 改变个性以及兴趣 
+autonomy # ?/td> 改变其他人的智慧(1-100) 
+grow_grass # ?/td> 改变草的生长速度# (1-150) 
+map_edit on/off ?/td> 开/关编辑地图 
+route_balloons on/off ?/td> 开/关向导 
+sweep on/off ?/td> 显示游戏选项的选择状态 
+tile_info on/off ?/td> 显示/隐蔽标题内容 
+log_mask ?/td> Set Event Logging Mask 
+draw_all_frames on/off ?/td> 开/关所有窗口 
+! 重复最后的使用的代码 
+; 显示多人游戏时欺骗代码 
+
+ 
+ 
+
+--------------------------------------------------------------------------------
+

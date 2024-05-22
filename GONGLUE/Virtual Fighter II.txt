@@ -1,0 +1,10 @@
+Virtual Fighter II
+
+选dural(他可以使用其它角色的绝招)
+进行人物选择时,在akira上输入方向键下,上,右,左,G为银身
+进行人物选择时,在akira上输入方向键下,上,左,右,G为金身
+(注:在土星游戏机中A=G,所以down,up,right,left和a就组成dural)
+另: 在VF2\BMP目录内有大量人物画,VF2\目录内有游戏过场动画(AVI文件)
+
+
+

@@ -1,0 +1,23 @@
+Railroad Tycoon II（铁路大亨 II）
+
+按下TAB键，在对话框中输入： 
+
+BigfootGold或Bigfoot：赢得gold式的胜利
+BigfootSilver：赢得silver式的胜利
+BigfootBronze：赢得bronze式的胜利
+BoBo：认输
+King of the hill：给100000元
+Cattle futures：？？？
+Powerball：给一个公司1亿元
+Slush fund：给一个100万元
+Let me in：允许在别人铁路上通行
+Speed Racer：火车速度加倍
+AMD103：得到AMD103的引擎
+Casey Jones：未知
+Show me the trains：得到所有机车
+Overtime：？？？
+Viagra：增大城市规模
+Cattle Futures：给玩家100万元
+Overtime：车站出货量加倍
+
+

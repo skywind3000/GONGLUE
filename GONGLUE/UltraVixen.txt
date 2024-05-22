@@ -1,0 +1,4 @@
+UltraVixen
+
+进入房间前,在comic区,击rightmost箭头到最后一个comic控制板,然后击"Next".在房间里,在得分上点击一下,然后再按X键就可以看到什么工具能使用.
+

@@ -1,0 +1,27 @@
+Sid Meier’s Alpha Centauri
+
+游戏进行中，按下[CTRL]+K然后输入下列秘技：
+Code Result
+[Shift]+[F5] 改变年份
+[Shift]+[F1] 创造部队
+[Shift]+[F2] 提高技术
+[Shift]+[F4] 建立信誉
+[Shift]+[F9] 建立部队间外交
+Y 全地图
+[Shift]+[F6] 杀死对手
+[Shift]+[F3] 转换侧和视点
+[Shift]+[F8] 查看FMV次序
+[Shift]+[F7] 观看重赛
+
+不用显示CHEATED秘技，而得到所有技术。（同样使用于测试版）
+以University Faction为例：
+进入此游戏的安装目录，(eg: c:\Program Files\Firaxis Games\Sid Meier’s Alpha Centauri\) 
+打开"univ.txt"文件，（最好先备份）然后对bonuses(奖学金)进行编辑。
+原#UNIV文件：
+University of Planet, The Scientist, University, M, 1, Zakharov, M, 0, 0, 1, 0, 0, TECH, InfNet, TECH, 1, SOCIAL, ++RESEARCH, SOCIAL, --PROBE, DRONE, 4, FACILITY, 8 Values, Knowledge, RESEARCH... 
+注意：此文件中第二个TECH后的数字（1）在默认值为1的情况下，开始游戏时只能得到1 bonus.如果改变为其它数字，就会以所改的数字作为bonus值的起始（此秘技只能用于游戏开始），例如，当你将数字改为36，则你回得到36点techs。
+改动后的#UNIV文件：
+University of Planet, The Scientist, University, M, 1, Zakharov, M, 0, 0, 1, 0, 0, TECH, InfNet, TECH, 36, SOCIAL, ++RESEARCH, SOCIAL, --PROBE, DRONE, 4, FACILITY, 8 Values, Knowledge, RESEARCH 
+如果你使用的是Alpha Centauri的测试版，建议改后的数字最好小于34，同时至少有一种技术是正常得来的以确保能自动的建造部队。（测试版技术只能增长到6级）
+改动完毕后，进入游戏，并重新开始。准备移动单元时，按下E，就可以调出society模式，要显示的bonuses都在这儿（如：Research,Infiltration,等)
+

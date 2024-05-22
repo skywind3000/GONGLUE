@@ -1,0 +1,13 @@
+Rocky Mountain Trophy Hunter 2
+
+在打猎屏幕显示控制台，接着输入以下代码，再回车：
+-rmshow--在地图和GPS上看见野兽
+-rmlight--加速猎人
+-rmshot--接近最靠近的野兽
+-rmgoodstuff--吸引野兽
+-rmurine--吸引野兽到你所在的地方
+-rmnoah--使打猎圈内野兽增加
+-rminvisible--隐形
+-rmsnow--下雪
+-rmrain--下雨 
+

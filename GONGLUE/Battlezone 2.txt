@@ -1,0 +1,9 @@
+Battlezone 2
+
+按住[Shift] + [Alt]，然后输入以下代码：
+tebuffy--上帝模式
+tedontdie--地图全开
+tenerd--使用卫星
+tedeadite--弹药无限
+terat--Scrap无限 
+

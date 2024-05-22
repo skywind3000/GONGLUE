@@ -1,0 +1,17 @@
+NHL’99（99年冰上曲棍球）
+
+在游戏中输入
+
+MANTIS =球员变成长腿长手
+NHLKIDS =球员变成小孩身材
+HOMEGOAL =主队得到一分
+AWAYGOAL =客队得到一分
+PENALTY =得到一个犯规
+INJURY =球员受伤
+ZAMBO = 在球场上放 zamboni
+VICTORY =施放烟烟火表演
+FLASH =场边闪闪光灯
+SPOTS =打开投射灯
+CHECK =自动检查对方球员
+GRAB = 刺对手身体 
+
