@@ -52,7 +52,11 @@ def list_text():
 def read_file_title(filename):
     title = ''
     with open(filename, 'r', encoding = 'utf-8', errors = 'ignore') as f:
-        title = f.readline().strip()
+        for line in f:
+            line = line.strip('\r\n\t ')
+            if line:
+                title = line.lstrip('# ')
+                break
     return title
 
 
