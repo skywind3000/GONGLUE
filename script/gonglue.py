@@ -147,7 +147,7 @@ def convert(srcname, template, htmlfile):
     text += '\n'
     parts = text.split('\n', 1)
     title = parts[0].strip()
-    text = parts[1].strip()
+    text = parts[1].strip('\r\n')
     if not title:
         title = os.path.splitext(os.path.basename(srcname))[0]
     content = text2html(text)
@@ -190,6 +190,16 @@ def compile_to_html():
             relname = os.path.relpath(outname, BUILD)
             print(f'Generating {relname} ...')
             t = convert(srcname, TEMPLATE, outname)
+    return 0
+
+
+#----------------------------------------------------------------------
+# remove html folder
+#----------------------------------------------------------------------
+def clear_html():
+    import shutil
+    if os.path.isdir(HTMLDIR):
+        shutil.rmtree(HTMLDIR)
     return 0
 
 
