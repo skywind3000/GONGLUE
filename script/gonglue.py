@@ -9,6 +9,7 @@
 #
 #======================================================================
 import sys
+import time
 import os
 
 
@@ -79,6 +80,22 @@ def list_html():
         src = os.path.join(GONGLUE, parts[0] + '.txt')
         title = read_file_title(src)
         html_files['*'][fn] = title
+    sorted_array = []
+    for dirname in html_files:
+        for fn, title in html_files[dirname].items():
+            t1 = dirname.encode('gbk')
+            t2 = fn.encode('gbk')
+            t3 = title.encode('gbk')
+            sorted_array.append((t1, t2, t3))
+    sorted_array.sort()
+    html_files = {}
+    for t1, t2, t3 in sorted_array:
+        dirname = t1.decode('gbk')
+        filename = t2.decode('gbk')
+        title = t3.decode('gbk')
+        if dirname not in html_files:
+            html_files[dirname] = {}
+        html_files[dirname][filename] = title
     return html_files
 
 
@@ -141,7 +158,7 @@ TEMPLATE = '''<!DOCTYPE html>
 #----------------------------------------------------------------------
 # convert files
 #----------------------------------------------------------------------
-def convert(srcname, template, htmlfile):
+def convert(srcname, template, htmlfile, footer = None):
     with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
         text = f.read()
     text += '\n'
@@ -150,6 +167,8 @@ def convert(srcname, template, htmlfile):
     text = parts[1].strip('\r\n')
     if not title:
         title = os.path.splitext(os.path.basename(srcname))[0]
+    if footer:
+        text += '\n' + footer
     content = text2html(text)
     content = '<h1>' + title + '</h1>\n\n' + content
     final = template.replace('<!--TITLE-->', title)
@@ -182,6 +201,8 @@ def compile_to_html():
                 sys.exit(1)
     if '*' in file_list:
         target = HTMLDIR
+        footer = time.strftime('Created on: %Y-%m-%d %H:%M:%S')
+        footer = f'\n{footer}\n'
         if not os.path.isdir(target):
             os.makedirs(target, exist_ok = True)
         for filename in file_list['*']:
@@ -189,7 +210,7 @@ def compile_to_html():
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
             print(f'Generating {relname} ...')
-            t = convert(srcname, TEMPLATE, outname)
+            t = convert(srcname, TEMPLATE, outname, footer)
     return 0
 
 

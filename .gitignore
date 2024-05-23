@@ -162,6 +162,11 @@ cython_debug/
 /build/*
 /.cache/*
 *.chm
+*.chi
+*.chw
+*.hhp
+*.hhk
+*.hhc
 *.epub
 /script/test_*.py
 

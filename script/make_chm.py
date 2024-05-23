@@ -9,6 +9,7 @@
 #
 #======================================================================
 import sys
+import time
 import os
 import codecs
 import gonglue
@@ -24,6 +25,7 @@ class ChmBook (object):
 
     def create_hhp (self):
         hhp = os.path.join(gonglue.BUILD, 'chm.hhp')
+        version = time.strftime('%Y-%m-%d')
         with open(hhp, 'w', encoding = 'gbk') as f:
             f.write('[OPTIONS]\n')
             f.write('Binary Index=Yes\n')
@@ -32,12 +34,18 @@ class ChmBook (object):
             f.write('Compiled file=GONGLUE.chm\n')
             f.write('Contents file=chm.hhc\n')
             f.write('Index file=chm.hhk\n')
-            f.write('Default Window=Main\n')
+            # f.write('Default Window=Main\n')
+            f.write('Default Window=MyWindow\n')
             f.write('Default topic=html\\INTRO.html\n')
             f.write('Display compile progress=Yes\n')
-            f.write('Full-text search=No\n')
+            f.write('Full-text search=Yes\n')
             f.write('Language=0x804 Chinese (Simplified, PRC)\n')
-            f.write('Title=游戏攻略秘籍大全\n')
+            f.write(f'Title=游戏攻略秘籍汇编（{version}）\n')
+            f.write('\n')
+            f.write('[WINDOWS]\n')
+            w = f'"游戏攻略秘籍汇编（{version})",'
+            w += '"chm.hhc","chm.hhk","html\\INTRO.html","html\\INTRO.html",,,,,0x63520,,0x384e,[0,0,640,400],,,,,,,0'
+            f.write(f'MyWindow={w}\n')
             f.write('\n')
             f.write('[FILES]\n')
             for dirname in self.htmls:
