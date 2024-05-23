@@ -28,11 +28,20 @@ HTMLDIR = os.path.join(BUILD, 'html')
 def list_text():
     file_list = {}
     for dirname in os.listdir(GONGLUE):
+        if not os.path.isdir(os.path.join(GONGLUE, dirname)):
+            continue
         file_list[dirname] = {}
         for filename in os.listdir(os.path.join(GONGLUE, dirname)):
             if filename.endswith('.txt'):
                 t = os.path.join(GONGLUE, dirname, filename)
                 file_list[dirname][filename] = t
+    for fn in os.listdir(GONGLUE):
+        parts = os.path.splitext(fn)
+        if parts[1].lower() != '.txt':
+            continue
+        if '-' not in file_list:
+            file_list['-'] = {}
+        file_list['-'][fn] = os.path.join(GONGLUE, fn)
     return file_list
 
 
@@ -95,6 +104,8 @@ def convert(srcname, template, htmlfile):
 def compile_to_html():
     file_list = list_text()
     for dirname in file_list:
+        if dirname == '-':
+            continue
         target = os.path.join(HTMLDIR, dirname)
         if not os.path.isdir(target):
             os.makedirs(target, exist_ok = True)
@@ -107,6 +118,16 @@ def compile_to_html():
             if 0:
                 print(t)
                 sys.exit(1)
+    if '-' in file_list:
+        target = HTMLDIR
+        if not os.path.isdir(target):
+            os.makedirs(target, exist_ok = True)
+        for filename in file_list['-']:
+            srcname = file_list['-'][filename]
+            outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
+            relname = os.path.relpath(outname, BUILD)
+            print(f'Generating {relname} ...')
+            t = convert(srcname, TEMPLATE, outname)
     return 0
 
 
