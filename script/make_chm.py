@@ -44,7 +44,7 @@ class ChmBook (object):
             f.write('\n')
             f.write('[WINDOWS]\n')
             w = f'"游戏攻略秘籍汇编（{version})",'
-            w += '"chm.hhc","chm.hhk","html\\INTRO.html","html\\INTRO.html",,,,,0x63520,,0x384e,[0,0,640,400],,,,,,,0'
+            w += r'"chm.hhc","chm.hhk","html\INTRO.html","html\INTRO.html",,,,,0x63520,,0x384e,[0,0,500,400],,,,,,,0'
             f.write(f'MyWindow={w}\n')
             f.write('\n')
             f.write('[FILES]\n')
