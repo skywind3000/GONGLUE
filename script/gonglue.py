@@ -39,10 +39,45 @@ def list_text():
         parts = os.path.splitext(fn)
         if parts[1].lower() != '.txt':
             continue
-        if '-' not in file_list:
-            file_list['-'] = {}
-        file_list['-'][fn] = os.path.join(GONGLUE, fn)
+        if '*' not in file_list:
+            file_list['*'] = {}
+        file_list['*'][fn] = os.path.join(GONGLUE, fn)
     return file_list
+
+
+#----------------------------------------------------------------------
+# read file title
+#----------------------------------------------------------------------
+def read_file_title(filename):
+    title = ''
+    with open(filename, 'r', encoding = 'utf-8', errors = 'ignore') as f:
+        title = f.readline().strip()
+    return title
+
+
+#----------------------------------------------------------------------
+# read titles
+#----------------------------------------------------------------------
+def read_titles():
+    titles = {}
+    for dirname in os.listdir(GONGLUE):
+        if not os.path.isdir(os.path.join(GONGLUE, dirname)):
+            continue
+        titles[dirname] = {}
+        for filename in os.listdir(os.path.join(GONGLUE, dirname)):
+            if filename.endswith('.txt'):
+                t = os.path.join(GONGLUE, dirname, filename)
+                title = read_file_title(t)
+                titles[dirname][filename] = title
+    for fn in os.listdir(GONGLUE):
+        parts = os.path.splitext(fn)
+        if parts[1].lower() != '.txt':
+            continue
+        if '*' not in titles:
+            titles['*'] = {}
+        title = read_file_title(os.path.join(GONGLUE, fn))
+        titles['*'][fn] = title
+    return titles
 
 
 #----------------------------------------------------------------------
@@ -104,7 +139,7 @@ def convert(srcname, template, htmlfile):
 def compile_to_html():
     file_list = list_text()
     for dirname in file_list:
-        if dirname == '-':
+        if dirname == '*':
             continue
         target = os.path.join(HTMLDIR, dirname)
         if not os.path.isdir(target):
@@ -118,12 +153,12 @@ def compile_to_html():
             if 0:
                 print(t)
                 sys.exit(1)
-    if '-' in file_list:
+    if '*' in file_list:
         target = HTMLDIR
         if not os.path.isdir(target):
             os.makedirs(target, exist_ok = True)
-        for filename in file_list['-']:
-            srcname = file_list['-'][filename]
+        for filename in file_list['*']:
+            srcname = file_list['*'][filename]
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
             print(f'Generating {relname} ...')
@@ -151,7 +186,12 @@ if __name__ == '__main__':
     def test3():
         compile_to_html()
         return 0
-    test3()
+    def test4():
+        titles = read_titles()
+        import pprint
+        pprint.pprint(titles)
+        return 0
+    test4()
 
 
 
