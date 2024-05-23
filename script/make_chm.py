@@ -29,9 +29,9 @@ class ChmBook (object):
             f.write('Binary Index=Yes\n')
             f.write('Binary TOC=Yes\n')
             f.write('Compatibility=1.1 or later\n')
-            f.write('Compiled file=output.chm\n')
+            f.write('Compiled file=GONGLUE.chm\n')
             f.write('Contents file=chm.hhc\n')
-            # f.write('Index file=chm.hhk\n')
+            f.write('Index file=chm.hhk\n')
             f.write('Default Window=Main\n')
             f.write('Default topic=html\\INTRO.html\n')
             f.write('Display compile progress=Yes\n')
@@ -97,6 +97,32 @@ class ChmBook (object):
             f.write('</BODY>\n')
             f.write('</HTML>\n')
         return hhc
+    
+    def create_hhk (self):
+        hhk = os.path.join(gonglue.BUILD, 'chm.hhk')
+        with open(hhk, 'w', encoding = 'gbk') as f:
+            f.write('<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">\n')
+            f.write('<HTML>\n')
+            f.write('<HEAD>\n')
+            f.write('<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">\n')
+            f.write('<!-- Sitemap 1.0 -->\n')
+            f.write('</HEAD>\n')
+            f.write('<BODY>\n')
+            f.write('<UL>\n')
+            for dirname in self.htmls:
+                if dirname == '*':
+                    continue
+                htmls = self.htmls[dirname]
+                for fn in htmls:
+                    title = htmls[fn]
+                    f.write('<LI><OBJECT type="text/sitemap">\n')
+                    f.write(f'  <param name="Name" value="{title}">\n')
+                    f.write(f'  <param name="Local" value="html\\{dirname}\\{fn}">\n')
+                    f.write('</OBJECT>\n')
+            f.write('</UL>\n')
+            f.write('</BODY>\n')
+            f.write('</HTML>\n')
+        return 0
 
     def build (self):
         hhp = os.path.join(gonglue.BUILD, 'chm.hhp')
@@ -113,6 +139,7 @@ if __name__ == '__main__':
         book = ChmBook()
         book.create_hhp()
         book.create_hhc()
+        book.create_hhk()
         book.build()
         return 0
     test1()
