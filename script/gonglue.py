@@ -19,6 +19,7 @@ FILEDIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT = os.path.abspath(os.path.join(FILEDIR, '..'))
 GONGLUE = os.path.join(PROJECT, 'GONGLUE')
 BUILD = os.path.join(PROJECT, 'build')
+HTMLDIR = os.path.join(BUILD, 'html')
 
 
 #----------------------------------------------------------------------
@@ -48,7 +49,7 @@ def text2html(text):
             continue
         t = html.escape(line)
         output.append(f'<p>{t}</p>')
-    return ''.join(output)
+    return '\n'.join(output)
 
 
 #----------------------------------------------------------------------
@@ -72,13 +73,14 @@ TEMPLATE = '''<!DOCTYPE html>
 def convert(srcname, template, htmlfile):
     with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
         text = f.read()
-    print(text)
-    sys.exit(0)
-    title = text.split('\n', 1)[0]
+    text += '\n'
+    parts = text.split('\n', 1)
+    title = parts[0].strip()
+    text = parts[1].strip()
     if not title:
         title = os.path.splitext(os.path.basename(srcname))[0]
-    print('title', title)
     content = text2html(text)
+    content = '<h1>' + title + '</h1>\n\n' + content
     final = template.replace('<!--TITLE-->', title)
     final = final.replace('<!--CONTENT-->', content)
     if htmlfile:
@@ -93,7 +95,7 @@ def convert(srcname, template, htmlfile):
 def compile_to_html():
     file_list = list_text()
     for dirname in file_list:
-        target = os.path.join(BUILD, dirname)
+        target = os.path.join(HTMLDIR, dirname)
         if not os.path.isdir(target):
             os.makedirs(target, exist_ok = True)
         for filename in file_list[dirname]:
@@ -102,7 +104,7 @@ def compile_to_html():
             relname = os.path.relpath(outname, BUILD)
             print(f'Generating {relname} ...')
             t = convert(srcname, TEMPLATE, outname)
-            if 1:
+            if 0:
                 print(t)
                 sys.exit(1)
     return 0
@@ -126,15 +128,7 @@ if __name__ == '__main__':
                 convert(srcname, TEMPLATE, None)
         return 0
     def test3():
-        file_list = list_text()
-        for dirname in file_list:
-            for filename in file_list[dirname]:
-                srcname = file_list[dirname][filename]
-                with open(srcname, 'r', encoding='gbk', errors = 'ignore') as f:
-                    text = f.read()
-                with open(srcname, 'w', encoding='utf-8') as f:
-                    f.write(text)
-                print(f'Convert {srcname} ...')
+        compile_to_html()
         return 0
     test3()
 
