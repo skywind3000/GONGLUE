@@ -56,6 +56,33 @@ def read_file_title(filename):
 
 
 #----------------------------------------------------------------------
+# list htmls
+#----------------------------------------------------------------------
+def list_html():
+    html_files = {}
+    for dirname in os.listdir(HTMLDIR):
+        if not os.path.isdir(os.path.join(HTMLDIR, dirname)):
+            continue
+        html_files[dirname] = {}
+        for filename in os.listdir(os.path.join(HTMLDIR, dirname)):
+            if filename.endswith('.html'):
+                parts = os.path.splitext(filename)
+                src = os.path.join(GONGLUE, dirname, parts[0] + '.txt')
+                title = read_file_title(src)
+                html_files[dirname][filename] = title
+    for fn in os.listdir(HTMLDIR):
+        parts = os.path.splitext(fn)
+        if parts[-1].lower() != '.html':
+            continue
+        if '*' not in html_files:
+            html_files['*'] = {}
+        src = os.path.join(GONGLUE, parts[0] + '.txt')
+        title = read_file_title(src)
+        html_files['*'][fn] = title
+    return html_files
+
+
+#----------------------------------------------------------------------
 # read titles
 #----------------------------------------------------------------------
 def read_titles():
@@ -191,7 +218,12 @@ if __name__ == '__main__':
         import pprint
         pprint.pprint(titles)
         return 0
-    test4()
+    def test5():
+        html_files = list_html()
+        import pprint
+        pprint.pprint(html_files)
+        return 0
+    test5()
 
 
 
