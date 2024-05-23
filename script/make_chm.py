@@ -10,6 +10,7 @@
 #======================================================================
 import sys
 import os
+import codecs
 import gonglue
 
 
@@ -23,14 +24,14 @@ class ChmBook (object):
 
     def create_hhp (self):
         hhp = os.path.join(gonglue.BUILD, 'chm.hhp')
-        with open(hhp, 'w', encoding = 'utf-8') as f:
+        with open(hhp, 'w', encoding = 'gbk') as f:
             f.write('[OPTIONS]\n')
             f.write('Binary Index=Yes\n')
             f.write('Binary TOC=Yes\n')
             f.write('Compatibility=1.1 or later\n')
-            f.write('Compiled file=gonglue.chm\n')
+            f.write('Compiled file=output.chm\n')
             f.write('Contents file=chm.hhc\n')
-            f.write('Index file=chm.hhk\n')
+            # f.write('Index file=chm.hhk\n')
             f.write('Default Window=Main\n')
             f.write('Default topic=html\\INTRO.html\n')
             f.write('Display compile progress=Yes\n')
@@ -57,41 +58,51 @@ class ChmBook (object):
 
     def create_hhc (self):
         hhc = os.path.join(gonglue.BUILD, 'chm.hhc')
-        with open(hhc, 'w', encoding = 'utf-8') as f:
+        with open(hhc, 'w', encoding = 'gbk') as f:
             f.write('<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">\n')
             f.write('<HTML>\n')
             f.write('<HEAD>\n')
-            f.write('<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">\n')
+            f.write('<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">\n')
+            f.write('<!-- Sitemap 1.0 -->\n')
             f.write('</HEAD>\n')
             f.write('<BODY>\n')
             f.write('<OBJECT type="text/site properties">\n')
             f.write('  <param name="ImageType" value="Folder">\n')
             f.write('</OBJECT>\n')
             f.write('<UL>\n')
+            if '*' in self.htmls:
+                htmls = self.htmls['*']
+                for fn in htmls:
+                    title = htmls[fn]
+                    f.write('<LI><OBJECT type="text/sitemap">\n')
+                    f.write(f'  <param name="Name" value="{title}">\n')
+                    f.write(f'  <param name="Local" value="html\\{fn}">\n')
+                    f.write('</OBJECT>\n')
             for dirname in self.htmls:
-                if dirname != '*':
-                    f.write(f'<LI><OBJECT type="text/sitemap">\n')
-                    f.write(f'  <param name="Name" value="{dirname}">\n')
-                    f.write(f'</OBJECT>\n')
-                    f.write('<UL>\n')
-                    for fn in self.htmls[dirname]:
-                        title = gonglue.read_html_title(dirname, fn)
-                        f.write(f'<LI><OBJECT type="text/sitemap">\n')
-                        f.write(f'  <param name="Name" value="{title}">\n')
-                        f.write(f'  <param name="Local" value="html\\{dirname}\\{fn}">\n')
-                        f.write('</OBJECT>\n')
-                    f.write('</UL>\n')
-                else:
-                    for fn in self.htmls['*']:
-                        title = gonglue.read_html_title('*', fn)
-                        f.write(f'<LI><OBJECT type="text/sitemap">\n')
-                        f.write(f'  <param name="Name" value="{title}">\n')
-                        f.write(f'  <param name="Local" value="html\\{fn}">\n')
-                        f.write('</OBJECT>\n')
+                if dirname == '*':
+                    continue
+                htmls = self.htmls[dirname]
+                f.write('<LI><OBJECT type="text/sitemap">\n')
+                f.write(f'  <param name="Name" value="{dirname}">\n')
+                f.write('</OBJECT>\n')
+                f.write('<UL>\n')
+                for fn in htmls:
+                    title = htmls[fn]
+                    f.write('<LI><OBJECT type="text/sitemap">\n')
+                    f.write(f'  <param name="Name" value="{title}">\n')
+                    f.write(f'  <param name="Local" value="html\\{dirname}\\{fn}">\n')
+                    f.write('</OBJECT>\n')
+                f.write('</UL>\n')
             f.write('</UL>\n')
             f.write('</BODY>\n')
             f.write('</HTML>\n')
         return hhc
+
+    def build (self):
+        hhp = os.path.join(gonglue.BUILD, 'chm.hhp')
+        cmd = f'hhc {hhp}'
+        os.system(cmd)
+        return 0
 
 
 #----------------------------------------------------------------------
@@ -101,6 +112,8 @@ if __name__ == '__main__':
     def test1():
         book = ChmBook()
         book.create_hhp()
+        book.create_hhc()
+        book.build()
         return 0
     test1()
 
