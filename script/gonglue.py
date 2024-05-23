@@ -33,12 +33,13 @@ def list_text():
             continue
         file_list[dirname] = {}
         for filename in os.listdir(os.path.join(GONGLUE, dirname)):
-            if filename.endswith('.txt'):
+            parts = os.path.splitext(filename)
+            if parts[-1].lower() in ('.txt', '.md'):
                 t = os.path.join(GONGLUE, dirname, filename)
                 file_list[dirname][filename] = t
     for fn in os.listdir(GONGLUE):
         parts = os.path.splitext(fn)
-        if parts[1].lower() != '.txt':
+        if parts[1].lower() not in ('.txt', '.md'):
             continue
         if '*' not in file_list:
             file_list['*'] = {}
@@ -51,12 +52,16 @@ def list_text():
 #----------------------------------------------------------------------
 def read_file_title(filename):
     title = ''
+    if not os.path.isfile(filename):
+        return os.path.splitext(os.path.basename(filename))[0]
     with open(filename, 'r', encoding = 'utf-8', errors = 'ignore') as f:
         for line in f:
             line = line.strip('\r\n\t ')
             if line:
                 title = line.lstrip('# ')
                 break
+    if not title:
+        title = os.path.splitext(os.path.basename(filename))[0]
     return title
 
 
@@ -72,7 +77,11 @@ def list_html():
         for filename in os.listdir(os.path.join(HTMLDIR, dirname)):
             if filename.endswith('.html'):
                 parts = os.path.splitext(filename)
-                src = os.path.join(GONGLUE, dirname, parts[0] + '.txt')
+                src = os.path.join(GONGLUE, dirname, parts[0] + '.md')
+                if not os.path.isfile(src):
+                    src = os.path.join(GONGLUE, dirname, parts[0] + '.txt')
+                if not os.path.isfile(src):
+                    raise FileNotFoundError(src)
                 title = read_file_title(src)
                 html_files[dirname][filename] = title
     for fn in os.listdir(HTMLDIR):
@@ -81,7 +90,11 @@ def list_html():
             continue
         if '*' not in html_files:
             html_files['*'] = {}
-        src = os.path.join(GONGLUE, parts[0] + '.txt')
+        src = os.path.join(GONGLUE, parts[0] + '.md')
+        if not os.path.isfile(src):
+            src = os.path.join(GONGLUE, parts[0] + '.txt')
+        if not os.path.isfile(src):
+            raise FileNotFoundError(src)
         title = read_file_title(src)
         html_files['*'][fn] = title
     sorted_array = []
@@ -101,31 +114,6 @@ def list_html():
             html_files[dirname] = {}
         html_files[dirname][filename] = title
     return html_files
-
-
-#----------------------------------------------------------------------
-# read titles
-#----------------------------------------------------------------------
-def read_titles():
-    titles = {}
-    for dirname in os.listdir(GONGLUE):
-        if not os.path.isdir(os.path.join(GONGLUE, dirname)):
-            continue
-        titles[dirname] = {}
-        for filename in os.listdir(os.path.join(GONGLUE, dirname)):
-            if filename.endswith('.txt'):
-                t = os.path.join(GONGLUE, dirname, filename)
-                title = read_file_title(t)
-                titles[dirname][filename] = title
-    for fn in os.listdir(GONGLUE):
-        parts = os.path.splitext(fn)
-        if parts[1].lower() != '.txt':
-            continue
-        if '*' not in titles:
-            titles['*'] = {}
-        title = read_file_title(os.path.join(GONGLUE, fn))
-        titles['*'][fn] = title
-    return titles
 
 
 #----------------------------------------------------------------------
@@ -163,12 +151,16 @@ TEMPLATE = '''<!DOCTYPE html>
 # convert files
 #----------------------------------------------------------------------
 def convert(srcname, template, htmlfile, footer = None):
+    title = ''
     with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
+        for line in f:
+            line = line.rstrip('\r\n\t ')
+            if not line:
+                continue
+            title = line.lstrip('# ')
+            break
         text = f.read()
     text += '\n'
-    parts = text.split('\n', 1)
-    title = parts[0].strip()
-    text = parts[1].strip('\r\n')
     if not title:
         title = os.path.splitext(os.path.basename(srcname))[0]
     if footer:
@@ -249,14 +241,11 @@ if __name__ == '__main__':
         compile_to_html()
         return 0
     def test4():
-        titles = read_titles()
-        import pprint
-        pprint.pprint(titles)
-        return 0
-    def test5():
         html_files = list_html()
         import pprint
         pprint.pprint(html_files)
+        return 0
+    def test5():
         return 0
     test5()
 
