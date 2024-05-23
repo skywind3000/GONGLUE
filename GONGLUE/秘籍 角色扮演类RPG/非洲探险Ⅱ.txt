@@ -1,10 +1,10 @@
-·ÇÖÞÌ½ÏÕ¢ò
+éžæ´²æŽ¢é™©â…¡
 
-¼üÈëafrica-pdmode½øÈëÓÎÏ·¾Í»á¿ªÆô×÷±×Ä£Ê½£¬ÕâÑùÔÚÓÎÏ·½øÐÐÖÐ¼üÈëÈçÏÂÄÚÈÝ£º
+é”®å…¥africa-pdmodeè¿›å…¥æ¸¸æˆå°±ä¼šå¼€å¯ä½œå¼Šæ¨¡å¼ï¼Œè¿™æ ·åœ¨æ¸¸æˆè¿›è¡Œä¸­é”®å…¥å¦‚ä¸‹å†…å®¹ï¼š
 
-pandapror:Ö±½Ó¹ºÂòµÀ¾ß
+pandapror:ç›´æŽ¥è´­ä¹°é“å…·
 
-pandamagic: Ö±½Ó¹ºÂò·¨Êõ
+pandamagic: ç›´æŽ¥è´­ä¹°æ³•æœ¯
 
-editperson: Ö±½ÓÐÞ¸ÄÈËÎï»ù±¾ÊôÐÔ
+editperson: ç›´æŽ¥ä¿®æ”¹äººç‰©åŸºæœ¬å±žæ€§
 

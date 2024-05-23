@@ -1,10 +1,10 @@
 Tiger Shark
 
-Ö÷²Ëµ¥°´×¡NºÍ¿Õ¸ñ¼ü,¾Í¿ÉÒÔÔÚÓÎÏ·ÖÐÊäÈëÒÔÏÂÃÜÂë
-AMMO-Ç¿Á¦ÎäÆ÷
-BLAST-ÎÞÏÞµ¯Ò©
-EMPTY-µÐÈËÍ£»ð
-FREE-´©Ç½
-HAPPY-ÎÞµÐ
+ä¸»èœå•æŒ‰ä½Nå’Œç©ºæ ¼é”®,å°±å¯ä»¥åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å¯†ç 
+AMMO-å¼ºåŠ›æ­¦å™¨
+BLAST-æ— é™å¼¹è¯
+EMPTY-æ•Œäººåœç«
+FREE-ç©¿å¢™
+HAPPY-æ— æ•Œ
 
 

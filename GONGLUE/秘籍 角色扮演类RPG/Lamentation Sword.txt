@@ -1,16 +1,16 @@
 Lamentation Sword
 
-ÔÚÓÎÏ·¹ı³ÌÖĞ°´»Ø³µ¼ü£¬¼´»áµ¯³öÒ»¸öÊäÈë´°¿Ú£¬ 
-ÕâÊ±Äã¾Í¿ÉÒÔÊäÈëÒÔÏÂ ÃÜÂë£º£¨ÃÜÂëÊäÈëÊ±Çø·Ö´óĞ¡Ğ´£© 
+åœ¨æ¸¸æˆè¿‡ç¨‹ä¸­æŒ‰å›è½¦é”®ï¼Œå³ä¼šå¼¹å‡ºä¸€ä¸ªè¾“å…¥çª—å£ï¼Œ 
+è¿™æ—¶ä½ å°±å¯ä»¥è¾“å…¥ä»¥ä¸‹ å¯†ç ï¼šï¼ˆå¯†ç è¾“å…¥æ—¶åŒºåˆ†å¤§å°å†™ï¼‰ 
 
-¡¡¡¡Icompletedthisghostgame - ´øÄãÀ´µ½Ò»¸öĞé»ÃµÄÊÀ½ç¡£ 
-¡¡¡¡IfIwantIgotit XX - ¸øÄã´úºÅÎªXXµÄÎïÆ· 
-¡¡¡¡Seethesilverlining - É¨ÇåºÚÄ» 
-¡¡¡¡Thefierceunknownpower 99 - Ôö¼ÓÄ§·¨Öµµ½99 
-¡¡¡¡Thegreathealthpower 99 - Ôö¼ÓÉúÃüÖµ 
-¡¡¡¡Thehealthyspiritpower 99 - Ôö¼ÓÖÇÁ¦Öµµ½99 
-¡¡¡¡Theoriginaldexteritypower 99 - Ôö¼ÓÁéÃôÖµµ½99 
-¡¡¡¡Therealmusclepower 99 - Ôö¼ÓÁ¦Á¿Öµµ½99 
-¡¡¡¡ThesoulHunter¡¯sholyPower 10 - Ôö¼ÓĞ§Á¦Öµµ½99 
-¡¡¡¡Youcansaymoneyiseverything 10000 - Ôö¼ÓÃÀ½ğ 
-¡¡¡¡Yougainasoneplease XX - ¸øÄã´úºÅÎªXXµÄÎäÆ÷
+ã€€ã€€Icompletedthisghostgame - å¸¦ä½ æ¥åˆ°ä¸€ä¸ªè™šå¹»çš„ä¸–ç•Œã€‚ 
+ã€€ã€€IfIwantIgotit XX - ç»™ä½ ä»£å·ä¸ºXXçš„ç‰©å“ 
+ã€€ã€€Seethesilverlining - æ‰«æ¸…é»‘å¹• 
+ã€€ã€€Thefierceunknownpower 99 - å¢åŠ é­”æ³•å€¼åˆ°99 
+ã€€ã€€Thegreathealthpower 99 - å¢åŠ ç”Ÿå‘½å€¼ 
+ã€€ã€€Thehealthyspiritpower 99 - å¢åŠ æ™ºåŠ›å€¼åˆ°99 
+ã€€ã€€Theoriginaldexteritypower 99 - å¢åŠ çµæ•å€¼åˆ°99 
+ã€€ã€€Therealmusclepower 99 - å¢åŠ åŠ›é‡å€¼åˆ°99 
+ã€€ã€€ThesoulHunterâ€™sholyPower 10 - å¢åŠ æ•ˆåŠ›å€¼åˆ°99 
+ã€€ã€€Youcansaymoneyiseverything 10000 - å¢åŠ ç¾é‡‘ 
+ã€€ã€€Yougainasoneplease XX - ç»™ä½ ä»£å·ä¸ºXXçš„æ­¦å™¨

@@ -1,10 +1,10 @@
-Tarzan£¨Ì©É½£©
+Tarzanï¼ˆæ³°å±±ï¼‰
 
-stlevel£½Ìø¹Ø
-ststage£½Ñ¡¹Ø
-stanimals£½É±ËÀËùÓĞµĞÈË
-stsave£½±£´æÓÎÏ·
-stload£½ÔØÈëÓÎÏ·
-sttarzan£½¸Ä±äÌ©É½ÍâĞÍ
-stjane£½¸Ä±ä¼òÍâĞÍ
-stcolour£½Ã÷ÁÁÉ«²Ê
+stlevelï¼è·³å…³
+ststageï¼é€‰å…³
+stanimalsï¼æ€æ­»æ‰€æœ‰æ•Œäºº
+stsaveï¼ä¿å­˜æ¸¸æˆ
+stloadï¼è½½å…¥æ¸¸æˆ
+sttarzanï¼æ”¹å˜æ³°å±±å¤–å‹
+stjaneï¼æ”¹å˜ç®€å¤–å‹
+stcolourï¼æ˜äº®è‰²å½©

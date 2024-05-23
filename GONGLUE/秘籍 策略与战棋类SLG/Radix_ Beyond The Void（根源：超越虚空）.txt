@@ -1,14 +1,14 @@
-Radix_ Beyond The Void����Դ����Խ��գ�
+Radix_ Beyond The Void（根源：超越虚空）
 
-����Ϸ�����п����������ؼ���
-NSBAGWAN �޵�
-NSBJIPP ���������ģʽ
-NSBLASTER ���ָܻ��ӿ�
-NSDEATH �������عؿ�
-NSDIEBESTERDS ������ǿ
-NSE ��Դȫ��
-NSFRICOFF �������ĥ��ģʽ
-NSHORSELY ��Դ�ָ��ӿ�
-NSOPTA ���������ܺ���Դȫ��
-NSOPTL ��������
+在游戏进行中可输入下列秘技：
+NSBAGWAN 无敌
+NSBJIPP 进入喷射机模式
+NSBLASTER 护盾恢复加快
+NSDEATH 进入隐藏关卡
+NSDIEBESTERDS 火力增强
+NSE 能源全满
+NSFRICOFF 进入空气磨擦模式
+NSHORSELY 能源恢复加快
+NSOPTA 武器、护盾和能源全满
+NSOPTL 调节亮度
 

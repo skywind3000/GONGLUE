@@ -1,48 +1,48 @@
-·ßÅ­µÄÄ§·¨Ê¦¢ò
+æ„¤æ€’çš„é­”æ³•å¸ˆâ…¡
 
-ÔÚÓÎÏ·ÖĞ°´EnteræI£¬³öÏÖĞÅÏ¢ºó£¬´òÈë#Chicken»ò##CowardÀ´Æô¶¯ÃÜ¼¼¹¦ÄÜ,ÔÙÊäÈëÏÂÁĞÃÜÂë£º 
+åœ¨æ¸¸æˆä¸­æŒ‰Enteréµï¼Œå‡ºç°ä¿¡æ¯åï¼Œæ‰“å…¥#Chickenæˆ–##Cowardæ¥å¯åŠ¨å¯†æŠ€åŠŸèƒ½,å†è¾“å…¥ä¸‹åˆ—å¯†ç ï¼š 
 
-¡¡¡¡#modify self +god£ºÎŞµĞ 
-¡¡¡¡#modify army +god£ºÎŞµĞ 
-¡¡¡¡#modify self +spell£ºËùÓĞÖäÓï 
-¡¡¡¡#modify self +spells£ºËùÓĞÖäÓï 
-¡¡¡¡#modify army +spell£ºËùÓĞÖäÓï 
-¡¡¡¡#modify army +spells£ºËùÓĞÖäÓï 
-¡¡¡¡#killall£ºÉ±ËÀËùÓĞµĞÈË 
-¡¡¡¡#kill all£ºÉ±ËÀËùÓĞµĞÈË 
-¡¡¡¡#pickup all£ºÊ°ÆğµØÉÏËùÓĞÎïÆ· 
-¡¡¡¡#show map£ºÏÔÊ¾µØÍ¼ 
-¡¡¡¡#hide map£ºÒş²ØµØÍ¼ 
-¡¡¡¡#victory£ºÁ¢¼´»ñÊ¤ 
-¡¡¡¡#create xxx Gold£ºÔö¼Ó»Æ½ğxxx 
-¡¡¡¡#event xxx£ºÏÔÊ¾ËùÓĞÍ¬¼¶²¿¶ÓµÄ¶ÔÔ’(xxx=Êı×Ö) 
-¡¡¡¡#create Very Rare Crystal Two Handed Sword£ºµÃË«ÊÖ½£ 
-¡¡¡¡#create Very Rare Crystal Long Sword£º»ñµÃ³¤½£ 
-¡¡¡¡#create Very Rare Crystal Two Handed£º»ñµÃÌØÊâÎäÆ÷ 
-¡¡¡¡#create Very Rare Crystal Axe£º»ñµÃ¸«Í· 
-¡¡¡¡#create Very Rare Crystal Mace£º»ñµÃÈ¨ÕÈ 
-¡¡¡¡#create Very Rare Crystal War Hammer£º»ñµÃÕ½´¸ 
-¡¡¡¡#create Very Rare Crystal Pike£º»ñµÃ³¤Ç¹ 
-¡¡¡¡#create Very Rare Crystal Morning Star£ºµÃÎäÆ÷-³¿ĞÇ 
-¡¡¡¡#create Very Rare Crystal Cuirass£ºµÃĞØ¼× 
-¡¡¡¡#create Very Rare Crystal Plate Cuirass£ºµÃ½ğÊôĞØ¼× 
-¡¡¡¡#create Very Rare Crystal Plate Bracers£ºµÃ½ğÊô»¤Íó 
-¡¡¡¡#create Very Rare Crystal Amulet£º»ñµÃ»¤Éí·û 
-¡¡¡¡#create Very Rare Crystal Ring£º»ñµÃ½äÖ¸ 
-¡¡¡¡#create Very Rare Crystal Plate Helm£º»ñµÃ½ğÊôÍ·¿ø 
-¡¡¡¡#create Very Rare Crystal Plate Boots£º»ñµÃ½ğÊôÑ¥×Ó 
-¡¡¡¡#create Very Rare Crystal Scale Gauntlets£ºµÃÌúÊÖÌ× 
-¡¡¡¡#create None Gloves£ºÄ§·¨ÊÖÌ×(Def +2) 
-¡¡¡¡#create None Robe£ºÄ§·¨³¤ÅÛ(Def +5) 
-¡¡¡¡#create None Cloak£ºÄ§·¨Åû·ç(Def +3) 
-¡¡¡¡#create None Shoes£ºÄ§·¨Ğ¬(Def +3) 
-¡¡¡¡#create None Dress£ºÄ§·¨ÒÂ(Def +10) 
-¡¡¡¡#create None Cape£ºÄ§·¨Åû¼ç(Def +6) 
-¡¡¡¡#create None Cap£ºÄ§·¨ÊÖÌ×(Def +1) 
-¡¡¡¡#create None Hat£ºÄ§·¨ÊÖÌ×(Def +5) 
-¡¡¡¡#kill cheaters£ºÎ´Öª 
-¡¡¡¡#kill [number]£ºÎ´Öª 
-¡¡¡¡#modify self +knowledge£ºÎ´Öª 
-¡¡¡¡#modify army +knowledge£ºÎ´Öª 
-¡¡¡¡#summon hero£ºÎ´Öª 
+ã€€ã€€#modify self +godï¼šæ— æ•Œ 
+ã€€ã€€#modify army +godï¼šæ— æ•Œ 
+ã€€ã€€#modify self +spellï¼šæ‰€æœ‰å’’è¯­ 
+ã€€ã€€#modify self +spellsï¼šæ‰€æœ‰å’’è¯­ 
+ã€€ã€€#modify army +spellï¼šæ‰€æœ‰å’’è¯­ 
+ã€€ã€€#modify army +spellsï¼šæ‰€æœ‰å’’è¯­ 
+ã€€ã€€#killallï¼šæ€æ­»æ‰€æœ‰æ•Œäºº 
+ã€€ã€€#kill allï¼šæ€æ­»æ‰€æœ‰æ•Œäºº 
+ã€€ã€€#pickup allï¼šæ‹¾èµ·åœ°ä¸Šæ‰€æœ‰ç‰©å“ 
+ã€€ã€€#show mapï¼šæ˜¾ç¤ºåœ°å›¾ 
+ã€€ã€€#hide mapï¼šéšè—åœ°å›¾ 
+ã€€ã€€#victoryï¼šç«‹å³è·èƒœ 
+ã€€ã€€#create xxx Goldï¼šå¢åŠ é»„é‡‘xxx 
+ã€€ã€€#event xxxï¼šæ˜¾ç¤ºæ‰€æœ‰åŒçº§éƒ¨é˜Ÿçš„å¯¹è©±(xxx=æ•°å­—) 
+ã€€ã€€#create Very Rare Crystal Two Handed Swordï¼šå¾—åŒæ‰‹å‰‘ 
+ã€€ã€€#create Very Rare Crystal Long Swordï¼šè·å¾—é•¿å‰‘ 
+ã€€ã€€#create Very Rare Crystal Two Handedï¼šè·å¾—ç‰¹æ®Šæ­¦å™¨ 
+ã€€ã€€#create Very Rare Crystal Axeï¼šè·å¾—æ–§å¤´ 
+ã€€ã€€#create Very Rare Crystal Maceï¼šè·å¾—æƒæ– 
+ã€€ã€€#create Very Rare Crystal War Hammerï¼šè·å¾—æˆ˜é”¤ 
+ã€€ã€€#create Very Rare Crystal Pikeï¼šè·å¾—é•¿æª 
+ã€€ã€€#create Very Rare Crystal Morning Starï¼šå¾—æ­¦å™¨-æ™¨æ˜Ÿ 
+ã€€ã€€#create Very Rare Crystal Cuirassï¼šå¾—èƒ¸ç”² 
+ã€€ã€€#create Very Rare Crystal Plate Cuirassï¼šå¾—é‡‘å±èƒ¸ç”² 
+ã€€ã€€#create Very Rare Crystal Plate Bracersï¼šå¾—é‡‘å±æŠ¤è…• 
+ã€€ã€€#create Very Rare Crystal Amuletï¼šè·å¾—æŠ¤èº«ç¬¦ 
+ã€€ã€€#create Very Rare Crystal Ringï¼šè·å¾—æˆ’æŒ‡ 
+ã€€ã€€#create Very Rare Crystal Plate Helmï¼šè·å¾—é‡‘å±å¤´ç›” 
+ã€€ã€€#create Very Rare Crystal Plate Bootsï¼šè·å¾—é‡‘å±é´å­ 
+ã€€ã€€#create Very Rare Crystal Scale Gauntletsï¼šå¾—é“æ‰‹å¥— 
+ã€€ã€€#create None Glovesï¼šé­”æ³•æ‰‹å¥—(Def +2) 
+ã€€ã€€#create None Robeï¼šé­”æ³•é•¿è¢(Def +5) 
+ã€€ã€€#create None Cloakï¼šé­”æ³•æŠ«é£(Def +3) 
+ã€€ã€€#create None Shoesï¼šé­”æ³•é‹(Def +3) 
+ã€€ã€€#create None Dressï¼šé­”æ³•è¡£(Def +10) 
+ã€€ã€€#create None Capeï¼šé­”æ³•æŠ«è‚©(Def +6) 
+ã€€ã€€#create None Capï¼šé­”æ³•æ‰‹å¥—(Def +1) 
+ã€€ã€€#create None Hatï¼šé­”æ³•æ‰‹å¥—(Def +5) 
+ã€€ã€€#kill cheatersï¼šæœªçŸ¥ 
+ã€€ã€€#kill [number]ï¼šæœªçŸ¥ 
+ã€€ã€€#modify self +knowledgeï¼šæœªçŸ¥ 
+ã€€ã€€#modify army +knowledgeï¼šæœªçŸ¥ 
+ã€€ã€€#summon heroï¼šæœªçŸ¥ 
 

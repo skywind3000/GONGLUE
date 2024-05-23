@@ -1,266 +1,266 @@
 Untitled Document
 
 
-¡¶ºïµºÐ¡Ó¢ÐÛ4¡·È«¹¥ÂÔ
+ã€ŠçŒ´å²›å°è‹±é›„4ã€‹å…¨æ”»ç•¥
 
 
-¡¡¡¡ÎÞÂÛÔÚPC»¹ÊÇÔÚ¼ÒÓÃÆ½Ì¨£¬¡¶Monkey Island¡·¶¼ÊÇÓÐÃûµÄ×÷Æ·£¬ÒàÊÇLucasArtsµÄÕÐÅÆ²ËÖ®Ò»¡£²»¾­²»¾õµÚËÄ¼¯ÓÖÃæÊÀÁË£¬³ýÁËÉÍÐÄÔÃÄ¿µÄ»­Ãæ¼°È«³ÌÓïÒô£¬ÃÕÌâÈÔÊÇÒ»¹áµÄÀ§ÄÑ¡­¡­ 
+ã€€ã€€æ— è®ºåœ¨PCè¿˜æ˜¯åœ¨å®¶ç”¨å¹³å°ï¼Œã€ŠMonkey Islandã€‹éƒ½æ˜¯æœ‰åçš„ä½œå“ï¼Œäº¦æ˜¯LucasArtsçš„æ‹›ç‰Œèœä¹‹ä¸€ã€‚ä¸ç»ä¸è§‰ç¬¬å››é›†åˆé¢ä¸–äº†ï¼Œé™¤äº†èµå¿ƒæ‚¦ç›®çš„ç”»é¢åŠå…¨ç¨‹è¯­éŸ³ï¼Œè°œé¢˜ä»æ˜¯ä¸€è´¯çš„å›°éš¾â€¦â€¦ 
       
-¡¡¡¡Ç°ÑÔ 
-¡¡¡¡¡¶Escape From Monkey Island¡·¾¹ÉáÆúÁËÊó±ê£¬¶ø¸ÄÓÃ¼üÅÌ£¨»ò8KeyµÄGamepad£©£¬È·Êµ·Ç³£·Ç³£Ö®²»·½±ã£¬°¦¡­¡­ÒÔÏÂÎª³£ÓÃ¼ü£¬ÆäËû°´¼ü¿ÉÔÚËµÃ÷ÊéÕÒµ½£º 
+ã€€ã€€å‰è¨€ 
+ã€€ã€€ã€ŠEscape From Monkey Islandã€‹ç«Ÿèˆå¼ƒäº†é¼ æ ‡ï¼Œè€Œæ”¹ç”¨é”®ç›˜ï¼ˆæˆ–8Keyçš„Gamepadï¼‰ï¼Œç¡®å®žéžå¸¸éžå¸¸ä¹‹ä¸æ–¹ä¾¿ï¼Œå”‰â€¦â€¦ä»¥ä¸‹ä¸ºå¸¸ç”¨é”®ï¼Œå…¶ä»–æŒ‰é”®å¯åœ¨è¯´æ˜Žä¹¦æ‰¾åˆ°ï¼š 
       
-¡¡¡¡ÉÏÏÂ×óÓÒ¼ý¾×¼ü£ºÐÐ×ß 
-        ¡¡¡¡Shift£«ÉÏÏÂ×óÓÒ¼ýÍ·¼ü£ºÅÜ 
-        ¡¡¡¡Enter£ºÈ·ÈÏÐÐ¶¯ 
-        ¡¡¡¡Page Up & Page Down£º¶Ô»°ÒªÑ¡Ôñ´ð°¸Ê±µÄ¾í¶¯ 
-        ¡¡¡¡E / L£º¹Û¿´ 
-        ¡¡¡¡U£ºÊ¹ÓÃ 
-        ¡¡¡¡P£ºÄÃÆð£¬½«ÎïÆ·ÊÕ»Ø×°±¸ÖÐ 
-        ¡¡¡¡I£º½øÈë×°±¸ 
-        ¡¡¡¡O£ºÁ¢¼´Àë¿ª½¨ÖþÎï»ò½øÈë´óµØÍ¼ 
-        ¡¡¡¡F1£ºÖ÷Ñ¡µ¥ 
-        ¡¡¡¡Delete£ºÂÔ¹ý¶Ô»° 
-        ¡¡¡¡Esc£ºÂÔ¹ýÓ°Æ¬ 
-¡¡¡¡³£¼ûÎÊÌâ 
-¡¡¡¡£Ñ£ºÈçºÎ²Å¿ÉÒÔ¶Ô½ÇÉ«Ê¹ÓÃÄ³ÎïÆ·£¿ 
-        ¡¡¡¡£Á£ºÏÈ°´"I"¼ü½øÈë×°±¸£¬Ñ¡ÔñÎïÆ·£¬ÔÙ×ß½ü½ÇÉ«£¬»á±ä³É"Use XX to XXµÄ"¡£ 
-¡¡¡¡£Ñ£ºÎªºÎÎÒ²»ÄÜÕÕ¹¥ÂÔËùËµ½øÐÐÐÐ¶¯£¿ 
-        ¡¡¡¡£Á£º×¢ÒâÆ½Ê±²»ÒªÄÃ¶«Î÷ÔÚÊÖÖÐ£¨ÈçÓÐ¶«Î÷ÔÚÊÖÖÐÇë°´"P"¼üÊÕ»Ø£©£¬Ä³Ð©Çé½ÚÒª¶Ô½ÇÉ«Ê¹ÓÃÎïÆ·µÄ¹¥ÂÔ×Ô»áËµÃ÷¡£ 
-¡¡¡¡£Ñ£ºÎÒµÄÓ¢ÎÄ²»¼Ñ£¬²»Ã÷°×ËûÃÇÔÚËµÉõÃ´£¿ 
-        ¡¡¡¡£Á£ºÇëÔÚOptionÑ¡Ôñ"Text Mode"Îª"Voice & Text"¡£ 
-¡¡¡¡£Ñ£ºÎÒ´í¹ýÁËÄ³Ð©ÏÞÊ±»òÏÞ´ÎÊýÒªÑ¡ÔñÐÐ¶¯µÄµØ·½£¬Ôõ°ì£¿ 
-        ¡¡¡¡£Á£ºÖ»ÓÐLoad»Ø´æµµÖØÐÂÀ´¹ýÁË¡£ 
-¡¡¡¡·µ»ØÀÏ¼Ò 
-¡¡¡¡¿ªÊ¼Ê±ÄÇÉµÀÐCatapultÔÚÓÃÍ¶Ê¯Æ÷´òÄãµÄ¾É¾Ó£¬Ô­À´ÊÇÕû¸ö Meele Island¶¼ÒÔÎªÄãµÄÌ«Ì«MarleyÒÑËÀÁË¡­¶øÊ×¸öÈÎÎñ±ãÊÇÓ¦Ì«Ì«µÄÃüÁî£¬ÒªÄã³ö·¢µ½Lucre 
-        Island¡£ 
-¡¡¡¡£±¡¡µ½Melee Town£¬½øÈëScumm Bar£¬×ßµ½ÓÐ¸öÒû×íµÄÀÏ²®ÉíÅÔ£¬¿´Ò»¿´×ÏÉ«µÄÆøÇò£¬ÔÙÓëDart PlayerËµ»°£¬´ò¶ÄËû²»ÄÜÈÓÖÐÆøÇò£¬ÆøÇò±¬ÁËºó£¬ÀÏ²®ÏÅµ½Ë¯×ÅÁË£¬½«ËûÃæÇ°µÄÒ»ÍëPretzelsÄÃÁË¡£ 
+ã€€ã€€ä¸Šä¸‹å·¦å³ç®­å’€é”®ï¼šè¡Œèµ° 
+        ã€€ã€€Shiftï¼‹ä¸Šä¸‹å·¦å³ç®­å¤´é”®ï¼šè·‘ 
+        ã€€ã€€Enterï¼šç¡®è®¤è¡ŒåŠ¨ 
+        ã€€ã€€Page Up & Page Downï¼šå¯¹è¯è¦é€‰æ‹©ç­”æ¡ˆæ—¶çš„å·åŠ¨ 
+        ã€€ã€€E / Lï¼šè§‚çœ‹ 
+        ã€€ã€€Uï¼šä½¿ç”¨ 
+        ã€€ã€€Pï¼šæ‹¿èµ·ï¼Œå°†ç‰©å“æ”¶å›žè£…å¤‡ä¸­ 
+        ã€€ã€€Iï¼šè¿›å…¥è£…å¤‡ 
+        ã€€ã€€Oï¼šç«‹å³ç¦»å¼€å»ºç­‘ç‰©æˆ–è¿›å…¥å¤§åœ°å›¾ 
+        ã€€ã€€F1ï¼šä¸»é€‰å• 
+        ã€€ã€€Deleteï¼šç•¥è¿‡å¯¹è¯ 
+        ã€€ã€€Escï¼šç•¥è¿‡å½±ç‰‡ 
+ã€€ã€€å¸¸è§é—®é¢˜ 
+ã€€ã€€ï¼±ï¼šå¦‚ä½•æ‰å¯ä»¥å¯¹è§’è‰²ä½¿ç”¨æŸç‰©å“ï¼Ÿ 
+        ã€€ã€€ï¼¡ï¼šå…ˆæŒ‰"I"é”®è¿›å…¥è£…å¤‡ï¼Œé€‰æ‹©ç‰©å“ï¼Œå†èµ°è¿‘è§’è‰²ï¼Œä¼šå˜æˆ"Use XX to XXçš„"ã€‚ 
+ã€€ã€€ï¼±ï¼šä¸ºä½•æˆ‘ä¸èƒ½ç…§æ”»ç•¥æ‰€è¯´è¿›è¡Œè¡ŒåŠ¨ï¼Ÿ 
+        ã€€ã€€ï¼¡ï¼šæ³¨æ„å¹³æ—¶ä¸è¦æ‹¿ä¸œè¥¿åœ¨æ‰‹ä¸­ï¼ˆå¦‚æœ‰ä¸œè¥¿åœ¨æ‰‹ä¸­è¯·æŒ‰"P"é”®æ”¶å›žï¼‰ï¼ŒæŸäº›æƒ…èŠ‚è¦å¯¹è§’è‰²ä½¿ç”¨ç‰©å“çš„æ”»ç•¥è‡ªä¼šè¯´æ˜Žã€‚ 
+ã€€ã€€ï¼±ï¼šæˆ‘çš„è‹±æ–‡ä¸ä½³ï¼Œä¸æ˜Žç™½ä»–ä»¬åœ¨è¯´ç”šä¹ˆï¼Ÿ 
+        ã€€ã€€ï¼¡ï¼šè¯·åœ¨Optioné€‰æ‹©"Text Mode"ä¸º"Voice & Text"ã€‚ 
+ã€€ã€€ï¼±ï¼šæˆ‘é”™è¿‡äº†æŸäº›é™æ—¶æˆ–é™æ¬¡æ•°è¦é€‰æ‹©è¡ŒåŠ¨çš„åœ°æ–¹ï¼Œæ€ŽåŠžï¼Ÿ 
+        ã€€ã€€ï¼¡ï¼šåªæœ‰Loadå›žå­˜æ¡£é‡æ–°æ¥è¿‡äº†ã€‚ 
+ã€€ã€€è¿”å›žè€å®¶ 
+ã€€ã€€å¼€å§‹æ—¶é‚£å‚»ä½¬Catapultåœ¨ç”¨æŠ•çŸ³å™¨æ‰“ä½ çš„æ—§å±…ï¼ŒåŽŸæ¥æ˜¯æ•´ä¸ª Meele Islandéƒ½ä»¥ä¸ºä½ çš„å¤ªå¤ªMarleyå·²æ­»äº†â€¦è€Œé¦–ä¸ªä»»åŠ¡ä¾¿æ˜¯åº”å¤ªå¤ªçš„å‘½ä»¤ï¼Œè¦ä½ å‡ºå‘åˆ°Lucre 
+        Islandã€‚ 
+ã€€ã€€ï¼‘ã€€åˆ°Melee Townï¼Œè¿›å…¥Scumm Barï¼Œèµ°åˆ°æœ‰ä¸ªé¥®é†‰çš„è€ä¼¯èº«æ—ï¼Œçœ‹ä¸€çœ‹ç´«è‰²çš„æ°”çƒï¼Œå†ä¸ŽDart Playerè¯´è¯ï¼Œæ‰“èµŒä»–ä¸èƒ½æ‰”ä¸­æ°”çƒï¼Œæ°”çƒçˆ†äº†åŽï¼Œè€ä¼¯å“åˆ°ç¡ç€äº†ï¼Œå°†ä»–é¢å‰çš„ä¸€ç¢—Pretzelsæ‹¿äº†ã€‚ 
       
-¡¡¡¡£²¡¡ÔÚ¾Æ°ÉÄÚÓëCrusty SailorËµ»°£¬ÓëËû´ò¶ÄÞÖÊÖÍó£¨Arm Wresting£©£¬Ê¤³öÁË±ã¿ÉÒÔÇëËûÁìº½¡£·½·¨ÊÇÔÚËûËµºÜ" 
-        ´®"µÄËµ»°Ê±£¬ËµÒ»Ð©¶ÔÓ¦µÄËµ»°À´±ÈËû¸ü"´®"£¬Ê¤³öÈý¾äÕßÎªÊ¤¡£ÄãËµ»°ºóËûËµµÄ»°ÈçÁîÄãÊä£¬ÄÇ¾ä±ãÊÇ¶ÔÓ¦µÄËµ»°ÁË¡£´ËÍâÓÐ¸öTips£¬ÊÇÑ¡ÔñÑºÔÏµÄËµ»°¡£ 
+ã€€ã€€ï¼’ã€€åœ¨é…’å§å†…ä¸ŽCrusty Sailorè¯´è¯ï¼Œä¸Žä»–æ‰“èµŒæ‹—æ‰‹è…•ï¼ˆArm Wrestingï¼‰ï¼Œèƒœå‡ºäº†ä¾¿å¯ä»¥è¯·ä»–é¢†èˆªã€‚æ–¹æ³•æ˜¯åœ¨ä»–è¯´å¾ˆ" 
+        ä¸²"çš„è¯´è¯æ—¶ï¼Œè¯´ä¸€äº›å¯¹åº”çš„è¯´è¯æ¥æ¯”ä»–æ›´"ä¸²"ï¼Œèƒœå‡ºä¸‰å¥è€…ä¸ºèƒœã€‚ä½ è¯´è¯åŽä»–è¯´çš„è¯å¦‚ä»¤ä½ è¾“ï¼Œé‚£å¥ä¾¿æ˜¯å¯¹åº”çš„è¯´è¯äº†ã€‚æ­¤å¤–æœ‰ä¸ªTipsï¼Œæ˜¯é€‰æ‹©æŠ¼éŸµçš„è¯´è¯ã€‚ 
       
-¡¡¡¡£³¡¡µ½ÂëÍ·ÓëHarbor MistressËµ»°£¬ËýÒªÄã³öÊ¾Ö¤Ã÷²Å¸øÄã´¬¡£ÔÚÆûË®»úÅÔÄÃÈ¡"Inner Tube" £ª£ªÓÐ¹ØÐòÄ»£º±»°óÔÚÖùÉÏ¡­¡­ÒÆµ½»ðÅÌÇ°Ìßµ¹»ðÅÌ£¨U 
-        £©£¬ÔÙÄÃÆðÒ»¿éÌ¿£¨P£©£¬¿ìËÙÒÆµ½Õ¨µ¯´¦£¬ÌßÏ»¿éÌ¿µ½Õ¨µ¯ÉÏ±ã¿ÉÒÔÁË¡­¡­ 
-¡¡¡¡ÌÓ³öMeele Island 
-¡¡¡¡£´¡¡×ß»ØGovenor Mansion£¬Ê¹ÓÃInner TubeÔÚFunny-looking catus ÉÏ£¬ÔÙÊÖÖ´Pretzels£¬¸øcatapult 
-        operator³Ô£¬µÈËû×ß¿ª³ÔÊ±£¬×ßµ½Í¶Ê¯»ú½Á½ÁÄÇ¸öcatapult control£¬ÕâÑùÄÇ¸öcatapult operator±ã²»»áÔÙ³öÏÖ£¬ÆÞ×ÓÒ²»á×ßÈëGovenor 
-        MansionÄÚ¡£ 
-¡¡¡¡£µ¡¡ÔÚMelee Town¼ûµ½µÄÒ»ÄÐÒ»Å®£¬²»ÊÇÂ·ÈË£¬¶øÊÇÇ°×÷µÄÒ»Ð©½ÇÉ«£»Carla¼°Otis£¬ÔÚËµ»°ÖÐÌ×³öËûÃÇÊÇÈÏÊ¶ÄãµÄ£¬È»ºó£¬ËµÌá¹©Ò»·Ý"cushy 
-        goverment jobs"ËûÃÇ±ãÓ¦³Ð»á¼ÓÈëÄãµÄ¶ÓÎé³ö·¢µ½Lucre Island¡£ 
-¡¡¡¡£¶¡¡»ØGovenor Mansion£¬ÔÚ´°ÅÔ£¨ÎÝÄÚÓÐ¼¸¸ö»­Ãæ£©ÕÒµ½Ð© Govermant Paper£¬¿´Ò»¿´£¬ÕýÊÇÒ»·ÝÔ±¹¤ºÏÔ¼£¨cushy 
-        edition £©£¬½«Ëü½»¸øElaineÇ©Êð£¬ÔÙÎÊËûÄÃÈ¡Gubernational Symbol£¬±ã¿ÉÀë¿ª¡£ 
-¡¡¡¡£·¡¡½«Ô±¹¤ºÏÔ¼½»¸øCarla¼°Otis£¬ÔÙµ½ÂëÍ·ÏòHarbor Mistress³öÊ¾Gubernational Symbol£¬±ã¿ÉÀë¿ªMeele 
-        Island³ö·¢µ½Lucre Island ÁË£¡ 
-¡¡¡¡Lucre IslandÖ®º¬Ô©Äª°× 
-¡¡¡¡£±¡¡µ½ÁËLucre IslandµÄµÚÒ»¼þÊÂ£¬±ãÊÇµ½Law OfficeÓëÈýÃûÂÉÊ¦Ëµ»°£¬ËûÃÇ»á¸øÄãÒ»·âÐÅ£¬¿´Íêºóµ½ÒøÐÐÎÊÓÐ¹ØHT MarleyµÄSafe 
-        Deposit Box£¬ÒøÐÐ¾­Àí»á´øÄãµ½·¿ÖÐÈ¡±£ÏÕÏä£¬´ËÊ±»áÓÐ¸öÎÞ±ÇµÄÔôÈË×°³ÉÄãµÄÑù×Ó´ò½Ù£¬Äã±»À§ÔÚ±£ÏÕ·¿ÖÐ¡£ 
-¡¡¡¡£²¡¡½«·¿ÖÐµÄËùÓÐ¶«Î÷ÄÃÈ¡£¬°üÀ¨ÄÇÈËÒÅÏÂµÄHandkerchief£¬Èý¿éSponge£¬Sword£¬±£ÏÕÏäÄÚ»¹ÓÐGrog¼°Music Box¡£ 
+ã€€ã€€ï¼“ã€€åˆ°ç å¤´ä¸ŽHarbor Mistressè¯´è¯ï¼Œå¥¹è¦ä½ å‡ºç¤ºè¯æ˜Žæ‰ç»™ä½ èˆ¹ã€‚åœ¨æ±½æ°´æœºæ—æ‹¿å–"Inner Tube" ï¼Šï¼Šæœ‰å…³åºå¹•ï¼šè¢«ç»‘åœ¨æŸ±ä¸Šâ€¦â€¦ç§»åˆ°ç«ç›˜å‰è¸¢å€’ç«ç›˜ï¼ˆU 
+        ï¼‰ï¼Œå†æ‹¿èµ·ä¸€å—ç‚­ï¼ˆPï¼‰ï¼Œå¿«é€Ÿç§»åˆ°ç‚¸å¼¹å¤„ï¼Œè¸¢åŒ£å—ç‚­åˆ°ç‚¸å¼¹ä¸Šä¾¿å¯ä»¥äº†â€¦â€¦ 
+ã€€ã€€é€ƒå‡ºMeele Island 
+ã€€ã€€ï¼”ã€€èµ°å›žGovenor Mansionï¼Œä½¿ç”¨Inner Tubeåœ¨Funny-looking catus ä¸Šï¼Œå†æ‰‹æ‰§Pretzelsï¼Œç»™catapult 
+        operatoråƒï¼Œç­‰ä»–èµ°å¼€åƒæ—¶ï¼Œèµ°åˆ°æŠ•çŸ³æœºæ…æ…é‚£ä¸ªcatapult controlï¼Œè¿™æ ·é‚£ä¸ªcatapult operatorä¾¿ä¸ä¼šå†å‡ºçŽ°ï¼Œå¦»å­ä¹Ÿä¼šèµ°å…¥Govenor 
+        Mansionå†…ã€‚ 
+ã€€ã€€ï¼•ã€€åœ¨Melee Townè§åˆ°çš„ä¸€ç”·ä¸€å¥³ï¼Œä¸æ˜¯è·¯äººï¼Œè€Œæ˜¯å‰ä½œçš„ä¸€äº›è§’è‰²ï¼›CarlaåŠOtisï¼Œåœ¨è¯´è¯ä¸­å¥—å‡ºä»–ä»¬æ˜¯è®¤è¯†ä½ çš„ï¼Œç„¶åŽï¼Œè¯´æä¾›ä¸€ä»½"cushy 
+        goverment jobs"ä»–ä»¬ä¾¿åº”æ‰¿ä¼šåŠ å…¥ä½ çš„é˜Ÿä¼å‡ºå‘åˆ°Lucre Islandã€‚ 
+ã€€ã€€ï¼–ã€€å›žGovenor Mansionï¼Œåœ¨çª—æ—ï¼ˆå±‹å†…æœ‰å‡ ä¸ªç”»é¢ï¼‰æ‰¾åˆ°äº› Govermant Paperï¼Œçœ‹ä¸€çœ‹ï¼Œæ­£æ˜¯ä¸€ä»½å‘˜å·¥åˆçº¦ï¼ˆcushy 
+        edition ï¼‰ï¼Œå°†å®ƒäº¤ç»™Elaineç­¾ç½²ï¼Œå†é—®ä»–æ‹¿å–Gubernational Symbolï¼Œä¾¿å¯ç¦»å¼€ã€‚ 
+ã€€ã€€ï¼—ã€€å°†å‘˜å·¥åˆçº¦äº¤ç»™CarlaåŠOtisï¼Œå†åˆ°ç å¤´å‘Harbor Mistresså‡ºç¤ºGubernational Symbolï¼Œä¾¿å¯ç¦»å¼€Meele 
+        Islandå‡ºå‘åˆ°Lucre Island äº†ï¼ 
+ã€€ã€€Lucre Islandä¹‹å«å†¤èŽ«ç™½ 
+ã€€ã€€ï¼‘ã€€åˆ°äº†Lucre Islandçš„ç¬¬ä¸€ä»¶äº‹ï¼Œä¾¿æ˜¯åˆ°Law Officeä¸Žä¸‰åå¾‹å¸ˆè¯´è¯ï¼Œä»–ä»¬ä¼šç»™ä½ ä¸€å°ä¿¡ï¼Œçœ‹å®ŒåŽåˆ°é“¶è¡Œé—®æœ‰å…³HT Marleyçš„Safe 
+        Deposit Boxï¼Œé“¶è¡Œç»ç†ä¼šå¸¦ä½ åˆ°æˆ¿ä¸­å–ä¿é™©ç®±ï¼Œæ­¤æ—¶ä¼šæœ‰ä¸ªæ— é¼»çš„è´¼äººè£…æˆä½ çš„æ ·å­æ‰“åŠ«ï¼Œä½ è¢«å›°åœ¨ä¿é™©æˆ¿ä¸­ã€‚ 
+ã€€ã€€ï¼’ã€€å°†æˆ¿ä¸­çš„æ‰€æœ‰ä¸œè¥¿æ‹¿å–ï¼ŒåŒ…æ‹¬é‚£äººé—ä¸‹çš„Handkerchiefï¼Œä¸‰å—Spongeï¼ŒSwordï¼Œä¿é™©ç®±å†…è¿˜æœ‰GrogåŠMusic Boxã€‚ 
       
-¡¡¡¡£³¡¡ÏÈÓÃ½£ÔÚÃÅµÄBottom Hinge£¬ÇË¿ªÃÅºó½£»á¶ÏÁÑ£¬Ê¹ÓÃ¶Ï½£ÔÚÃÅ·ì£¨Carck£©£¬½«Èý¿éSponge·Å½øÃÅ·ì£¬ÔÙÊ¹ÓÃGrogÔÚÃÅ·ìÖÐ£¬ÃÅ¾Í»á´ò¿ªÁË¡£ 
+ã€€ã€€ï¼“ã€€å…ˆç”¨å‰‘åœ¨é—¨çš„Bottom Hingeï¼Œæ’¬å¼€é—¨åŽå‰‘ä¼šæ–­è£‚ï¼Œä½¿ç”¨æ–­å‰‘åœ¨é—¨ç¼ï¼ˆCarckï¼‰ï¼Œå°†ä¸‰å—Spongeæ”¾è¿›é—¨ç¼ï¼Œå†ä½¿ç”¨Grogåœ¨é—¨ç¼ä¸­ï¼Œé—¨å°±ä¼šæ‰“å¼€äº†ã€‚ 
       
-¡¡¡¡£´¡¡Äã±»Îó»á³ÉÔôÈË£¬Ö»ºÃ×Ô¼ºÀ´Ö¤Ã÷×Ô¼ºÊÇÇå°×µÄ£¬·ñÔò±ã²»ÄÜÀë¿ªÕâ¸öµº¡£ 
-¡¡¡¡£µ¡¡ÏÈÄÃÈ¡ÒÔÏÂµÄÎïÆ·£º 
-¡¡¡¡ÔÚJailÈ¡Chicken Grease£¬ 
-        ¡¡¡¡ÔÚScents and SensibilitiesÈ¡Empty SpritzerºÍCologne£¬ 
-        ¡¡¡¡ÔÚHouse of SticksÈ¡Wood Shavings£¬ÓëÀÏ°åËµ»°£¬ 
-        ¡¡¡¡ÔÚBait ShopÈ¡Ò»¿éFree Bait£¬ÓëÀÏ°åËµ»°£¬ 
-        ¡¡¡¡ÔÚBait ShopÃÅÍâÈ¡×ßDuck¡£ 
-¡¡¡¡£¶¡¡µ½Palace of ProsthesesÓëDaveËµ»°£¬½«Handkerchief¸øËûÎÅÎÅ£¬ËûËµÒª¸üÅ¨Î¶µÀµÄ£¬²Å¿É·Ö±æ¡£Äã¿´¿´ÄÇÌõHandkerchief 
-        £¬±ãÖªµÀÒªÉõÃ´ÁË¡£ 
-¡¡¡¡£·¡¡ÄÃEmpty Spritzerµ½Jail³öÃæµÄFountain×°Ë®£¬½«Wood Shaving¼Ó½øHome-made PerfumeÖÐ£¨ÔÚ×°±¸°´UÊ¹ÓÃWood 
-        Shaving£¬ÔÙÑ¡ÔñHome-made Perfume°´Enter¡££©£¬ÄÃPerfumeµ½Bait Shop¼ÓÐ©Free BaitµÄË®£¬°´O¼ü³ö´óµØÍ¼£¬µ½Mystes'O 
-        Tyme Marshe¼ÓÉÏPuddle£¬µ½MansionÕ¬Ç°µÄÅçË®³ØÇ°£¬½«Flower¼Ó½øÈ¥£¬ HandkerchiefµÄÎ¶µÀ´ó¹¦¸æ³É£¬·µ»ØPalace 
-        of Prostheses¡£ 
-¡¡¡¡Lucre IslandÖ®"Òì"µØ×·Ð× 
-¡¡¡¡£¸¡¡½«ÄÇHome-made PerfumeÓÃÔÚDaveÉíÉÏ£¬Ëû±ã»áËµ³öÒ»¸öÃû×Ö£¬È»ºó±ãÒªÄãÔÚÅÔ±ßÄÇ¸ö"Retrieval System 
-        Controls"ÕÒ³öÄÇÈËµÄ×ÊÁÏÁË£¬Ãû×ÖÊÇÈËÈË²»Í¬µÄ£¬µ«¶¼ÊÇÓÉÈý×éÃû×é³É£¬±ÊÕßÍæÄÇÃû×ÖÊÇDan W. Hootiniferous¡£ 
+ã€€ã€€ï¼”ã€€ä½ è¢«è¯¯ä¼šæˆè´¼äººï¼Œåªå¥½è‡ªå·±æ¥è¯æ˜Žè‡ªå·±æ˜¯æ¸…ç™½çš„ï¼Œå¦åˆ™ä¾¿ä¸èƒ½ç¦»å¼€è¿™ä¸ªå²›ã€‚ 
+ã€€ã€€ï¼•ã€€å…ˆæ‹¿å–ä»¥ä¸‹çš„ç‰©å“ï¼š 
+ã€€ã€€åœ¨Jailå–Chicken Greaseï¼Œ 
+        ã€€ã€€åœ¨Scents and Sensibilitieså–Empty Spritzerå’ŒCologneï¼Œ 
+        ã€€ã€€åœ¨House of Stickså–Wood Shavingsï¼Œä¸Žè€æ¿è¯´è¯ï¼Œ 
+        ã€€ã€€åœ¨Bait Shopå–ä¸€å—Free Baitï¼Œä¸Žè€æ¿è¯´è¯ï¼Œ 
+        ã€€ã€€åœ¨Bait Shopé—¨å¤–å–èµ°Duckã€‚ 
+ã€€ã€€ï¼–ã€€åˆ°Palace of Prosthesesä¸ŽDaveè¯´è¯ï¼Œå°†Handkerchiefç»™ä»–é—»é—»ï¼Œä»–è¯´è¦æ›´æµ“å‘³é“çš„ï¼Œæ‰å¯åˆ†è¾¨ã€‚ä½ çœ‹çœ‹é‚£æ¡Handkerchief 
+        ï¼Œä¾¿çŸ¥é“è¦ç”šä¹ˆäº†ã€‚ 
+ã€€ã€€ï¼—ã€€æ‹¿Empty Spritzeråˆ°Jailå‡ºé¢çš„Fountainè£…æ°´ï¼Œå°†Wood ShavingåŠ è¿›Home-made Perfumeä¸­ï¼ˆåœ¨è£…å¤‡æŒ‰Uä½¿ç”¨Wood 
+        Shavingï¼Œå†é€‰æ‹©Home-made PerfumeæŒ‰Enterã€‚ï¼‰ï¼Œæ‹¿Perfumeåˆ°Bait ShopåŠ äº›Free Baitçš„æ°´ï¼ŒæŒ‰Oé”®å‡ºå¤§åœ°å›¾ï¼Œåˆ°Mystes'O 
+        Tyme MarsheåŠ ä¸ŠPuddleï¼Œåˆ°Mansionå®…å‰çš„å–·æ°´æ± å‰ï¼Œå°†FloweråŠ è¿›åŽ»ï¼Œ Handkerchiefçš„å‘³é“å¤§åŠŸå‘Šæˆï¼Œè¿”å›žPalace 
+        of Prosthesesã€‚ 
+ã€€ã€€Lucre Islandä¹‹"å¼‚"åœ°è¿½å‡¶ 
+ã€€ã€€ï¼˜ã€€å°†é‚£Home-made Perfumeç”¨åœ¨Daveèº«ä¸Šï¼Œä»–ä¾¿ä¼šè¯´å‡ºä¸€ä¸ªåå­—ï¼Œç„¶åŽä¾¿è¦ä½ åœ¨æ—è¾¹é‚£ä¸ª"Retrieval System 
+        Controls"æ‰¾å‡ºé‚£äººçš„èµ„æ–™äº†ï¼Œåå­—æ˜¯äººäººä¸åŒçš„ï¼Œä½†éƒ½æ˜¯ç”±ä¸‰ç»„åç»„æˆï¼Œç¬”è€…çŽ©é‚£åå­—æ˜¯Dan W. Hootiniferousã€‚ 
       
-¡¡¡¡£¹¡¡ÄÇ¸ö"Retrieval System Controls"£¬·Ö±ðÒÔ²»Í¬Í¼°¸´ú±í²»Í¬µÄ×ÖÄ¸£¬ÊÇÃû×ÖÓÉ×óÖÁÓÒ¿´µÄµÚÒ»¸ö×ÖÄ¸£º 
+ã€€ã€€ï¼™ã€€é‚£ä¸ª"Retrieval System Controls"ï¼Œåˆ†åˆ«ä»¥ä¸åŒå›¾æ¡ˆä»£è¡¨ä¸åŒçš„å­—æ¯ï¼Œæ˜¯åå­—ç”±å·¦è‡³å³çœ‹çš„ç¬¬ä¸€ä¸ªå­—æ¯ï¼š 
       
-¡¡¡¡ÍÃ×Ó£ºA-D 
-        ¡¡¡¡Ò¬Ê÷£ºE-H 
-        ¡¡¡¡ÄÏ¹Ï£ºI-M 
-        ¡¡¡¡ºï×Ó£ºN-T 
-        ¡¡¡¡Ïã½¶£ºU-Z 
-¡¡¡¡¾ÙÀý±ÊÕßÒªÕÒÄÇ¸öÊÇDan W. Hootiniferous£¬ËùÒÔ±ãÒª×ª³ÉÍÃ×Ó¡¢Ïã½¶¡¢Ò¬Ê÷£¬°´¼ü±ã¿ÉÒÔÈ¡µÃÒ»ÕÅ"Ê±¼ä±í"£¡Ò»»á¶ù²ÅËµÈçºÎÊ¹ÓÃ¡£ 
+ã€€ã€€å…”å­ï¼šA-D 
+        ã€€ã€€æ¤°æ ‘ï¼šE-H 
+        ã€€ã€€å—ç“œï¼šI-M 
+        ã€€ã€€çŒ´å­ï¼šN-T 
+        ã€€ã€€é¦™è•‰ï¼šU-Z 
+ã€€ã€€ä¸¾ä¾‹ç¬”è€…è¦æ‰¾é‚£ä¸ªæ˜¯Dan W. Hootiniferousï¼Œæ‰€ä»¥ä¾¿è¦è½¬æˆå…”å­ã€é¦™è•‰ã€æ¤°æ ‘ï¼ŒæŒ‰é”®ä¾¿å¯ä»¥å–å¾—ä¸€å¼ "æ—¶é—´è¡¨"ï¼ä¸€ä¼šå„¿æ‰è¯´å¦‚ä½•ä½¿ç”¨ã€‚ 
       
-¡¡¡¡£±£°¡¡µ½×½ÆåÄÇÁ½¸öÀÏ²®ÅÔ±ß£¬¶ÔPortly²»¶ÏÉ¦ÈÅ£¬Ö±ÖÁËûÐÐ´íÆå£¬È»ºó´ÓPortly¿ÚÖÐµÃÖªÄÇSkinny³£´ø×ÅBritneyµÄÕÕÆ¬£¬ÓëSkinnyËµ»°£¬²»¶ÏÒÔBritneyÒý¿ªËû×¢Òâ£¬µ±ËûÒ²ÐÐ´íÆåÊ±£¬¶þÈË±ã·¢¿ñ£¬Äã±ã¿ÉÒÔÄÃ×ß×À×ÓÉÏµÄClock¡£ 
+ã€€ã€€ï¼‘ï¼ã€€åˆ°æ‰æ£‹é‚£ä¸¤ä¸ªè€ä¼¯æ—è¾¹ï¼Œå¯¹Portlyä¸æ–­æ”æ‰°ï¼Œç›´è‡³ä»–è¡Œé”™æ£‹ï¼Œç„¶åŽä»ŽPortlyå£ä¸­å¾—çŸ¥é‚£Skinnyå¸¸å¸¦ç€Britneyçš„ç…§ç‰‡ï¼Œä¸ŽSkinnyè¯´è¯ï¼Œä¸æ–­ä»¥Britneyå¼•å¼€ä»–æ³¨æ„ï¼Œå½“ä»–ä¹Ÿè¡Œé”™æ£‹æ—¶ï¼ŒäºŒäººä¾¿å‘ç‹‚ï¼Œä½ ä¾¿å¯ä»¥æ‹¿èµ°æ¡Œå­ä¸Šçš„Clockã€‚ 
       
-¡¡¡¡£±£±¡¡µ½Mystes'O Tyme Marshe£¬Ê¹ÓÃClockÔÚRaftÉÏ£¬±ã¿É½øÈë»®Í§Ä£Ê½£¬ÓÒÏÂ½ÇµÄÊ±ÖÓÊÇ´ú±íÄãÒª×ßµÄ·½Ïò£¬ÄÇÕÅÊ±¼ä±íÓÖÊÇÈËÈË²»Í¬µÄ£¬Èç±ÊÕßÄÇÕÅ£¨Çë¿´¸½Í¼£©12:05±ãÒªÍù¶«×ßµ½¾¡Í·£¬12:30±ãÍù±±×ßµ½¾¡Í·£¬Óà´ËÀàÍÆ¡£ 
+ã€€ã€€ï¼‘ï¼‘ã€€åˆ°Mystes'O Tyme Marsheï¼Œä½¿ç”¨Clockåœ¨Raftä¸Šï¼Œä¾¿å¯è¿›å…¥åˆ’è‰‡æ¨¡å¼ï¼Œå³ä¸‹è§’çš„æ—¶é’Ÿæ˜¯ä»£è¡¨ä½ è¦èµ°çš„æ–¹å‘ï¼Œé‚£å¼ æ—¶é—´è¡¨åˆæ˜¯äººäººä¸åŒçš„ï¼Œå¦‚ç¬”è€…é‚£å¼ ï¼ˆè¯·çœ‹é™„å›¾ï¼‰12:05ä¾¿è¦å¾€ä¸œèµ°åˆ°å°½å¤´ï¼Œ12:30ä¾¿å¾€åŒ—èµ°åˆ°å°½å¤´ï¼Œä½™æ­¤ç±»æŽ¨ã€‚ 
       
-¡¡¡¡£±£²¡¡ÕâÊÇ¸öÊ±¿Õ½»´íµÄ¿Õ¼ä£¬Äã»á¼ûµ½×Ô¼º£¬Ëû£¨×Ô¼º£©»á¸øÄãÈýÑù¶«Î÷£¬Óë¼°ºÍÄãËµ»°£¨¼ÇÏÂËûºÍÄãµÄ¶Ô»°¼°¸øÄã¶«Î÷µÄ´ÎÐò£©£¬ÄãÓÃSkeleton 
-        Key´ò¿ªÕ¢ºó£¬Ëû»áÀëÈ¥£¬¸úËæËûÄÇ¸ö·½Ïò×ß£¬Ö®ºó»áÔÙ¼ûµ½×Ô¼º£¡ÒÀÕÕ¸Õ²ÅËû¸øÄã¶«Î÷µÄ´ÎÐò£¬Ô­Ô­±¾±¾½»»¹¸øËû£¬´ð»ØÏàÍ¬µÄ´ð°¸£¬Ö®ºóÔÙ¸úËæËû×ß£¬±ã¿ÉÒÔµ½´ïPegnose 
-        PeteµÄÎÝ×Ó¡£ 
-¡¡¡¡Lucre IslandÖ®¼ÌÐøµ÷²é 
-¡¡¡¡£±£³¡¡µ½ÁËPegnose PeteÄÇÀï£¬ÔÚËûÃÅÍâµÄWellcome MatÊ¹ÓÃ Chicken Geese£¬ÔÙÔÚËûµÄ´°¿ÚÊ¹ÓÃDuck£¬Ëû±ãÏÅµÃÆ¨¹öÄòÁ÷µÄ³å³öÎÝÍâ£¬µøÔÚÄÇ´óÁýÖ®ÖÐ¡£ 
+ã€€ã€€ï¼‘ï¼’ã€€è¿™æ˜¯ä¸ªæ—¶ç©ºäº¤é”™çš„ç©ºé—´ï¼Œä½ ä¼šè§åˆ°è‡ªå·±ï¼Œä»–ï¼ˆè‡ªå·±ï¼‰ä¼šç»™ä½ ä¸‰æ ·ä¸œè¥¿ï¼Œä¸ŽåŠå’Œä½ è¯´è¯ï¼ˆè®°ä¸‹ä»–å’Œä½ çš„å¯¹è¯åŠç»™ä½ ä¸œè¥¿çš„æ¬¡åºï¼‰ï¼Œä½ ç”¨Skeleton 
+        Keyæ‰“å¼€é—¸åŽï¼Œä»–ä¼šç¦»åŽ»ï¼Œè·Ÿéšä»–é‚£ä¸ªæ–¹å‘èµ°ï¼Œä¹‹åŽä¼šå†è§åˆ°è‡ªå·±ï¼ä¾ç…§åˆšæ‰ä»–ç»™ä½ ä¸œè¥¿çš„æ¬¡åºï¼ŒåŽŸåŽŸæœ¬æœ¬äº¤è¿˜ç»™ä»–ï¼Œç­”å›žç›¸åŒçš„ç­”æ¡ˆï¼Œä¹‹åŽå†è·Ÿéšä»–èµ°ï¼Œä¾¿å¯ä»¥åˆ°è¾¾Pegnose 
+        Peteçš„å±‹å­ã€‚ 
+ã€€ã€€Lucre Islandä¹‹ç»§ç»­è°ƒæŸ¥ 
+ã€€ã€€ï¼‘ï¼“ã€€åˆ°äº†Pegnose Peteé‚£é‡Œï¼Œåœ¨ä»–é—¨å¤–çš„Wellcome Matä½¿ç”¨ Chicken Geeseï¼Œå†åœ¨ä»–çš„çª—å£ä½¿ç”¨Duckï¼Œä»–ä¾¿å“å¾—å±æ»šå°¿æµçš„å†²å‡ºå±‹å¤–ï¼Œè·Œåœ¨é‚£å¤§ç¬¼ä¹‹ä¸­ã€‚ 
       
-¡¡¡¡£±£´¡¡¾¯³¤ÈÔÎ´¿Ï·ÅÄã£¬Ö»ºÃÕÒ»ØÊ§Îï¡£ÏÈµ½ÒøÐÐÅÔ±ßµÄ Manhole£¬ÓÃBroken SwordÔÚManhole£¬¿´¿´ÄÇ¿éÇË³öÀ´µÄManhole 
-        Cover£¬ÉÏÃæÓÐÈý¸öÃû×Ö¡£ 
-¡¡¡¡£±£µ¡¡ÏÖÔÚµ½Prosthetic PalaceÕÒDave£¬ËµÒªÒ»Ð©Free Gift£¬Ëû»áËµÒ»¸ö¹ÊÊÂ£¬Äã´ð»ØÔÚManholeÖÐ¼ûµ½µÄÃû×Ö£¬È«ÖÐµÄ»°Ëû¾Í»á¸øÄãProsthetic 
-        Skin¡£ 
-¡¡¡¡£±£¶¡¡Ê¹ÓÃProthetic SkinÔÚManhole£¬±ã¿ÉÒÔÀûÓÃ×÷µ¯´²µ¯µ½ BankÄÚ£¬ÏÂÌÝ×ÓÀ­¶¯Chain Pull¿ªµÆ£¬ÄÃ×ß×ÀÉÏµÄScupperWare£¬½«Bait·Å½øÈ¥´ýÓÃ¡£ÉÏÌÝ×Óµ÷²éÒ»ÏÂÄÇ¸öFunny 
-        Shadow£¬Ô­À´ÊÇÒ»¸ö±Ç×Ó£¬¾¯³¤»áÀ´ÄÃ×ßËû£¬Äã±ã´Ó´°×ÓÀë¿ª¡£ 
-¡¡¡¡£±£·¡¡µ½Prosthetic Palace²¥·ÅÒôÀÖºÐ¸øDaveÌý£¬ÔÚÒôÀÖÍêÖ®Ç°È¡×ßºìÉ«µÄProsthetic Hand£»µ½Bait ShopÊ¹ÓÃProsthetic 
-        HandÔÚTermite CircusÉÏ£¬È¡×ßTermite¡£ 
-¡¡¡¡Lucre IslandÖ®Ë®ÂäÊ¯³ö 
-¡¡¡¡£±£¸¡¡µ½Mandrill's Mansion£¬Ê¹ÓÃCologneÔÚKangarooÉÏ£¬Ëû±ã·¢Å­£¬È»ºó»áÀë¿ªÎÝ×ÓÈ¥È¡ÐÂµÄWalking 
-        Stick¡££¨Ë³´øÒ»Ìá£¬ºÍËû±È½£ÊÇ±Ø°ÜµÄ£¬²»ÒªÀË·ÑÊ±¼äÁË¡££© 
-¡¡¡¡£±£¹¡¡µ½House of Sticks£¬¼ûµ½ÄÇÖ§×¼±¸¸øËûµÄMister Mandrill's Cane£¬Ê¹ÓÃProsthetic HandÔÚÄÇÖ§Stick£¬ÁîTermines¸½ÔÚÄÇÀï¡£ 
+ã€€ã€€ï¼‘ï¼”ã€€è­¦é•¿ä»æœªè‚¯æ”¾ä½ ï¼Œåªå¥½æ‰¾å›žå¤±ç‰©ã€‚å…ˆåˆ°é“¶è¡Œæ—è¾¹çš„ Manholeï¼Œç”¨Broken Swordåœ¨Manholeï¼Œçœ‹çœ‹é‚£å—æ’¬å‡ºæ¥çš„Manhole 
+        Coverï¼Œä¸Šé¢æœ‰ä¸‰ä¸ªåå­—ã€‚ 
+ã€€ã€€ï¼‘ï¼•ã€€çŽ°åœ¨åˆ°Prosthetic Palaceæ‰¾Daveï¼Œè¯´è¦ä¸€äº›Free Giftï¼Œä»–ä¼šè¯´ä¸€ä¸ªæ•…äº‹ï¼Œä½ ç­”å›žåœ¨Manholeä¸­è§åˆ°çš„åå­—ï¼Œå…¨ä¸­çš„è¯ä»–å°±ä¼šç»™ä½ Prosthetic 
+        Skinã€‚ 
+ã€€ã€€ï¼‘ï¼–ã€€ä½¿ç”¨Prothetic Skinåœ¨Manholeï¼Œä¾¿å¯ä»¥åˆ©ç”¨ä½œå¼¹åºŠå¼¹åˆ° Bankå†…ï¼Œä¸‹æ¢¯å­æ‹‰åŠ¨Chain Pullå¼€ç¯ï¼Œæ‹¿èµ°æ¡Œä¸Šçš„ScupperWareï¼Œå°†Baitæ”¾è¿›åŽ»å¾…ç”¨ã€‚ä¸Šæ¢¯å­è°ƒæŸ¥ä¸€ä¸‹é‚£ä¸ªFunny 
+        Shadowï¼ŒåŽŸæ¥æ˜¯ä¸€ä¸ªé¼»å­ï¼Œè­¦é•¿ä¼šæ¥æ‹¿èµ°ä»–ï¼Œä½ ä¾¿ä»Žçª—å­ç¦»å¼€ã€‚ 
+ã€€ã€€ï¼‘ï¼—ã€€åˆ°Prosthetic Palaceæ’­æ”¾éŸ³ä¹ç›’ç»™Daveå¬ï¼Œåœ¨éŸ³ä¹å®Œä¹‹å‰å–èµ°çº¢è‰²çš„Prosthetic Handï¼›åˆ°Bait Shopä½¿ç”¨Prosthetic 
+        Handåœ¨Termite Circusä¸Šï¼Œå–èµ°Termiteã€‚ 
+ã€€ã€€Lucre Islandä¹‹æ°´è½çŸ³å‡º 
+ã€€ã€€ï¼‘ï¼˜ã€€åˆ°Mandrill's Mansionï¼Œä½¿ç”¨Cologneåœ¨Kangarooä¸Šï¼Œä»–ä¾¿å‘æ€’ï¼Œç„¶åŽä¼šç¦»å¼€å±‹å­åŽ»å–æ–°çš„Walking 
+        Stickã€‚ï¼ˆé¡ºå¸¦ä¸€æï¼Œå’Œä»–æ¯”å‰‘æ˜¯å¿…è´¥çš„ï¼Œä¸è¦æµªè´¹æ—¶é—´äº†ã€‚ï¼‰ 
+ã€€ã€€ï¼‘ï¼™ã€€åˆ°House of Sticksï¼Œè§åˆ°é‚£æ”¯å‡†å¤‡ç»™ä»–çš„Mister Mandrill's Caneï¼Œä½¿ç”¨Prosthetic Handåœ¨é‚£æ”¯Stickï¼Œä»¤Terminesé™„åœ¨é‚£é‡Œã€‚ 
       
-¡¡¡¡£²£°¡¡·µ»ØMansion£¬Ëµ³öÄãÖªµÀÊÇËû¹ÍÓÃPegnoseµÄ£¬Ëû±ã»áµ½ÊÕ²Ø±¦Îï´¦£¬Äã¸úËæËûÁôÏÂÀ´µÄÄ¾Ð¼£¬×ßµ½É­ÁÖ£¬ÔÙ×ßµ½Ò»¸öµºÉÏ¡£ 
-¡¡¡¡£²£±¡¡ÔÚµºµÄºó·½¿ÉÕÒµ½Hidden Passage£¬ÏÂÈ¥°´×À×ÓÅÔµÄºìÉ«Button£¬»ØÉÏÃæ£¬Dive into Deep Water£¬Ç±½øË®ÖÐ°É£¡ 
+ã€€ã€€ï¼’ï¼ã€€è¿”å›žMansionï¼Œè¯´å‡ºä½ çŸ¥é“æ˜¯ä»–é›‡ç”¨Pegnoseçš„ï¼Œä»–ä¾¿ä¼šåˆ°æ”¶è—å®ç‰©å¤„ï¼Œä½ è·Ÿéšä»–ç•™ä¸‹æ¥çš„æœ¨å±‘ï¼Œèµ°åˆ°æ£®æž—ï¼Œå†èµ°åˆ°ä¸€ä¸ªå²›ä¸Šã€‚ 
+ã€€ã€€ï¼’ï¼‘ã€€åœ¨å²›çš„åŽæ–¹å¯æ‰¾åˆ°Hidden Passageï¼Œä¸‹åŽ»æŒ‰æ¡Œå­æ—çš„çº¢è‰²Buttonï¼Œå›žä¸Šé¢ï¼ŒDive into Deep Waterï¼Œæ½œè¿›æ°´ä¸­å§ï¼ 
       
-¡¡¡¡£²£²¡¡Ê¹ÓÃScupperware£¬²¶×½Ò»ÌõGlowing Fish£¬Äã±ã¿É¿´¼û Secret Door£¬×ß½øÈ¥°É¡£ 
-¡¡¡¡£²£³¡¡È¡×ßËùÓÐHeirlooms£¬»¹ÓÐÄÇ¿ÅScrew£¬½«ÕâÁ½Ñù¶«Î÷½»¸øJailÄÚµÄ¾¯³¤£¬Äã±ã»ñµÃÊÍ·ÅÁË£¡Àë¿ªLucre Island·µ»ØMeele 
-        Island£¬¾¹·¢ÏÖÐÂµÄ×ÜÍ³ºòÑ¡ÈËËµÊÇ´ó¼é½ÇLechuck£¡Act IÒ²¾Í´ËÍê½á¡£
-        ¡¶ºïµºÐ¡Ó¢ÐÛ4¡·È«¹¥ÂÔ£¨ÐøÍê£© 
-        ÓÎÃñ²¿ÂäÍøÓÑWedNov2K 
+ã€€ã€€ï¼’ï¼’ã€€ä½¿ç”¨Scupperwareï¼Œæ•æ‰ä¸€æ¡Glowing Fishï¼Œä½ ä¾¿å¯çœ‹è§ Secret Doorï¼Œèµ°è¿›åŽ»å§ã€‚ 
+ã€€ã€€ï¼’ï¼“ã€€å–èµ°æ‰€æœ‰Heirloomsï¼Œè¿˜æœ‰é‚£é¢—Screwï¼Œå°†è¿™ä¸¤æ ·ä¸œè¥¿äº¤ç»™Jailå†…çš„è­¦é•¿ï¼Œä½ ä¾¿èŽ·å¾—é‡Šæ”¾äº†ï¼ç¦»å¼€Lucre Islandè¿”å›žMeele 
+        Islandï¼Œç«Ÿå‘çŽ°æ–°çš„æ€»ç»Ÿå€™é€‰äººè¯´æ˜¯å¤§å¥¸è§’Lechuckï¼Act Iä¹Ÿå°±æ­¤å®Œç»“ã€‚
+        ã€ŠçŒ´å²›å°è‹±é›„4ã€‹å…¨æ”»ç•¥ï¼ˆç»­å®Œï¼‰ 
+        æ¸¸æ°‘éƒ¨è½ç½‘å‹WedNov2K 
 
-        ¡¡¡¡ÓÎÏ·¹¥ÂÔË÷Òý 
-¡¡¡¡»Øµ½Meele Island 
-        ¡¡¡¡Jamalaya IslandÖ®Ãâ·ÑÎç²Í 
-        ¡¡¡¡Jamalaya IslandÖ®Knuttin Atoll 
-        ¡¡¡¡Jamalaya IslandÖ®¸ßÌ¨ÌøË® 
-        ¡¡¡¡Monkey IslandÖ®´óÊ¯Í· 
-        ¡¡¡¡Monkey IslandÖ®¹ý»ðº£ 
-        ¡¡¡¡Monkey IslandÖ®Monkey Combat£¡ 
-¡¡¡¡ÏÂÔØ¡¶ºïµºÐ¡Ó¢ÐÛ4¡·È«¹¥ÂÔ£¨ÐøÍê£©ÖÁ±¾µØÔÄ¶Á 
+        ã€€ã€€æ¸¸æˆæ”»ç•¥ç´¢å¼• 
+ã€€ã€€å›žåˆ°Meele Island 
+        ã€€ã€€Jamalaya Islandä¹‹å…è´¹åˆé¤ 
+        ã€€ã€€Jamalaya Islandä¹‹Knuttin Atoll 
+        ã€€ã€€Jamalaya Islandä¹‹é«˜å°è·³æ°´ 
+        ã€€ã€€Monkey Islandä¹‹å¤§çŸ³å¤´ 
+        ã€€ã€€Monkey Islandä¹‹è¿‡ç«æµ· 
+        ã€€ã€€Monkey Islandä¹‹Monkey Combatï¼ 
+ã€€ã€€ä¸‹è½½ã€ŠçŒ´å²›å°è‹±é›„4ã€‹å…¨æ”»ç•¥ï¼ˆç»­å®Œï¼‰è‡³æœ¬åœ°é˜…è¯» 
 
 
-        ¡¡¡¡»Øµ½Meele Island 
-¡¡¡¡£±¡¡´ÓLeChuck»ØÖÐµÃÖªUltimate InsultµÄÊÂ£¬Elaine²îÇ²Äãµ÷²é´ËÊÂ£¬ÒòËýÒª¼ÌÐøÑ¡¾ÙµÄ¹¤×÷¡£Ê×ÏÈÊÇÒªÕÒVoodoo 
-        LadyÌ¸Ì¸£¬ÕýÊÇMeele TownÖÐµÄÄ§·¨ÎÝ¡£ 
-¡¡¡¡£²¡¡ÔÚÎÝÖÐµÄÊÖÕÆµ÷²éFinger£¬Voodoo Lady±ã»á³öÏÖ£¬ÎÊËýÓÐ¹ØHeirloomsµÄÊÂ£¬¾Í»áµÃµ½Earrings£¬Necklace¼°Pen¡£»¹ÓÐµÚËÄÑù¶«Î÷µÄ£¬ÊÇÀ¶É«¡­¡­ 
+        ã€€ã€€å›žåˆ°Meele Island 
+ã€€ã€€ï¼‘ã€€ä»ŽLeChuckå›žä¸­å¾—çŸ¥Ultimate Insultçš„äº‹ï¼ŒElaineå·®é£ä½ è°ƒæŸ¥æ­¤äº‹ï¼Œå› å¥¹è¦ç»§ç»­é€‰ä¸¾çš„å·¥ä½œã€‚é¦–å…ˆæ˜¯è¦æ‰¾Voodoo 
+        Ladyè°ˆè°ˆï¼Œæ­£æ˜¯Meele Townä¸­çš„é­”æ³•å±‹ã€‚ 
+ã€€ã€€ï¼’ã€€åœ¨å±‹ä¸­çš„æ‰‹æŽŒè°ƒæŸ¥Fingerï¼ŒVoodoo Ladyä¾¿ä¼šå‡ºçŽ°ï¼Œé—®å¥¹æœ‰å…³Heirloomsçš„äº‹ï¼Œå°±ä¼šå¾—åˆ°Earringsï¼ŒNecklaceåŠPenã€‚è¿˜æœ‰ç¬¬å››æ ·ä¸œè¥¿çš„ï¼Œæ˜¯è“è‰²â€¦â€¦ 
       
-¡¡¡¡£³¡¡µ½HarborµÄGrog MachineÈ¡µÃÒ»¸öCoin£¬ÓÃÔÚGrog Machine±ã¿ÉµÃµ½Ò»¹ÞGrog¡£ 
-¡¡¡¡£´¡¡µ½MeathookµÄ¼ÒÓëËûËµ»°£¬µÃÖªµÚËÄ¼þ¶«Î÷ÊÇÒ»·ù»­£¬È»ºóÔÚËû¸øÄãµÄÍ°×ÓÄÃ×ßPaintbrush¡£ 
-¡¡¡¡£µ¡¡µ½Lua Bar£¬×øÏÂºóµãÒ»¿ÍFalming Scuttlefish£¬¼ÆËãÊ±¼ä²î£¬µÈÄÇ¼Ü×Å»ðµÄ´¬µ½´ïÃæÇ°Ò¬Ê÷»­µÄÏÂ·½Ê±Ê¹ÓÃPaintbrush 
-        ÅªÍ£Propulsion Mechanism£¬µ±³øÊ¦³öÀ´Ê±£¬×ß½øKitchen£¬½«Grog µ¹½øSteam GeneratorÄÚ£¬Èç¸Õ²ÅÅªÍ£µÄ´¬¸ÕºÃÔÚ¹Ò»­ÏÂ·½£¬±ã»á·¢ÉúEvent£¬Äã½«µÃµ½¹Ò»­¡£ 
+ã€€ã€€ï¼“ã€€åˆ°Harborçš„Grog Machineå–å¾—ä¸€ä¸ªCoinï¼Œç”¨åœ¨Grog Machineä¾¿å¯å¾—åˆ°ä¸€ç½Grogã€‚ 
+ã€€ã€€ï¼”ã€€åˆ°Meathookçš„å®¶ä¸Žä»–è¯´è¯ï¼Œå¾—çŸ¥ç¬¬å››ä»¶ä¸œè¥¿æ˜¯ä¸€å¹…ç”»ï¼Œç„¶åŽåœ¨ä»–ç»™ä½ çš„æ¡¶å­æ‹¿èµ°Paintbrushã€‚ 
+ã€€ã€€ï¼•ã€€åˆ°Lua Barï¼Œåä¸‹åŽç‚¹ä¸€å®¢Falming Scuttlefishï¼Œè®¡ç®—æ—¶é—´å·®ï¼Œç­‰é‚£æž¶ç€ç«çš„èˆ¹åˆ°è¾¾é¢å‰æ¤°æ ‘ç”»çš„ä¸‹æ–¹æ—¶ä½¿ç”¨Paintbrush 
+        å¼„åœPropulsion Mechanismï¼Œå½“åŽ¨å¸ˆå‡ºæ¥æ—¶ï¼Œèµ°è¿›Kitchenï¼Œå°†Grog å€’è¿›Steam Generatorå†…ï¼Œå¦‚åˆšæ‰å¼„åœçš„èˆ¹åˆšå¥½åœ¨æŒ‚ç”»ä¸‹æ–¹ï¼Œä¾¿ä¼šå‘ç”ŸEventï¼Œä½ å°†å¾—åˆ°æŒ‚ç”»ã€‚ 
       
-¡¡¡¡£¶¡¡»Øµ½ÂëÍ·£¬µ½ÄãµÄ´¬ÉÏ£¬½«Earrings·ÅÔÚHeadpieceÉíÉÏ£¬ÔÙ½«Necklace¡¢Painting¼°Pen¶¼½»¸øHeadpiece£¬±ãÒªµ½Jamalaya 
-        IslandÁË¡£ 
-¡¡¡¡Jamalaya IslandÖ®Ãâ·ÑÎç²Í 
-¡¡¡¡£±¡¡ÏÈµ½Starbuccaneer's Coffee£¬´ÓÃÅÍâµÄ´°¿´¼ûÓÐÒ»¸öCoffee Cup£¬½øÈëºóÃæÏò´°ÅÔ±ã¿ÉÈ¡µÃÄÇ±­×Ó£¬Ê¹ÓÃCoffee 
-        CupÏòÖ°Ô±ÌíÒû¡£ÊÔÊ³¹ñÌ¨ÉÏµÄBagle£¬°Ñ³ÔÊ£µÄ¶ñÐÄ¶«Î÷ÁôÆð´ýÓÃ£¨Juicy wad of chewed up bagel chunks¡­£©£¬¿´¿´ÄÇÎ»Å®Ê¿µÄ¹ºÎï´ü£¬ÄÃ×ßÄÇ¸öStarbuccaneer's 
-        logo Mug¡£ 
-¡¡¡¡£²¡¡µ½Stan's Time Share£¬ÔÚFree PamphletÈ¡Ò»·ÝTime Share Brochure £¬ÔÚÃÅÅÔÄÃGlue£¬ºÈGroggoccinoºóÌýËû½éÉÜµÄSales 
-        Pitch£¨ÒÔÃâË¯×Å¡­£©£¬±ã¿ÉµÃµ½Ò»ÕÅMonkey Meal Ticket¡£ 
-¡¡¡¡£³¡¡µ½Micro-groggery£¬ÎÊÀÏ°åÃâ·ÑÈ¡µÃÒ»±­Wimpy Grog£¬¼ÙÈçÄãÖ®Ç°Ã»µÃµ½Monkey Meal Ticket£¬¿ÉÔÚ´ËÍæÆïÅ£×Ð»ú£¨ÏÈÓÃ 
-        GlueÍ¿ÉÏ£©È¡µÃÒ»ÕÅ¡£ 
-¡¡¡¡£´¡¡µ½Planet Threepwood£¬¿´Menuºóµã¼¸µÀ²ËÈ»ºó×øÏÂ£¬µ±ÄÇ¸ö»­Ê¦Jolly PirateÐÐ¹ýÀ´Ê±ÓëËûËµ»°£¬Ëû»áÌæÄãÐ´Éú£¬Íê³ÉºóµÃµ½Caricature£¬½«GlueÍ¿ÔÚCaricatureÉÏ£¬ÔÙ½«CaricatureÌùÔÚ 
-        Starbuccaneer's logo Mug£¬ÖÆ³ÉµÄFake Mug±ã¿ÉÓëÃæÇ°µÄMonkey Mug½»»»ÁË¡­È¡×ßMonkey Mug£¡ 
+ã€€ã€€ï¼–ã€€å›žåˆ°ç å¤´ï¼Œåˆ°ä½ çš„èˆ¹ä¸Šï¼Œå°†Earringsæ”¾åœ¨Headpieceèº«ä¸Šï¼Œå†å°†Necklaceã€PaintingåŠPenéƒ½äº¤ç»™Headpieceï¼Œä¾¿è¦åˆ°Jamalaya 
+        Islandäº†ã€‚ 
+ã€€ã€€Jamalaya Islandä¹‹å…è´¹åˆé¤ 
+ã€€ã€€ï¼‘ã€€å…ˆåˆ°Starbuccaneer's Coffeeï¼Œä»Žé—¨å¤–çš„çª—çœ‹è§æœ‰ä¸€ä¸ªCoffee Cupï¼Œè¿›å…¥åŽé¢å‘çª—æ—ä¾¿å¯å–å¾—é‚£æ¯å­ï¼Œä½¿ç”¨Coffee 
+        Cupå‘èŒå‘˜æ·»é¥®ã€‚è¯•é£ŸæŸœå°ä¸Šçš„Bagleï¼ŒæŠŠåƒå‰©çš„æ¶å¿ƒä¸œè¥¿ç•™èµ·å¾…ç”¨ï¼ˆJuicy wad of chewed up bagel chunksâ€¦ï¼‰ï¼Œçœ‹çœ‹é‚£ä½å¥³å£«çš„è´­ç‰©è¢‹ï¼Œæ‹¿èµ°é‚£ä¸ªStarbuccaneer's 
+        logo Mugã€‚ 
+ã€€ã€€ï¼’ã€€åˆ°Stan's Time Shareï¼Œåœ¨Free Pamphletå–ä¸€ä»½Time Share Brochure ï¼Œåœ¨é—¨æ—æ‹¿Glueï¼Œå–GroggoccinoåŽå¬ä»–ä»‹ç»çš„Sales 
+        Pitchï¼ˆä»¥å…ç¡ç€â€¦ï¼‰ï¼Œä¾¿å¯å¾—åˆ°ä¸€å¼ Monkey Meal Ticketã€‚ 
+ã€€ã€€ï¼“ã€€åˆ°Micro-groggeryï¼Œé—®è€æ¿å…è´¹å–å¾—ä¸€æ¯Wimpy Grogï¼Œå‡å¦‚ä½ ä¹‹å‰æ²¡å¾—åˆ°Monkey Meal Ticketï¼Œå¯åœ¨æ­¤çŽ©éª‘ç‰›ä»”æœºï¼ˆå…ˆç”¨ 
+        Glueæ¶‚ä¸Šï¼‰å–å¾—ä¸€å¼ ã€‚ 
+ã€€ã€€ï¼”ã€€åˆ°Planet Threepwoodï¼Œçœ‹MenuåŽç‚¹å‡ é“èœç„¶åŽåä¸‹ï¼Œå½“é‚£ä¸ªç”»å¸ˆJolly Pirateè¡Œè¿‡æ¥æ—¶ä¸Žä»–è¯´è¯ï¼Œä»–ä¼šæ›¿ä½ å†™ç”Ÿï¼Œå®ŒæˆåŽå¾—åˆ°Caricatureï¼Œå°†Glueæ¶‚åœ¨Caricatureä¸Šï¼Œå†å°†Caricatureè´´åœ¨ 
+        Starbuccaneer's logo Mugï¼Œåˆ¶æˆçš„Fake Mugä¾¿å¯ä¸Žé¢å‰çš„Monkey Mugäº¤æ¢äº†â€¦å–èµ°Monkey Mugï¼ 
       
-¡¡¡¡£µ¡¡³öÃÅºóµ½ÃÅÍâµÄÍ­ÏñÇ°ÓëTourist¶Ô»°£¬ÒÔµÃÖªBronce Hat µÄÇé±¨¡£ 
-¡¡¡¡Jamalaya IslandÖ®Knuttin Atoll 
-¡¡¡¡£¶¡¡µ½ÂëÍ·×øÉÏRowboat£¬Í¾ÖÐÓöµ½Admiral Casaba¿ªÅÚ´òÄã£¬²»ÓÃÀí»áËû£¬ÏÈµ½Pirate Shanty Town¡£ 
-¡¡¡¡£·¡¡ÓëÉ³Ì²ÉÏµÄPuppetsËµ»°£¬Ö±ÖÁPuppeteer³öÏÖÎªÖ¹£¬Ïò PuppeteerÕ¹Ê¾Blue Painting£¬Ëû±ã»áÏÅÅÜ£¬È»ºóÄã¾Í¿ÉÊ°ÆðµØÉÏµÄPuppets¡£ 
+ã€€ã€€ï¼•ã€€å‡ºé—¨åŽåˆ°é—¨å¤–çš„é“œåƒå‰ä¸ŽTouristå¯¹è¯ï¼Œä»¥å¾—çŸ¥Bronce Hat çš„æƒ…æŠ¥ã€‚ 
+ã€€ã€€Jamalaya Islandä¹‹Knuttin Atoll 
+ã€€ã€€ï¼–ã€€åˆ°ç å¤´åä¸ŠRowboatï¼Œé€”ä¸­é‡åˆ°Admiral Casabaå¼€ç‚®æ‰“ä½ ï¼Œä¸ç”¨ç†ä¼šä»–ï¼Œå…ˆåˆ°Pirate Shanty Townã€‚ 
+ã€€ã€€ï¼—ã€€ä¸Žæ²™æ»©ä¸Šçš„Puppetsè¯´è¯ï¼Œç›´è‡³Puppeteerå‡ºçŽ°ä¸ºæ­¢ï¼Œå‘ Puppeteerå±•ç¤ºBlue Paintingï¼Œä»–ä¾¿ä¼šå“è·‘ï¼Œç„¶åŽä½ å°±å¯æ‹¾èµ·åœ°ä¸Šçš„Puppetsã€‚ 
       
-¡¡¡¡£¸¡¡µ½AcademyÓëTeacher-ladyËµ»°£¬²Î¼Ó½ÌÑ§¿Î³Ì£¬ÌýÍêÒ»ÂÖ·Ï»°ºó£¬Teacher-ladyÎÊÏµÈýÌõÎÊÌâ£¬´ð°¸¶¼ÊÇ×î²î×î»µÄÇ¸ö£¨»ò¿ÉËµÊÇ×î³¤£©£¬È»ºóËý»á¸øÄãÒ»¸öDunce 
-        Cap¡£ 
-¡¡¡¡£¹¡¡±»¸Ï³öÐ£ºó£¬°´¶¯ÃÅÅÔµÄFire Alarm£¬µ±Teacher-ladyÌÓ×ßºó£¬½øÈëÑ§Ð£µÄÒ»¸öÏä×ÓÄÚÄÃÈ¡Whistle£¬·´¸´µÄ×ö¿ÉÄÃBoat 
-        ¡¢Magazine¡¢gaming card¡£ 
-¡¡¡¡£±£°¡¡µ½É³Ì²ÓëPirateËµ»°£¬ÎÊËûÓÐ¹ØBronce CapµÄÊÂ£¬µ½ÓÒ±ßµÄRocky Beach£¬ÄÇÀïÓÐºÜ¶àBoulders£¬ÆäÖÐÒ»¸ö¾Í²Ø×Å 
-        Bronce Cap¡£ 
-¡¡¡¡£±£±¡¡ÔÚRocky BeachÀûÓÃWhistleºô½ÐParrots£¬ÄÇ¶ÔParrotsÒ»Ö»Ö»ËµÕæ»°£¬ÁíÒ»Ö»Ö»Ëµ¼Ù»°£¬¶øÎ»ÖÃÓÖ¾­³£µ¹×ªµÄ¡£Ö»Òª¸øËüÃÇÆäÖÐÒ»Ö»ÒûWimpy 
-        Grog£¬ÔÙÎÊÒ»Ìõ¼òµ¥µÄÎÊÌâ£¬¾Í¿É·Ö±æ³öÄÄÒ»Ö»ÊÇËµÕæ»°µÄParrotÁË¡£ÎÊÄÇÖ»ParrotÒªÍùÄÄ¸ö·½Ïò×ß£¬Ö±ÖÁÕÒµ½²Ø×ÅBronce CapÄÇ¿éBouldersÎªÖ¹¡£ 
+ã€€ã€€ï¼˜ã€€åˆ°Academyä¸ŽTeacher-ladyè¯´è¯ï¼Œå‚åŠ æ•™å­¦è¯¾ç¨‹ï¼Œå¬å®Œä¸€è½®åºŸè¯åŽï¼ŒTeacher-ladyé—®ç³»ä¸‰æ¡é—®é¢˜ï¼Œç­”æ¡ˆéƒ½æ˜¯æœ€å·®æœ€åé‚£ä¸ªï¼ˆæˆ–å¯è¯´æ˜¯æœ€é•¿ï¼‰ï¼Œç„¶åŽå¥¹ä¼šç»™ä½ ä¸€ä¸ªDunce 
+        Capã€‚ 
+ã€€ã€€ï¼™ã€€è¢«èµ¶å‡ºæ ¡åŽï¼ŒæŒ‰åŠ¨é—¨æ—çš„Fire Alarmï¼Œå½“Teacher-ladyé€ƒèµ°åŽï¼Œè¿›å…¥å­¦æ ¡çš„ä¸€ä¸ªç®±å­å†…æ‹¿å–Whistleï¼Œåå¤çš„åšå¯æ‹¿Boat 
+        ã€Magazineã€gaming cardã€‚ 
+ã€€ã€€ï¼‘ï¼ã€€åˆ°æ²™æ»©ä¸ŽPirateè¯´è¯ï¼Œé—®ä»–æœ‰å…³Bronce Capçš„äº‹ï¼Œåˆ°å³è¾¹çš„Rocky Beachï¼Œé‚£é‡Œæœ‰å¾ˆå¤šBouldersï¼Œå…¶ä¸­ä¸€ä¸ªå°±è—ç€ 
+        Bronce Capã€‚ 
+ã€€ã€€ï¼‘ï¼‘ã€€åœ¨Rocky Beachåˆ©ç”¨Whistleå‘¼å«Parrotsï¼Œé‚£å¯¹Parrotsä¸€åªåªè¯´çœŸè¯ï¼Œå¦ä¸€åªåªè¯´å‡è¯ï¼Œè€Œä½ç½®åˆç»å¸¸å€’è½¬çš„ã€‚åªè¦ç»™å®ƒä»¬å…¶ä¸­ä¸€åªé¥®Wimpy 
+        Grogï¼Œå†é—®ä¸€æ¡ç®€å•çš„é—®é¢˜ï¼Œå°±å¯åˆ†è¾¨å‡ºå“ªä¸€åªæ˜¯è¯´çœŸè¯çš„Parrotäº†ã€‚é—®é‚£åªParrotè¦å¾€å“ªä¸ªæ–¹å‘èµ°ï¼Œç›´è‡³æ‰¾åˆ°è—ç€Bronce Capé‚£å—Bouldersä¸ºæ­¢ã€‚ 
       
-¡¡¡¡£±£²¡¡ÔÚÄÇ¿éBouldersÊ¹ÓÃPuppets£¬ÒýÀ´Admiral CasabaµÄ´¬¿ªÅÚ£¬±ã¿ÉµÃµ½²ØÔÚ´óÊ¯ÏÂµÄBronce Hat¡£ 
+ã€€ã€€ï¼‘ï¼’ã€€åœ¨é‚£å—Bouldersä½¿ç”¨Puppetsï¼Œå¼•æ¥Admiral Casabaçš„èˆ¹å¼€ç‚®ï¼Œä¾¿å¯å¾—åˆ°è—åœ¨å¤§çŸ³ä¸‹çš„Bronce Hatã€‚ 
       
-¡¡¡¡Jamalaya IslandÖ®¸ßÌ¨ÌøË® 
-¡¡¡¡£±£³¡¡µ½Tall Rock£¬ÓëMarco de PoloËµ»°ºó£¬ÏòËûÌôÕ½ÌøË®£¬ÒÔÈ¡µÃTrophy¡£ 
-¡¡¡¡£±£´¡¡ÓëÆÀÅÐËµ»°£¬È¡µÃDiving Certificateºó£¬ÔÙÓëMarco de Polo Ëµ»°±ãÕýÊ½¿ªÊ¼£¬µÚÒ»ÌøÊÇ»áÊ®·ÖµÍ·ÖµÄ¡£ 
+ã€€ã€€Jamalaya Islandä¹‹é«˜å°è·³æ°´ 
+ã€€ã€€ï¼‘ï¼“ã€€åˆ°Tall Rockï¼Œä¸ŽMarco de Poloè¯´è¯åŽï¼Œå‘ä»–æŒ‘æˆ˜è·³æ°´ï¼Œä»¥å–å¾—Trophyã€‚ 
+ã€€ã€€ï¼‘ï¼”ã€€ä¸Žè¯„åˆ¤è¯´è¯ï¼Œå–å¾—Diving CertificateåŽï¼Œå†ä¸ŽMarco de Polo è¯´è¯ä¾¿æ­£å¼å¼€å§‹ï¼Œç¬¬ä¸€è·³æ˜¯ä¼šååˆ†ä½Žåˆ†çš„ã€‚ 
       
-¡¡¡¡£±£µ¡¡ÓëHippe JudgeËµ»°£¬±ãÖªµÀËÄ¸öÌøË®¶¯×÷ÊÇ°´Ê²Ã´¼ü£¬ÎÒµÄÊÇ£º 
-¡¡¡¡Up£½Keelhaul 
-        ¡¡¡¡Down£½Rum Barrel 
-        ¡¡¡¡Right£½Spinning Sword 
-        ¡¡¡¡Left£½Alpha Monkey 
-        ¡¡¡¡Marco de Polo»á×öÈý×é¶¯×÷£¬Ö»ÒªÍêÈ«Ä£·ÂËû×ö£¬±ã¿ÉÈ¡µÃ 
-        ¡¡¡¡Hippe JudgeµÄ10·Ö¡£ 
-¡¡¡¡£±£¶¡¡ÓëWise Old JudgeËµ»°£¬Ëû»áËµÄãµÄÍ·ÓÐÎÊÌâ£¬Ö»ÒªÔÚÌø¿ÚÇ°´÷ÉÏDunce Cap±ã¿ÉÒÔÈ¡µÃWise Old JudgeµÄ10·ÖÁË¡£ 
+ã€€ã€€ï¼‘ï¼•ã€€ä¸ŽHippe Judgeè¯´è¯ï¼Œä¾¿çŸ¥é“å››ä¸ªè·³æ°´åŠ¨ä½œæ˜¯æŒ‰ä»€ä¹ˆé”®ï¼Œæˆ‘çš„æ˜¯ï¼š 
+ã€€ã€€Upï¼Keelhaul 
+        ã€€ã€€Downï¼Rum Barrel 
+        ã€€ã€€Rightï¼Spinning Sword 
+        ã€€ã€€Leftï¼Alpha Monkey 
+        ã€€ã€€Marco de Poloä¼šåšä¸‰ç»„åŠ¨ä½œï¼Œåªè¦å®Œå…¨æ¨¡ä»¿ä»–åšï¼Œä¾¿å¯å–å¾— 
+        ã€€ã€€Hippe Judgeçš„10åˆ†ã€‚ 
+ã€€ã€€ï¼‘ï¼–ã€€ä¸ŽWise Old Judgeè¯´è¯ï¼Œä»–ä¼šè¯´ä½ çš„å¤´æœ‰é—®é¢˜ï¼Œåªè¦åœ¨è·³å£å‰æˆ´ä¸ŠDunce Capä¾¿å¯ä»¥å–å¾—Wise Old Judgeçš„10åˆ†äº†ã€‚ 
       
-¡¡¡¡£±£·¡¡ÓëGrouchy JudgeËµ»°£¬ËûÊÇ±»OzzieÊÕÂòÁËµÄ£¬Ö»ÒªÏòËû³öÊ¾Time Share Brochure£¬±ã¿ÉÍþÐ²Ëû¸øÄã10·Ö¡£ 
+ã€€ã€€ï¼‘ï¼—ã€€ä¸ŽGrouchy Judgeè¯´è¯ï¼Œä»–æ˜¯è¢«Ozzieæ”¶ä¹°äº†çš„ï¼Œåªè¦å‘ä»–å‡ºç¤ºTime Share Brochureï¼Œä¾¿å¯å¨èƒä»–ç»™ä½ 10åˆ†ã€‚ 
       
-¡¡¡¡£±£¸¡¡½«Ö®Ç°ÔÚStarbuccaneer's Coffee³ÔÊ£µÄ¶«Î÷£¨juicy wad of chewed up bagel chunks¡­£©¼Ó½øSeal 
-        OilÖÐ£¬ÔÙÏòMarco de PoloÌôÕ½£¬Ö»Òª¸úËæËûµÄ¶¯×÷£¬±ã¿ÉÒÔÈ¡µÃÊ¤ÀûÁË¡£ 
-¡¡¡¡£±£¹¡¡³É¹¦È¡µÃºó£¬Act IIÒ²Íê½á£¬»ØMeele Islandºó¾¹±» LechuckËÍ½øMonkey Island¡­¡­ ¡¡¡¡Monkey 
-        IslandÖ®´óÊ¯Í· 
-¡¡¡¡£±¡¡ÔÚÒ»¸öÉ³Ì²ÉÏ£¬ÏÈ¿´¿´Note£¬´ËÍâ»¹·¢ÏÖÓÐ½¶Ê÷£¬¿ÉÊÇÏÖÔÚÕª²»µ½¡£ 
-¡¡¡¡£²¡¡µ½Clearing£¨Camsite£©ÕÒHermanËµ»°£¬Ëû²»¼ÇµÃËùÓÐµÄÊÂÇé£¬ÏÈÊ°ÆðCoconutÈÓÏòËû£¬ÔÙÓëËûËµ»°¡£ 
-¡¡¡¡£³¡¡Hike to Canyon£¬ÔÚÏÉÈËÕÆÏÂÕÒµ½Banana Picker¡£ 
-¡¡¡¡£´¡¡»ØÉ³Ì²ÓÃBanana PickerÄÃBanana£¬Ö±ÖÁÈ¡µÃËùÓÐBananaÎªÖ¹¡£ 
-¡¡¡¡£µ¡¡ÓÃBanana¸øÐ¡ºïTimmy³Ô£¬Ëü»á¸úÄã×ß¡£µ½Hike to Canyon £¬ÔÙ¸øTimmy Banana£¬×ßÈëÉ½¶´£¬Ö±ÖÁËü¸úÄã×ßµ½Metal 
-        Door ¡£ 
-¡¡¡¡£¶¡¡´ò¿ªVent£¬°ÑBananaÈÓ½øVentÄÚ£¬¹Ø±ÕVent£¬°ÑBananaÈÓ½øPortalÄÚ£¬ÃÅ¾Í»á´ò¿ªÁË¡£ 
-¡¡¡¡£·¡¡½øÈëTube£¬ÓÃBanana PickerÄÃÈ¡Weed Whipper£¬Ö®ºó´ÓTube Àë¿ª¡£ 
-¡¡¡¡£¸¡¡µ½Vista Point£¬ÓÐÈý¸öCalel£¬¼°Èý¸öÅÚ¿Ú£¬Ä¿µÄÊÇÒªÁîÊ¯Í·½øÈëÈý¸ö²»Í¬µÄÅÚ¿Ú¡£ 
-¡¡¡¡ÄÃÆðRockÈÓ½øCanal of Right Side¡£ 
-        ¡¡¡¡ÄÃÆðRockÈÓ½øCalal of Middle 
-¡¡¡¡×îºóÒ»¸öÓÐµã·³£¬µÚÒ»¿éRockÏÈÈÓ½øRight Side£¬µÚÒ»¿éRock Åöµ½Ê÷¸Éºó£¬µÚ¶þ¿éRockÈÓ½øMiddle£¬µÚ¶þ¿éRockÒ²Åöµ½Ê÷¸Éºó£¬½«µÚÈý¿éRockÈÓ½øLeft 
-        Side£¬Ö±ÖÁµÚÈý¿éRockÒ²Åöµ½Ê÷¸É£¬½«µÚËÄ¿éRockÈÓ½øLeft Side¡£ÕâÒ»ÅÚ½«·Åµ½ÈÛÑÒÉÏ¡£ 
-¡¡¡¡Monkey IslandÖ®¹ý»ðº£ 
-¡¡¡¡£¹¡¡½øÈëCastle£¬ÓÃBanana PickerÄÃÈ¡ÃÅÉÏµÄÁ½¸öShields£¬ÓëÓÄÁéÉñ¸¸Father Allegro RasputinËµ»°£¬ÏòËûËµÄãÏëÊÔÍæLava 
-        Plunge¡£ 
-¡¡¡¡£±£°¡¡ÉÏ´¬ºó£¬¿ØÖÆ´¬µ½Ö®Ç°·¢ÉäÄÇ¿é´óÊ¯ÄÇ´¦£¬Ê»ÈëÄÇ¸öÐ¡ºþÄÚ¡£ 
-¡¡¡¡£±£±¡¡ÉÏ°¶ºóÊ¹ÓÃWeed WhipperÔÚPatch of WeedsÉÏ£¬ÁîºþµÄ "Ë®"Î»½µµÍ¡£Ö®ºóÉÏÐ¡É½Ìßµ¹Palm 
-        Tree£¬µ±×÷ÇÅ·µ»Ø³Ç±¤ÄÚ£¬ºÍÉñ¸¸ËµÒªÔÙÉÏ´¬Ò»´Î¡£ 
-¡¡¡¡£±£²¡¡Ê»´¬µ½ºï×ÓÈÓµôµÄÄÇ¸öMilk BottleÎ»ÖÃ¸½½ü£¬Ê¹ÓÃ Banana PickerÄÃÈ¡Milk Bottle£¬Ö®ºó±ã¿ÉÀë¿ª¡£ 
+ã€€ã€€ï¼‘ï¼˜ã€€å°†ä¹‹å‰åœ¨Starbuccaneer's Coffeeåƒå‰©çš„ä¸œè¥¿ï¼ˆjuicy wad of chewed up bagel chunksâ€¦ï¼‰åŠ è¿›Seal 
+        Oilä¸­ï¼Œå†å‘Marco de PoloæŒ‘æˆ˜ï¼Œåªè¦è·Ÿéšä»–çš„åŠ¨ä½œï¼Œä¾¿å¯ä»¥å–å¾—èƒœåˆ©äº†ã€‚ 
+ã€€ã€€ï¼‘ï¼™ã€€æˆåŠŸå–å¾—åŽï¼ŒAct IIä¹Ÿå®Œç»“ï¼Œå›žMeele IslandåŽç«Ÿè¢« Lechucké€è¿›Monkey Islandâ€¦â€¦ ã€€ã€€Monkey 
+        Islandä¹‹å¤§çŸ³å¤´ 
+ã€€ã€€ï¼‘ã€€åœ¨ä¸€ä¸ªæ²™æ»©ä¸Šï¼Œå…ˆçœ‹çœ‹Noteï¼Œæ­¤å¤–è¿˜å‘çŽ°æœ‰è•‰æ ‘ï¼Œå¯æ˜¯çŽ°åœ¨æ‘˜ä¸åˆ°ã€‚ 
+ã€€ã€€ï¼’ã€€åˆ°Clearingï¼ˆCamsiteï¼‰æ‰¾Hermanè¯´è¯ï¼Œä»–ä¸è®°å¾—æ‰€æœ‰çš„äº‹æƒ…ï¼Œå…ˆæ‹¾èµ·Coconutæ‰”å‘ä»–ï¼Œå†ä¸Žä»–è¯´è¯ã€‚ 
+ã€€ã€€ï¼“ã€€Hike to Canyonï¼Œåœ¨ä»™äººæŽŒä¸‹æ‰¾åˆ°Banana Pickerã€‚ 
+ã€€ã€€ï¼”ã€€å›žæ²™æ»©ç”¨Banana Pickeræ‹¿Bananaï¼Œç›´è‡³å–å¾—æ‰€æœ‰Bananaä¸ºæ­¢ã€‚ 
+ã€€ã€€ï¼•ã€€ç”¨Bananaç»™å°çŒ´Timmyåƒï¼Œå®ƒä¼šè·Ÿä½ èµ°ã€‚åˆ°Hike to Canyon ï¼Œå†ç»™Timmy Bananaï¼Œèµ°å…¥å±±æ´žï¼Œç›´è‡³å®ƒè·Ÿä½ èµ°åˆ°Metal 
+        Door ã€‚ 
+ã€€ã€€ï¼–ã€€æ‰“å¼€Ventï¼ŒæŠŠBananaæ‰”è¿›Ventå†…ï¼Œå…³é—­Ventï¼ŒæŠŠBananaæ‰”è¿›Portalå†…ï¼Œé—¨å°±ä¼šæ‰“å¼€äº†ã€‚ 
+ã€€ã€€ï¼—ã€€è¿›å…¥Tubeï¼Œç”¨Banana Pickeræ‹¿å–Weed Whipperï¼Œä¹‹åŽä»ŽTube ç¦»å¼€ã€‚ 
+ã€€ã€€ï¼˜ã€€åˆ°Vista Pointï¼Œæœ‰ä¸‰ä¸ªCalelï¼ŒåŠä¸‰ä¸ªç‚®å£ï¼Œç›®çš„æ˜¯è¦ä»¤çŸ³å¤´è¿›å…¥ä¸‰ä¸ªä¸åŒçš„ç‚®å£ã€‚ 
+ã€€ã€€æ‹¿èµ·Rockæ‰”è¿›Canal of Right Sideã€‚ 
+        ã€€ã€€æ‹¿èµ·Rockæ‰”è¿›Calal of Middle 
+ã€€ã€€æœ€åŽä¸€ä¸ªæœ‰ç‚¹çƒ¦ï¼Œç¬¬ä¸€å—Rockå…ˆæ‰”è¿›Right Sideï¼Œç¬¬ä¸€å—Rock ç¢°åˆ°æ ‘å¹²åŽï¼Œç¬¬äºŒå—Rockæ‰”è¿›Middleï¼Œç¬¬äºŒå—Rockä¹Ÿç¢°åˆ°æ ‘å¹²åŽï¼Œå°†ç¬¬ä¸‰å—Rockæ‰”è¿›Left 
+        Sideï¼Œç›´è‡³ç¬¬ä¸‰å—Rockä¹Ÿç¢°åˆ°æ ‘å¹²ï¼Œå°†ç¬¬å››å—Rockæ‰”è¿›Left Sideã€‚è¿™ä¸€ç‚®å°†æ”¾åˆ°ç†”å²©ä¸Šã€‚ 
+ã€€ã€€Monkey Islandä¹‹è¿‡ç«æµ· 
+ã€€ã€€ï¼™ã€€è¿›å…¥Castleï¼Œç”¨Banana Pickeræ‹¿å–é—¨ä¸Šçš„ä¸¤ä¸ªShieldsï¼Œä¸Žå¹½çµç¥žçˆ¶Father Allegro Rasputinè¯´è¯ï¼Œå‘ä»–è¯´ä½ æƒ³è¯•çŽ©Lava 
+        Plungeã€‚ 
+ã€€ã€€ï¼‘ï¼ã€€ä¸Šèˆ¹åŽï¼ŒæŽ§åˆ¶èˆ¹åˆ°ä¹‹å‰å‘å°„é‚£å—å¤§çŸ³é‚£å¤„ï¼Œé©¶å…¥é‚£ä¸ªå°æ¹–å†…ã€‚ 
+ã€€ã€€ï¼‘ï¼‘ã€€ä¸Šå²¸åŽä½¿ç”¨Weed Whipperåœ¨Patch of Weedsä¸Šï¼Œä»¤æ¹–çš„ "æ°´"ä½é™ä½Žã€‚ä¹‹åŽä¸Šå°å±±è¸¢å€’Palm 
+        Treeï¼Œå½“ä½œæ¡¥è¿”å›žåŸŽå ¡å†…ï¼Œå’Œç¥žçˆ¶è¯´è¦å†ä¸Šèˆ¹ä¸€æ¬¡ã€‚ 
+ã€€ã€€ï¼‘ï¼’ã€€é©¶èˆ¹åˆ°çŒ´å­æ‰”æŽ‰çš„é‚£ä¸ªMilk Bottleä½ç½®é™„è¿‘ï¼Œä½¿ç”¨ Banana Pickeræ‹¿å–Milk Bottleï¼Œä¹‹åŽä¾¿å¯ç¦»å¼€ã€‚ 
       
-¡¡¡¡£±£³¡¡µ½Capsite£¬ÄÃMilk BottleÈÓÏòHerman£¬ÓëËûËµ»°¡£ 
-¡¡¡¡£±£´¡¡´ÓPalm Tree×ö³ÉµÄÇÅ×ßµ½¶Ô°¶£¬½øÈëVillage£¬Ê¹ÓÃ¸Õ²ÅµÃµ½µÄÁ½¸öShieldsÔÚMusically inclined 
-        monkey£¨ÔÚÒ»¼äÎÝÄÚ×àÀÖµÄºï×Ó£©£¬Ëû»áÈÓÏÂ×Ô¼ºµÄAccordian£¬ÄÃ×ßAccordian¡£ 
-¡¡¡¡£±£µ¡¡»ØCampsite£¬Ê¹ÓÃAccordianÈÓÏòHerman£¬ÓëËûËµ»°£¬ËûÖÕÓÚÓÐ¼ÇÒäÁË¡£ËæºóËû»á¸øÄãÒ»¸öGubernational 
-        Symbol¡£ 
-¡¡¡¡Monkey IslandÖ®Monkey Combat£¡ 
-¡¡¡¡£±£¶¡¡ÔÚVillageÓëJojo JrËµ»°ºó£¬Äã±ãÒªÓëËûÌôÕ½Monkey Combat£¬Ê¤³ö±ã¿ÉµÃµ½Ëû´÷×ÅµÄBronce Hat¡£Õâ¸öMonkey 
-        CombatÓÐÏêÏ¸½âÊÍµÄ±ØÒª¡£ 
-¡¡¡¡¡¤Íæ·¨¾ÍºÃÏñ"²ÂÈ­"Ò»Ñù£¬¹²ÓÐÎåÖÖ¶¯×÷£ºAA=Anxious Ape¡¢BB=Bobbing Baboon¡¢CC=Charging 
-        Chimp¡¢DM=Drunken Monkey ¡¢GG=Gimpy Gibbon£¬Ã¿¸ö¶¯×÷¶¼»áÊ¤¹ýÄ³¶þ¸ö¼°Êä¸øÁíÍâÁ½¸ö¡££¨ÀýAAÊ¤¹ýCC¼°BB£¬µ«Êä¸øDM¼°GG£© 
+ã€€ã€€ï¼‘ï¼“ã€€åˆ°Capsiteï¼Œæ‹¿Milk Bottleæ‰”å‘Hermanï¼Œä¸Žä»–è¯´è¯ã€‚ 
+ã€€ã€€ï¼‘ï¼”ã€€ä»ŽPalm Treeåšæˆçš„æ¡¥èµ°åˆ°å¯¹å²¸ï¼Œè¿›å…¥Villageï¼Œä½¿ç”¨åˆšæ‰å¾—åˆ°çš„ä¸¤ä¸ªShieldsåœ¨Musically inclined 
+        monkeyï¼ˆåœ¨ä¸€é—´å±‹å†…å¥ä¹çš„çŒ´å­ï¼‰ï¼Œä»–ä¼šæ‰”ä¸‹è‡ªå·±çš„Accordianï¼Œæ‹¿èµ°Accordianã€‚ 
+ã€€ã€€ï¼‘ï¼•ã€€å›žCampsiteï¼Œä½¿ç”¨Accordianæ‰”å‘Hermanï¼Œä¸Žä»–è¯´è¯ï¼Œä»–ç»ˆäºŽæœ‰è®°å¿†äº†ã€‚éšåŽä»–ä¼šç»™ä½ ä¸€ä¸ªGubernational 
+        Symbolã€‚ 
+ã€€ã€€Monkey Islandä¹‹Monkey Combatï¼ 
+ã€€ã€€ï¼‘ï¼–ã€€åœ¨Villageä¸ŽJojo Jrè¯´è¯åŽï¼Œä½ ä¾¿è¦ä¸Žä»–æŒ‘æˆ˜Monkey Combatï¼Œèƒœå‡ºä¾¿å¯å¾—åˆ°ä»–æˆ´ç€çš„Bronce Hatã€‚è¿™ä¸ªMonkey 
+        Combatæœ‰è¯¦ç»†è§£é‡Šçš„å¿…è¦ã€‚ 
+ã€€ã€€Â·çŽ©æ³•å°±å¥½åƒ"çŒœæ‹³"ä¸€æ ·ï¼Œå…±æœ‰äº”ç§åŠ¨ä½œï¼šAA=Anxious Apeã€BB=Bobbing Baboonã€CC=Charging 
+        Chimpã€DM=Drunken Monkey ã€GG=Gimpy Gibbonï¼Œæ¯ä¸ªåŠ¨ä½œéƒ½ä¼šèƒœè¿‡æŸäºŒä¸ªåŠè¾“ç»™å¦å¤–ä¸¤ä¸ªã€‚ï¼ˆä¾‹AAèƒœè¿‡CCåŠBBï¼Œä½†è¾“ç»™DMåŠGGï¼‰ 
       
-¡¡¡¡¡¤¶ø×ª»»²»Í¬µÄ¶¯×÷ÊÇÊ¹ÓÃÈý×é½ÐÉù£¬ÓÉËÄ¸öÒô×é³É£º O=Oop¡¢A=Ack¡¢E=Eek¡¢C=Chee¡££¨ÀýÈç´ÓAA×ª»»µ½BBÊÇ Chee 
-        Ack Oop£¬´ÓAA×ªµ½DMÊÇOop Ack Chee¡­£© 
-¡¡¡¡¡¤Ö»ÒªÊÇÁ½Ì×¶¯×÷»¥»»£¬¼´ÎÞÂÛÊÇBB×ªµ½DM¡¢DM×ªµ½BB £¬¶¼ÊÇÍ¬Ò»¸ö½ÐÉù×éºÏ¡£ 
-¡¡¡¡¡¤Íæ¼ÒºÍµçÄÔ¸÷ÓÐÒ»ÌõÉúÃüÖµ£¬ÈçË«·½¶¼ÊÇBB£¬ÎÒÏÈÐÐ¶¯£¬±ä³ÉCC£¬CCÊ¤BB£¬¶ÔÊÖ±ãÒª¿Û1.5ÌõÏã½¶¡£ÈçË«·½µÄ¶¯×÷¶¼ÊÇÒ»Ñù£¬×÷Draw 
-        GameÂÛ£¬ÐÐ¶¯µÄÒ»·½»Ø¸´Ò»ÌõÏã½¶¡£Ë­µÄÏã½¶¿ÛÍê±ãËãÊä¡£ 
-¡¡¡¡¡¤°´Í¬Ò»ÖÖ½ÐÉùÈý´Î¶¯×÷ÔòÎ¬³Ö²»±ä¡£ 
-¡¡¡¡¡¤Tips£º²Î¿¼µçÄÔ×ª»»µÄ¶¯×÷£¬¼ÇÏÂÀ´£¬È»ºó¸úËæµçÄÔÐÐ¶¯£¬Draw Game¿ªÐÂRound¡£´ËÍâ»¹Òª¼ÇÏÂÄÄ¸ö¶¯×÷°ò³öÄÄ¸ö¶¯×÷¡£ 
-¡¡¡¡¡¤ÓÉÓÚ½ÐÉù×éºÏ¶¼ÊÇËæ»úµÄ£¬ÈËÈËµÄÓÎÏ·¶¼ÊÇ²»Í¬£¨µ« Save Load£¬Quit²»»áÓ°Ïì£¬New GameµÄ»°×éºÏ±ã»á²»Í¬¡££©£¬¹Ê´ËÒ»¶¨Òª×ÔÒÑÂýÂýÊÔ¡£ 
+ã€€ã€€Â·è€Œè½¬æ¢ä¸åŒçš„åŠ¨ä½œæ˜¯ä½¿ç”¨ä¸‰ç»„å«å£°ï¼Œç”±å››ä¸ªéŸ³ç»„æˆï¼š O=Oopã€A=Ackã€E=Eekã€C=Cheeã€‚ï¼ˆä¾‹å¦‚ä»ŽAAè½¬æ¢åˆ°BBæ˜¯ Chee 
+        Ack Oopï¼Œä»ŽAAè½¬åˆ°DMæ˜¯Oop Ack Cheeâ€¦ï¼‰ 
+ã€€ã€€Â·åªè¦æ˜¯ä¸¤å¥—åŠ¨ä½œäº’æ¢ï¼Œå³æ— è®ºæ˜¯BBè½¬åˆ°DMã€DMè½¬åˆ°BB ï¼Œéƒ½æ˜¯åŒä¸€ä¸ªå«å£°ç»„åˆã€‚ 
+ã€€ã€€Â·çŽ©å®¶å’Œç”µè„‘å„æœ‰ä¸€æ¡ç”Ÿå‘½å€¼ï¼Œå¦‚åŒæ–¹éƒ½æ˜¯BBï¼Œæˆ‘å…ˆè¡ŒåŠ¨ï¼Œå˜æˆCCï¼ŒCCèƒœBBï¼Œå¯¹æ‰‹ä¾¿è¦æ‰£1.5æ¡é¦™è•‰ã€‚å¦‚åŒæ–¹çš„åŠ¨ä½œéƒ½æ˜¯ä¸€æ ·ï¼Œä½œDraw 
+        Gameè®ºï¼Œè¡ŒåŠ¨çš„ä¸€æ–¹å›žå¤ä¸€æ¡é¦™è•‰ã€‚è°çš„é¦™è•‰æ‰£å®Œä¾¿ç®—è¾“ã€‚ 
+ã€€ã€€Â·æŒ‰åŒä¸€ç§å«å£°ä¸‰æ¬¡åŠ¨ä½œåˆ™ç»´æŒä¸å˜ã€‚ 
+ã€€ã€€Â·Tipsï¼šå‚è€ƒç”µè„‘è½¬æ¢çš„åŠ¨ä½œï¼Œè®°ä¸‹æ¥ï¼Œç„¶åŽè·Ÿéšç”µè„‘è¡ŒåŠ¨ï¼ŒDraw Gameå¼€æ–°Roundã€‚æ­¤å¤–è¿˜è¦è®°ä¸‹å“ªä¸ªåŠ¨ä½œè†€å‡ºå“ªä¸ªåŠ¨ä½œã€‚ 
+ã€€ã€€Â·ç”±äºŽå«å£°ç»„åˆéƒ½æ˜¯éšæœºçš„ï¼Œäººäººçš„æ¸¸æˆéƒ½æ˜¯ä¸åŒï¼ˆä½† Save Loadï¼ŒQuitä¸ä¼šå½±å“ï¼ŒNew Gameçš„è¯ç»„åˆä¾¿ä¼šä¸åŒã€‚ï¼‰ï¼Œæ•…æ­¤ä¸€å®šè¦è‡ªå·²æ…¢æ…¢è¯•ã€‚ 
       
-¡¡¡¡¡¤´òµ¹É­ÁÖµÄBrawny Monkeyºó£¬±ã¿ÉÈ¥ÌôÕ½Jojo JrÁË£¡ 
-¡¡¡¡¡¤½¨Òé´ó¼ÒPrintÒ»·Ý±íÀ´¼ÇÏÂ¶¯×÷×ª»»£¬ÈçÏÂ±í£º 
-¡¡¡¡Ê¤¸º£º 
-¡¡¡¡AA=Anxious Ape 
-        ¡¡¡¡BB=Bobbing Baboon 
-        ¡¡¡¡CC=Charging Chimp 
-        ¡¡¡¡DM=Drunken Monkey 
-        ¡¡¡¡GG=Gimpy Gibbon 
-¡¡¡¡AA:Ê¤__¼°__£¬°Ü__¼°__ 
-        ¡¡¡¡BB:Ê¤__¼°__£¬°Ü__¼°__ 
-        ¡¡¡¡CC:Ê¤__¼°__£¬°Ü__¼°__ 
-        ¡¡¡¡DM:Ê¤__¼°__£¬°Ü__¼°__ 
-        ¡¡¡¡GG:Ê¤__¼°__£¬°Ü__¼°__ 
-¡¡¡¡¶¯×÷£º(Àý:AA-BB / BB-AA:CAO) 
-¡¡¡¡O=Oop 
-        ¡¡¡¡A=Ack 
-        ¡¡¡¡E=Eek 
-        ¡¡¡¡C=Chee 
-        ¡¡¡¡AA-BB / BB-AA:___ 
-        ¡¡¡¡AA-CC / CC-AA:___ 
-        ¡¡¡¡AA-DM / DM-AA:___ 
-        ¡¡¡¡AA-GG / GG-AA:___ 
-        ¡¡¡¡BB-CC / CC-BB:___ 
-        ¡¡¡¡BB-DM / DM-BB:___ 
-        ¡¡¡¡BB-GG / GG-BB:___ 
-        ¡¡¡¡CC-DM / DM-CC:___ 
-        ¡¡¡¡CC-GG / GG-CC:___ 
-        ¡¡¡¡DM-GG / GG-DM:___ 
-¡¡¡¡½á¾Ö£ºÌúºï28£¿£¡ 
-¡¡¡¡£±£·¡¡Ê¤³öJojo Jrºó£¬È¡µÃBronce Hat£¬µ½Giant Monkey Head£¬Ê¹ÓÃBronce Hat ÔÚHead£¬Ê¹ÓÃBanana 
-        PickerÔÚNose£¬ÃÅ¿Ú±ã»á´ò¿ª£¬½øÈëºóÊ¹ÓÃGubernational SymbolÔÚSlotÉÏ¡£ 
-¡¡¡¡Act III+ 
-¡¡¡¡£±£¸¡¡¼ÝÊ»×Å´ó»úÐµÈË£¬×ßµ½×îÓÒ·½ÄÃÆðReally Big Plank£¬½«Really Big Plank·Åµ½ Short Tower£¬ÅÀÉÏÈ¥Short 
-        TowerÔÙJump on really big plank£¬Ê¹ÓÃÄÇSwitch¡£ 
-¡¡¡¡£±£¹¡¡ÓëLeChuck»¯ÉíµÄ¾ÞÊ¯Ïñ½øÐÐ×îÖÕµÄMonkey Combat£¡ÄãÊÇ²»ÄÜÊ¤³öµÄ£¬Ö»Òª¸úËæËû×öÍ¬ÑùµÄ¶¯×÷£¬Draw GameÈý»Ø£¬Ëû×ÔÈ»»á·ÅÆú£¬¶ø¡¶Escape 
-        From Monkey Island¡·Ò²ÍêÂú½áÊø¡£ 
-ÒÔÉÏÄÚÈÝÓÉÐÂÀËÍøÕ¾Ìá¹©
+ã€€ã€€Â·æ‰“å€’æ£®æž—çš„Brawny MonkeyåŽï¼Œä¾¿å¯åŽ»æŒ‘æˆ˜Jojo Jräº†ï¼ 
+ã€€ã€€Â·å»ºè®®å¤§å®¶Printä¸€ä»½è¡¨æ¥è®°ä¸‹åŠ¨ä½œè½¬æ¢ï¼Œå¦‚ä¸‹è¡¨ï¼š 
+ã€€ã€€èƒœè´Ÿï¼š 
+ã€€ã€€AA=Anxious Ape 
+        ã€€ã€€BB=Bobbing Baboon 
+        ã€€ã€€CC=Charging Chimp 
+        ã€€ã€€DM=Drunken Monkey 
+        ã€€ã€€GG=Gimpy Gibbon 
+ã€€ã€€AA:èƒœ__åŠ__ï¼Œè´¥__åŠ__ 
+        ã€€ã€€BB:èƒœ__åŠ__ï¼Œè´¥__åŠ__ 
+        ã€€ã€€CC:èƒœ__åŠ__ï¼Œè´¥__åŠ__ 
+        ã€€ã€€DM:èƒœ__åŠ__ï¼Œè´¥__åŠ__ 
+        ã€€ã€€GG:èƒœ__åŠ__ï¼Œè´¥__åŠ__ 
+ã€€ã€€åŠ¨ä½œï¼š(ä¾‹:AA-BB / BB-AA:CAO) 
+ã€€ã€€O=Oop 
+        ã€€ã€€A=Ack 
+        ã€€ã€€E=Eek 
+        ã€€ã€€C=Chee 
+        ã€€ã€€AA-BB / BB-AA:___ 
+        ã€€ã€€AA-CC / CC-AA:___ 
+        ã€€ã€€AA-DM / DM-AA:___ 
+        ã€€ã€€AA-GG / GG-AA:___ 
+        ã€€ã€€BB-CC / CC-BB:___ 
+        ã€€ã€€BB-DM / DM-BB:___ 
+        ã€€ã€€BB-GG / GG-BB:___ 
+        ã€€ã€€CC-DM / DM-CC:___ 
+        ã€€ã€€CC-GG / GG-CC:___ 
+        ã€€ã€€DM-GG / GG-DM:___ 
+ã€€ã€€ç»“å±€ï¼šé“çŒ´28ï¼Ÿï¼ 
+ã€€ã€€ï¼‘ï¼—ã€€èƒœå‡ºJojo JråŽï¼Œå–å¾—Bronce Hatï¼Œåˆ°Giant Monkey Headï¼Œä½¿ç”¨Bronce Hat åœ¨Headï¼Œä½¿ç”¨Banana 
+        Pickeråœ¨Noseï¼Œé—¨å£ä¾¿ä¼šæ‰“å¼€ï¼Œè¿›å…¥åŽä½¿ç”¨Gubernational Symbolåœ¨Slotä¸Šã€‚ 
+ã€€ã€€Act III+ 
+ã€€ã€€ï¼‘ï¼˜ã€€é©¾é©¶ç€å¤§æœºæ¢°äººï¼Œèµ°åˆ°æœ€å³æ–¹æ‹¿èµ·Really Big Plankï¼Œå°†Really Big Plankæ”¾åˆ° Short Towerï¼Œçˆ¬ä¸ŠåŽ»Short 
+        Towerå†Jump on really big plankï¼Œä½¿ç”¨é‚£Switchã€‚ 
+ã€€ã€€ï¼‘ï¼™ã€€ä¸ŽLeChuckåŒ–èº«çš„å·¨çŸ³åƒè¿›è¡Œæœ€ç»ˆçš„Monkey Combatï¼ä½ æ˜¯ä¸èƒ½èƒœå‡ºçš„ï¼Œåªè¦è·Ÿéšä»–åšåŒæ ·çš„åŠ¨ä½œï¼ŒDraw Gameä¸‰å›žï¼Œä»–è‡ªç„¶ä¼šæ”¾å¼ƒï¼Œè€Œã€ŠEscape 
+        From Monkey Islandã€‹ä¹Ÿå®Œæ»¡ç»“æŸã€‚ 
+ä»¥ä¸Šå†…å®¹ç”±æ–°æµªç½‘ç«™æä¾›
  
 

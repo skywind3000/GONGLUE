@@ -1,6 +1,6 @@
 Oh No! More Lemmings
 
-以下是这个游戏的全部过关密码
+浠ヤ笅鏄繖涓父鎴忕殑鍏ㄩ儴杩囧叧瀵嗙爜
 TAME LEVEL
 01. ---------- 50 50 1 4 Down & out Lemmings
 02. IHRTDLCCAR 50 50 1 4 Rent-a-Lemming
@@ -8,7 +8,7 @@ TAME LEVEL
 04. RTDLCILEAH 50 50 1 4 Downwordly Nobile lemmings
 05. TDLCAHTFAO 50 50 1 4 Smuggle up to a lemming
 06. DLCIHUTGAJ 50 50 1 4 Intsy-wintsy... lemming!
-07. LCALUTDHAG 50 50 1 4 Who’s that lemming
+07. LCALUTDHAG 50 50 1 4 Who鈥檚 that lemming
 08. CILUTDLIAP 50 50 1 4 Dangerzone
 09. CAHRUDKJAR 50 50 1 4 And now this...
 10. IHRUDLCKAK 50 50 1 4 New lemmings on the block
@@ -23,7 +23,7 @@ TAME LEVEL
 19. LRTFLCADBR 50 50 1 4 Lemming Productions present...
 20. RTFLCILEBK 50 50 1 4 Custom built for lemmings
 CRAZY LEVEL
-01. TFLCAHVFBD 50 96 1 3 "That’s a good level"
+01. TFLCAHVFBD 50 96 1 3 "That鈥檚 a good level"
 02. FLCIHTTGBK 80 100 99 4 Dolly simple
 03. LCALUTFHBJ 50 96 80 4 Many lemmings make level work
 04. CILTTFLIBQ 20 100 99 3 Lemming Express
@@ -35,13 +35,13 @@ CRAZY LEVEL
 10. FLCIHVUOBF 80 98 1 3 Rocky VI
 11. LCAMTUFPBR 80 10 1 1 No problemming!
 12. BIMTUNLQBT 80 93 1 3 Lemming friendly
-13. CAIPTDMBCK 20 50 1 3 It’s a trade off
+13. CAIPTDMBCK 20 50 1 3 It鈥檚 a trade off
 14. IHRTDMCCCF 50 90 1 4 Time waits for no lemming
 15. LRULICADCH 50 88 1 3 Worra load of old blocks!
 16. RVLICILECQ 16 100 1 3 Across the gap
 17. TDMCAHVFCD 50 99 1 3 Digging for victory
 18. DMCIITTGCL 50 90 10 3 No problem
-19. ICAMTVLHCO 50 90 5 3 Don’t panic
+19. ICAMTVLHCO 50 90 5 3 Don鈥檛 panic
 20. CILVVLIICI 20 50 1 4 Ice ice lemming
 WILD LEVEL
 01. BAHRWLMJCN 60 88 5 4 Pop you top!!!
@@ -51,7 +51,7 @@ WILD LEVEL
 05. UDMCAHVNCM 80 85 1 4 Lemming head
 06. LICMHVWOCP 80 100 1 2 Just a quicky
 07. MCALVUDPCS 80 100 99 2 You take the high road
-08. CILVUDMQEL 10 100 1 1 It’s a tight fit
+08. CILVUDMQEL 10 100 1 1 It鈥檚 a tight fit
 09. CAHRTFMBDO 40 100 50 4 Ice station lemming
 10. IHRTFMCCDH 80 75 1 3 Higgledy Piggledy
 11. MRTNICADDJ 50 98 1 3 Mutiny on the bounty
@@ -68,7 +68,7 @@ WICKED LEVEL
 01. UFMCAHTNDN 60 80 1 2 Lemming Tomato ketcup facility
 02. NICMHVUOOQ 1 100 1 4 Introducing super lemming
 03. MCALVUFPDF 50 100 1 3 This corrsion 
-04. CILVUFMQDO 50 60 1 4 Oh no! It’s the 4th dimension!
+04. CILVUFMQDO 50 60 1 4 Oh no! It鈥檚 the 4th dimension!
 05. GAHRTDHBEM 20 100 1 3 Chill out!
 06. IHRTDLGCEJ 80 37 1 8 Pop til you drop!
 07. MPTLLFADEM 80 90 1 2 Last Lemming to Lemming Central
@@ -88,16 +88,16 @@ WICKED LEVEL
 HAVOC LEVEL
 01. GAIPTFLBFS 80 95 1 4 Tubular lemming
 02. IIPTFLGCFL 30 96 1 4 Be more than just a number
-03. LPTFLGADFH 50 100 1 4 It’s the price you have to pay
+03. LPTFLGADFH 50 100 1 4 It鈥檚 the price you have to pay
 04. RTFLGILEFS 20 100 1 3 The race against cliches
-05. TFLGAHVFFL 20 100 1 4 There’s madness in the method
+05. TFLGAHVFFL 20 100 1 4 There鈥檚 madness in the method
 06. FLGIHVTGFE 50 100 1 4 Now get out of that!
 07. LGALVTFHFR 20 75 50 3 Creature discomforts
 08. GILTNNHIFM 50 90 1 4 Lemming about town
 09. GAIPUFLJFL 50 100 1 4 Aaaaaarrrrrrgggggghhhhhh!!!!!!
 10. IHRUFLGKFF 21 14 50 1 Flow control
 11. MRWFHFALFQ 80 100 1 4 Welcome to the party, pal!
-12. RUFLGILMFL 80 100 1 3 It’s all a matter of timing
+12. RUFLGILMFL 80 100 1 3 It鈥檚 all a matter of timing
 13. UFLGAHVNFE 80 93 5 4 Highland fling
 14. FLGMHTUOFP 80 100 40 1 Synchronised Lemming
 15. LGALVUFPFK 10 80 20 6 Have an ice day

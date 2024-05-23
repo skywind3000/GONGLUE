@@ -1,22 +1,22 @@
-VRսʿ2
+VR战士2
 
-�ؼ�ģʽ:
-������Ϸ��װĿ¼����VCOP2.INI�ļ����ҵ�[Game Setting]���,�����������Extra=2.���̲��ر��ļ�.
-�����ڽ�����Ϸʱ,����F6�Ϳ���ʹ���ؼ�ģʽ.
+秘技模式:
+进入游戏安装目录，打开VCOP2.INI文件并找到[Game Setting]语句,在其下面加入Extra=2.存盘并关闭文件.
+这样在进行游戏时,按下F6就可以使用秘技模式.
 
-��ͨDural 
-ѡ��Akira ����: �� �� �� �� A 
-����Dural
-��սʿѡ��ģʽ��,��: �� �� �� ����/�� �� (ע�ⲻҪ����̫��)
-���Dural
-��սʿѡ��ģʽ��,��: �� �� ��, ����/�� �� (��̫��)
+普通Dural 
+选择Akira 并按: 下 上 右 左 A 
+银甲Dural
+在战士选择模式下,按: 下 上 右 防守/踢 左 (注意不要按的太快)
+金甲Dural
+在战士选择模式下,按: 下 上 左, 防守/踢 右 (别按太快)
 
-��Ƭͷ�Ż���ʱѸ�����ϰ���Ϸ��17�Σ��Ϳ�ѡ���յ�Boss--Dural: ����Select Playerѡ�˳����Ϸ�˵��¡��ϡ��ң���ͬʱ�����뿪ʼ��������Խ���������� ֱ����սDural��
+在片头号画面时迅速向上按游戏杆17次，就可选最终的Boss--Dural: 开户Select Player选项，顺序按游戏杆的下、上、右，再同时按左与开始键，即可越过其他对手 直接挑战Dural。
 
-1.Duralѡ�÷� ����Player Selectѡ����˳����ҡ�˵��¡��ϡ�����ͬʱ���󼰷��ؼ�(Guard��)�� ������һ��Х��������ʾ����ɹ������ؼ���Ranking Mode����Ч����VS Mode �� 1P��2P����ʹ�����Ϸ����� ������� Dural vs Dural�� 
+1.Dural选用法 开戾Player Select选单，顺序按下摇杆的下、上、左，再同时按左及防守键(Guard键)， 若听到一呼啸声，即表示输入成功。此秘技在Ranking Mode下无效。在VS Mode 下 1P、2P均可使用以上方法， 结果将是 Dural vs Dural。 
 
-2.��Dural����ս����(Record List) ����״���� Option �� Record һ���ǲ����� Dural ��ս���ģ� ������Ƭͷ������� Press Start ButtonʱѸ�ٽ�ҡ���������ϰ�17�Σ� �ٰ��¿�ʼ��������Optionѡ���ʱ������һ���� Ring Out������ʾ����ɹ����ٽ���Recordѡ� �����õ�����Dural �������н�ɫ��ս����ͼƬ�� ���ؼ�ֻ������һ�Σ�Dural��ս�߼������ñ��档 
+2.将Dural加入战绩表(Record List) 正常状况下 Option 里 Record 一栏是不包含 Dural 的战况的， 但若在片头画面出现 Press Start Button时迅速将摇杆连续向上按17次， 再按下开始键。进入Option选项，此时若听到一声“ Ring Out”即表示输入成功。再进入Record选项， 即可用到包括Dural 在内所有角色的战况及图片。 此秘技只需输入一次，Dural的战线即可永久保存。 
 
 
-3.����ѡ�ؼ�������̨��С ��Ƭͷ����Press Start ButtonʱѸ�ٽ�ҡ���������ϰ�12�Σ��ٰ��¿�ʼ��������Optionѡ� ��ʱ������һ����K.O������ʾ����ɹ��� ������Ƶ�����Exitѡ�����£���ʱ��Ļ�Ͻ���������꣬�жϹ���Ƿ���ڵķ�������ĳһѡ�����Ի�ɫ�Ա�ʱ�����꼴ͣ���ڸ�ѡ��λ�ã���ȫ��ѡ���Ϊ��ɫ�������޹�꣬����Guard��Kick ��һ�����������һ���С�Pption+����ѡ���� �ڴ˿�����ѡ�ؼ�������̨��С�� ��һ��ֵ��ע����Ǵ���������ñ��棬������ѡ���˽������һ���ڿ���Ϊ 8 �׵���̨���� Dural��ս����ô�Ժ�ֻҪ����Arcade ģʽ������Ϸ�������Զ��������һ�ص���ͬ��С����̨�Ͽ�ʼ�����������ı��趨�����ڡ�Option+ ��ѡ���������趨�����ؼ���Ranking��VS Mode����Ч��
+3.任意选关及调整擂台大小 在片头出现Press Start Button时迅速将摇杆连续向上按12次，再按下开始键。进入Option选项， 此时若听到一声“K.O”即表示输入成功。 将光标移到最后的Exit选项以下，此时屏幕上将见不到光标，判断光标是否存在的方法是若某一选项是以黄色显标时，则光标即停留在该选项位置；若全部选项均为白色，则是无光标，按下Guard或Kick 任一键，将会出现一个叫“Pption+”的选单， 在此可任意选关及调整擂台大小。 有一点值得注意的是此项亦会永久保存，如你已选择了进入最后一关在宽度为 8 米的擂台上与 Dural决战，那么以后只要你以Arcade 模式启动游戏，均将自动进入最后一关的相同大小的擂台上开始决斗。若欲改变设定则需在“Option+ ”选单内重新设定，此秘技在Ranking及VS Mode下无效。
 

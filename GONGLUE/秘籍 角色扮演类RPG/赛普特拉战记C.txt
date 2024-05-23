@@ -1,22 +1,22 @@
-ÈüÆÕÌØÀ­Õ½¼Ç
+èµ›æ™®ç‰¹æ‹‰æˆ˜è®°
 
 
 
 
 
-¡¡¡¡ÔÚÓÎÏ·ÖÐ°´ÏÂ¡®F12¡¯¼üºóÊäÈëÏÂÁÐÃÜÂë£º 
+ã€€ã€€åœ¨æ¸¸æˆä¸­æŒ‰ä¸‹â€˜F12â€™é”®åŽè¾“å…¥ä¸‹åˆ—å¯†ç ï¼š 
 
-¡¡¡¡enemies£½²é¿´µÐÈË¹¥»÷Á¦ 
+ã€€ã€€enemiesï¼æŸ¥çœ‹æ•Œäººæ”»å‡»åŠ› 
 
-¡¡¡¡sight£½Show Line of Sight 
+ã€€ã€€sightï¼Show Line of Sight 
 
-¡¡¡¡spy£½²é¿´DebugÊýÖµ 
+ã€€ã€€spyï¼æŸ¥çœ‹Debugæ•°å€¼ 
 
-¡¡¡¡makethemstopmommie£½µÐÈË²»¹¥»÷ 
+ã€€ã€€makethemstopmommieï¼æ•Œäººä¸æ”»å‡» 
 
-¡¡¡¡hidetext£½¹Ø±Õ×ÖÄ» 
+ã€€ã€€hidetextï¼å…³é—­å­—å¹• 
 
-¡¡¡¡fps£½ÏÔÊ¾ÓÎÏ·Ö¡Êý 
+ã€€ã€€fpsï¼æ˜¾ç¤ºæ¸¸æˆå¸§æ•° 
 
-¡¡¡¡mapmaker£½ÒÔBMP¸ñÊ½ÏÔÊ¾µØÍ¼ 
+ã€€ã€€mapmakerï¼ä»¥BMPæ ¼å¼æ˜¾ç¤ºåœ°å›¾ 
 

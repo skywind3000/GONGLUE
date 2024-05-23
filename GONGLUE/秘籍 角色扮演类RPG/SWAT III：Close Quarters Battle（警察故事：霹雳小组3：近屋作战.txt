@@ -1,17 +1,17 @@
-SWAT III£ºClose Quarters Battle£¨¾¯²ì¹ÊÊÂ£ºÅùö¨Ð¡×é3£º½üÎÝ×÷Õ½
+SWAT IIIï¼šClose Quarters Battleï¼ˆè­¦å¯Ÿæ•…äº‹ï¼šéœ¹é›³å°ç»„3ï¼šè¿‘å±‹ä½œæˆ˜
 
-ÔÚÓÎÏ·¹ý³ÌÖÐ£¬Í¬Ê±°´ÏÂShiftºÍ~¼ü£¬È»ºóÊäÈëÏÂÁÐÃÜÂë£º
+åœ¨æ¸¸æˆè¿‡ç¨‹ä¸­ï¼ŒåŒæ—¶æŒ‰ä¸‹Shiftå’Œ~é”®ï¼Œç„¶åŽè¾“å…¥ä¸‹åˆ—å¯†ç ï¼š
 
-iamleet£½Íê³ÉËùÓÐÄ¿±ê£¬Ó®µÃÈÎÎñÊ¤Àû
-johnwoo£½·ÅÂýÓÎÏ·½ø³Ì
-swatlord£½Ð¡¶ÓÎÞµÐ
-biggerpockets£½ÎÞÏÞµ¯Ò©
-doubleshot£½¸ßËÙ¿ª»ð
-nc17£½Ôö¼Ó¹¥»÷ÉËº¦
-noshades£½Ò¹¼äÈÎÎñÈçÍ¬°×ÖçÒ»ÑùÃ÷ÁÁ
+iamleetï¼å®Œæˆæ‰€æœ‰ç›®æ ‡ï¼Œèµ¢å¾—ä»»åŠ¡èƒœåˆ©
+johnwooï¼æ”¾æ…¢æ¸¸æˆè¿›ç¨‹
+swatlordï¼å°é˜Ÿæ— æ•Œ
+biggerpocketsï¼æ— é™å¼¹è¯
+doubleshotï¼é«˜é€Ÿå¼€ç«
+nc17ï¼å¢žåŠ æ”»å‡»ä¼¤å®³
+noshadesï¼å¤œé—´ä»»åŠ¡å¦‚åŒç™½æ˜¼ä¸€æ ·æ˜Žäº®
 
 
-²»»áÎóÉË×Ô¼ºÈË£º
+ä¸ä¼šè¯¯ä¼¤è‡ªå·±äººï¼š
 
-ÐÞ¸ÄÓÎÏ·°²×°Ä¿Â¼ÖÐµÄswat.cfgÎÄ¼þ£¬½«¡°shootgoodguys=1¡±¸ÄÎª ¡°shootgoodguys=0¡±¡£ÏÖÔÚ£¬ÄãÔÚÈÎÎñÖÐ¾Í²»»á¿ªÇ¹ÎóÉË×Ô¼ºµÄ¶ÓÔ±ÁË¡£
+ä¿®æ”¹æ¸¸æˆå®‰è£…ç›®å½•ä¸­çš„swat.cfgæ–‡ä»¶ï¼Œå°†â€œshootgoodguys=1â€æ”¹ä¸º â€œshootgoodguys=0â€ã€‚çŽ°åœ¨ï¼Œä½ åœ¨ä»»åŠ¡ä¸­å°±ä¸ä¼šå¼€æžªè¯¯ä¼¤è‡ªå·±çš„é˜Ÿå‘˜äº†ã€‚
 

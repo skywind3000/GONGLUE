@@ -1,32 +1,32 @@
-Die by the Sword (½£ÏÂÍö»ê)
+Die by the Sword (å‰‘ä¸‹äº¡é­‚)
 
-ÔÚÓÎÏ·¹ý³ÌÖÐ£¬°´×¡F1²»·Åáá¼ÌÐø¼üÈë£º
-Mukor = ÎÞµÐÄ£Ê½
-Dedly = ¸ü»»ÎªÇ¿Á¦ÎäÆ÷
+åœ¨æ¸¸æˆè¿‡ç¨‹ä¸­ï¼ŒæŒ‰ä½F1ä¸æ”¾å¾Œç»§ç»­é”®å…¥ï¼š
+Mukor = æ— æ•Œæ¨¡å¼
+Dedly = æ›´æ¢ä¸ºå¼ºåŠ›æ­¦å™¨
 Golrg = Big Char
 Btiny = Small Char
-Silky - µÐÈË²»»áÒÆ¶¯
-Agrav - ¸Ä±äÖØÁ¦
-Lunar - ½«ÖØÁ¦¸Ä³ÉÔÂÇòÖØÁ¦
-Peace - Ö±½ÓÉ±º¦µÐÈË
+Silky - æ•Œäººä¸ä¼šç§»åŠ¨
+Agrav - æ”¹å˜é‡åŠ›
+Lunar - å°†é‡åŠ›æ”¹æˆæœˆçƒé‡åŠ›
+Peace - ç›´æŽ¥æ€å®³æ•Œäºº
 Funky - "Funky keys toggled" ??? 
-ÔÚÆô¶¯ÓÎÏ·£¬ÔËÐÐÖ÷³ÌÐòÎÄ¼þDie.exeÊ±¼ÓÈë²ÎÊý-god¼´¿É½øÈëGodÄ£Ê½¡£
+åœ¨å¯åŠ¨æ¸¸æˆï¼Œè¿è¡Œä¸»ç¨‹åºæ–‡ä»¶Die.exeæ—¶åŠ å…¥å‚æ•°-godå³å¯è¿›å…¥Godæ¨¡å¼ã€‚
 
-°´×¡£Æ£±²»·Å£¬¼´¿ÉÊäÈëÏÂÁÐÃÜ¼¼£º 
-¹¦ÄÜÃÜÂë£º
+æŒ‰ä½ï¼¦ï¼‘ä¸æ”¾ï¼Œå³å¯è¾“å…¥ä¸‹åˆ—å¯†æŠ€ï¼š 
+åŠŸèƒ½å¯†ç ï¼š
  
-mukor£º½øÈëÉÏµÛÄ£Ê½ qsave£º¿ìËÙ´æµµ 
-pause£ºÔÝÍ£ÓÎÏ· frame£º×¥Í¼ 
-golrg£ºÖ÷½Ç±ä´ó tough£ºÇÐ»»À§ÄÑ³Ì¶È 
-mecam£ºÇÐ»»µÚÒ»ÈË³Æ gocam£ºÇÐ»»¹Ì¶¨ÊÓ½Ç 
-spcam£ºÇÐ»»µÐÈËÊÓ½Ç bamff£ºÌøµ½×îºóÒ»¹Ø 
-gamma£ºµ÷½ÚÁÁ¶È dedly£ºÎäÆ÷ÍþÁ¦Ôö¼Ó 
-sepku£º×ÔÉ± peace£ºµÐÈËÈ«Ãð 
-±¬Ð¦¾øÕÐ
+mukorï¼šè¿›å…¥ä¸Šå¸æ¨¡å¼ qsaveï¼šå¿«é€Ÿå­˜æ¡£ 
+pauseï¼šæš‚åœæ¸¸æˆ frameï¼šæŠ“å›¾ 
+golrgï¼šä¸»è§’å˜å¤§ toughï¼šåˆ‡æ¢å›°éš¾ç¨‹åº¦ 
+mecamï¼šåˆ‡æ¢ç¬¬ä¸€äººç§° gocamï¼šåˆ‡æ¢å›ºå®šè§†è§’ 
+spcamï¼šåˆ‡æ¢æ•Œäººè§†è§’ bamffï¼šè·³åˆ°æœ€åŽä¸€å…³ 
+gammaï¼šè°ƒèŠ‚äº®åº¦ dedlyï¼šæ­¦å™¨å¨åŠ›å¢žåŠ  
+sepkuï¼šè‡ªæ€ peaceï¼šæ•Œäººå…¨ç­ 
+çˆ†ç¬‘ç»æ‹›
  
-bills£ºÄªÃ÷ÆäÃî¶¯×÷ ifall£º×ÔÒÑË¤µ¹ 
-hicup£º°ÑÖ÷½ÇÈÓ³öÈ¥ silky£º¶¨Éí·¨ 
-lunar£ºÊ§ÖØÄ£Ê½ funky£ºµÃµ½ËùÓÐÔ¿³× 
-catch£ºÌÓÀëÐü¾® aiaim£ºÇÐ»»AI 
-agrav£º½øÈëÓÐÈ¤µÄÎÞÖ«Ä£Ê½ 
+billsï¼šèŽ«æ˜Žå…¶å¦™åŠ¨ä½œ ifallï¼šè‡ªå·²æ‘”å€’ 
+hicupï¼šæŠŠä¸»è§’æ‰”å‡ºåŽ» silkyï¼šå®šèº«æ³• 
+lunarï¼šå¤±é‡æ¨¡å¼ funkyï¼šå¾—åˆ°æ‰€æœ‰é’¥åŒ™ 
+catchï¼šé€ƒç¦»æ‚¬äº• aiaimï¼šåˆ‡æ¢AI 
+agravï¼šè¿›å…¥æœ‰è¶£çš„æ— è‚¢æ¨¡å¼ 
 

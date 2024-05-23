@@ -1,10 +1,10 @@
-’Ê»ÀøÏ¥ÚV»ÀŒÔ≥ˆ’–±Ì
+Áúü‰∫∫Âø´ÊâìV‰∫∫Áâ©Âá∫ÊãõË°®
 
-kofÃ·π© 
+kofÊèê‰æõ 
 
-…Ë∂®
+ËÆæÂÆö
 
-F£∫«∞°°B£∫∫Û°°U£∫…œ°°D£∫œ¬°°H£∫∏ﬂ°°L£∫µÕ°°P£∫»≠°°K£∫Ω≈°°BL£∫∏Òµµ
+FÔºöÂâç„ÄÄBÔºöÂêé„ÄÄUÔºö‰∏ä„ÄÄDÔºö‰∏ã„ÄÄHÔºöÈ´ò„ÄÄLÔºö‰Ωé„ÄÄPÔºöÊã≥„ÄÄKÔºöËÑö„ÄÄBLÔºöÊ†ºÊ°£
 Liu Kang
 
 Weapon: B - F - LK
@@ -25,7 +25,7 @@ Throw & Fire: F - D - D - U+HP (close)
 
 Prison Stage: F - F - B+LP
 
-Goro°Øs Lair: F - F - B+HK
+Goro‚Äôs Lair: F - F - B+HK
 
 Jarek
 
@@ -47,7 +47,7 @@ Eye Lasers: U-U-F-F+BL (sweep+)
 
 Prison Stage: F - D - F+HK
 
-Goro°Øs Lair: B - F - F+LP
+Goro‚Äôs Lair: B - F - F+LP
 
 
 Quan Chi
@@ -72,7 +72,7 @@ Impersonator: U - U - D - D+LP (sweep+)
 
 Prison Stage: F - F - D+HP
 
-Goro°Øs Lair: F - F - B+LK 
+Goro‚Äôs Lair: F - F - B+LK 
 
 Johnny Cage
 
@@ -96,7 +96,7 @@ Decap: D-D-F-D+BL (close)
 
 Prison Stage: D - F - F+HK 
 
-Goro°Øs Lair: B - F - F+LK
+Goro‚Äôs Lair: B - F - F+LK
 
 Reptile
 
@@ -118,7 +118,7 @@ Acid Puke: U - D - D - D+HP (sweep+)
 
 Prison Stage: D - F - F+LP
 
-Goro°Øs Lair: D - D - F+HK
+Goro‚Äôs Lair: D - D - F+HK
 
 Tanya
 
@@ -140,7 +140,7 @@ Neck Twist: D-F-D-F+HK (close)
 
 Prison Stage: B - F - D+HP
 
-Goro°Øs Lair: F - F - F+LP
+Goro‚Äôs Lair: F - F - F+LP
 
 Sub-Zero
 
@@ -160,7 +160,7 @@ Uppercut: B - B - D - B+HP (sweep+)
 
 Prison Stage: (BL)D-U-U-U+HK (close)
 
-Goro°Øs Lair: D - D - D+LK
+Goro‚Äôs Lair: D - D - D+LK
 
 Raiden
 
@@ -180,7 +180,7 @@ Impale: D-U-U-U+HP (close)
 
 Prison Stage: D - F - B+BL
 
-Goro°Øs Lair: F - F - D+LP 
+Goro‚Äôs Lair: F - F - D+LP 
 
 
 
@@ -204,7 +204,7 @@ Scorpion Sting: B - F - D - U+HP (close)
 
 Prison Stage: F - D - D+LK
 
-Goro°Øs Lair: B - F - F+LK
+Goro‚Äôs Lair: B - F - F+LK
 
 Fujin
 
@@ -228,7 +228,7 @@ Wind Skinner: D-F-F-U+BL (sweep+)
 
 Prison Stage: D - D - D+HK
 
-Goro°Øs Lair: B - F - F+LK
+Goro‚Äôs Lair: B - F - F+LK
 
 
 Reiko
@@ -257,7 +257,7 @@ Multi-Shuriken: B - B - D - D+HK (sweep+)
 
 Prison Stage: D - D - B+LP
 
-Goro°Øs Lair: F - F - D+LK
+Goro‚Äôs Lair: F - F - D+LK
 
 Jax
 
@@ -281,7 +281,7 @@ Head Clap: B-F-F-D+BL (close)
 
 Prison Stage: F - F - B+LK 
 
-Goro°Øs Lair: F - F - B+HP 
+Goro‚Äôs Lair: F - F - B+HP 
 
 Sonya
 
@@ -307,7 +307,7 @@ Leg Split: U - D - D - U - HK (sweep+)
 
 Prison Stage: D - B - B - HK
 
-Goro°Øs Lair: F - D - F - HP
+Goro‚Äôs Lair: F - D - F - HP
 
 
 Kai
@@ -336,7 +336,7 @@ Decap: U-U-U-D+BL(sweep+)
 
 Prison Stage: F - F - D+BL
 
-Goro°Øs Lair: B - F - D+HK
+Goro‚Äôs Lair: B - F - D+HK
 
 
 Shinnok
@@ -379,7 +379,7 @@ Prison Stage: D - D - F+HK
 
 Two Hand Smash: D-U-U-D+BL (close)
 
-Goro°Øs Lair: D - F - B+HP
+Goro‚Äôs Lair: D - F - B+HP
 
 Goro
 
@@ -417,6 +417,6 @@ Air Throw: BL (close; in air)
 
 Prison Stage: D - B - B+HK
 
-Goro°Øs Lair: F - D - F+HK
+Goro‚Äôs Lair: F - D - F+HK
 
 

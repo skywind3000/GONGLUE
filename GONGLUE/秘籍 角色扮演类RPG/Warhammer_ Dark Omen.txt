@@ -1,10 +1,10 @@
 Warhammer_ Dark Omen
 
-1.ÔÚÖ÷ÆÁÄ»ÊäÈë¡°fudgeislush¡±£¬Ìýµ½ÉùÒôÖ¤ÊµÊäÈëÕýÈ·ºó£¬ÊäÈëÒÔÏÂ´úÂë:
-CTRL-C-G :ÔÚCASHÖÐÔö¼Ó1000 GC
-CTRL-C-T :´ÓCASHÖÐ¼õÉÙ1000GC
-CTRL-C-E :Ôö¼ÓÑ¡ÖÐµ¥ÔªµÄ¾­Ñé
-CTRL-C-U £ºÊ¹Ñ¡ÖÐµ¥ÔªÔÚÕ½¶·ÖÐ²»»áÆÆËð 
-2.ÔÚÖ÷ÆÁÄ»ÊäÈë¡°dontmesswithme¡±£¬Ìýµ½ÉùÒôÖ¤ÊµÊäÈëÕýÈ·ºó£¬ÊäÈëÒÔÏÂ´úÂë:
-CTRL-C-M£º¸øÈ«¶îµÄÄ§·¨ÏîÄ¿
-CTRL-C-F£º¸øÃ¿¸öµ¥ÔªÂúµÄXP
+1.åœ¨ä¸»å±å¹•è¾“å…¥â€œfudgeislushâ€ï¼Œå¬åˆ°å£°éŸ³è¯å®žè¾“å…¥æ­£ç¡®åŽï¼Œè¾“å…¥ä»¥ä¸‹ä»£ç :
+CTRL-C-G :åœ¨CASHä¸­å¢žåŠ 1000 GC
+CTRL-C-T :ä»ŽCASHä¸­å‡å°‘1000GC
+CTRL-C-E :å¢žåŠ é€‰ä¸­å•å…ƒçš„ç»éªŒ
+CTRL-C-U ï¼šä½¿é€‰ä¸­å•å…ƒåœ¨æˆ˜æ–—ä¸­ä¸ä¼šç ´æŸ 
+2.åœ¨ä¸»å±å¹•è¾“å…¥â€œdontmesswithmeâ€ï¼Œå¬åˆ°å£°éŸ³è¯å®žè¾“å…¥æ­£ç¡®åŽï¼Œè¾“å…¥ä»¥ä¸‹ä»£ç :
+CTRL-C-Mï¼šç»™å…¨é¢çš„é­”æ³•é¡¹ç›®
+CTRL-C-Fï¼šç»™æ¯ä¸ªå•å…ƒæ»¡çš„XP

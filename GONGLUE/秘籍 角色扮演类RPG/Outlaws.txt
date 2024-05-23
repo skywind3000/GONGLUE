@@ -1,13 +1,13 @@
 Outlaws
 
-ÃØ¼¼£º
-olairhead - ·ÉĞĞÄ£Ê½ 
-olash - µ¯Ò©ÎŞÏŞ
-olcds - ³¬¼¶µØÍ¼Ä£Ê½
-olfps - ÏÔÊ¾Ö¡ËÙÂÊ
-olgps - ÏÔÊ¾Íæ¼Ò×°±¸
-oljackpot - Ôö¼Ó²Æ²úÇåµ¥
-olpostal - È«²¿ÎäÆ÷×Óµ¯È«Âú
-olredlite - ¶³½áµĞÈË
-olzip - ¿Õ¼ä´«ËÍ 
+ç§˜æŠ€ï¼š
+olairhead - é£è¡Œæ¨¡å¼ 
+olash - å¼¹è¯æ— é™
+olcds - è¶…çº§åœ°å›¾æ¨¡å¼
+olfps - æ˜¾ç¤ºå¸§é€Ÿç‡
+olgps - æ˜¾ç¤ºç©å®¶è£…å¤‡
+oljackpot - å¢åŠ è´¢äº§æ¸…å•
+olpostal - å…¨éƒ¨æ­¦å™¨å­å¼¹å…¨æ»¡
+olredlite - å†»ç»“æ•Œäºº
+olzip - ç©ºé—´ä¼ é€ 
 

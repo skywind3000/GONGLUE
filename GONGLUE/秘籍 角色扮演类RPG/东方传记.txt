@@ -1,7 +1,7 @@
-¶«·½´«¼Ç
+ä¸œæ–¹ä¼ è®°
 
-ÔÚÓÎÏ·ÖÐÊäÈëÒÔÏÂÃÜ¼¼
-enginegod = ÎÞµÐ
-enginekey = µÃµ½ËùÓÐÆÆ¹ØÓÃµÄÔ¿³×
-enginebook = µÃµ½ËùÓÐÄ§·¨
+åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å¯†æŠ€
+enginegod = æ— æ•Œ
+enginekey = å¾—åˆ°æ‰€æœ‰ç ´å…³ç”¨çš„é’¥åŒ™
+enginebook = å¾—åˆ°æ‰€æœ‰é­”æ³•
 

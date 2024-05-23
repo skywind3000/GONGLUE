@@ -1,3 +1,3 @@
-¡¶planescape torment¡·ÃØ¼¼
+ã€Šplanescape tormentã€‹ç§˜æŠ€
 
-ÔÚworld map ÀïÓÒÉÏ·½lower wardÀïµÄDead Nations ×óÏÂ·½µÄstale marys chambersÀïÕÒstale mary¶Ô»°£¬ËùÓĞÄÚÈİ¾ùÎª1. ¼´Answer1:"I had some questions." Answer2:"Mary,I need to speak with the silent king.can you help me." Answer3:"I need to leave this place."È»ºó¾Ígained exp 3750,µÃµ½expºó£¬»áleave£¬ È¥×óÉÏ±ßµÄ¶´´«ËÍµ½silent king´¦¡£ÎÊÌâ¾ÍÔÚÕâÀï£¬µÃµ½expºó²»Òªleave,ÕÒstale maryÖØ¸´ÉÏÃæµÄÈı¸öÎÊÌâ£¬¾ÍÓÖÒ»´Îgained exp 3750.ÔÚÕâÀï¿Égained expÎŞÏŞ.ÎÒÔÚÕâÀï¿ÉÊÇ°ÑÖ÷½ÇµÄÊôĞÔÈ«²¿¼Óµ½ÁËÉÏÏŞà¸.(win98+dx7.0ÏÂ²âÊÔ£¬¾øÎŞÎÊÌâ).
+åœ¨world map é‡Œå³ä¸Šæ–¹lower wardé‡Œçš„Dead Nations å·¦ä¸‹æ–¹çš„stale marys chambersé‡Œæ‰¾stale maryå¯¹è¯ï¼Œæ‰€æœ‰å†…å®¹å‡ä¸º1. å³Answer1:"I had some questions." Answer2:"Mary,I need to speak with the silent king.can you help me." Answer3:"I need to leave this place."ç„¶åå°±gained exp 3750,å¾—åˆ°expåï¼Œä¼šleaveï¼Œ å»å·¦ä¸Šè¾¹çš„æ´ä¼ é€åˆ°silent kingå¤„ã€‚é—®é¢˜å°±åœ¨è¿™é‡Œï¼Œå¾—åˆ°expåä¸è¦leave,æ‰¾stale maryé‡å¤ä¸Šé¢çš„ä¸‰ä¸ªé—®é¢˜ï¼Œå°±åˆä¸€æ¬¡gained exp 3750.åœ¨è¿™é‡Œå¯gained expæ— é™.æˆ‘åœ¨è¿™é‡Œå¯æ˜¯æŠŠä¸»è§’çš„å±æ€§å…¨éƒ¨åŠ åˆ°äº†ä¸Šé™å–”.(win98+dx7.0ä¸‹æµ‹è¯•ï¼Œç»æ— é—®é¢˜).

@@ -1,10 +1,10 @@
 Age of Rifles
 
-´øÒÔÏÂ²ÎÊýÆô¶¯ÓÎÏ·£º
-DEBUG£ºµ÷ÊÔÄ£Ê½
-QUICK£ºÃ»ÓÐÊ±¼äÑÓ³Ù
-REACTIONS-£º¶ÔÃüÁî·´Ó³±äÂý
-REACTIONS+£º¶ÔÃüÁî·´Ó³±ä¿ì
-REPORTS-£ºÈ·¶¨×´Ì¬±¨¸æ
-QUIET£ºÃ»ÓÐÉùÒô 
+å¸¦ä»¥ä¸‹å‚æ•°å¯åŠ¨æ¸¸æˆï¼š
+DEBUGï¼šè°ƒè¯•æ¨¡å¼
+QUICKï¼šæ²¡æœ‰æ—¶é—´å»¶è¿Ÿ
+REACTIONS-ï¼šå¯¹å‘½ä»¤åæ˜ å˜æ…¢
+REACTIONS+ï¼šå¯¹å‘½ä»¤åæ˜ å˜å¿«
+REPORTS-ï¼šç¡®å®šçŠ¶æ€æŠ¥å‘Š
+QUIETï¼šæ²¡æœ‰å£°éŸ³ 
 

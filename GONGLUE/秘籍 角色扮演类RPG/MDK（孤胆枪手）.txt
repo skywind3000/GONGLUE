@@ -1,15 +1,15 @@
-MDK£¨¹Âµ¨Ç¹ÊÖ£©
+MDKï¼ˆå­¤èƒ†æžªæ‰‹ï¼‰
 
-°´F1¼ü½øÈë°ïÖúÆÁÄ»£¬È»ºóÊäÈëÏÂÁÐ×Ö´®£¨×¢ÒâÕâÐ©¼üÊÇÏµÍ³Ä¬ÈÏ×´Ì¬ÏÂµÄ£©£º
+æŒ‰F1é”®è¿›å…¥å¸®åŠ©å±å¹•ï¼Œç„¶åŽè¾“å…¥ä¸‹åˆ—å­—ä¸²ï¼ˆæ³¨æ„è¿™äº›é”®æ˜¯ç³»ç»Ÿé»˜è®¤çŠ¶æ€ä¸‹çš„ï¼‰ï¼š
 
-ineedabiggun£º³¬¼¶¹öÍ²»úÇ¹Éý¼¶£»
-holokurtisfun£ºDummyÉý¼¶£»
-nastyshotthanks£ºµÃµ½¾Ñ»÷ÊÖÀ×£»
-tornadoaway£ºTwisterÉý¼¶£»
-iliketolob£ºMortarÉý¼¶£»
-kill£º×ÔÉ±£»
-486ok£ºÔÊÐíÔÚ486ÉÏ¿ªÆô±¼ÅÜÄ£Ê½¡£
+ineedabiggunï¼šè¶…çº§æ»šç­’æœºæžªå‡çº§ï¼›
+holokurtisfunï¼šDummyå‡çº§ï¼›
+nastyshotthanksï¼šå¾—åˆ°ç‹™å‡»æ‰‹é›·ï¼›
+tornadoawayï¼šTwisterå‡çº§ï¼›
+iliketolobï¼šMortarå‡çº§ï¼›
+killï¼šè‡ªæ€ï¼›
+486okï¼šå…è®¸åœ¨486ä¸Šå¼€å¯å¥”è·‘æ¨¡å¼ã€‚
 
-×¢£ºÉÏÊöÃØ¼¼Ö»¶ÔÐÞÕý°æÓÐÐ§¡£ 
+æ³¨ï¼šä¸Šè¿°ç§˜æŠ€åªå¯¹ä¿®æ­£ç‰ˆæœ‰æ•ˆã€‚ 
 
 

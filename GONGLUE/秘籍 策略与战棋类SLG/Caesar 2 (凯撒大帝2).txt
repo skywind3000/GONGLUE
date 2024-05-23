@@ -1,8 +1,8 @@
-Caesar 2 (¿­Èö´óµÛ2)
+Caesar 2 (å‡¯æ’’å¤§å¸2)
 
-ÊäÈë"tarmac"´ò¿ª×÷±×Ä£Ê½,È»ºó°´ÒÔÏÂ¼ü
-arloeisenberg : ÉúÃüÖµ¼ÓÂú
-barriersbhardin : ÎŞµĞ
-chrisedwards : ËùÓĞÎäÆ÷
+è¾“å…¥"tarmac"æ‰“å¼€ä½œå¼Šæ¨¡å¼,ç„¶åæŒ‰ä»¥ä¸‹é”®
+arloeisenberg : ç”Ÿå‘½å€¼åŠ æ»¡
+barriersbhardin : æ— æ•Œ
+chrisedwards : æ‰€æœ‰æ­¦å™¨
 
 

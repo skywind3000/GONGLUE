@@ -1,17 +1,17 @@
-Wing Commander V�����ӷɽ�V��
+Wing Commander V（银河飞将V）
 
-1.ʹ��16���Ʊ༭��,��prophecy.exe,Ȼ���޸����µ�ַ
-422b7��16��������48��Ϊ90
-65777��16��������49��Ϊ90
-659c9��16��������48��Ϊ90
-���ʹ��õ����޵ļ�ũ�ڵ�ҩ�ȶ���
-2.Dynomite - ����ģʽ����,�Ժ�ɰ�
-ctrl+c - ��ײȡ��
-ctrl+i - �޵��л�
-ctrl+F12 - ����������Ŀ��
-3.goodtarget - �ı���׼��ʽ
-moretunes - ���ߵ�ģʽ
-4.��ģ����ѡ�������ս��ʱ����"alswantsmoreships",��Ļ����ʾ"Enjoy!...",�Ժ�Z������ѡ������ս��.
+1.使用16进制编辑器,打开prophecy.exe,然后修改以下地址
+422b7把16进制数字48改为90
+65777把16进制数字49改为90
+659c9把16进制数字48改为90
+这会使你得到无限的加农炮弹药等东西
+2.Dynomite - 作弊模式开启,以后可按
+ctrl+c - 碰撞取消
+ctrl+i - 无敌切换
+ctrl+F12 - 消灭被锁定的目标
+3.goodtarget - 改变瞄准方式
+moretunes - 无线电模式
+4.在模拟中选择任务和战机时输入"alswantsmoreships",屏幕会显示"Enjoy!...",以后按Z键可以选择两组战机.
 
 
 

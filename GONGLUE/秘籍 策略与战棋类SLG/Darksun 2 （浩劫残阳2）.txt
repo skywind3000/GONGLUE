@@ -1,10 +1,10 @@
-Darksun 2 £¨ºÆ½Ù²ÐÑô2£©
+Darksun 2 ï¼ˆæµ©åŠ«æ®‹é˜³2ï¼‰
 
-ÒÔDSUN -K911dÃüÁî½øÈëÓÎÏ·£¬¼´¿ÉÊäÈëÏÂÁÐÃØ¼¼£º¡¡
-T Éý¼¶¡¡
-M »Ö¸´Ä§·¨µãÊý¡¡
-ALT+F2 ÌáÉý³ÉÔ±ÊôÐÔ¡¡
-ALT+F4 µÃµ½ËùÓÐÄ§·¨¡¡ 
-Darklight Conflict°µÈÕ
-ÔÚÓÎÏ·ÖÐ£¬°´×¡TAB¼üÔÙ°´PAGE-UP¼ü£¬È»ºóÔÙ°´ÏÂP£¬¿ÉÒÔ²»ËÀ¡£
+ä»¥DSUN -K911då‘½ä»¤è¿›å…¥æ¸¸æˆï¼Œå³å¯è¾“å…¥ä¸‹åˆ—ç§˜æŠ€ï¼šã€€
+T å‡çº§ã€€
+M æ¢å¤é­”æ³•ç‚¹æ•°ã€€
+ALT+F2 æå‡æˆå‘˜å±žæ€§ã€€
+ALT+F4 å¾—åˆ°æ‰€æœ‰é­”æ³•ã€€ 
+Darklight Conflictæš—æ—¥
+åœ¨æ¸¸æˆä¸­ï¼ŒæŒ‰ä½TABé”®å†æŒ‰PAGE-UPé”®ï¼Œç„¶åŽå†æŒ‰ä¸‹Pï¼Œå¯ä»¥ä¸æ­»ã€‚
 

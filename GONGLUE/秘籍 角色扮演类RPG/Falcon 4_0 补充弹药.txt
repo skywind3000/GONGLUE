@@ -1,3 +1,3 @@
-Falcon 4_0 ���䵯ҩ
+Falcon 4_0 补充弹药
 
-�ڷ���ʱ���롰revenge�����ɲ��䵯ҩ
+在飞行时输入“revenge”即可补充弹药

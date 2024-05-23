@@ -1,27 +1,27 @@
 DragonFire_ The Well of Souls
 
 /clan69 = Clan 69
-/restorelife = »Ö¸´ÉúÃü
-/godmode = ÎŞµĞ ¿ª/¹Ø
-/invisible = ÒşĞÎ ¿ª/¹Ø
-/changelevel = Ñ¡¹Ø
+/restorelife = æ¢å¤ç”Ÿå‘½
+/godmode = æ— æ•Œ å¼€/å…³
+/invisible = éšå½¢ å¼€/å…³
+/changelevel = é€‰å…³
 
-ÒÔÏÂÃØ¼¼Î´±»Ö¤Êµ
-/repeat = ÖØ¸´
-/suicide = ×ÔÉ±
-/misirlou = ×ÔÉ±
-/barre = ×ÔÉ±
-/gilhooley = ×ÔÉ±
-/streamer = »Ö¸´ÉúÃü
-/lensman = »Ö¸´ÉúÃü
-/jenna = ÎŞµĞ ¿ª/¹Ø
-/mitts = ÎŞµĞ ¿ª/¹Ø
-/manson = ÎŞµĞ ¿ª/¹Ø
-/link = ÒşĞÎ ¿ª/¹Ø
-/oxygene = ÒşĞÎ ¿ª/¹Ø
-/funkk = ÒşĞÎ ¿ª/¹Ø
-/info = ĞÅÏ¢ ¿ª/¹Ø
-/grid = Íø¸ñ ¿ª/¹Ø
+ä»¥ä¸‹ç§˜æŠ€æœªè¢«è¯å®
+/repeat = é‡å¤
+/suicide = è‡ªæ€
+/misirlou = è‡ªæ€
+/barre = è‡ªæ€
+/gilhooley = è‡ªæ€
+/streamer = æ¢å¤ç”Ÿå‘½
+/lensman = æ¢å¤ç”Ÿå‘½
+/jenna = æ— æ•Œ å¼€/å…³
+/mitts = æ— æ•Œ å¼€/å…³
+/manson = æ— æ•Œ å¼€/å…³
+/link = éšå½¢ å¼€/å…³
+/oxygene = éšå½¢ å¼€/å…³
+/funkk = éšå½¢ å¼€/å…³
+/info = ä¿¡æ¯ å¼€/å…³
+/grid = ç½‘æ ¼ å¼€/å…³
 /gold 
 /tile
 /spawn

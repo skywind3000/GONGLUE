@@ -2,14 +2,14 @@ Alien Crossfire
 
 Hex Cheats
 
-The energy reserve {money} locations for the various factions are located as listed, when using the Huge Map option and Symantec¡¯ or Norton¡¯s Diskedit software:
+The energy reserve {money} locations for the various factions are located as listed, when using the Huge Map option and Symantecâ€™ or Nortonâ€™s Diskedit software:
 
 Akizeta Faction at offset 10,672
 Svensgaard Faction at offset 19,068
 Doma Faction at offset 27,464
 Roze Faction at offset 35,860
 Cha Fawn faction at offset 44,256
-H¡¯minee faction at offset 52,652
+Hâ€™minee faction at offset 52,652
 Mann Faction at offset 61,048
 
 Changing energy reserve to {for example}:
@@ -24,19 +24,19 @@ Energy Credits
 Using the Norton Utilities {r, tm Symantec} DiskEdit Hex Editor, one can
 change the energy credit {money} at the following offset for the Huge Map:
 Alpha Centauri factions:
-Deidre¡¯s Gaien¡¯s:  Offset 9736
-Yang¡¯s Hive: offset: 18116
-Zakharov¡¯s University: offset 26496
-Morgan¡¯s Industry: Offset 34876
-Santiago¡¯s Spartans: Offset 43256
-Miriam¡¯s New Believers: Offset 51636
-Lal¡¯s UN: offset: 60016
+Deidreâ€™s Gaienâ€™s:  Offset 9736
+Yangâ€™s Hive: offset: 18116
+Zakharovâ€™s University: offset 26496
+Morganâ€™s Industry: Offset 34876
+Santiagoâ€™s Spartans: Offset 43256
+Miriamâ€™s New Believers: Offset 51636
+Lalâ€™s UN: offset: 60016
 
 for Alien Crossfire Factions {still huge map}:
-Akizeta¡¯s Cybernetic Consciousness: 10672
-Svensgaard¡¯s Nautilus Pirates: 19068
-Doma¡¯s Free Drones: 27464
-Roze¡¯s Data Angels: 35860
-Cha Dawn¡¯s Cult of the Planet: 44256
-H¡¯minee¡¯s Manifold Caretakers: 52652
-Marr¡¯s Manifold Usurpers: 61048
+Akizetaâ€™s Cybernetic Consciousness: 10672
+Svensgaardâ€™s Nautilus Pirates: 19068
+Domaâ€™s Free Drones: 27464
+Rozeâ€™s Data Angels: 35860
+Cha Dawnâ€™s Cult of the Planet: 44256
+Hâ€™mineeâ€™s Manifold Caretakers: 52652
+Marrâ€™s Manifold Usurpers: 61048

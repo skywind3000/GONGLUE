@@ -1,7 +1,7 @@
-Planescape_ TormentС����
+Planescape_ Torment小技巧
 
-�༭���Torment.ini�ļ����ҵ�[Movies]�Σ��ڸö���
-������༭�����ɿ���ȫ����Ӱ��
+编辑你的Torment.ini文件，找到[Movies]段，在该段内
+按下面编辑，即可看见全部电影：
 [Movies]
 BISLOGO=1
 TSRLOGO=1

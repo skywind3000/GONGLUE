@@ -1,23 +1,23 @@
-Railroad Tycoon II£¨ÌúÂ·´óºà II£©
+Railroad Tycoon IIï¼ˆé“è·¯å¤§äº¨ IIï¼‰
 
-°´ÏÂTAB¼ü£¬ÔÚ¶Ô»°¿òÖĞÊäÈë£º 
+æŒ‰ä¸‹TABé”®ï¼Œåœ¨å¯¹è¯æ¡†ä¸­è¾“å…¥ï¼š 
 
-BigfootGold»òBigfoot£ºÓ®µÃgoldÊ½µÄÊ¤Àû
-BigfootSilver£ºÓ®µÃsilverÊ½µÄÊ¤Àû
-BigfootBronze£ºÓ®µÃbronzeÊ½µÄÊ¤Àû
-BoBo£ºÈÏÊä
-King of the hill£º¸ø100000Ôª
-Cattle futures£º£¿£¿£¿
-Powerball£º¸øÒ»¸ö¹«Ë¾1ÒÚÔª
-Slush fund£º¸øÒ»¸ö100ÍòÔª
-Let me in£ºÔÊĞíÔÚ±ğÈËÌúÂ·ÉÏÍ¨ĞĞ
-Speed Racer£º»ğ³µËÙ¶È¼Ó±¶
-AMD103£ºµÃµ½AMD103µÄÒıÇæ
-Casey Jones£ºÎ´Öª
-Show me the trains£ºµÃµ½ËùÓĞ»ú³µ
-Overtime£º£¿£¿£¿
-Viagra£ºÔö´ó³ÇÊĞ¹æÄ£
-Cattle Futures£º¸øÍæ¼Ò100ÍòÔª
-Overtime£º³µÕ¾³ö»õÁ¿¼Ó±¶
+BigfootGoldæˆ–Bigfootï¼šèµ¢å¾—goldå¼çš„èƒœåˆ©
+BigfootSilverï¼šèµ¢å¾—silverå¼çš„èƒœåˆ©
+BigfootBronzeï¼šèµ¢å¾—bronzeå¼çš„èƒœåˆ©
+BoBoï¼šè®¤è¾“
+King of the hillï¼šç»™100000å…ƒ
+Cattle futuresï¼šï¼Ÿï¼Ÿï¼Ÿ
+Powerballï¼šç»™ä¸€ä¸ªå…¬å¸1äº¿å…ƒ
+Slush fundï¼šç»™ä¸€ä¸ª100ä¸‡å…ƒ
+Let me inï¼šå…è®¸åœ¨åˆ«äººé“è·¯ä¸Šé€šè¡Œ
+Speed Racerï¼šç«è½¦é€Ÿåº¦åŠ å€
+AMD103ï¼šå¾—åˆ°AMD103çš„å¼•æ“
+Casey Jonesï¼šæœªçŸ¥
+Show me the trainsï¼šå¾—åˆ°æ‰€æœ‰æœºè½¦
+Overtimeï¼šï¼Ÿï¼Ÿï¼Ÿ
+Viagraï¼šå¢å¤§åŸå¸‚è§„æ¨¡
+Cattle Futuresï¼šç»™ç©å®¶100ä¸‡å…ƒ
+Overtimeï¼šè½¦ç«™å‡ºè´§é‡åŠ å€
 
 

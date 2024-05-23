@@ -1,8 +1,8 @@
 Star Trek_ Hidden Evil
 
-ÔÚÓÎÏ·ÖĞÊäÈëÒÔÏÂ´úÂë£º
-kirk£º²»ËÀ
-spock£ºÌø¹Ø
-bones£º°ÑHypospray¼Óµ½Inventory 
-scotty£ºµÃµ½È«²¿KeysºÍPasscard 
+åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+kirkï¼šä¸æ­»
+spockï¼šè·³å…³
+bonesï¼šæŠŠHyposprayåŠ åˆ°Inventory 
+scottyï¼šå¾—åˆ°å…¨éƒ¨Keyså’ŒPasscard 
 

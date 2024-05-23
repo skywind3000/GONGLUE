@@ -1,9 +1,9 @@
 Nadspace
 
-°´ÏÂ¡°~¡±¼¤»îÃØ¼¼£º
-GOD£ºÎÞµÐ¡£
-RESTORE£ºÈ«ÎäÆ÷ºÍÉúÃü²¹Âú¡£
-CLIP£º£¿
-KILL£º¸ÉµôËùÓÐµÐÈË¡£
-SCAN£ºÆÁÄ»Ë¢ÐÂ¡£
+æŒ‰ä¸‹â€œ~â€æ¿€æ´»ç§˜æŠ€ï¼š
+GODï¼šæ— æ•Œã€‚
+RESTOREï¼šå…¨æ­¦å™¨å’Œç”Ÿå‘½è¡¥æ»¡ã€‚
+CLIPï¼šï¼Ÿ
+KILLï¼šå¹²æŽ‰æ‰€æœ‰æ•Œäººã€‚
+SCANï¼šå±å¹•åˆ·æ–°ã€‚
 

@@ -1,9 +1,9 @@
 Age of Wonders
 
-Ê×ÏÈ£¬Ê¹ÓÃÃüÁîÐÐ²ÎÊý¡°beatrix¡±Æô¶¯ÓÎÏ·£¨Èç£º
-C:\Age of Wonders\aow.exe" beatrix£©£¬È»ºóÔÚÓÎÏ·
-ÖÐ°´×¡[CTRL] + [SHIFT] + C£¬ÊäÈëÒÔÏÂ´úÂë£º
-gold--1000½ð±Ò
-mana--1000Ä§·¨Ë®¾§
-fog--ÑÌÎí¿ª/¹Ø
-explore--×ª»»Exploration
+é¦–å…ˆï¼Œä½¿ç”¨å‘½ä»¤è¡Œå‚æ•°â€œbeatrixâ€å¯åŠ¨æ¸¸æˆï¼ˆå¦‚ï¼š
+C:\Age of Wonders\aow.exe" beatrixï¼‰ï¼Œç„¶åŽåœ¨æ¸¸æˆ
+ä¸­æŒ‰ä½[CTRL] + [SHIFT] + Cï¼Œè¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+gold--1000é‡‘å¸
+mana--1000é­”æ³•æ°´æ™¶
+fog--çƒŸé›¾å¼€/å…³
+explore--è½¬æ¢Exploration

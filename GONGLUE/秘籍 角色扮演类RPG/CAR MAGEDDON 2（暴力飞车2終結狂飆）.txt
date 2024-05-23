@@ -1,22 +1,22 @@
-CAR MAGEDDON 2£¨±©Á¦·É³µ2½K½Y¿ñïj£©
+CAR MAGEDDON 2ï¼ˆæš´åŠ›é£è½¦2çµ‚çµç‹‚é£†ï¼‰
 
-lemmingize =±¬Ğ¦ peds.
-stiffspasms =¼ÆÊ±¿ªÊ¼
-tilty =µ¯×ÓÌ¨Ä£Ê½
-wotatwatami =»ğÑæÅçÉäÆ÷
-smartbastard =Èü³Ì½áÊø
-tingting =ĞŞ»¤Ãâ·Ñ
-stopsnatch =Æô¶¯¼ÆÊ±Æ÷
-mooningminnie =ÔÂÇòÒıÁ¦
-clintonco =ÈÈ¸Ë
-fastbast =ÎĞÂÖÔöÑ¹ peds.
-watersport =Ç±Ë®Ä£Ê½
-mrmainwaring =ĞĞÈË¿Ö»Å
-bigdangle =±äÖÖÈËÄ£Ê½
-wetwet =¶îÍâ¼Ó·Ö
-stickytyres =¿ÉĞĞÊ»ÓÚÇ½±Ú
-GOODHEAD = ±¿Í· peds
-EVENINGOCCIFER =¾Æ×í¼İ³µÄ£Ê½
-TIMMYTITTY =¶îÍâÔö¼ÓÊ±¼ä
-ZAZAZ =ÍÀÉ±ĞĞÈË
-POWPOW =»÷°Ü¶ÔÊÖ
+lemmingize =çˆ†ç¬‘ peds.
+stiffspasms =è®¡æ—¶å¼€å§‹
+tilty =å¼¹å­å°æ¨¡å¼
+wotatwatami =ç«ç„°å–·å°„å™¨
+smartbastard =èµ›ç¨‹ç»“æŸ
+tingting =ä¿®æŠ¤å…è´¹
+stopsnatch =å¯åŠ¨è®¡æ—¶å™¨
+mooningminnie =æœˆçƒå¼•åŠ›
+clintonco =çƒ­æ†
+fastbast =æ¶¡è½®å¢å‹ peds.
+watersport =æ½œæ°´æ¨¡å¼
+mrmainwaring =è¡Œäººææ…Œ
+bigdangle =å˜ç§äººæ¨¡å¼
+wetwet =é¢å¤–åŠ åˆ†
+stickytyres =å¯è¡Œé©¶äºå¢™å£
+GOODHEAD = ç¬¨å¤´ peds
+EVENINGOCCIFER =é…’é†‰é©¾è½¦æ¨¡å¼
+TIMMYTITTY =é¢å¤–å¢åŠ æ—¶é—´
+ZAZAZ =å± æ€è¡Œäºº
+POWPOW =å‡»è´¥å¯¹æ‰‹

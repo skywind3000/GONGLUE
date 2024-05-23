@@ -1,79 +1,79 @@
-Darkstone(ºÚÊ¯)
+Darkstone(é»‘çŸ³)
 
-ºÚ°µÃÜÊ¯(darkstone)Õâ¸öÓÎÏ·Ïë±Ø´ó¼Ò¶¼ÒÑ¾­ÁË½â»òÒÑ¾­Ç×Éí¾­ÀúÕßÕýÉíÏÝÆäÖÐ¶ø²»ÄÜ×Ô°Î¡£ÓÎÏ··Ç³£ÈÝÒ×ÉÏÊÖ£¬ÌØ±ðÊÇ¶Ô°µºÚÃÔÀ´Ëµ¡£²»¹Ü±ðÈËÈçºÎÆÀ¼ÛËüµÄ´´Òâ£¬±¾ÈË×ÔÈÏËüÊÇÒ»¸ö¾«Æ·£¬Í¬°µºÚÒ»Ñù£¬Äã²»ÐèÒª»¨Ì«¶àµÄ¾«Á¦È¥×¢ÒâËüµÄEÎÄ£¬Ö»ÒªÏë×ÅÈçºÎË¬¿ìµØÉ±µÐÃ°ÏÕ¾ÍÐÐÀ²¡£ 
+é»‘æš—å¯†çŸ³(darkstone)è¿™ä¸ªæ¸¸æˆæƒ³å¿…å¤§å®¶éƒ½å·²ç»äº†è§£æˆ–å·²ç»äº²èº«ç»åŽ†è€…æ­£èº«é™·å…¶ä¸­è€Œä¸èƒ½è‡ªæ‹”ã€‚æ¸¸æˆéžå¸¸å®¹æ˜“ä¸Šæ‰‹ï¼Œç‰¹åˆ«æ˜¯å¯¹æš—é»‘è¿·æ¥è¯´ã€‚ä¸ç®¡åˆ«äººå¦‚ä½•è¯„ä»·å®ƒçš„åˆ›æ„ï¼Œæœ¬äººè‡ªè®¤å®ƒæ˜¯ä¸€ä¸ªç²¾å“ï¼ŒåŒæš—é»‘ä¸€æ ·ï¼Œä½ ä¸éœ€è¦èŠ±å¤ªå¤šçš„ç²¾åŠ›åŽ»æ³¨æ„å®ƒçš„Eæ–‡ï¼Œåªè¦æƒ³ç€å¦‚ä½•çˆ½å¿«åœ°æ€æ•Œå†’é™©å°±è¡Œå•¦ã€‚ 
 
-¡¡¡¡ÏÖ½«Ò»Ð©ÐÞ¸ÄÐÄµÃ·îÏ×¸ø´ó¼Ò£¬·Ç³£¼òµ¥µÄÐÞ¸Ä¾Í¿ÉÎªÄã´´ÔìÒ»¸ö³¬¼¶Õ½Ê¿£º 
+ã€€ã€€çŽ°å°†ä¸€äº›ä¿®æ”¹å¿ƒå¾—å¥‰çŒ®ç»™å¤§å®¶ï¼Œéžå¸¸ç®€å•çš„ä¿®æ”¹å°±å¯ä¸ºä½ åˆ›é€ ä¸€ä¸ªè¶…çº§æˆ˜å£«ï¼š 
 
-¡¡¡¡ÓÎÏ·ÐÞ¸Ä´ÓÓÎÏ·Ò»¿ªÊ¼¾ÍÐÐ£¬×î¼òµ¥µÄ¾ÍÊÇ´ÓÖ÷½ÇÉíÉÏµÄ½ðÇ®ÏÂÊÖ¡£Ê×ÏÈÕÒ³ö½ðÇ®×ÜÊýµÄµØÖ·£¬´Ó´ËµØÖ·¿ªÊ¼ÏòÇ°4×Ö½ÚÎªEXPµÄÏÂÏÞ£¬ÔÙÏòÇ°4×Ö½ÚÎªÉý¼¶Ëù¸øµÄµãÊý£¬ÏòÇ°4×Ö½ÚÎªEXPÖµ£¬ÔÙ´ÎÏòÇ°Ã¿Á½×Ö½Ú·Ö±ðÎªLevel(µÈ¼¶)£¬Poison Resist(·À¶¾)£¬Fire Resiet(·À»ð)£¬Magic Resis(·ÀÄ§·¨)£»ÔÙÏòÇ°µÄÃ¿ËÄByte·Ö±ðÎªDamageÏÂÏÞ¡¢To Hit¡¢AC£»ÒÔÏÂ¾Í¼òµ¥ÁË£¬ÄËÈËÎïµÄ¼¸Ïî»ù±¾ÊôÐÔ£¬×îÉÏÁ½×Ö½ÚÎªÖ°Òµ´úÂë£»01----ÑÇÂíÑ·Õ½Ê¿(AMAZON)£»02----Î×Ê¦(WIZARD)£»03----Å®Î×(SORCERESS)£»04----É±ÊÖ(ASSASIN)£»05-----Ð¡Íµ(THIEF)£»06----É®ÂÂ(MONK)£»07----Å®¼ÀË¾(PRIESTESS)£»08----Õ½Ê¿(WARRIOR)£»ÖÁÓÚ09ÒÔÉÏ£¬Ö»ÓÐÒ»ÖÖÍ·Ïñ¡£ 
+ã€€ã€€æ¸¸æˆä¿®æ”¹ä»Žæ¸¸æˆä¸€å¼€å§‹å°±è¡Œï¼Œæœ€ç®€å•çš„å°±æ˜¯ä»Žä¸»è§’èº«ä¸Šçš„é‡‘é’±ä¸‹æ‰‹ã€‚é¦–å…ˆæ‰¾å‡ºé‡‘é’±æ€»æ•°çš„åœ°å€ï¼Œä»Žæ­¤åœ°å€å¼€å§‹å‘å‰4å­—èŠ‚ä¸ºEXPçš„ä¸‹é™ï¼Œå†å‘å‰4å­—èŠ‚ä¸ºå‡çº§æ‰€ç»™çš„ç‚¹æ•°ï¼Œå‘å‰4å­—èŠ‚ä¸ºEXPå€¼ï¼Œå†æ¬¡å‘å‰æ¯ä¸¤å­—èŠ‚åˆ†åˆ«ä¸ºLevel(ç­‰çº§)ï¼ŒPoison Resist(é˜²æ¯’)ï¼ŒFire Resiet(é˜²ç«)ï¼ŒMagic Resis(é˜²é­”æ³•)ï¼›å†å‘å‰çš„æ¯å››Byteåˆ†åˆ«ä¸ºDamageä¸‹é™ã€To Hitã€ACï¼›ä»¥ä¸‹å°±ç®€å•äº†ï¼Œä¹ƒäººç‰©çš„å‡ é¡¹åŸºæœ¬å±žæ€§ï¼Œæœ€ä¸Šä¸¤å­—èŠ‚ä¸ºèŒä¸šä»£ç ï¼›01----äºšé©¬é€Šæˆ˜å£«(AMAZON)ï¼›02----å·«å¸ˆ(WIZARD)ï¼›03----å¥³å·«(SORCERESS)ï¼›04----æ€æ‰‹(ASSASIN)ï¼›05-----å°å·(THIEF)ï¼›06----åƒ§ä¾£(MONK)ï¼›07----å¥³ç¥­å¸(PRIESTESS)ï¼›08----æˆ˜å£«(WARRIOR)ï¼›è‡³äºŽ09ä»¥ä¸Šï¼Œåªæœ‰ä¸€ç§å¤´åƒã€‚ 
 
-¡¡¡¡Ê³ÎïºÍÄêÁä£ºÒòÎªÄêÁäºÍÊ³ÎïÔÚÓÎÏ·ÖÐÊÇËæÊ±¼ä¶ø±ä»¯£¬ËùÒÔÎÒÃÇ´ÓÄÚ±à¼­ÖÐ¿ÉÒÔ¿´µ½£ºÔÚ½ðÇ®µØÖ·Ïòºó¿Õ8¸ö×Ö½Ú£¬½ÓÏÂÀ´µÄ8¸ö×Ö½Ú¾ÍÊÇÄêÁäµÄµØÖ·£¬½«Ö®Ò»·ÖÎª¶þ£¬Ç°ËÄ¸ö×Ö½ÚºÍºóËÄ¸ö×Ö½ÚµÄÊýÒ»Ö±ÔÚÔö³¤£¬µ«ÖµÒ»Ñù£¬Ïë´óÏëÐ¡ËæÄãÁË£»½ô½ÓÊÇVICTORIESÖµ£»Ê³ÎïµÄËÄ¸ö×Ö½Ú½ÏÔ¶£¬Óë½ðÇ®Ö·Ïà¿Õ6ÐÐ¼È96¸ö×Ö½Ú¡£ 
+ã€€ã€€é£Ÿç‰©å’Œå¹´é¾„ï¼šå› ä¸ºå¹´é¾„å’Œé£Ÿç‰©åœ¨æ¸¸æˆä¸­æ˜¯éšæ—¶é—´è€Œå˜åŒ–ï¼Œæ‰€ä»¥æˆ‘ä»¬ä»Žå†…ç¼–è¾‘ä¸­å¯ä»¥çœ‹åˆ°ï¼šåœ¨é‡‘é’±åœ°å€å‘åŽç©º8ä¸ªå­—èŠ‚ï¼ŒæŽ¥ä¸‹æ¥çš„8ä¸ªå­—èŠ‚å°±æ˜¯å¹´é¾„çš„åœ°å€ï¼Œå°†ä¹‹ä¸€åˆ†ä¸ºäºŒï¼Œå‰å››ä¸ªå­—èŠ‚å’ŒåŽå››ä¸ªå­—èŠ‚çš„æ•°ä¸€ç›´åœ¨å¢žé•¿ï¼Œä½†å€¼ä¸€æ ·ï¼Œæƒ³å¤§æƒ³å°éšä½ äº†ï¼›ç´§æŽ¥æ˜¯VICTORIESå€¼ï¼›é£Ÿç‰©çš„å››ä¸ªå­—èŠ‚è¾ƒè¿œï¼Œä¸Žé‡‘é’±å€ç›¸ç©º6è¡Œæ—¢96ä¸ªå­—èŠ‚ã€‚ 
 
-¡¡¡¡ÎÒÃÇÈÔ´Ó½ðÇ®µØÖ·¿ªÊ¼£¬ÏòÏÂÊý¾ÅÐÐ£¬ÈýÊ®¶þÖÖÄ§·¨Ã¿ÖÖÄ§·¨Õ¼Ò»ÐÐ¼´Ê®Áù¸ö×Ö½Ú£¬µ«Äã²»ÓÃ¿¼ÂÇÄÇÃ´¶à£¬Ã¿ÐÐµÄÇ°ËÄ¸ö×Ö½Ú¾ÍÊÇ´ËÄ§·¨µÄµÈ¼¶£¬¸ÄÖ®£¬8¼¶¾ÍÊÇMAX¼¶£¬µ«¿ÉÒÔ¸ü¸ß£¬²»¹ýÈ°Äã²»ÒªÌ«Ì°ÐÄ£¬·ñÔòÄãÖ»ÄÜ¿´×ÅµÉÑÛ¶ø²»ÄÜÓÃÅ¶£¡ 
+ã€€ã€€æˆ‘ä»¬ä»ä»Žé‡‘é’±åœ°å€å¼€å§‹ï¼Œå‘ä¸‹æ•°ä¹è¡Œï¼Œä¸‰åäºŒç§é­”æ³•æ¯ç§é­”æ³•å ä¸€è¡Œå³åå…­ä¸ªå­—èŠ‚ï¼Œä½†ä½ ä¸ç”¨è€ƒè™‘é‚£ä¹ˆå¤šï¼Œæ¯è¡Œçš„å‰å››ä¸ªå­—èŠ‚å°±æ˜¯æ­¤é­”æ³•çš„ç­‰çº§ï¼Œæ”¹ä¹‹ï¼Œ8çº§å°±æ˜¯MAXçº§ï¼Œä½†å¯ä»¥æ›´é«˜ï¼Œä¸è¿‡åŠä½ ä¸è¦å¤ªè´ªå¿ƒï¼Œå¦åˆ™ä½ åªèƒ½çœ‹ç€çžªçœ¼è€Œä¸èƒ½ç”¨å“¦ï¼ 
 
-¡¡¡¡Ò»ÇÐ¶¼ÔÚÓÚÕÒµ½Êó±êµÄµØÖ·£¬ÓÃÊó±êµãÆðÒ»¶ÑÇ®£¬É¨Ãè£¬¸Ä±äÇ®µÄ´óÐ¡ÔÙÉ¨Ãè£¬ÕÒµ½Êó±êµØÖ·ºó·ÅÏÂÇ®£¬µãÆðÄãÒªÐÞ¸ÄµÄ×°±¸±ð·ÅÏÂ£¬¾Í¿ÉÒÔ¿ªÊ¼ÄÚ´æ±à¼­ÁË£¬Îª·½±ãÎÒÁÐÁËÒ»ÕÅ±í£º 
-¡¡¡¡*1¡¢*2£ºADDS 1----2 DAMAGE POINTS 
-¡¡¡¡#1¡¢#2¡¢#3£º 
-¡¡¡¡(#1¡¢#2Îª¸½´øµÄÌØÊâÊôÐÔ£¬#3Îª¸½´øµÄÄ§·¨»ò¼¼ÄÜ)¡£ 
-¡¡¡¡#1£º01----POISON(¶¾)£» 
-¡¡¡¡02----FIRE ELEMENT(»ðÔªËØ)£» 
-¡¡¡¡03----VAMPIRE£ºSTEALS 20% LIFE POINTS(ÎüÑª£ºÎüÈ¡20%µÄÉúÃüµãÊý)£» 
-¡¡¡¡04----MAGIC MISSILES(Ä§·¨¼ý)£» 
-¡¡¡¡05----STORM(·ç±©)£» 
-¡¡¡¡06----STONE CURSE (Ê¯Öä)£» 
-¡¡¡¡07----TOUCH OF CONFUSION(´íÂÒ)¡£ 
-¡¡¡¡#2£º´Ë´¦ÆäÊµÖ»ÓÐËÄÖÖ£ºPUSH TARGET BACK(ÆÈÊ¹Ä¿±êºóÍË)£»FAST ATTACK(¼ÓËÙ¹¥»÷)£»QUICKRECOVERY(¿ìËÙ»Ø¸´)£»RDCOVERY TIME IMPROUER(»Ø¸´Ê±¼ä¸ÄÉÆ)¡£ 
-¡¡¡¡#3£º01----CONFUSION(»ìÂÒÊõ)£» 
-¡¡¡¡02----HEALING(Ò½ÁÆÊõ)£» 
-¡¡¡¡03----FEAR(¿Ö¾åÊõ)£» 
-¡¡¡¡04----THUNDER(À×»÷Êõ)£» 
-¡¡¡¡05----SLOWNESS(³Ù»ºÊõ)£» 
-¡¡¡¡06----WALL OF FIRD(»ðÇ½Êõ)£» 
-¡¡¡¡07----MUTATION(±äÒìÊõ)£» 
-¡¡¡¡08----STONE(Ê¯»¯Êõ)£» 
-¡¡¡¡09----NIGHT VISION(Ò¹ÊÓÊõ)£» 
-¡¡¡¡0A----HASTE(¼ÓËÙÊõ)£» 
-¡¡¡¡0B----MAGIC MISSILE(Ä§·¨¼ý)£» 
-¡¡¡¡0C----FIRE BALL(»îÇòÊõ)£» 
-¡¡¡¡0----ABSORPTION(ÎüÑªÊõ)£» 
-¡¡¡¡0----ANTIDOTE(½â¶¾Êõ)£» 
-¡¡¡¡0----FLAME THROWER(»îÑ×Êõ)£» 
-¡¡¡¡10----STORM(·ç±©Êõ)£» 
-¡¡¡¡11----INRISIBILITY(ÒþÐÎÊõ)£» 
-¡¡¡¡12----DEATH DOME(ËÀÍöÖ®¶¥)£» 
-¡¡¡¡13----INVOCATION(ÕÙ»½Êõ)£» 
-¡¡¡¡14----SPAK(µç¹â»ðÊ¯)£» 
-¡¡¡¡15----TELEPORTATION(Ë²¼äÒÆ¶¯)£» 
-¡¡¡¡16----DETECTION(Ì½²éÊõ)£» 
-¡¡¡¡17----FOOD(ÔìÎïÊõ)£» 
-¡¡¡¡18----BERSERKER(¿ñ±©Êõ)£» 
-¡¡¡¡19----FORGETFULNESS(½¡ÍüÊõ)£» 
-¡¡¡¡1----REFLECTIONS(·´ÉäÊõ)£» 
-¡¡¡¡1----MAGIC BOMB(Ä§·¨Õ¨µ°)£» 
-¡¡¡¡1----MAGIC DOOR(Ä§·¨ÃÅ)£» 
-¡¡¡¡1----POSION CLOUD(¶¾è®)£» 
-¡¡¡¡1----RESURRECTION(¸´»îÊõ)£» 
-¡¡¡¡1----TELEKINESIS(¸ô¿ÕÈ¡Îï)£» 
-¡¡¡¡20----LIGHT(¹âÃ÷Êõ)£» 
-¡¡¡¡21----IDENTIFIC ATION(¼ø¶¨Êõ)£» 
-¡¡¡¡22----TRODE(½»Ò×Êõ)£» 
-¡¡¡¡23----REPAIR(ÐÞ²¹Êõ)£» 
-¡¡¡¡24----PERCEPTION(¸ÐÖªÊõ)£» 
-¡¡¡¡25----DEFUSING(½â´¦ÏÝ¾®)£» 
-¡¡¡¡26----FORESTER(É­ÁÖÊõ)£» 
-¡¡¡¡27----LEARNING(Ñ§Ï°Êõ)£» 
-¡¡¡¡28----THEFT(µÁÇÔÊõ)£» 
-¡¡¡¡29----SILENCE(Ï÷ÉùÊõ)£» 
-¡¡¡¡2----MEDITATION(³ÁË¼Êõ)£» 
-¡¡¡¡2----CONCENTRATION(×¨ÐÄÊõ)£» 
-¡¡¡¡2----ORIENTATION(¶¨Î»Êõ)£» 
-¡¡¡¡2----MEDICINE(Ò½ÁÆÊõ)£» 
-¡¡¡¡2----CONCENTRATION(¶¨Î»Êõ)£» 
-¡¡¡¡2----MEDICINE(×°ÌîÊõ)£» 
-¡¡¡¡2----EXORCISM(ÇýÄ§Êõ)£» 
-¡¡¡¡30----PRAYER(Æíµ»Êõ)£» 
-¡¡¡¡31----DETECTION(Ì½ÖªÊõ)£» 
-¡¡¡¡32----MASTER OF ARMS(ÎäÆ÷´óÊ¦) 
-¡¡¡¡33----COMMUNION(×Ú½ÌÊõ)(ÂÌÉ«)£» 
-¡¡¡¡34----COMMUNION(×Ú½ÌÊõ)(À¶É«)£» 
-¡¡¡¡35----LANGUAGE(ÓïÑÔÊõ)£» 
-¡¡¡¡36----LYCANTHROPY(ÀÇÈËÊõ)£»
+ã€€ã€€ä¸€åˆ‡éƒ½åœ¨äºŽæ‰¾åˆ°é¼ æ ‡çš„åœ°å€ï¼Œç”¨é¼ æ ‡ç‚¹èµ·ä¸€å †é’±ï¼Œæ‰«æï¼Œæ”¹å˜é’±çš„å¤§å°å†æ‰«æï¼Œæ‰¾åˆ°é¼ æ ‡åœ°å€åŽæ”¾ä¸‹é’±ï¼Œç‚¹èµ·ä½ è¦ä¿®æ”¹çš„è£…å¤‡åˆ«æ”¾ä¸‹ï¼Œå°±å¯ä»¥å¼€å§‹å†…å­˜ç¼–è¾‘äº†ï¼Œä¸ºæ–¹ä¾¿æˆ‘åˆ—äº†ä¸€å¼ è¡¨ï¼š 
+ã€€ã€€*1ã€*2ï¼šADDS 1----2 DAMAGE POINTS 
+ã€€ã€€#1ã€#2ã€#3ï¼š 
+ã€€ã€€(#1ã€#2ä¸ºé™„å¸¦çš„ç‰¹æ®Šå±žæ€§ï¼Œ#3ä¸ºé™„å¸¦çš„é­”æ³•æˆ–æŠ€èƒ½)ã€‚ 
+ã€€ã€€#1ï¼š01----POISON(æ¯’)ï¼› 
+ã€€ã€€02----FIRE ELEMENT(ç«å…ƒç´ )ï¼› 
+ã€€ã€€03----VAMPIREï¼šSTEALS 20% LIFE POINTS(å¸è¡€ï¼šå¸å–20%çš„ç”Ÿå‘½ç‚¹æ•°)ï¼› 
+ã€€ã€€04----MAGIC MISSILES(é­”æ³•ç®­)ï¼› 
+ã€€ã€€05----STORM(é£Žæš´)ï¼› 
+ã€€ã€€06----STONE CURSE (çŸ³å’’)ï¼› 
+ã€€ã€€07----TOUCH OF CONFUSION(é”™ä¹±)ã€‚ 
+ã€€ã€€#2ï¼šæ­¤å¤„å…¶å®žåªæœ‰å››ç§ï¼šPUSH TARGET BACK(è¿«ä½¿ç›®æ ‡åŽé€€)ï¼›FAST ATTACK(åŠ é€Ÿæ”»å‡»)ï¼›QUICKRECOVERY(å¿«é€Ÿå›žå¤)ï¼›RDCOVERY TIME IMPROUER(å›žå¤æ—¶é—´æ”¹å–„)ã€‚ 
+ã€€ã€€#3ï¼š01----CONFUSION(æ··ä¹±æœ¯)ï¼› 
+ã€€ã€€02----HEALING(åŒ»ç–—æœ¯)ï¼› 
+ã€€ã€€03----FEAR(ææƒ§æœ¯)ï¼› 
+ã€€ã€€04----THUNDER(é›·å‡»æœ¯)ï¼› 
+ã€€ã€€05----SLOWNESS(è¿Ÿç¼“æœ¯)ï¼› 
+ã€€ã€€06----WALL OF FIRD(ç«å¢™æœ¯)ï¼› 
+ã€€ã€€07----MUTATION(å˜å¼‚æœ¯)ï¼› 
+ã€€ã€€08----STONE(çŸ³åŒ–æœ¯)ï¼› 
+ã€€ã€€09----NIGHT VISION(å¤œè§†æœ¯)ï¼› 
+ã€€ã€€0A----HASTE(åŠ é€Ÿæœ¯)ï¼› 
+ã€€ã€€0B----MAGIC MISSILE(é­”æ³•ç®­)ï¼› 
+ã€€ã€€0C----FIRE BALL(æ´»çƒæœ¯)ï¼› 
+ã€€ã€€0----ABSORPTION(å¸è¡€æœ¯)ï¼› 
+ã€€ã€€0----ANTIDOTE(è§£æ¯’æœ¯)ï¼› 
+ã€€ã€€0----FLAME THROWER(æ´»ç‚Žæœ¯)ï¼› 
+ã€€ã€€10----STORM(é£Žæš´æœ¯)ï¼› 
+ã€€ã€€11----INRISIBILITY(éšå½¢æœ¯)ï¼› 
+ã€€ã€€12----DEATH DOME(æ­»äº¡ä¹‹é¡¶)ï¼› 
+ã€€ã€€13----INVOCATION(å¬å”¤æœ¯)ï¼› 
+ã€€ã€€14----SPAK(ç”µå…‰ç«çŸ³)ï¼› 
+ã€€ã€€15----TELEPORTATION(çž¬é—´ç§»åŠ¨)ï¼› 
+ã€€ã€€16----DETECTION(æŽ¢æŸ¥æœ¯)ï¼› 
+ã€€ã€€17----FOOD(é€ ç‰©æœ¯)ï¼› 
+ã€€ã€€18----BERSERKER(ç‹‚æš´æœ¯)ï¼› 
+ã€€ã€€19----FORGETFULNESS(å¥å¿˜æœ¯)ï¼› 
+ã€€ã€€1----REFLECTIONS(åå°„æœ¯)ï¼› 
+ã€€ã€€1----MAGIC BOMB(é­”æ³•ç‚¸è›‹)ï¼› 
+ã€€ã€€1----MAGIC DOOR(é­”æ³•é—¨)ï¼› 
+ã€€ã€€1----POSION CLOUD(æ¯’ç’)ï¼› 
+ã€€ã€€1----RESURRECTION(å¤æ´»æœ¯)ï¼› 
+ã€€ã€€1----TELEKINESIS(éš”ç©ºå–ç‰©)ï¼› 
+ã€€ã€€20----LIGHT(å…‰æ˜Žæœ¯)ï¼› 
+ã€€ã€€21----IDENTIFIC ATION(é‰´å®šæœ¯)ï¼› 
+ã€€ã€€22----TRODE(äº¤æ˜“æœ¯)ï¼› 
+ã€€ã€€23----REPAIR(ä¿®è¡¥æœ¯)ï¼› 
+ã€€ã€€24----PERCEPTION(æ„ŸçŸ¥æœ¯)ï¼› 
+ã€€ã€€25----DEFUSING(è§£å¤„é™·äº•)ï¼› 
+ã€€ã€€26----FORESTER(æ£®æž—æœ¯)ï¼› 
+ã€€ã€€27----LEARNING(å­¦ä¹ æœ¯)ï¼› 
+ã€€ã€€28----THEFT(ç›—çªƒæœ¯)ï¼› 
+ã€€ã€€29----SILENCE(å‰Šå£°æœ¯)ï¼› 
+ã€€ã€€2----MEDITATION(æ²‰æ€æœ¯)ï¼› 
+ã€€ã€€2----CONCENTRATION(ä¸“å¿ƒæœ¯)ï¼› 
+ã€€ã€€2----ORIENTATION(å®šä½æœ¯)ï¼› 
+ã€€ã€€2----MEDICINE(åŒ»ç–—æœ¯)ï¼› 
+ã€€ã€€2----CONCENTRATION(å®šä½æœ¯)ï¼› 
+ã€€ã€€2----MEDICINE(è£…å¡«æœ¯)ï¼› 
+ã€€ã€€2----EXORCISM(é©±é­”æœ¯)ï¼› 
+ã€€ã€€30----PRAYER(ç¥ˆç¥·æœ¯)ï¼› 
+ã€€ã€€31----DETECTION(æŽ¢çŸ¥æœ¯)ï¼› 
+ã€€ã€€32----MASTER OF ARMS(æ­¦å™¨å¤§å¸ˆ) 
+ã€€ã€€33----COMMUNION(å®—æ•™æœ¯)(ç»¿è‰²)ï¼› 
+ã€€ã€€34----COMMUNION(å®—æ•™æœ¯)(è“è‰²)ï¼› 
+ã€€ã€€35----LANGUAGE(è¯­è¨€æœ¯)ï¼› 
+ã€€ã€€36----LYCANTHROPY(ç‹¼äººæœ¯)ï¼›

@@ -1,15 +1,15 @@
-Enemy Infestation£¨E_IÌØÕ½¶Ó£©
+Enemy Infestationï¼ˆE_Iç‰¹æˆ˜é˜Ÿï¼‰
 
-ÓÎÏ·ÖÐÖ±½ÓÊäÈëÏÂÁÐÃÜÂëááÔÙ°´Enter¼ü¡Ã
+æ¸¸æˆä¸­ç›´æŽ¥è¾“å…¥ä¸‹åˆ—å¯†ç å¾Œå†æŒ‰Enteré”®âˆ¶
 
-gsawin = Ìø¹Ø
-gsaheal = ÖÎÓúËùÓÐ¿ªÍØÕß
-gsaroof = ÒÆ³ýËùÓÐµÄ¼Ò
-gsaswap = ¿ØÖÆÒìÐÎ
-gsakill = É±ËÀÑ¡ÔñµÄÈËÎï
-gsastop = Í£Ö¹ÒìÐÎ¼°¿ªÍØÕß
-gsabog = ´´ÔìÎäÆ÷BOGÔÚ»¬ÊóÓÎ±ê´¦£¬ÊÕ¼¯Ëü¿ÉÒÔµÃµ½¶îÍâµÄ·ÀÓùºÍÄÜÁ¦À´Ëø×¡ÃÅ
-gsaknife = ´´ÔìÎäÆ÷KNIFEÔÚ»¬ÊóÓÎ±ê´¦£¬ÊÕ¼¯Ëü¿ÉÒÔÒþÐÎ
-gsacmdr = ´´ÔìÖ¸»Ó¹Ù´´ÔìÔÚ»¬ÊóÓÎ±ê´¦
-gsamedi = ´´ÔìÒ½ÁÆµÄ¾ü¹ÙÔÚ»¬ÊóÓÎ±ê´¦
-gsaboff = ´´Ôì¼¼ÊõÈËÔ±ÔÚ»¬ÊóÓÎ±ê´¦
+gsawin = è·³å…³
+gsaheal = æ²»æ„ˆæ‰€æœ‰å¼€æ‹“è€…
+gsaroof = ç§»é™¤æ‰€æœ‰çš„å®¶
+gsaswap = æŽ§åˆ¶å¼‚å½¢
+gsakill = æ€æ­»é€‰æ‹©çš„äººç‰©
+gsastop = åœæ­¢å¼‚å½¢åŠå¼€æ‹“è€…
+gsabog = åˆ›é€ æ­¦å™¨BOGåœ¨æ»‘é¼ æ¸¸æ ‡å¤„ï¼Œæ”¶é›†å®ƒå¯ä»¥å¾—åˆ°é¢å¤–çš„é˜²å¾¡å’Œèƒ½åŠ›æ¥é”ä½é—¨
+gsaknife = åˆ›é€ æ­¦å™¨KNIFEåœ¨æ»‘é¼ æ¸¸æ ‡å¤„ï¼Œæ”¶é›†å®ƒå¯ä»¥éšå½¢
+gsacmdr = åˆ›é€ æŒ‡æŒ¥å®˜åˆ›é€ åœ¨æ»‘é¼ æ¸¸æ ‡å¤„
+gsamedi = åˆ›é€ åŒ»ç–—çš„å†›å®˜åœ¨æ»‘é¼ æ¸¸æ ‡å¤„
+gsaboff = åˆ›é€ æŠ€æœ¯äººå‘˜åœ¨æ»‘é¼ æ¸¸æ ‡å¤„

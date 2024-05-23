@@ -1,14 +1,14 @@
-Outcast��ʱ��Ӣ����
+Outcast（时空英豪）
 
-��վ����ǰ, ���� F-LINK (������) 
-�������͹����� , 
-�ͱ����͵��ŵ���һ����
+近站在门前, 丢出 F-LINK (传送器) 
+启动传送功能後 , 
+就被传送到门的另一边了
 
 
-�޸���ϷĿ¼�� outcast.ini �Ľ�Ǯ������ֵ�趨 
+修改游戏目录下 outcast.ini 的金钱及生命值设定 
 
-MoneyChest=5.0000000 �ĳ� MoneyChest=5000000.0 
-Money=1.0000000 �ĳ� Money=1000000.0 
-Life=5.0000000 �ĳ� Life=5000000.0 
+MoneyChest=5.0000000 改成 MoneyChest=5000000.0 
+Money=1.0000000 改成 Money=1000000.0 
+Life=5.0000000 改成 Life=5000000.0 
 
 

@@ -1,13 +1,13 @@
-Army Man����߾��ˣ�
+Army Man（玩具军人）
 
-��Ϸ�а���ESC������������Ӣ�Ľ��ò�ͬ���ؼ���
-Triumph        ����
-Omnisicient    �ӽ��л�
-Pyromancer      �������Ҽ�Ͷ��ը��
-Aeroballistics ��������֧Ԯ����
-Invulnerable   �޵�ģʽ
-Paralysis        ����з�����
-Telekinetic    ˲��ת��
-Plethora          ��ҩȫ��
-Occultation    ����ģʽ����ǹ��ʱ���ص�����ģʽ��
-Kahuna           ͬʱ�����޵У��ӽ��л���ģʽ
+游戏中按下ESC键后，输入以下英文将得不同的秘技：
+Triumph        过关
+Omnisicient    视角切换
+Pyromancer      按鼠标的右键投放炸弹
+Aeroballistics 加满空中支援力量
+Invulnerable   无敌模式
+Paralysis        冻结敌方部队
+Telekinetic    瞬间转移
+Plethora          弹药全满
+Occultation    隐形模式（开枪的时候会回到正常模式）
+Kahuna           同时激活无敌，视角切换等模式

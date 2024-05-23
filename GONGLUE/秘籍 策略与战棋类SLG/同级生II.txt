@@ -1,4 +1,4 @@
-Í¬¼¶ÉúII
+åŒçº§ç”ŸII
 
-ÔÚÍ¬¼¶Éú2ÖÐ£¬´æµµÔÚÐòÕÂÖÐÊÇÊ¹ÓÃFlag0 £¬ ¶øÔÚ MainTitle Ö®ºóÊÇ¿´ÄúÊ¹ÓÃÄÄÒ»±¾ÈÕ¼Ç¶ø¶¨£¬ ¶ø¼ÇÂ¼¿´Í¼µÄÊÇflag6Õâ¸öµµ°¸¡£´Ë·¨±ØÐëÍæÍêÐòÕÂ²Å¿ÉÓÃ(¸ÄÍê»á¶à³öÁ½¸öÑ¡Ïî£¬Ò»¸öÊÇÐãÍ¼£¬ ÁíÒ»¸öÊÇÒôÀÖ)¡£ FILE FLAG0FILE FLAG6 FIND SECTOR00000000013(000D)µ½ SECTOR00000010023(0017)EDIT£ºÌîÂúIEDIT£ºÌîÂú¡£
+åœ¨åŒçº§ç”Ÿ2ä¸­ï¼Œå­˜æ¡£åœ¨åºç« ä¸­æ˜¯ä½¿ç”¨Flag0 ï¼Œ è€Œåœ¨ MainTitle ä¹‹åŽæ˜¯çœ‹æ‚¨ä½¿ç”¨å“ªä¸€æœ¬æ—¥è®°è€Œå®šï¼Œ è€Œè®°å½•çœ‹å›¾çš„æ˜¯flag6è¿™ä¸ªæ¡£æ¡ˆã€‚æ­¤æ³•å¿…é¡»çŽ©å®Œåºç« æ‰å¯ç”¨(æ”¹å®Œä¼šå¤šå‡ºä¸¤ä¸ªé€‰é¡¹ï¼Œä¸€ä¸ªæ˜¯ç§€å›¾ï¼Œ å¦ä¸€ä¸ªæ˜¯éŸ³ä¹)ã€‚ FILE FLAG0FILE FLAG6 FIND SECTOR00000000013(000D)åˆ° SECTOR00000010023(0017)EDITï¼šå¡«æ»¡IEDITï¼šå¡«æ»¡ã€‚
 

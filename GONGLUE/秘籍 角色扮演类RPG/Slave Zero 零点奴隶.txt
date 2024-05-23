@@ -1,17 +1,17 @@
-Slave Zero ÁãµãÅ«Á¥
+Slave Zero é›¶ç‚¹å¥´éš¶
 
-ÔÚÓÎÏ·ÖÐ°´"T"£¬È»ºóÊäÈëÒÔÏÂÃÜÂë£º
-/goodies = ÎäÆ÷Éý¼¶
-/i win = ÔÚµ±Ç°ÈÎÎñÖÐÁ¢¿ÌÊ¤Àû
-/big ass = ÍË³öÓÎÏ·
+åœ¨æ¸¸æˆä¸­æŒ‰"T"ï¼Œç„¶åŽè¾“å…¥ä»¥ä¸‹å¯†ç ï¼š
+/goodies = æ­¦å™¨å‡çº§
+/i win = åœ¨å½“å‰ä»»åŠ¡ä¸­ç«‹åˆ»èƒœåˆ©
+/big ass = é€€å‡ºæ¸¸æˆ
 /onass = Throws Player Backwards
 /ouch = Hurts Player
 /wilcox = Makes Player Shake
-/3prong = ¿ª/¹Ø ÒõÓ°
-/weezie = µÐÈË²»¹¥»÷Äã
-/mission ¹Ø¿¨Ãû = Ìø¹Ø£¨¹Ø¿¨Ãû¼ûÏÂ±í£©
+/3prong = å¼€/å…³ é˜´å½±
+/weezie = æ•Œäººä¸æ”»å‡»ä½ 
+/mission å…³å¡å = è·³å…³ï¼ˆå…³å¡åè§ä¸‹è¡¨ï¼‰
 
-¹Ø¿¨Ãû£¨ºÍ/missionÒ»ÆðÊ¹ÓÃ£©£º
+å…³å¡åï¼ˆå’Œ/missionä¸€èµ·ä½¿ç”¨ï¼‰ï¼š
 CREDITS
 M00_INTRO
 M00_STARTUP

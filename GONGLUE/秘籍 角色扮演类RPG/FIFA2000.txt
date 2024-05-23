@@ -1,10 +1,10 @@
 FIFA2000
 
-тзсно╥я║оН╡к╣╔жп╪ЭхКобапвж 
-MOMONEY = нчочвй╫П 
-HOOLIGAN = ╦╫╪с╤с 
-BURNABY = EACгРЁ║ 
-SIZZLE = иа╣Гдёй╫ 
-DIZZY = рЛпндёй╫ 
-LIGHTSOUT = ╥╒╧Бё╗glow)дёй╫ 
+Е°╗Ф╦╦Ф┬▐И─┴И║╧Х▐°Е█∙Д╦╜И■╝Е┘╔Д╦▀Е┬≈Е╜≈ 
+MOMONEY = Ф≈═И≥░Х╣└И┤▒ 
+HOOLIGAN = И≥└Е┼═И≤÷ 
+BURNABY = EACГ░┐Е°╨ 
+SIZZLE = И≈╙Г■╣Ф╗║Е╪▐ 
+DIZZY = Е╪┌Е╫╒Ф╗║Е╪▐ 
+LIGHTSOUT = Е▐▒Е┘┴О╪┬glow)Ф╗║Е╪▐ 
 

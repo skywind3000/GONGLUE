@@ -1,6 +1,6 @@
 Cricket 98
 
-��ͣ��Ϸ��Ȼ���������´��룺
-starwa:�ܵø���
-sari:������ 
+暂停游戏，然后输入以下代码：
+starwa:跑得更快
+sari:低重力 
 

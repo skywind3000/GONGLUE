@@ -1,17 +1,17 @@
 Force21
 
-amazon :Ã»ÓĞÊ÷Ä¾ 
-avatar :Æû³µºÍ½¨ÖşÎïËÄÖÜ»·ÈÆ»ÆÏä×Ó 
-london :Ã»ÓĞÔÆ 
-hasselhoff :Á¢¿ÌÊ§°Ü 
-ispy :Ã»ÓĞÕ½ÕùÃÔÎí 
-killenemy :ÏûÃğËùÓĞµĞÈË 
-grid :ÏÔÊ¾¸ñÏß 
-chessmatch :À×´ïÈ«¿ª 
-commanders :¹Ø±ÕÖ¸»Ó¹Ù¹¦ÄÜ 
-stratperspective :¸Ä±äÊÓ½Ç 
-novictory :Í£Ö¹Ê¤Àû½±Àø 
-hurt :¹¥»÷¶ÓÎéÖĞµÚÒ»Ì¨³µ 
-chillout :Ëø¶¨³µÁ¾ 
-gameoverman :Á¢¼´Ê¤Àû 
+amazon :æ²¡æœ‰æ ‘æœ¨ 
+avatar :æ±½è½¦å’Œå»ºç­‘ç‰©å››å‘¨ç¯ç»•é»„ç®±å­ 
+london :æ²¡æœ‰äº‘ 
+hasselhoff :ç«‹åˆ»å¤±è´¥ 
+ispy :æ²¡æœ‰æˆ˜äº‰è¿·é›¾ 
+killenemy :æ¶ˆç­æ‰€æœ‰æ•Œäºº 
+grid :æ˜¾ç¤ºæ ¼çº¿ 
+chessmatch :é›·è¾¾å…¨å¼€ 
+commanders :å…³é—­æŒ‡æŒ¥å®˜åŠŸèƒ½ 
+stratperspective :æ”¹å˜è§†è§’ 
+novictory :åœæ­¢èƒœåˆ©å¥–åŠ± 
+hurt :æ”»å‡»é˜Ÿä¼ä¸­ç¬¬ä¸€å°è½¦ 
+chillout :é”å®šè½¦è¾† 
+gameoverman :ç«‹å³èƒœåˆ© 
 

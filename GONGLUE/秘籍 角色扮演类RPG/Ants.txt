@@ -1,11 +1,11 @@
 Ants
 
-Ctrl+L ���������ϵ�����ֵ
-Ctrl+A ѡ���������� 
-Ctrl+N ѡ��һֻ���� 
-Ctrl+P ѡ��ǰһֻ���� 
-Ctrl+H ���κεص��������
-Ctrl+S ѡ��������ֹͣ�ж�
-Ctrl+O ��ѡ��˵�
+Ctrl+L 看所有蚂蚁的生命值
+Ctrl+A 选定所有蚂蚁 
+Ctrl+N 选定一只蚂蚁 
+Ctrl+P 选定前一只蚂蚁 
+Ctrl+H 在任何地点孵化蚂蚁
+Ctrl+S 选定的蚂蚁停止行动
+Ctrl+O 看选项菜单
 
 

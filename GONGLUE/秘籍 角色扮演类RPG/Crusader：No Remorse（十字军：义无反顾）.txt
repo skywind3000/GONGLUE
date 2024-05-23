@@ -1,18 +1,18 @@
-Crusader��No Remorse��ʮ�־������޷��ˣ�
+Crusader：No Remorse（十字军：义无反顾）
 
-����JASSICA 16,�������,Crusaader: No Remorse,��ʱ����ʹ�������ؼ���:
+输入JASSICA 16,便可听到,Crusaader: No Remorse,这时可以使用以下秘技键:
 
-H = ��ʼ�ж�
-F10 = ���������Ʒ
-Alt+F10 = �޵�
-Ctrl+L = ��ʾĿǰλ��
-Ctrl+V = ��ʾ��Ϸ�汾
+H = 开始行动
+F10 = 获得所有物品
+Alt+F10 = 无敌
+Ctrl+L = 显示目前位置
+Ctrl+V = 显示游戏版本
 
 
-��Ϸ����:
-��Dos Prompt�������²���������Ϸ��ɻ�������ؼ�:
+游戏参数:
+在Dos Prompt加入以下参数启动游戏便可获得以下秘技:
 
--debug = ����ģʽ
--skill # = �����ܸĵ��ȼ� #
--warp # = ���ص��ؿ� #
+-debug = 除错模式
+-skill # = 将技能改到等级 #
+-warp # = 跳关到关卡 #
 

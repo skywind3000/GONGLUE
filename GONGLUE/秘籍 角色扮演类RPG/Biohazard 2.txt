@@ -1,6 +1,6 @@
 Biohazard 2
 
-ÎŞÏŞµ¯Ò©£º
-½øÈëÎïÆ·Ñ¡ÔñÆÁÄ»£¬ÊäÈë£ºup, up, down, down, left,
-right,left, right, Right Trigger¡£ 
+æ— é™å¼¹è¯ï¼š
+è¿›å…¥ç‰©å“é€‰æ‹©å±å¹•ï¼Œè¾“å…¥ï¼šup, up, down, down, left,
+right,left, right, Right Triggerã€‚ 
 

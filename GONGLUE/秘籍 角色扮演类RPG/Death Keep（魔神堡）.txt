@@ -1,9 +1,9 @@
-Death Keep��ħ�񱤣�
+Death Keep（魔神堡）
 
-LEBUZ = ����
-LEOLD = ����Experience modeģʽ
-LEGEO = ȫ��ͼ
-LENEE = �޵�
-LEHAT = ������з���
-LESKY = ����
-LEPIK = ���Ӱ���
+LEBUZ = 飞行
+LEOLD = 进入Experience mode模式
+LEGEO = 全地图
+LENEE = 无敌
+LEHAT = 获得所有法术
+LESKY = 跳关
+LEPIK = 附加按键

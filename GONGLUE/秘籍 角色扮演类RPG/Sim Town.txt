@@ -1,12 +1,12 @@
 Sim Town
 
-�ڲ�Ұ�ã�
-���ۺ�ʱ�����㿴��Ұ�ú����롰wolfdog���������Ӻ�
-���ͻ�׷������β�ͣ�Ȼ�����ʧ�ˡ�
-�����Ǯ��
-����Ϸ����ͣʱ���롰cheatercheaterwimpwimp����
+掩藏野兔：
+无论何时，当你看见野兔后，输入“wolfdog”，几秒钟后，
+它就会追着它的尾巴，然后就消失了。
+更多的钱：
+当游戏被暂停时输入“cheatercheaterwimpwimp”。
 
-����Parachuter Kid��
-���롰uspa87419���� 
+呼叫Parachuter Kid：
+输入“uspa87419”。 
 
 

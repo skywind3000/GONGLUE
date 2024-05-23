@@ -1,15 +1,15 @@
-Revenant�����飩
+Revenant（幽灵）
 
-���س������룺 
+按回车后输入： 
 
-alreadydead ����Ѫ 
-potionsnlotions �õ��ܶ�ҩ�� 
-alchemy ǮΪ999999 
-noamnesia Ч��δ֪ 
-nahkranoth Ч��δ֪ 
-lookunderthehood Ч��δ֪ 
-abracadabra Ч��δ֪ 
-spell pouch Ч��δ֪ 
-gimmesomegrub Ч��δ֪ 
-debug Ч��δ֪ 
-potionmix Ч��δ֪
+alreadydead 加满血 
+potionsnlotions 得到很多药剂 
+alchemy 钱为999999 
+noamnesia 效果未知 
+nahkranoth 效果未知 
+lookunderthehood 效果未知 
+abracadabra 效果未知 
+spell pouch 效果未知 
+gimmesomegrub 效果未知 
+debug 效果未知 
+potionmix 效果未知

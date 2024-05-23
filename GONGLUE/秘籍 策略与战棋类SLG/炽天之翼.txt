@@ -1,7 +1,7 @@
-³ãÌìÖ®Òí
+ç‚½å¤©ä¹‹ç¿¼
 
-°´ F10 ¼üÊäÈë:
-AddExp =µÈ¼¶ÌáÉý
-MOORE =Ìø¹Ø
+æŒ‰ F10 é”®è¾“å…¥:
+AddExp =ç­‰çº§æå‡
+MOORE =è·³å…³
 
 

@@ -1,11 +1,11 @@
-Lords of Magic_ Special Edition¼¼ÇÉ
+Lords of Magic_ Special EditionæŠ€å·§
 
-µ±ÂÖµ½ÄãÊ±£¬ÊäÈë¡°Control+C¡±¼´¿É³öÏÖ×÷±×²Ëµ¥¡£È»
-ºóÊäÈë¡°bingo¡±£¬¼´¿É»ñµÃ200»Æ½ð£¬ALEºÍË®¾§¡£
-ÓÎÏ·ÖÐÊäÈë¡°Ctrl-C¡±£¬È»ºóÊäÈë¡°zilla¡±£¬¼´¿É»ñµÃÒ»
-ÌõÁú¡£
-ÓÎÏ·ÖÐÊäÈë¡°Ctrl-C¡±£¬È»ºóÊäÈë¡°go far¡±£¬¼´¿É»ñµÃ
-1000¸öÒÆ¶¯µã¡£
-ÓÎÏ·ÖÐÊäÈë¡°Ctrl-C¡±£¬È»ºóÊäÈë¡°all spells¡±£¬¼´¿É»ñ
-µÃÈ«²¿Ä§·¨ºÍ1000Ä§Á¦¡£ 
+å½“è½®åˆ°ä½ æ—¶ï¼Œè¾“å…¥â€œControl+Câ€å³å¯å‡ºçŽ°ä½œå¼Šèœå•ã€‚ç„¶
+åŽè¾“å…¥â€œbingoâ€ï¼Œå³å¯èŽ·å¾—200é»„é‡‘ï¼ŒALEå’Œæ°´æ™¶ã€‚
+æ¸¸æˆä¸­è¾“å…¥â€œCtrl-Câ€ï¼Œç„¶åŽè¾“å…¥â€œzillaâ€ï¼Œå³å¯èŽ·å¾—ä¸€
+æ¡é¾™ã€‚
+æ¸¸æˆä¸­è¾“å…¥â€œCtrl-Câ€ï¼Œç„¶åŽè¾“å…¥â€œgo farâ€ï¼Œå³å¯èŽ·å¾—
+1000ä¸ªç§»åŠ¨ç‚¹ã€‚
+æ¸¸æˆä¸­è¾“å…¥â€œCtrl-Câ€ï¼Œç„¶åŽè¾“å…¥â€œall spellsâ€ï¼Œå³å¯èŽ·
+å¾—å…¨éƒ¨é­”æ³•å’Œ1000é­”åŠ›ã€‚ 
 

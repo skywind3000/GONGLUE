@@ -1,7 +1,7 @@
 Deep
 
-ÔÚÓÎÏ·ÖĞ¼üÈë
-ds10x ±ÈÆ½Ê±¶à10±¶µÄÓã 
-dsnobreak Ê¹ÓãÏß²»»á¶Ï 
-dscatchnow ¿ÉÒÔÁ¢¿Ìµöµ½Óã 
-dsbluemarlin Ê¹ÏÂÒ»ÌõÓãÊÇBlue Marlin
+åœ¨æ¸¸æˆä¸­é”®å…¥
+ds10x æ¯”å¹³æ—¶å¤š10å€çš„é±¼ 
+dsnobreak ä½¿é±¼çº¿ä¸ä¼šæ–­ 
+dscatchnow å¯ä»¥ç«‹åˆ»é’“åˆ°é±¼ 
+dsbluemarlin ä½¿ä¸‹ä¸€æ¡é±¼æ˜¯Blue Marlin

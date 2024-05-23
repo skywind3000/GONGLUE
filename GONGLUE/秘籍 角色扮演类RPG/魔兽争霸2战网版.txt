@@ -1,14 +1,14 @@
-Ä§ÊŞÕù°Ô2Õ½Íø°æ
+é­”å…½äº‰éœ¸2æˆ˜ç½‘ç‰ˆ
 
-ÔÚÓÎÏ·ÖĞÊäÈëÏÂÁĞÃÜÂë£º
-Deck me out£­£­ËùÓĞ¹¥»÷·ÀÓù¼¶ÉıÂú
-Every little thing she does£­£­µÃµ½ËùÓĞÄ§·¨
-Glittering prizes£­£­Ôö¼Ó×ÊÔ´
-Hatchet£­£­Á½ÏÂ¿³ÍêÒ»¿ÃÊ÷
-It is a good day to die£­£­ÈÃÄãµÄµ¥Î»Á¦Á¿ÎŞÇî
-Make it so£­£­¼ÓËÙ½¨ÖşºÍÔìµ¥Î»
-On screen£­£­´ò¿ªµØÍ¼
-There can be only one£­£­Õ½ÒÛÊ¤Àû
-Tigerlily£­£­Ìø¹Ø£¬ÓÃHuman # and Orc # Ñ¡ÔñÌøµ½µÚ¼¸¹Ø(#ÊÇÁ½Î»Êı)£¬Ìø¸½¼Ó¹ØµÄ·½·¨ÊÇ¼Ó¸öx£¬Èç£º"xorc10" 
-Unite the clans£­£­Ê¤Àû 
+åœ¨æ¸¸æˆä¸­è¾“å…¥ä¸‹åˆ—å¯†ç ï¼š
+Deck me outï¼ï¼æ‰€æœ‰æ”»å‡»é˜²å¾¡çº§å‡æ»¡
+Every little thing she doesï¼ï¼å¾—åˆ°æ‰€æœ‰é­”æ³•
+Glittering prizesï¼ï¼å¢åŠ èµ„æº
+Hatchetï¼ï¼ä¸¤ä¸‹ç å®Œä¸€æ£µæ ‘
+It is a good day to dieï¼ï¼è®©ä½ çš„å•ä½åŠ›é‡æ— ç©·
+Make it soï¼ï¼åŠ é€Ÿå»ºç­‘å’Œé€ å•ä½
+On screenï¼ï¼æ‰“å¼€åœ°å›¾
+There can be only oneï¼ï¼æˆ˜å½¹èƒœåˆ©
+Tigerlilyï¼ï¼è·³å…³ï¼Œç”¨Human # and Orc # é€‰æ‹©è·³åˆ°ç¬¬å‡ å…³(#æ˜¯ä¸¤ä½æ•°)ï¼Œè·³é™„åŠ å…³çš„æ–¹æ³•æ˜¯åŠ ä¸ªxï¼Œå¦‚ï¼š"xorc10" 
+Unite the clansï¼ï¼èƒœåˆ© 
 

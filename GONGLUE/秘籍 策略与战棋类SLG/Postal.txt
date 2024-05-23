@@ -1,9 +1,9 @@
 Postal
 
-carrymore: ±³°ü
-crotchbomb: µØÀ×
-explodarama: Õ¨µ¯·¢ÉäÆ÷ºÍÕ¨µ¯
-flamenstein: ËùÓĞÎäÆ÷ºÍµ¯Ò©
-firehurler: »ğÑæÍ¶ÖÀÆ÷ºÍÈ¼ÁÏ¹Ş
-lobitfar: ÊÖÁñµ¯ºÍÈ¼ÉÕµ¯
-titaniit: »ğ¼ı·¢ÉäÆ÷ºÍ»ğ¼ıµ¯
+carrymore: èƒŒåŒ…
+crotchbomb: åœ°é›·
+explodarama: ç‚¸å¼¹å‘å°„å™¨å’Œç‚¸å¼¹
+flamenstein: æ‰€æœ‰æ­¦å™¨å’Œå¼¹è¯
+firehurler: ç«ç„°æŠ•æ·å™¨å’Œç‡ƒæ–™ç½
+lobitfar: æ‰‹æ¦´å¼¹å’Œç‡ƒçƒ§å¼¹
+titaniit: ç«ç®­å‘å°„å™¨å’Œç«ç®­å¼¹

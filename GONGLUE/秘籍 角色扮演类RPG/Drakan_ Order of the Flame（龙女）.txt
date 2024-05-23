@@ -1,11 +1,11 @@
-Drakan_ Order of the Flame����Ů��
+Drakan_ Order of the Flame（龙女）
 
-����"\"�򿪶Ի�������"iamgod"����"sanctuary"���ɴ��ϵ�ģʽ��
-����"smeghead"���ɼ���Ѫ��
+按下"\"打开对话框，输入"iamgod"或者"sanctuary"即可打开上帝模式。
+输入"smeghead"即可加满血。
 
-���޵�Potions-Crystals
-���������Ʒ�����ϳ�һ��potion����Ʒ���⵫���ɿ���꣬ת��������ٰ���Ʒ�Ż���Ʒ������ͻ��һ��Potions-Crystals�ˡ�ͬ������Ҳ����Ū fire crystals,ice crystals,lightning crystals.
-����"debug on" ��"debug off" ���Դ򿪻�رյ���ģʽ��
-�ڵ���ģʽ������"all weapons" ���г�����������
-����������ģʽ������"give ####" �ɵõ� ####.
+无限的Potions-Crystals
+调出你的物品栏，拖出一个potion到物品栏外但不松开鼠标，转几下鼠标再把物品放回物品栏，你就会加一个Potions-Crystals了。同理，你也可以弄 fire crystals,ice crystals,lightning crystals.
+输入"debug on" 和"debug off" 可以打开或关闭调试模式。
+在调试模式中输入"all weapons" 可列出所有武器。
+在所有武器模式中输入"give ####" 可得到 ####.
 

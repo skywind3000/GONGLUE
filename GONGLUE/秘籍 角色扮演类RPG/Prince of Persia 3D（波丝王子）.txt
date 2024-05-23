@@ -1,6 +1,6 @@
-Prince of Persia 3D£¨²¨Ë¿Íõ×Ó£©
+Prince of Persia 3Dï¼ˆæ³¢ä¸çŽ‹å­ï¼‰
 
-ÓÃÒÔÏÂ²ÎÊý¼´¿ÉÈÃÓÎÏ·´ÓÒ»¸öÌØ¶¨µÄ¹Ø¿¨¿ªÊ¼¡£
+ç”¨ä»¥ä¸‹å‚æ•°å³å¯è®©æ¸¸æˆä»Žä¸€ä¸ªç‰¹å®šçš„å…³å¡å¼€å§‹ã€‚
 
 
 -l "geometry\rooms\prisonfix"
@@ -20,5 +20,5 @@ Prince of Persia 3D£¨²¨Ë¿Íõ×Ó£©
 -l "geometry\rooms\solar1"
 -l "geometry\rooms\moontemple"
 -l "geometry\rooms\finale"
-½øÈëºóÑ¡"New Game"¼´¿É¡£×¢ÒâÕâÑùµÄ»°£¬Äã¾Í²»ÄÜÓÃÕý³£µÄË³ÐòÍæÍ¨ÓÎÏ·ÁË¡£ 
+è¿›å…¥åŽé€‰"New Game"å³å¯ã€‚æ³¨æ„è¿™æ ·çš„è¯ï¼Œä½ å°±ä¸èƒ½ç”¨æ­£å¸¸çš„é¡ºåºçŽ©é€šæ¸¸æˆäº†ã€‚ 
 

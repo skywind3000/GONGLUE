@@ -1,8 +1,8 @@
 Tank Racer
 
-ÓÃÊ®Áù½øÖÆÀ´±àÐ´tanksave.datÎÄ¼þ£º 
+ç”¨åå…­è¿›åˆ¶æ¥ç¼–å†™tanksave.datæ–‡ä»¶ï¼š 
 
-¡¡¡¡°Ñ04¸Ä³ÉFF = ¿ÉÒÔÓÃµ½ËùÓÐµÄ±­×Ó 
-¡¡¡¡0F¸Ä³ÉFF = ¿ÉÒÔÓÃµ½ËùÓÐµÄBONI 
+ã€€ã€€æŠŠ04æ”¹æˆFF = å¯ä»¥ç”¨åˆ°æ‰€æœ‰çš„æ¯å­ 
+ã€€ã€€0Fæ”¹æˆFF = å¯ä»¥ç”¨åˆ°æ‰€æœ‰çš„BONI 
 
 

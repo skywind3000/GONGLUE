@@ -1,10 +1,10 @@
-Sim Theme Park ·è¿ñÖ÷ÌâÀÖÔ°
+Sim Theme Park ç–¯ç‹‚ä¸»é¢˜ä¹å›­
 
-ÔİÍ£ÓÎÏ·ÔÙÊäÈë DEMO Æô¶¯ÃÜ¼¼Ä£Ê½£¬¼ÌĞøÓÎÏ·, ²¢ÔÚÓÎÏ·ÖĞÊäÈëÃÜ¼¼
-shift+C¼ü = Ôö¼Ó½ğÇ® $500,000
-ctrl+Z¼ü = ËùÓĞ³µÁ¾
-alt+Z¼ü = ËùÓĞÉÌµê
-shift+Z¼ü = ËùÓĞµÄÊ÷Ä¾,Ç½ºÍ»¯×±ÊÒ...µÈµÈ
+æš‚åœæ¸¸æˆå†è¾“å…¥ DEMO å¯åŠ¨å¯†æŠ€æ¨¡å¼ï¼Œç»§ç»­æ¸¸æˆ, å¹¶åœ¨æ¸¸æˆä¸­è¾“å…¥å¯†æŠ€
+shift+Cé”® = å¢åŠ é‡‘é’± $500,000
+ctrl+Zé”® = æ‰€æœ‰è½¦è¾†
+alt+Zé”® = æ‰€æœ‰å•†åº—
+shift+Zé”® = æ‰€æœ‰çš„æ ‘æœ¨,å¢™å’ŒåŒ–å¦†å®¤...ç­‰ç­‰
 
 Easy Money: Bug Exploitation  
 These best way to use this bug is to go to a puzzle sideshow that has a low play cost. WHILE somebody is playing up the play cost to $10,000 (make sure you hit the confirm check to get that price activated!). When they finish the puzzle you will get the 10k instead of the lower play cost they started playing at. Nobody will play it at 10k, so lower the price back down to a fair price. You can do this as often as you want. Puzzle sideshow works best because it gives you time to raise the price while the customer is playing.

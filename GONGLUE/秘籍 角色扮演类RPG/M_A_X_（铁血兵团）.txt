@@ -1,12 +1,12 @@
-M_A_X_����Ѫ���ţ�
+M_A_X_（铁血兵团）
 
-�ۼ���ʱս����Ϸ�������ң�INTERPLAYҲ�����˺��Ƴ��ˡ���Ѫ���š�������Ϸ�Ѷ��൱�ߣ�����������ձ�������ô����Ϸ�м��룺
+眼见即时战略游戏愈演愈烈，INTERPLAY也不甘人后，推出了《铁血兵团》，此游戏难度相当高，如果你想早日爆机，那么在游戏中键入：
 
-MAXAMMO��װ����ҩ
+MAXAMMO：装满弹药
 
-MAXSRUVEY�������Դλ��
+MAXSRUVEY：获得资源位置
 
-MAXSPY����ȡ����λ��
+MAXSPY：获取敌人位置
 
-MAXSUPER����ѡ��λ����30��
+MAXSUPER：所选单位升到30级
 

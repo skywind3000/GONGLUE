@@ -1,11 +1,11 @@
-Emergency_ Fighters for Life£¨µÚÒ»ÏÖ³¡£©
+Emergency_ Fighters for Lifeï¼ˆç¬¬ä¸€ç°åœºï¼‰
 
-Ñ¡¹Ø
-ÔÚÊÂ¹ÊÊÓ´°ÖĞ½«»¬ÊóÖ¸±êÒÆµ½OptionsÉÏ£¬½ÓÖø¼üÈëSIXTEEN£¬³É¹¦áá¾Í»á³öÏÖÈÎÎñÑ¡Ôñ»­Ãæ¡£
+é€‰å…³
+åœ¨äº‹æ•…è§†çª—ä¸­å°†æ»‘é¼ æŒ‡æ ‡ç§»åˆ°Optionsä¸Šï¼Œæ¥è‘—é”®å…¥SIXTEENï¼ŒæˆåŠŸå¾Œå°±ä¼šå‡ºç°ä»»åŠ¡é€‰æ‹©ç”»é¢ã€‚
 
 12 Waterdrops from Plane
 Code: FLOOD
 
 Cars for Free
-Go into the Cars Directory and open all files (don¡¯t change hai.dat and zf.dat). Replace in every file the first line to 0.
+Go into the Cars Directory and open all files (donâ€™t change hai.dat and zf.dat). Replace in every file the first line to 0.
 

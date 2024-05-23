@@ -1,19 +1,19 @@
-Delta Force 2�������޲���2��
+Delta Force 2（三角洲部队2）
 
-Demo�棺 
+Demo版： 
 
-���޵л�������
-��' ������imnotafraidtofight��
+进无敌护身服：
+按' 并输入imnotafraidtofight。
 
-��ʽ�棺
+正式版：
 
-��Ϸ�а��£��� ` ���������������ؼ���
+游戏中按下：“ ` ”键，输入以下秘技：
 
-thetrooper �ϵ�ģʽ
-sunandsteel װ����
-diewithyourbooyson ���޵�ҩ
-stilllife �޵�
-revelation 8���ڵ�
+thetrooper 上帝模式
+sunandsteel 装弹夹
+diewithyourbooyson 无限弹药
+stilllife 无敌
+revelation 8发炮弹
 
-������"you've got problems"����Ҫ�ո�Ȼ���л��������˳��ӽǿ����ᷢ��ʲô��
+输入短语："you've got problems"，不要空格，然后切换到第三人称视角看看会发生什么。
 

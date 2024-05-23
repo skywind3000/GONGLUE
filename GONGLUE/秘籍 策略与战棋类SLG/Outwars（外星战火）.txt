@@ -1,14 +1,14 @@
-Outwars£¨ÍâÐÇÕ½»ð£©
+Outwarsï¼ˆå¤–æ˜Ÿæˆ˜ç«ï¼‰
 
-ÓÎÏ·ÖÐÊäÈëÒÔÏÂ×Ö·û´®:
-macleod ²»Ðà
-keymaster ÎÞÏÞÅçÉä°üÆøÌå
-dirtyharry ÎÞÏÞµ¯Ò©
-buzz »¬ÐÐ³á°ò
-phantom ÓÃF11ºÍF12¼üÀ´Õì²ì¹ÖÎï
-snipsnip ¸Ä±äÓÎÏ·½ÇÉ«µÄÐÔ±ð
-gohome ÖØÐÂ»Øµ½ÆðÊ¼Î»ÖÃ
-thrasher ÔÚÀ×´ïÉÏÏÔÊ¾ËùÓÐµÄµÐÈË
-timewarp ÈÎÎñÊ±¼äÎÞÏÞ
-weaponcam ÎäÆ÷¹âÓ°Ð§¹ûÏÔÊ¾
+æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å­—ç¬¦ä¸²:
+macleod ä¸æœ½
+keymaster æ— é™å–·å°„åŒ…æ°”ä½“
+dirtyharry æ— é™å¼¹è¯
+buzz æ»‘è¡Œç¿…è†€
+phantom ç”¨F11å’ŒF12é”®æ¥ä¾¦å¯Ÿæ€ªç‰©
+snipsnip æ”¹å˜æ¸¸æˆè§’è‰²çš„æ€§åˆ«
+gohome é‡æ–°å›žåˆ°èµ·å§‹ä½ç½®
+thrasher åœ¨é›·è¾¾ä¸Šæ˜¾ç¤ºæ‰€æœ‰çš„æ•Œäºº
+timewarp ä»»åŠ¡æ—¶é—´æ— é™
+weaponcam æ­¦å™¨å…‰å½±æ•ˆæžœæ˜¾ç¤º
 

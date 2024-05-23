@@ -1,27 +1,27 @@
-Mechwarrior����������ս��
+MechwarriorⅡ（铁甲争霸战Ⅱ）
 
-�ص���Star Config�����趨����
-ѡ�������µ�����
-����"Enzo"
-֮��ص���еʵ����
-��
-���ᷢ�֡���춼�ʻ����
-��סALT��SHIFT��������Ȼ���ټ���������ĸ���ɻ������Ĺ���
-��cia--��ҩ���� 
-��coldmiser--�ر��ȵ�׷�ٹ���
-��tlofront--������HUD�Ĺ۵���ǰ�ӹ�
-��icanthackit--�������
-��mightymouse--���޵�����װ��
-��xray--X����Ұ
-��zmak--�����ӳ�ʱ�书��
-��blorb--�޵�ģʽ 
-��tinkerbell--ģ�����ⲿ��Ұ
+回到「Star Config」的设定画面
+选择输入新的名字
+键入"Enzo"
+之後回到机械实验室
+吓
+您会发现……於驾驶舱中
+按住ALT和SHIFT两键不放然後再键入以下字母即可获得特殊的功能
+☆cia--弹药无限 
+☆coldmiser--关闭热导追踪功能
+☆tlofront--让後视HUD的观点变成前视观
+☆icanthackit--任务结束
+☆mightymouse--无限的喷射装置
+☆xray--X光视野
+☆zmak--开启延长时间功能
+☆blorb--无敌模式 
+☆tinkerbell--模糊的外部视野
 
-����Ϸ�а�סctrl+alt+shiFT��������� biorb����۹ر��޵�ģ� cia��ҩ
-���޹�Ӧ gankem˲��ݻٵ��� enolagayʹ�ú��ӵ� icanthackit˲���������
-idkfa�����ʧ�� hangaround����������ֹʱ�� xray��ֱ�ӿ�͸ǽ���ɽ����W
-�ɹر� meepmeepʱ��ѹ�����ܿ��� unmeepmeepͬ�Ϲر� zmakʱ����չ���ܿ���
- mightymouse����JUMPJET flygirl����JUMPJET coldmiser�ر�׷�ȹ��� dorcs
-�ۿ�DORCD�ͻ�е�� tlofront�����ӽ�תΪǰ���� lairdo��ʾ���� michelin��
-ʾ�к��еĵ÷��� tinkerbell�����ƶ��ⲿ��Ӱ��Ұ��C�ɹر�
+在游戏中按住ctrl+alt+shiFT不放僭偈洇 biorb开启酃乇瘴薜心Ｊ cia弹药
+无限供应 gankem瞬间摧毁敌人 enolagay使用核子弹 icanthackit瞬间完成任务
+idkfa任务可失败 hangaround更改任务终止时限 xray可直接看透墙壁凵铰霭碬
+可关闭 meepmeep时间压缩功能开启 unmeepmeep同上关闭 zmak时间延展功能开启
+ mightymouse补充JUMPJET flygirl增加JUMPJET coldmiser关闭追热功能 dorcs
+观看DORCD型机械人 tlofront将後视角转为前视月 lairdo警示功能 michelin显
+示残骸中的得分球 tinkerbell自由移动外部摄影视野按C可关闭
 

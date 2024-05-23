@@ -1,15 +1,15 @@
-Magic Carpet£¨Ä§·¨·ÉÌº£©
+Magic Carpetï¼ˆé­”æ³•é£žæ¯¯ï¼‰
 
-ÔÚÓÎÏ·ÖÐÏÈÈÃ·ÉÌºÍ£×¡²»¶¯
-È»°´ÏÂ"I"¼ü
-½ÓÖø¼üÈëRATTYááÔÙÔÙ°´ÏÂENTER¼ü
-Ö®ááÊäÈëÒÔÏÂ°´¼ü
-ALT+F1ÜÈ¡µÃËÓÐµÄ·¨Êõ
-ALT+F2ÜÔö¼Ó·Á¦
-ALT+F3ÜÏÃðËùÓÐ¶ÔÊÖ
-ALT+F4ÜÏÃðµÐÈËµÄÆøÇò
-ALT+F5Ü»ÙÃðµÐ·½³Ç±
-ALT+F6Ü»Ö¸´ÉÃü
-ALT+F7ÜÏÃðËùÓÐÉúÃü
-SHIFT+CÜË²¼äÆÆ¹
+åœ¨æ¸¸æˆä¸­å…ˆè®©é£žæ¯¯åœä½ä¸åŠ¨
+ç„¶æŒ‰ä¸‹"I"é”®
+æŽ¥è‘—é”®å…¥RATTYå¾Œå†å†æŒ‰ä¸‹ENTERé”®
+ä¹‹å¾Œè¾“å…¥ä»¥ä¸‹æŒ‰é”®
+ALT+F1è‹‹ã€‰ç›Ÿæœ‰çš„æ³•æœ¯
+ALT+F2èŒ‰é»¾è‡ƒåŠ›
+ALT+F3èŠŸç­æ‰€æœ‰å¯¹æ‰‹
+ALT+F4èŠŸç­æ•Œäººçš„æ°”çƒ
+ALT+F5èŠ‘å€œé¸¬èŸ¹åŒ æ½œ
+ALT+F6èŠ‘æŒ‡ç“·å‘½
+ALT+F7èŠŸç­æ‰€æœ‰ç”Ÿå‘½
+SHIFT+CèŠ©å¸ƒæ·¦ä¹’
 

@@ -1,15 +1,15 @@
-Sid Meier¡¯s Gettysburg
+Sid Meierâ€™s Gettysburg
 
-²½Öè£º
-1)°´ SHIFT-ENTER 2)¼üÈëÒ»¸öÃÜÂë 3)°´ ENTER Íê³É 
-¼ÓÇ¿Ã¿Ò»¸öµ¥Î»: Union: Hooker; Confederacy: Longstreet 
-ÏûÈ¥ÌÖÑáµÄ¶«¶«: U: Hancock, C: Jackson
-Ôö¼Ó¾­Ñé: U: Mcclellan; C: Beauregard
-µ÷ÕûÊ±ÖÓµ½¿ªÊ¼µÄÊ±¼ä: U: Buford; C: Stuart
-µ÷ÕûÊ±ÖÓµ½½áÊøµÄÊ±¼ä: U: Sedgewick; C: Pickett
-Á¢¼´µ÷À´¾È±ø: U: Reynolds; C: Hill 
-µçÄÔÖ®¼äAI´óÕ½Ä£Ê½: U: Halleck; C: Halleck 
-ÖØÕû²¿¶Ó: U: Sheridan; C: Lee
-¿´¼ûËùÓĞ²¿¶Ó: U: Warren; C: Hotchkiss
-¿´µ½µĞÈËµÄ×÷Õ½±àÅÅ: U: Custer; C: HarrisonAbe¡¯s Oddysee 
+æ­¥éª¤ï¼š
+1)æŒ‰ SHIFT-ENTER 2)é”®å…¥ä¸€ä¸ªå¯†ç  3)æŒ‰ ENTER å®Œæˆ 
+åŠ å¼ºæ¯ä¸€ä¸ªå•ä½: Union: Hooker; Confederacy: Longstreet 
+æ¶ˆå»è®¨åŒçš„ä¸œä¸œ: U: Hancock, C: Jackson
+å¢åŠ ç»éªŒ: U: Mcclellan; C: Beauregard
+è°ƒæ•´æ—¶é’Ÿåˆ°å¼€å§‹çš„æ—¶é—´: U: Buford; C: Stuart
+è°ƒæ•´æ—¶é’Ÿåˆ°ç»“æŸçš„æ—¶é—´: U: Sedgewick; C: Pickett
+ç«‹å³è°ƒæ¥æ•‘å…µ: U: Reynolds; C: Hill 
+ç”µè„‘ä¹‹é—´AIå¤§æˆ˜æ¨¡å¼: U: Halleck; C: Halleck 
+é‡æ•´éƒ¨é˜Ÿ: U: Sheridan; C: Lee
+çœ‹è§æ‰€æœ‰éƒ¨é˜Ÿ: U: Warren; C: Hotchkiss
+çœ‹åˆ°æ•Œäººçš„ä½œæˆ˜ç¼–æ’: U: Custer; C: HarrisonAbeâ€™s Oddysee 
 

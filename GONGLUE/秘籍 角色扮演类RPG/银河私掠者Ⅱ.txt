@@ -1,16 +1,16 @@
-ÒøºÓË½ÂÓÕß¢ò
+é“¶æ²³ç§æŽ è€…â…¡
 
-ÔÚÌ«¿Õ·ÉÐÐ»­ÃæÊ±£¬°´ÏÂAlt+NÆô¶¯µ¼ô³µØÍ¼£¬È»ºó°´ÏÂF£¨µ¼ô³µØÍ¼ËÑÑ°¹¦ÄÜ£©£¬½ÓÏÂÀ´±ã¿É½¡ÈëÏÂÁÐÃÜÂë£º
+åœ¨å¤ªç©ºé£žè¡Œç”»é¢æ—¶ï¼ŒæŒ‰ä¸‹Alt+Nå¯åŠ¨å¯¼èˆ«åœ°å›¾ï¼Œç„¶åŽæŒ‰ä¸‹Fï¼ˆå¯¼èˆ«åœ°å›¾æœå¯»åŠŸèƒ½ï¼‰ï¼ŒæŽ¥ä¸‹æ¥ä¾¿å¯å¥å…¥ä¸‹åˆ—å¯†ç ï¼š
 
-REP ME UP£º½«·À»¤ÕÖ¼°×°¼×ÍêÈ«ÐÞ¸´
+REP ME UPï¼šå°†é˜²æŠ¤ç½©åŠè£…ç”²å®Œå…¨ä¿®å¤
 
-NO TALENT£ºÎÞµÐ
+NO TALENTï¼šæ— æ•Œ
 
-PETY PETY£º½«ºóÈ¼Æ÷È¼ÁÏÖØÐÂ²¹Âú
+PETY PETYï¼šå°†åŽç‡ƒå™¨ç‡ƒæ–™é‡æ–°è¡¥æ»¡
 
-CHILL OUT£º½«¼¤¹â·¢ÉäÆ÷ÍêÈ«ÀäÈ´ÏÂÀ´
+CHILL OUTï¼šå°†æ¿€å…‰å‘å°„å™¨å®Œå…¨å†·å´ä¸‹æ¥
 
-NAPALM£ºÓµÓÐÒ»¿ÅºËµ¯
+NAPALMï¼šæ‹¥æœ‰ä¸€é¢—æ ¸å¼¹
 
-È»ºóÔÙ°´Enter¼üÈ·ÈÏ¡£´ËÃØ¼¼Ò»´ÎÖ»ÄÜÊäÈëÒ»¸ö£¬°´Enterºó¿ÉÔÙÊäÈëÏÂÒ»¸ö¡£
+ç„¶åŽå†æŒ‰Enteré”®ç¡®è®¤ã€‚æ­¤ç§˜æŠ€ä¸€æ¬¡åªèƒ½è¾“å…¥ä¸€ä¸ªï¼ŒæŒ‰EnteråŽå¯å†è¾“å…¥ä¸‹ä¸€ä¸ªã€‚
 

@@ -1,10 +1,10 @@
 FIFA 98
 
-�ڡ����߱༭ (Player Edit) ��ѡ���У����κ����ߵ����ָ�Ϊ��������������������ѡ�
-eac rocks - ��ͷģʽ
-johnny atomic - ��װ������
-dohdohdoh - ������
-urlofus - ���ε�ǽ
-xplay - �ȵ�������
-footy - ɵ�ϵ��ж�
+在“玩者编辑 (Player Edit) ”选项中，将任何玩者的名字改为以下所述，便会出现特殊选项：
+eac rocks - 大头模式
+johnny atomic - 假装被击倒
+dohdohdoh - 疯狂的球
+urlofus - 无形的墙
+xplay - 热的马铃薯
+footy - 傻瓜的行动
 

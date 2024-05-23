@@ -1,16 +1,16 @@
-Virtua Squad II£¨VRÌØ¾¯II£©
+Virtua Squad IIï¼ˆVRç‰¹è­¦IIï¼‰
 
-1.ĞŞ¸Ävcop2.ini,ÔÚ[gamesetting]×îºó¼ÓÉÏextra=2,ÔÚÓÎÏ·ÖĞ°´F6½øĞĞÉèÖÃ,¶àÁËÁ½¸öĞÂÑ¡Ïî
+1.ä¿®æ”¹vcop2.ini,åœ¨[gamesetting]æœ€ååŠ ä¸Šextra=2,åœ¨æ¸¸æˆä¸­æŒ‰F6è¿›è¡Œè®¾ç½®,å¤šäº†ä¸¤ä¸ªæ–°é€‰é¡¹
 special
-single click reload - µ¥»÷×°×Óµ¯
-random mode - µĞÈËËæ»ú³öÏÖ
-mirror mode - Ó°ÏñÄ£Ê½
-big head mode - ´óÍ·Ä£Ê½
+single click reload - å•å‡»è£…å­å¼¹
+random mode - æ•Œäººéšæœºå‡ºç°
+mirror mode - å½±åƒæ¨¡å¼
+big head mode - å¤§å¤´æ¨¡å¼
 cheat
-auto reload - ×Ô¶¯×°×Óµ¯
-gun select - °´F3ÔİÍ£Ê±¿ÉÓÃÓÒ¼üÑ¡ÌØÊâÇ¹
-special gun select - µÃµ½Ò»°ÑÎŞÏŞ×Óµ¯µÄÇ¹
-2.ÔÚÑ¡¹ØÊ±,¶Ô×ÅµÚÒ»¹ØµÄ¼ıÍ·²»¶Ï°´×ó¼ü,µ±Ê±¼ä¹ıºó¾ÍÂíÉÏ¿ÉºÍ×îÖÕboss¾ö¶·
+auto reload - è‡ªåŠ¨è£…å­å¼¹
+gun select - æŒ‰F3æš‚åœæ—¶å¯ç”¨å³é”®é€‰ç‰¹æ®Šæª
+special gun select - å¾—åˆ°ä¸€æŠŠæ— é™å­å¼¹çš„æª
+2.åœ¨é€‰å…³æ—¶,å¯¹ç€ç¬¬ä¸€å…³çš„ç®­å¤´ä¸æ–­æŒ‰å·¦é”®,å½“æ—¶é—´è¿‡åå°±é©¬ä¸Šå¯å’Œæœ€ç»ˆbosså†³æ–—
 
 
 

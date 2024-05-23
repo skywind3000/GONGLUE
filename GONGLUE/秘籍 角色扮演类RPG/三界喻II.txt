@@ -1,8 +1,8 @@
-Èý½çÓ÷II
+ä¸‰ç•Œå–»II
 
-ÔÚÓÎÏ·ÖÐÍ¬Ê±°´
+åœ¨æ¸¸æˆä¸­åŒæ—¶æŒ‰
 
-SHIFTæI+3 ·¨Á¦ºÍÇ®Ôö¼Ó 
-SHIFTæI+5 µÃµ½È«²¿Ä§·¨
-SHIFTæI+0 Ò©Æ·ÊýÁ¿Ôö¼Ó
+SHIFTéµ+3 æ³•åŠ›å’Œé’±å¢žåŠ  
+SHIFTéµ+5 å¾—åˆ°å…¨éƒ¨é­”æ³•
+SHIFTéµ+0 è¯å“æ•°é‡å¢žåŠ 
 

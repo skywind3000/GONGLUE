@@ -1,10 +1,10 @@
-African Safari��ʳƷ��ࣩ
+African Safari（食品大亨）
 
-HUGEGUNS�����޵�ҩ 
-VULTURE������ģʽ 
-SPAWNALL��������Ⱥ 
-XRAY������Ⱥ�Ķ���˺ɱ 
-HGWELLS=���� 
-FLAGALL��ȡ�����ж������ϵı�� 
-FLAGEVERY�������ж������ϱ�� 
-GPS������㵱ǰλ��
+HUGEGUNS＝无限弹药 
+VULTURE＝飞行模式 
+SPAWNALL＝制造兽群 
+XRAY＝看成群的动物撕杀 
+HGWELLS=隐形 
+FLAGALL＝取消所有动物身上的标记 
+FLAGEVERY＝在所有动物身上标记 
+GPS＝标记你当前位置

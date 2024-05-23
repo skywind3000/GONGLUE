@@ -1,19 +1,19 @@
 Anvil
 
-ÔÚC:\ANVIL>ÏÂÊäÈëD:\ANVIL\DATA\C_ANVIL£¨ÈôÔØÈëÓ²ÅÌÎªD£¬Ôò¸ÄÎªD_ANVIL£©¡£µÈÆÁÄ»³öÏÖÒÔÏÂÑ¶Ï¢ÇëÊäÈëÃÜÂë£¨ÃÜÂë±ØÐëÊÇÐ¡Ð´£©
+åœ¨C:\ANVIL>ä¸‹è¾“å…¥D:\ANVIL\DATA\C_ANVILï¼ˆè‹¥è½½å…¥ç¡¬ç›˜ä¸ºDï¼Œåˆ™æ”¹ä¸ºD_ANVILï¼‰ã€‚ç­‰å±å¹•å‡ºçŽ°ä»¥ä¸‹è®¯æ¯è¯·è¾“å…¥å¯†ç ï¼ˆå¯†ç å¿…é¡»æ˜¯å°å†™ï¼‰
 Enter Password:huangchihkai6951007436338
 Use this password for all encrypted files (Y / N ):Y
 Anvil.exe already exists.Overwrite:Yes / No / All / Quit:Y
-ÕâÑù½øÈëÓÎÏ·£¬¾ÍÄÜÊ¹ÓÃÏÂÁÐÃÜ¼¼£º
-K µÐÈËÈ«Ãð
-W Ä§·¨Ôö¼Ó
-F »»ÈËÎï
-f ÇÐ»»ÈËÎï×´Ì¬
-m ÇÐ»»ÈËÎï±íÇé
-e ÏÔÊ¾ÎäÆ÷¾­ÑéµãÊý
-E ÏÔÊ¾Ä§·¨¾­ÑéµãÊý
-n ÎäÆ÷¾­ÑéµãÊý+1000
-N Ä§·¨¾­ÑéµãÊý+500
-q ·¨Êõ+1000¡¢ÉúÃü+500
-F12 ´©Ç½Êõ¿ª¹Ø
-ALT+F7 ±Ê¼Ç±¾Ð´Âú
+è¿™æ ·è¿›å…¥æ¸¸æˆï¼Œå°±èƒ½ä½¿ç”¨ä¸‹åˆ—å¯†æŠ€ï¼š
+K æ•Œäººå…¨ç­
+W é­”æ³•å¢žåŠ 
+F æ¢äººç‰©
+f åˆ‡æ¢äººç‰©çŠ¶æ€
+m åˆ‡æ¢äººç‰©è¡¨æƒ…
+e æ˜¾ç¤ºæ­¦å™¨ç»éªŒç‚¹æ•°
+E æ˜¾ç¤ºé­”æ³•ç»éªŒç‚¹æ•°
+n æ­¦å™¨ç»éªŒç‚¹æ•°+1000
+N é­”æ³•ç»éªŒç‚¹æ•°+500
+q æ³•æœ¯+1000ã€ç”Ÿå‘½+500
+F12 ç©¿å¢™æœ¯å¼€å…³
+ALT+F7 ç¬”è®°æœ¬å†™æ»¡

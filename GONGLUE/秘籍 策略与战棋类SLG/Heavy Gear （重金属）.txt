@@ -1,7 +1,7 @@
-Heavy Gear £¨ÖØ½ğÊô£©
+Heavy Gear ï¼ˆé‡é‡‘å±ï¼‰
 
-ÓÎÏ·½øĞĞÖĞ£¬°´ÏÂCtrl+Alt+Shift¼ü£¬ÊäÈëÏÂÁĞÃÜÂë£º
-bedouinprince =ÎŞµĞ
-checkmatein2 =Ó®µÃÊ¤Àû
-hesbackandhesgotagun =µ¯Ò©ÎŞÏŞ
+æ¸¸æˆè¿›è¡Œä¸­ï¼ŒæŒ‰ä¸‹Ctrl+Alt+Shifté”®ï¼Œè¾“å…¥ä¸‹åˆ—å¯†ç ï¼š
+bedouinprince =æ— æ•Œ
+checkmatein2 =èµ¢å¾—èƒœåˆ©
+hesbackandhesgotagun =å¼¹è¯æ— é™
 

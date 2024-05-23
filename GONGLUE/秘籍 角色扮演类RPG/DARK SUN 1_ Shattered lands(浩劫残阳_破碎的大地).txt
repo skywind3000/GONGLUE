@@ -1,9 +1,9 @@
-DARK SUN 1_ Shattered lands(ºÆ½Ù²ÐÑô_ÆÆËéµÄ´óµØ)
+DARK SUN 1_ Shattered lands(æµ©åŠ«æ®‹é˜³_ç ´ç¢Žçš„å¤§åœ°)
 
-¼üÈë¡°dsun -k911¡±Æô¶¯ÓÎÏ·£¬²¢ÔÚÓÎÏ·ÖÐÊäÈëÏÂÁÐ×Ö´®£º
+é”®å…¥â€œdsun -k911â€å¯åŠ¨æ¸¸æˆï¼Œå¹¶åœ¨æ¸¸æˆä¸­è¾“å…¥ä¸‹åˆ—å­—ä¸²ï¼š
 
-t£¨Éý¼¶£©
-m£¨»Ö¸´Ä§Á¦£©
-Alt+f2£¨Ôö¼Ó¹¥»÷Á¦v
-Alt+f4£¨Ñ§Ï°ËùÓÐ·¨Êõ£©
+tï¼ˆå‡çº§ï¼‰
+mï¼ˆæ¢å¤é­”åŠ›ï¼‰
+Alt+f2ï¼ˆå¢žåŠ æ”»å‡»åŠ›v
+Alt+f4ï¼ˆå­¦ä¹ æ‰€æœ‰æ³•æœ¯ï¼‰
 

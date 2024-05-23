@@ -1,10 +1,10 @@
 Half-Life_ Opposing
 
-�á�hl.exe -dev -console -game gearbox���İ취�������Ϳ���ʹ
-��������� 
-IMPULSE 101 - ��ҩ������ȫ��
-/GOD - �ϵ�ģʽ
-/NOCLIP - ���Դ�ǽ/����
-/MAP xxxx - ����ͼ�ĵص�xxxx
-/GIVE xxxx - ����Ʒxxxx 
+用“hl.exe -dev -console -game gearbox”的办法启动，就可以使
+用以下命令： 
+IMPULSE 101 - 弹药和武器全满
+/GOD - 上帝模式
+/NOCLIP - 可以穿墙/飞行
+/MAP xxxx - 到地图的地点xxxx
+/GIVE xxxx - 给物品xxxx 
 

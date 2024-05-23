@@ -1,76 +1,76 @@
-°ëËÀ²»»î
+åŠæ­»ä¸æ´»
 
-ÔËĞĞÓÎÏ·Ê±ÓÃÃüÁîĞĞ¡°hl.exe -console¡±£¬½øÈëºó°´¡°~¡±¼üºô³ö¿ØÖÆÌ¨£¬ÊäÈë¡°sv_cheats 1¡±´ò¿ª×÷±×Ä£Ê½¡£ÖØĞÂµ÷ÈëÒ»¸öÓÎÏ·£¬È»ºóÊäÈëÒÔÏÂÃØ¼¼£º 
+è¿è¡Œæ¸¸æˆæ—¶ç”¨å‘½ä»¤è¡Œâ€œhl.exe -consoleâ€ï¼Œè¿›å…¥åæŒ‰â€œ~â€é”®å‘¼å‡ºæ§åˆ¶å°ï¼Œè¾“å…¥â€œsv_cheats 1â€æ‰“å¼€ä½œå¼Šæ¨¡å¼ã€‚é‡æ–°è°ƒå…¥ä¸€ä¸ªæ¸¸æˆï¼Œç„¶åè¾“å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š 
 
-¡¡¡¡ËµÃ÷ ÃØ¼¼ 
-¡¡¡¡ÎŞµĞ /god 
-¡¡¡¡»ñµÃËùÓĞÎäÆ÷ºÍµ¯Ò© /impulse 101 
-¡¡¡¡´©Ç½ /noclip 
-¡¡¡¡Ñ¡µØÍ¼ /map [µØÍ¼Ãû] 
-¡¡¡¡»ñµÃÎïÆ· /give [ÎïÆ·Ãû] 
+ã€€ã€€è¯´æ˜ ç§˜æŠ€ 
+ã€€ã€€æ— æ•Œ /god 
+ã€€ã€€è·å¾—æ‰€æœ‰æ­¦å™¨å’Œå¼¹è¯ /impulse 101 
+ã€€ã€€ç©¿å¢™ /noclip 
+ã€€ã€€é€‰åœ°å›¾ /map [åœ°å›¾å] 
+ã€€ã€€è·å¾—ç‰©å“ /give [ç‰©å“å] 
 
-¡¡¡¡×¢£º»ñµÃÎïÆ·ÃØ¼¼ÔÚÃüÁîĞĞĞë¼üÈë hl.exe -dev -console 
+ã€€ã€€æ³¨ï¼šè·å¾—ç‰©å“ç§˜æŠ€åœ¨å‘½ä»¤è¡Œé¡»é”®å…¥ hl.exe -dev -console 
 
-¡¡¡¡µØÍ¼Ãû³ÆÁĞ±í: 
+ã€€ã€€åœ°å›¾åç§°åˆ—è¡¨: 
 
-¡¡¡¡µ¥ÈËÓÎÏ· 
+ã€€ã€€å•äººæ¸¸æˆ 
 
-¡¡¡¡¶àÈËÓÎÏ·/¶ÔÕ½Ä£Ê½ 
-¡¡¡¡boot_camp 
-¡¡¡¡bounce 
-¡¡¡¡datacore 
-¡¡¡¡lambda_bunker 
-¡¡¡¡snark_pit 
-¡¡¡¡stalkyard 
-¡¡¡¡subtransit 
-¡¡¡¡undertow 
-¡¡¡¡Hazard course 
+ã€€ã€€å¤šäººæ¸¸æˆ/å¯¹æˆ˜æ¨¡å¼ 
+ã€€ã€€boot_camp 
+ã€€ã€€bounce 
+ã€€ã€€datacore 
+ã€€ã€€lambda_bunker 
+ã€€ã€€snark_pit 
+ã€€ã€€stalkyard 
+ã€€ã€€subtransit 
+ã€€ã€€undertow 
+ã€€ã€€Hazard course 
 
-¡¡¡¡t0a0 
-¡¡¡¡t0a0a 
-¡¡¡¡t0a0b 
-¡¡¡¡t0a0b1 
-¡¡¡¡t0a0b2 
-¡¡¡¡t0a0c 
-¡¡¡¡t0a0d 
+ã€€ã€€t0a0 
+ã€€ã€€t0a0a 
+ã€€ã€€t0a0b 
+ã€€ã€€t0a0b1 
+ã€€ã€€t0a0b2 
+ã€€ã€€t0a0c 
+ã€€ã€€t0a0d 
 
-¡¡¡¡ÎïÆ·Ãû³ÆÁĞ±í£º 
-¡¡¡¡item_airtank 
-¡¡¡¡item_antidote 
-¡¡¡¡item_battery 
-¡¡¡¡item_healthkit 
-¡¡¡¡item_longjump 
-¡¡¡¡item_security 
-¡¡¡¡item_sodacan 
-¡¡¡¡item_suit 
-¡¡¡¡ammo_357 
-¡¡¡¡ammo_9mmAR 
-¡¡¡¡ammo_9mmbox 
-¡¡¡¡ammo_9mmclip 
-¡¡¡¡ammo_ARgrenades 
-¡¡¡¡ammo_buckshot 
-¡¡¡¡ammo_crossbow 
-¡¡¡¡ammo_egonclip 
-¡¡¡¡ammo_gaussclip 
-¡¡¡¡ammo_glockclip 
-¡¡¡¡ammo_mp5clip 
-¡¡¡¡ammo_mp5grenades 
-¡¡¡¡ammo_rpgclip 
-¡¡¡¡weapon_357 
-¡¡¡¡weapon_9mmAR 
-¡¡¡¡weapon_9mmhandgun 
-¡¡¡¡weapon_crossbow 
-¡¡¡¡weapon_crowbar 
-¡¡¡¡weapon_egon 
-¡¡¡¡weapon_gauss 
-¡¡¡¡weapon_glock 
-¡¡¡¡weapon_handgrenade 
-¡¡¡¡weapon_hornetgun 
-¡¡¡¡weapon_mp5 
-¡¡¡¡weapon_python 
-¡¡¡¡weapon_rpg 
-¡¡¡¡weapon_satchel 
-¡¡¡¡weapon_shotgun 
-¡¡¡¡weapon_snark 
-¡¡¡¡weapon_tripmine 
+ã€€ã€€ç‰©å“åç§°åˆ—è¡¨ï¼š 
+ã€€ã€€item_airtank 
+ã€€ã€€item_antidote 
+ã€€ã€€item_battery 
+ã€€ã€€item_healthkit 
+ã€€ã€€item_longjump 
+ã€€ã€€item_security 
+ã€€ã€€item_sodacan 
+ã€€ã€€item_suit 
+ã€€ã€€ammo_357 
+ã€€ã€€ammo_9mmAR 
+ã€€ã€€ammo_9mmbox 
+ã€€ã€€ammo_9mmclip 
+ã€€ã€€ammo_ARgrenades 
+ã€€ã€€ammo_buckshot 
+ã€€ã€€ammo_crossbow 
+ã€€ã€€ammo_egonclip 
+ã€€ã€€ammo_gaussclip 
+ã€€ã€€ammo_glockclip 
+ã€€ã€€ammo_mp5clip 
+ã€€ã€€ammo_mp5grenades 
+ã€€ã€€ammo_rpgclip 
+ã€€ã€€weapon_357 
+ã€€ã€€weapon_9mmAR 
+ã€€ã€€weapon_9mmhandgun 
+ã€€ã€€weapon_crossbow 
+ã€€ã€€weapon_crowbar 
+ã€€ã€€weapon_egon 
+ã€€ã€€weapon_gauss 
+ã€€ã€€weapon_glock 
+ã€€ã€€weapon_handgrenade 
+ã€€ã€€weapon_hornetgun 
+ã€€ã€€weapon_mp5 
+ã€€ã€€weapon_python 
+ã€€ã€€weapon_rpg 
+ã€€ã€€weapon_satchel 
+ã€€ã€€weapon_shotgun 
+ã€€ã€€weapon_snark 
+ã€€ã€€weapon_tripmine 
 

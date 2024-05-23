@@ -1,64 +1,64 @@
-Need for Speed 4_ High Stakes£¨¼«Æ··É³µ4£º¹Â×¢Ò»ÖÀ£©
+Need for Speed 4_ High Stakesï¼ˆæžå“é£žè½¦4ï¼šå­¤æ³¨ä¸€æŽ·ï¼‰
 
-ÃÔÄãÓÎÏ·¸´»î½Ú²Êµ©µÃµ½·½·¨£º
-¿ªÊ¼ÓÎÏ·£¬µã»÷¡°credits¡±Í¼±ê£¬½øÈëÏÂÒ»²ã»­ÃæºóÔÚ»­Ãæ¶¥²¿µÄÏÂÀ­²Ëµ¥ÖÐ½«È±Ê¡µÄÎÄ×Ö£¨text£©ÏÔÊ¾¸ÄÎªÕÕÆ¬ÏÔÊ¾£¨photos£©£¬È»ºó²»Í£µØÓÃÊó±êµã»÷³öÏÖµÄÕÕÆ¬µÈµ½Í£ÏÂÀ´£¬±ã»á³öÏÖÒ»¸öÃûÎª¡°µã»÷ÕÕÆ¬£¨Click the photo£©¡±µÄÃÔÄãÓÎÏ·¡£ÕâÊÇÒ»¸ö¿¼ÑéÄã·´Ó¦Á¦µÄÓÎÏ·£¬ºÜÓÐÒâË¼£¬²¢ÇÒ»¹¿ÉÒÔ±£ÁôÄãµÄ×î¸ßÓÎÏ·¼ÍÂ¼¡£ 
+è¿·ä½ æ¸¸æˆå¤æ´»èŠ‚å½©æ—¦å¾—åˆ°æ–¹æ³•ï¼š
+å¼€å§‹æ¸¸æˆï¼Œç‚¹å‡»â€œcreditsâ€å›¾æ ‡ï¼Œè¿›å…¥ä¸‹ä¸€å±‚ç”»é¢åŽåœ¨ç”»é¢é¡¶éƒ¨çš„ä¸‹æ‹‰èœå•ä¸­å°†ç¼ºçœçš„æ–‡å­—ï¼ˆtextï¼‰æ˜¾ç¤ºæ”¹ä¸ºç…§ç‰‡æ˜¾ç¤ºï¼ˆphotosï¼‰ï¼Œç„¶åŽä¸åœåœ°ç”¨é¼ æ ‡ç‚¹å‡»å‡ºçŽ°çš„ç…§ç‰‡ç­‰åˆ°åœä¸‹æ¥ï¼Œä¾¿ä¼šå‡ºçŽ°ä¸€ä¸ªåä¸ºâ€œç‚¹å‡»ç…§ç‰‡ï¼ˆClick the photoï¼‰â€çš„è¿·ä½ æ¸¸æˆã€‚è¿™æ˜¯ä¸€ä¸ªè€ƒéªŒä½ ååº”åŠ›çš„æ¸¸æˆï¼Œå¾ˆæœ‰æ„æ€ï¼Œå¹¶ä¸”è¿˜å¯ä»¥ä¿ç•™ä½ çš„æœ€é«˜æ¸¸æˆçºªå½•ã€‚ 
 
-ÓÃÒÔÏÂÃû×Ö×÷ÄãµÄÃû×Ö£º
+ç”¨ä»¥ä¸‹åå­—ä½œä½ çš„åå­—ï¼š
 
-Hotrod Ì©Ì¹
-Hotrod Flash »ÃÓ°³µ
-Whirly Ö±Éý»ú
-Bigoven ´ó°ô¾¯²ì³µ
-Nfs_pd ¸ü¶àµÄ¾¯³µ
+Hotrod æ³°å¦
+Hotrod Flash å¹»å½±è½¦
+Whirly ç›´å‡æœº
+Bigoven å¤§æ£’è­¦å¯Ÿè½¦
+Nfs_pd æ›´å¤šçš„è­¦è½¦
 
-ÓÎÏ·ÖÐÊäÈëÒÔÏÂÃØ¼¼£º
-ACAR ½±³µ¡£
-ALLTIERS ´ò¿ªËùÓÐTiers 
-BCAR ½±³µ
-BUY Ãâ·ÑÂò³µ
-CARS µÃµ½ËùÓÐ³µ
-CCAR ½±³µ
-DCOP ½±ÈÈÁ¦ÅÜ³µ
-ECOP ½±ÈÈÁ¦ÅÜ³µ
-FCOP ½±ÈÈÁ¦ÅÜ³µ
-GATES ¼ÓÄãµÄÇ®
-GOFAST Éý¼¶ÒýÇæ
-MADLAND ¶ÔÊÖÊÇ³¬ÈË°¡¡£
-MONKEY Éý¼¶×Ô¶¯
-Trans MOON ½µµÍµØÇòÒýÁ¦
-TP # ¿ªÔËÊä³µ£¨#Îª0£­15¼äµÄÊý£©
+æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š
+ACAR å¥–è½¦ã€‚
+ALLTIERS æ‰“å¼€æ‰€æœ‰Tiers 
+BCAR å¥–è½¦
+BUY å…è´¹ä¹°è½¦
+CARS å¾—åˆ°æ‰€æœ‰è½¦
+CCAR å¥–è½¦
+DCOP å¥–çƒ­åŠ›è·‘è½¦
+ECOP å¥–çƒ­åŠ›è·‘è½¦
+FCOP å¥–çƒ­åŠ›è·‘è½¦
+GATES åŠ ä½ çš„é’±
+GOFAST å‡çº§å¼•æ“Ž
+MADLAND å¯¹æ‰‹æ˜¯è¶…äººå•Šã€‚
+MONKEY å‡çº§è‡ªåŠ¨
+Trans MOON é™ä½Žåœ°çƒå¼•åŠ›
+TP # å¼€è¿è¾“è½¦ï¼ˆ#ä¸º0ï¼15é—´çš„æ•°ï¼‰
 UP0 No Upgrades (Career)
 UP1 1st Upgrade (Career)
 UP2 2nd Upgrade (Career)
 UP3 3rd Upgrade (Career) 
 
 
-½ðÇ®´ó·¨£º 
+é‡‘é’±å¤§æ³•ï¼š 
 
-ÓÃ16½øÖÆ±à¼­Æ÷´ò¿ªÎ»ÓÚ¡°C:\Program Files\Electronic Arts\Need For Speed High Stakes\SaveData\DB¡±Ä¿Â¼ÏÂµÄPLAYERS.CDBÎÄ¼þ£¬ÔÚÆ«ÒÆµØÖ·3E´¦°ÑÖµ¸Ä³ÉFF£¬ÔÚ3F´¦°ÑÖµ¸Ä³É55£¬ÄÇÃ´£¬ÄãÒÑ¾­ÓµÓÐÁË3500000000£¨35ÒÚ£©ÃÀÔª¡£ 
+ç”¨16è¿›åˆ¶ç¼–è¾‘å™¨æ‰“å¼€ä½äºŽâ€œC:\Program Files\Electronic Arts\Need For Speed High Stakes\SaveData\DBâ€ç›®å½•ä¸‹çš„PLAYERS.CDBæ–‡ä»¶ï¼Œåœ¨åç§»åœ°å€3Eå¤„æŠŠå€¼æ”¹æˆFFï¼Œåœ¨3Få¤„æŠŠå€¼æ”¹æˆ55ï¼Œé‚£ä¹ˆï¼Œä½ å·²ç»æ‹¥æœ‰äº†3500000000ï¼ˆ35äº¿ï¼‰ç¾Žå…ƒã€‚ 
 
-cars =»ñµÃËùÓÐµÄÒþ²Ø³µÖÖ
-tracks =»ñµÃËùÓÐµÄÒþ²ØÈüµÀ
-acar =Òþ²Ø³µÖÖ
-bcar =Òþ²Ø³µÖÖ
-ccar =Òþ²Ø³µÖÖ
-dcar =Òþ²Ø¾¯³µ
-ecar =Òþ²Ø¾¯³µ
-fcar =Òþ²Ø¾¯³µ
-gofast =Ìá¸ßÅÜ³µËÙ¶È(¾ºËÙÄ£Ê½)
-monkey =ÌáÉý×Ô¶¯²¨²¨ÏäÐÔ(¾ºËÙÄ£Ê½)
-moon =¼õµÍµØÐÄÎüÁ¦£¬³µÉí¸üÇá(¾ºËÙÄ£Ê½)
-madland =³¬Ç¿µÐÈË(¾ºËÙÄ£Ê½) 
-buy =Ãâ·Ñ¹ºÂò(ÉúÑÄÄ£Ê½) 
-up0 =²»Éý¼¶¸üÐÂ
-rades(ÉúÑÄÄ£Ê½)
-up1 =µÚÒ»²ãÉý¼¶¸üÐÂ(ÉúÑÄÄ£Ê½)
-up2 =µÚ¶þ²ãÉý¼¶¸üÐÂ(ÉúÑÄÄ£Ê½) 
-up3 =µÚÈý²ãÉý¼¶¸üÐÂ(ÉúÑÄÄ£Ê½)
-gates =Ôö¼ÓÏÖ½ð(ÉúÑÄÄ£Ê½) 
-alltiers =¿ªÆôËùÓÐµÈ¼¶ 
-outmyway =Ð§¹û²»Ã÷
-resetya =Ð§¹û²»Ã÷ 
+cars =èŽ·å¾—æ‰€æœ‰çš„éšè—è½¦ç§
+tracks =èŽ·å¾—æ‰€æœ‰çš„éšè—èµ›é“
+acar =éšè—è½¦ç§
+bcar =éšè—è½¦ç§
+ccar =éšè—è½¦ç§
+dcar =éšè—è­¦è½¦
+ecar =éšè—è­¦è½¦
+fcar =éšè—è­¦è½¦
+gofast =æé«˜è·‘è½¦é€Ÿåº¦(ç«žé€Ÿæ¨¡å¼)
+monkey =æå‡è‡ªåŠ¨æ³¢æ³¢ç®±æ€§(ç«žé€Ÿæ¨¡å¼)
+moon =å‡ä½Žåœ°å¿ƒå¸åŠ›ï¼Œè½¦èº«æ›´è½»(ç«žé€Ÿæ¨¡å¼)
+madland =è¶…å¼ºæ•Œäºº(ç«žé€Ÿæ¨¡å¼) 
+buy =å…è´¹è´­ä¹°(ç”Ÿæ¶¯æ¨¡å¼) 
+up0 =ä¸å‡çº§æ›´æ–°
+rades(ç”Ÿæ¶¯æ¨¡å¼)
+up1 =ç¬¬ä¸€å±‚å‡çº§æ›´æ–°(ç”Ÿæ¶¯æ¨¡å¼)
+up2 =ç¬¬äºŒå±‚å‡çº§æ›´æ–°(ç”Ÿæ¶¯æ¨¡å¼) 
+up3 =ç¬¬ä¸‰å±‚å‡çº§æ›´æ–°(ç”Ÿæ¶¯æ¨¡å¼)
+gates =å¢žåŠ çŽ°é‡‘(ç”Ÿæ¶¯æ¨¡å¼) 
+alltiers =å¼€å¯æ‰€æœ‰ç­‰çº§ 
+outmyway =æ•ˆæžœä¸æ˜Ž
+resetya =æ•ˆæžœä¸æ˜Ž 
 
-ÊäÈë tp00 ÖÁ tp15 ÃÜÂë =¿É¼ÝÊ»¹«Â·ÉÏµÄ½Ö³µ
-Èç¹ûÃØ¼¼ÎÞÐ§£¬¿É¿¼ÂÇÓÃÕâ¸öconfig.datÎÄ¼þ£¬¿ÉÄÜÓÐÓÃ´¦£¬ÔÚ±¾Õ¾²¹¶¡À¸Ä¿ÖÐÓÐÏÂÔØ
+è¾“å…¥ tp00 è‡³ tp15 å¯†ç  =å¯é©¾é©¶å…¬è·¯ä¸Šçš„è¡—è½¦
+å¦‚æžœç§˜æŠ€æ— æ•ˆï¼Œå¯è€ƒè™‘ç”¨è¿™ä¸ªconfig.datæ–‡ä»¶ï¼Œå¯èƒ½æœ‰ç”¨å¤„ï¼Œåœ¨æœ¬ç«™è¡¥ä¸æ ç›®ä¸­æœ‰ä¸‹è½½

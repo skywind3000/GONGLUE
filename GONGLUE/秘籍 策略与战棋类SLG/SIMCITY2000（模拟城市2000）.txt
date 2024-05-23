@@ -1,53 +1,53 @@
-SIMCITY2000��ģ�����2000��
+SIMCITY2000（模拟城市2000）
 
-Windows��
-buddamus �� Toolbar ����ʱ������Ч
-CASS �õ�250Ԫ������㾭���þͻ�õ�FIRE STORM��
-DAMM��DARM �� HELL �� HECK�� ��� RESIDENTIAL �������� CHURCH ���Ӷ�������ĳ��У���Ҫ�˳�SIMCITY ���ٽ��롣
-FISH ��һ����Ϣ�㣨1��1��
-FUND �������BOND ������о��ʷ��֣�3��X �� 95��
-gilmartin ���������Ƿ���Ҫ A MILITARY BASE��3��X �� 95��
-imacheat �õ���Ǯ
-joke �������
-MEMY ��ʾ���㻹�ж��ٽ�Ǯ
-moses ��ˮֹͣ
-mrsoleary ���ֿ�ʼ
-NOAH ��ˮ��ʼ��3��X �� 95��
-negative payments ÿ����Եõ�һ�Ŵ�֧Ʊ
-OIVAIZMIR ����DEBUG �˵���95��
-PORM ��һ���˻�˵��I can��t get enouth!"
-PRISCILLA ����DEBUG �˵���3��X��
-swearwords �ܿ����к����鷢��
-TORG �õ�����Ǯ��1��1 �汾��
-vaudeville �������
-VERS ��ʾ�����������Ϸ�汾�Ƕ���
-��DOS ��SIMCITY��Ŀ¼�����룺DEBUG����������SC2���ٻس�
-���� ��E 127 7F�����ٻس�
-���� ��W�����ٻس�
-���� ��Q�����ٻس�
-������Ϸʱ����ͻᷢ�����޸ĵĳ��м��������Ǯ
-ardo �����롰 porntipsguzzardo �����������ٵõ���ʮ��
-porntipsguzzardo ���õ���ʮ��
-ע�������ʹ���˸�Ǯ���ؼ����п��ܵõ�һЩ�����������С�ġ�
-Mac 1.1��
-�򿪵�ͼ���ڣ�������������ڲ���Ȼ�󰴡�pirn ����ѡ Status
-���ڣ������롰 TOPSGUZZARDO ����
-PORNTIPSGUZZARDO ����ؼ�����ͬDOS �棬�������д����
-���飨�ʺ�����һЩ�汾��
-1���� SYMBOL �ڹ�·��ʱ�ƻ���·��Ϳ��Գ�����Щ�����
-RADIATION SYMBOLS��
-2�������³���ʱ�á�FUND�������֣���ÿ���õ�����Ǯ��
-3�������һ����ǰ���ⱻ�����´�ϡ��밴���²�����
-�Ȱ���CTRL + F3����ѡ��Rotate Counterclockwise"ͼ�꣬ѡ
-���½ǵġ�RESIZE BOX����ѡ��STATUS�����ڣ�ѡ��POPULATION ��
-ͼ�꣬ѡ���д��ڵ���һ�ط����ص���DISASTER���˵������ѡ
-��RIOTS�� �� ��NO DISASTERS�� �м��ˮƽ�ߡ�
-4��Ϊ�������ӳ�ˮ�����밴���²�����
-�ڽ���ѡһ��3 * 3 �ĵ����������Ľ�һ̨��ˮ����Ϊ��ͨ�ϵ磬��Ҫ
-�����κι��ӡ������Ժ���ῴ��ˮ�������Ϣ����ʱ��GRAPH ������ѡ��WATER �����Ѿ��ﵽ���ֵ�ˡ�
-5��ɾ���˽����󻹱���ԭ�ȵ��˿���Ŀ���밴���²�����
-ѡȡ WATER �� TREE ͼ���е� TREE ����סSHIFT �����ţ��ٰ���������
-�����ذѹ����������ɾ���Ķ����ϣ�Ȼ��ſ����������ͻῴ��������ʧ��
-�� VIEW TOOL �����Ƿ��ɾ��������ɾ���Ķ���������Ǿͳɹ��ˡ�
-����һ���ؼ���֪��ʲô�ô�����Ҳһ��д���ɣ�POMO
+Windows版
+buddamus 在 Toolbar 激活时按才有效
+CASS 得到250元，如果你经常用就会得到FIRE STORM。
+DAMM（DARM 或 HELL 或 HECK） 你的 RESIDENTIAL 区将会变成 CHURCH ，从而保护你的城市，但要退出SIMCITY 后再进入。
+FISH 给一个信息你（1。1）
+FUND 输入后发行BOND ，你会有精彩发现（3。X 或 95）
+gilmartin 它会问你是否想要 A MILITARY BASE（3。X 或 95）
+imacheat 得到金钱
+joke 天气变好
+MEMY 显示出你还有多少金钱
+moses 洪水停止
+mrsoleary 火灾开始
+NOAH 洪水开始（3。X 或 95）
+negative payments 每年可以得到一张大支票
+OIVAIZMIR 开启DEBUG 菜单（95）
+PORM 有一个人会说“I can’t get enouth!"
+PRISCILLA 开启DEBUG 菜单（3。X）
+swearwords 能看见有何事情发生
+TORG 得到许多钱（1。1 版本）
+vaudeville 天气变好
+VERS 显示你正在玩的游戏版本是多少
+在DOS 的SIMCITY子目录下输入：DEBUG（城市名）SC2，再回车
+输入 “E 127 7F”，再回车
+输入 “W”，再回车
+输入 “Q”，再回车
+进入游戏时，你就会发现所修改的城市己有许多金钱
+ardo 在输入“ porntipsguzzardo ”后键入可以再得到五十万
+porntipsguzzardo 将得到五十万
+注：如果你使用了改钱的秘技，有可能得到一些不良后果，请小心。
+Mac 1.1版
+打开地图窗口，用鼠标点击窗口内部，然后按“pirn ”，选 Status
+窗口，再输入“ TOPSGUZZARDO ”。
+PORNTIPSGUZZARDO 这个秘技作用同DOS 版，但必须大写输入
+经验（适合其中一些版本）
+1，当 SYMBOL 在公路上时破坏公路你就可以除掉那些讨厌的
+RADIATION SYMBOLS。
+2，在玩新城市时用“FUND”做名字，你每年会得到许多钱。
+3，在完成一件事前避免被其它事打断。请按以下步骤做
+先按“CTRL + F3”，选“Rotate Counterclockwise"图标，选
+右下角的“RESIZE BOX”，选“STATUS”窗口，选“POPULATION ”
+图标，选城市窗口的任一地方，关掉“DISASTER”菜单，最后选
+“RIOTS” 和 “NO DISASTERS” 中间的水平线。
+4，为城市增加抽水机。请按以下步骤做
+在郊区选一块3 * 3 的地区，在中心建一台抽水机，为它通上电，不要
+连接任何管子。不久以后，你会看到水不足的信息。这时在GRAPH 窗口中选择WATER ，它已经达到最大值了。
+5，删除了建筑后还保留原先的人口数目，请按以下步骤做
+选取 WATER 或 TREE 图标中的 TREE ，按住SHIFT 键不放，再按鼠标左键。
+慢慢地把光标拉到你想删除的东西上，然后放开鼠标左键，就会看到它己消失。
+用 VIEW TOOL 看看是否仅删除了你欲删除的东西，如果是就成功了。
+以下一个秘技不知有什么用处，但也一并写出吧：POMO
 

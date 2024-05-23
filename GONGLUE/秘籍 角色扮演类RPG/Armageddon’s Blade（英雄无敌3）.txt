@@ -1,13 +1,13 @@
-Armageddon¡¯s Blade£¨Ó¢ÐÛÎÞµÐ3£©
+Armageddonâ€™s Bladeï¼ˆè‹±é›„æ— æ•Œ3ï¼‰
 
-ÔÚÓÎÏ·ÖÐ°´TAB¼ü£¬È»ºóÊäÈëÏÂÁÐÃÜ¼¼£º 
+åœ¨æ¸¸æˆä¸­æŒ‰TABé”®ï¼Œç„¶åŽè¾“å…¥ä¸‹åˆ—å¯†æŠ€ï¼š 
 
-nwcwatto - ¼Ó10Íò½ð×Ó£¬Ã¿Ïî×ÊÔ´+100
-nwcdarthmaul - ÔÚÃ¿¸ö¿ÕµÄ´ø±ø¸ñ¼Ó10¸öblack nights
-nwcr2d2 - ¸øÑ¡ÖÐÓ¢ÐÛËùÓÐÕ½Õù»úÆ÷
-nwccoruscant - ËùÓÐ³ÇÕòÉýµ½¶¥¼¶
-nwcquigon - Ñ¡ÖÐµÄÓ¢ÐÛÉýÒ»¼¶
-nwcpodracer - Ñ¡ÖÐÓ¢ÐÛÎÞÏÞÒÆ¶¯µã
-nwcpadme - ÔÚÃ¿¸ö¿Õ´ø±ø¸ñ¼Ó5¸ö´óÌìÊ¹
+nwcwatto - åŠ 10ä¸‡é‡‘å­ï¼Œæ¯é¡¹èµ„æº+100
+nwcdarthmaul - åœ¨æ¯ä¸ªç©ºçš„å¸¦å…µæ ¼åŠ 10ä¸ªblack nights
+nwcr2d2 - ç»™é€‰ä¸­è‹±é›„æ‰€æœ‰æˆ˜äº‰æœºå™¨
+nwccoruscant - æ‰€æœ‰åŸŽé•‡å‡åˆ°é¡¶çº§
+nwcquigon - é€‰ä¸­çš„è‹±é›„å‡ä¸€çº§
+nwcpodracer - é€‰ä¸­è‹±é›„æ— é™ç§»åŠ¨ç‚¹
+nwcpadme - åœ¨æ¯ä¸ªç©ºå¸¦å…µæ ¼åŠ 5ä¸ªå¤§å¤©ä½¿
 
 

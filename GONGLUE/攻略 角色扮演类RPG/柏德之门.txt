@@ -1,171 +1,171 @@
-°ØµÂÖ®ÃÅ
+æŸå¾·ä¹‹é—¨
 
-Ò»¿ªÊ¼ÄãÕ¾ÔÚÂÃ¹ÝµÄÃÅ¿Ú£¬ÏÈ½øÃÅ£¬ºÍÀÏ°åÌ¸»°ºó£¬ÔÚËûÄÇÂò¼þÒÂ·þºÍÍ·¿ø°Ñ×Ô¼º×°±¸ÆðÀ´¡£ÔÚ¸½½üÄã»á¿´¼ûÁ½Ãû´©×ÅÂÌÅÛµÄÈË£¬ËûÃÇ»á¸æËßÄãÒ»Ð©ÓÎÏ·µÄ»ù±¾²Ù×÷ºÍÕ½¶·µÄ×¢ÒâÊÂÏî¡£ÔÚ³ÇÀïÄã¿ÉÒÔ½Óµ½Ò»Ð©Ð¡ÈÎÎñ£¬¶¼ºÜ¼òµ¥£¬ÊÇ¹©ÄãÊìÏ¤²Ù×÷ÓÃµÄ£¬×ö²»×ö¶¼ÎÞËùÎ½¡£µ±Äã¾õµÄ²î²»¶àºó£¬È¥³ÇÖÐÐÄµÄÍ¼Êé¹Ý£¬ÓëÄãÑø¸¸½»Ì¸ºó¾ÍÄÜÌ¤ÉÏÕ÷Í¾ÁË¡£
+ä¸€å¼€å§‹ä½ ç«™åœ¨æ—…é¦†çš„é—¨å£ï¼Œå…ˆè¿›é—¨ï¼Œå’Œè€æ¿è°ˆè¯åŽï¼Œåœ¨ä»–é‚£ä¹°ä»¶è¡£æœå’Œå¤´ç›”æŠŠè‡ªå·±è£…å¤‡èµ·æ¥ã€‚åœ¨é™„è¿‘ä½ ä¼šçœ‹è§ä¸¤åç©¿ç€ç»¿è¢çš„äººï¼Œä»–ä»¬ä¼šå‘Šè¯‰ä½ ä¸€äº›æ¸¸æˆçš„åŸºæœ¬æ“ä½œå’Œæˆ˜æ–—çš„æ³¨æ„äº‹é¡¹ã€‚åœ¨åŸŽé‡Œä½ å¯ä»¥æŽ¥åˆ°ä¸€äº›å°ä»»åŠ¡ï¼Œéƒ½å¾ˆç®€å•ï¼Œæ˜¯ä¾›ä½ ç†Ÿæ‚‰æ“ä½œç”¨çš„ï¼Œåšä¸åšéƒ½æ— æ‰€è°“ã€‚å½“ä½ è§‰çš„å·®ä¸å¤šåŽï¼ŒåŽ»åŸŽä¸­å¿ƒçš„å›¾ä¹¦é¦†ï¼Œä¸Žä½ å…»çˆ¶äº¤è°ˆåŽå°±èƒ½è¸ä¸Šå¾é€”äº†ã€‚
 
-µÚÒ»ÕÂ£º
+ç¬¬ä¸€ç« ï¼š
 
-Äã»á¼ûµ½ÄãµÄµÚÒ»¸ö»ï°éIMOEN,×îºÃ»¹ÊÇÈÃËý¼ÓÈë£¬ÒòÎªËýµÄµÁÔô¼¼ÇÉºÍ¹­¼ý¶ÔÄã½ñºóµÄÃ°ÏÕÊÇºÜÓÐÓÃµÄ¡£ÔÚÕâ¸öÇøÓòÀïÄã»¹ÄÜÕÒµ½XarºÍMontaron£¬ËûÃÇÏëÇëÄã°ïËûÃÇÈ¥Nashkel£¬Èç¹ûÄãÍ¬Òâ£¬ËûÃÇ¾Í»á¼ÓÈëÄãµÄ¶ÓÎé¡£ÔÚÀë¿ªÕâÆ¬ÇøÓòÇ°£¬±ðÍüÁËµ½ÄãÑø¸¸±»É±µÄµØ·½£¬ÄÇÓÐÒ»Ð©ÎïÆ·¿É¼ð£¬»¹ÓÐÄãÑø¸¸µÄÒ»·âÐÅ¡£
+ä½ ä¼šè§åˆ°ä½ çš„ç¬¬ä¸€ä¸ªä¼™ä¼´IMOEN,æœ€å¥½è¿˜æ˜¯è®©å¥¹åŠ å…¥ï¼Œå› ä¸ºå¥¹çš„ç›—è´¼æŠ€å·§å’Œå¼“ç®­å¯¹ä½ ä»ŠåŽçš„å†’é™©æ˜¯å¾ˆæœ‰ç”¨çš„ã€‚åœ¨è¿™ä¸ªåŒºåŸŸé‡Œä½ è¿˜èƒ½æ‰¾åˆ°Xarå’ŒMontaronï¼Œä»–ä»¬æƒ³è¯·ä½ å¸®ä»–ä»¬åŽ»Nashkelï¼Œå¦‚æžœä½ åŒæ„ï¼Œä»–ä»¬å°±ä¼šåŠ å…¥ä½ çš„é˜Ÿä¼ã€‚åœ¨ç¦»å¼€è¿™ç‰‡åŒºåŸŸå‰ï¼Œåˆ«å¿˜äº†åˆ°ä½ å…»çˆ¶è¢«æ€çš„åœ°æ–¹ï¼Œé‚£æœ‰ä¸€äº›ç‰©å“å¯æ‹£ï¼Œè¿˜æœ‰ä½ å…»çˆ¶çš„ä¸€å°ä¿¡ã€‚
 
- Àë¿ªÕâ£¬ÔÚÏÂÒ»ÇøÓòÄã»áÓö¼ûÒ»¸öºìÒÂºìÃ±½ÐElminsterµÄÀÏÈË£¬Ëû»á¸æËßÄãÒ»Ð©ÊÂ£¬Ì¸ÍêºóÏòÉÏ×ß¾ÍÀ´µ½ÁËFriendly Arm Inn¡£ÔÚ½ø³ÇÇ°ÏÈ´æ¸öÅÌ¡£ÔÚ³ÇÀïµÄÂÃ¹ÝÇ°µÄ½×ÌÝÉÏÄã»áÓö¼ûÒ»ÃûÒªÉ±ÄãµÄÉÍ½ðÁÔÊÖ¡£ÒÔÄãÏÖÔÚµÄ¶ÎÎ»Ïë¸ÉµôËû¿ÉÄÜ»á±È½ÏÀ§ÄÑ¡£½¨ÒéÄãÏÈÕ¾µ½ÉñÃí¸½½ü¼¸ÃûÊØÎÀÉíÇ°£¬È»ºóÔÙÉÏÇ°°ÑËûÒýÏÂÀ´¡£µÈËû¿ªÊ¼Ê©·¨£¬Äã¾Í¸Ï½ôÁï½øÅÔ±ßµÄÉñÃíÀï£¬ÔÙ´ÓÓÒ±ßµÄ±ßÃÅ³öÀ´£¬¶ãÔÚÒ»ÅÔ¿´ÄÇÐ©ÊØÎÀ°ÑÄÇÈË¸Éµô¡£
+ ç¦»å¼€è¿™ï¼Œåœ¨ä¸‹ä¸€åŒºåŸŸä½ ä¼šé‡è§ä¸€ä¸ªçº¢è¡£çº¢å¸½å«Elminsterçš„è€äººï¼Œä»–ä¼šå‘Šè¯‰ä½ ä¸€äº›äº‹ï¼Œè°ˆå®ŒåŽå‘ä¸Šèµ°å°±æ¥åˆ°äº†Friendly Arm Innã€‚åœ¨è¿›åŸŽå‰å…ˆå­˜ä¸ªç›˜ã€‚åœ¨åŸŽé‡Œçš„æ—…é¦†å‰çš„é˜¶æ¢¯ä¸Šä½ ä¼šé‡è§ä¸€åè¦æ€ä½ çš„èµé‡‘çŒŽæ‰‹ã€‚ä»¥ä½ çŽ°åœ¨çš„æ®µä½æƒ³å¹²æŽ‰ä»–å¯èƒ½ä¼šæ¯”è¾ƒå›°éš¾ã€‚å»ºè®®ä½ å…ˆç«™åˆ°ç¥žåº™é™„è¿‘å‡ åå®ˆå«èº«å‰ï¼Œç„¶åŽå†ä¸Šå‰æŠŠä»–å¼•ä¸‹æ¥ã€‚ç­‰ä»–å¼€å§‹æ–½æ³•ï¼Œä½ å°±èµ¶ç´§æºœè¿›æ—è¾¹çš„ç¥žåº™é‡Œï¼Œå†ä»Žå³è¾¹çš„è¾¹é—¨å‡ºæ¥ï¼Œèº²åœ¨ä¸€æ—çœ‹é‚£äº›å®ˆå«æŠŠé‚£äººå¹²æŽ‰ã€‚
 
-°ÚÆ½ÄÇÉ±ÊÖºó£¬À´µ½ÂÃ¹Ý£¬ÔÚÄÇÀïÄã»áÓö¼ûÁ½ÃûÍ¬JaheiraºÍKhalid£¨¾ÍÊÇÄãÑø¸¸½ÐÄãÕÒµÄÅóÓÑ£©£¬´øÉÏËûÃÇÄã¾Í¿ÉÒÔÈ¥BeregestÁË¡£ 
+æ‘†å¹³é‚£æ€æ‰‹åŽï¼Œæ¥åˆ°æ—…é¦†ï¼Œåœ¨é‚£é‡Œä½ ä¼šé‡è§ä¸¤ååŒJaheiraå’ŒKhalidï¼ˆå°±æ˜¯ä½ å…»çˆ¶å«ä½ æ‰¾çš„æœ‹å‹ï¼‰ï¼Œå¸¦ä¸Šä»–ä»¬ä½ å°±å¯ä»¥åŽ»Beregestäº†ã€‚ 
 
-ÆäËûÈÎÎñ£º
-1.ÔÚ³ÇÃÅ×ó±ßµÄ·¿×ÓÀï×¡×ÅJoia£¬Ëý»áÇëÄã°ïËýÈ¥Friendly Arm InnÉÏ·½´ÓÒ»ÈºHobgoblins ÊÖÀïÄÃ»ØËýµÄ½äÖ¸¡£
+å…¶ä»–ä»»åŠ¡ï¼š
+1.åœ¨åŸŽé—¨å·¦è¾¹çš„æˆ¿å­é‡Œä½ç€Joiaï¼Œå¥¹ä¼šè¯·ä½ å¸®å¥¹åŽ»Friendly Arm Innä¸Šæ–¹ä»Žä¸€ç¾¤Hobgoblins æ‰‹é‡Œæ‹¿å›žå¥¹çš„æˆ’æŒ‡ã€‚
 
-2.ÔÚÂÃ¹Ý¶þÂ¥£¬ÓÐ¸ö½ÐUnsheyµÄ°«ÈË»á½ÐÄã°ïËû´ÓÒ»¸öogreÄÇÄÃ»ØËûµÄÑü´ø£¨girdle£©£¬ÄÇ¹ÖÎï¾ÍÔÚÄãÓö¼ûElminsterµÄÄÇÆ¬ÇøÓòÀï¡£
+2.åœ¨æ—…é¦†äºŒæ¥¼ï¼Œæœ‰ä¸ªå«Unsheyçš„çŸ®äººä¼šå«ä½ å¸®ä»–ä»Žä¸€ä¸ªogreé‚£æ‹¿å›žä»–çš„è…°å¸¦ï¼ˆgirdleï¼‰ï¼Œé‚£æ€ªç‰©å°±åœ¨ä½ é‡è§Elminsterçš„é‚£ç‰‡åŒºåŸŸé‡Œã€‚
 
-3.ÔÚÂÃ¹ÝÈýÂ¥£¬Ò»¸ö½ÐLandrinsµÄ°«ÈËÈÃÄãÈ¥ËýÔÚ BeregostµÄ¼ÒÀïÉ±¹âÀïÃæµÄÖ©Öë£¨spiders£©²¢È¡»ØËýÕÉ·òµÄÐ¬×Ó£¨ Boots£©ºÍ¾ÆÆ¿£¨Wine £©¡£Ð¡ÐÄ£¬ÄãÒª´øÐ©½â¶¾Ò©£¬ÄÇÐ©Ö©Öë»áÈÃÄãÖÐ¶¾µÄ¡£
+3.åœ¨æ—…é¦†ä¸‰æ¥¼ï¼Œä¸€ä¸ªå«Landrinsçš„çŸ®äººè®©ä½ åŽ»å¥¹åœ¨ Beregostçš„å®¶é‡Œæ€å…‰é‡Œé¢çš„èœ˜è››ï¼ˆspidersï¼‰å¹¶å–å›žå¥¹ä¸ˆå¤«çš„éž‹å­ï¼ˆ Bootsï¼‰å’Œé…’ç“¶ï¼ˆWine ï¼‰ã€‚å°å¿ƒï¼Œä½ è¦å¸¦äº›è§£æ¯’è¯ï¼Œé‚£äº›èœ˜è››ä¼šè®©ä½ ä¸­æ¯’çš„ã€‚
 
-ÔÚBeregostµÄÂ·¿Ú£¬Ò»¸öÅ©·ò»áÏòÄã½éÉÜÕâÀïµÄÇé¿ö£¬Äã×îºÃ¶àÎÊÎÊ¡£Àë¿ªBeregostÏòÏÂ×ß£¬Äã¾Í¿ÉÒÔÈ¥NashkelÁË¡£½øÈëNashkelºó£¬µÚÒ»ÕÂ¾Í½áÊøÁË¡£
+åœ¨Beregostçš„è·¯å£ï¼Œä¸€ä¸ªå†œå¤«ä¼šå‘ä½ ä»‹ç»è¿™é‡Œçš„æƒ…å†µï¼Œä½ æœ€å¥½å¤šé—®é—®ã€‚ç¦»å¼€Beregostå‘ä¸‹èµ°ï¼Œä½ å°±å¯ä»¥åŽ»Nashkeläº†ã€‚è¿›å…¥NashkelåŽï¼Œç¬¬ä¸€ç« å°±ç»“æŸäº†ã€‚
 
-ÆäËûÈÎÎñ£º
+å…¶ä»–ä»»åŠ¡ï¼š
 
-1.ÔÚÕò×ÓÖÐÐÄµÄ·¿×ÓBurning WizardÇ°Äã»áÓö¼ûGarrick,ËûÏëÈÃÄã°ïËûµÄ¹ÍÖ÷Silke½â¾öÒ»Ð©ÉúÒâÉÏµÄÂé·³¡£²»¹ýµÈÄÇÐ©ºÍSilke×öÉúÒâµÄÈËÀ´ºó£¬Äã·¢ÏÖSilke²»¹ýÊÇÏëºÚ³ÔºÚ£¬ÎÒÊÇÑ¡Ôñ¸ÉµôSilke£¨Äã¿ÉÒÔÏÈ°ÑSilke Î§ÆðÀ´ÔÙÓëËý¶Ô»°£¬ÕâÑùÔÚ¿ª´òÊ±ÄÜ°ÑËýÑ¸ËÙ½â¾ö£©¡£
+1.åœ¨é•‡å­ä¸­å¿ƒçš„æˆ¿å­Burning Wizardå‰ä½ ä¼šé‡è§Garrick,ä»–æƒ³è®©ä½ å¸®ä»–çš„é›‡ä¸»Silkeè§£å†³ä¸€äº›ç”Ÿæ„ä¸Šçš„éº»çƒ¦ã€‚ä¸è¿‡ç­‰é‚£äº›å’ŒSilkeåšç”Ÿæ„çš„äººæ¥åŽï¼Œä½ å‘çŽ°Silkeä¸è¿‡æ˜¯æƒ³é»‘åƒé»‘ï¼Œæˆ‘æ˜¯é€‰æ‹©å¹²æŽ‰Silkeï¼ˆä½ å¯ä»¥å…ˆæŠŠSilke å›´èµ·æ¥å†ä¸Žå¥¹å¯¹è¯ï¼Œè¿™æ ·åœ¨å¼€æ‰“æ—¶èƒ½æŠŠå¥¹è¿…é€Ÿè§£å†³ï¼‰ã€‚
 
-2.ÔÚÕò×Ó¶«±ßµÄÒ»¼ä·¿×ÓÀïÄãÄÜÕÒµ½Mirianne£¬Ëý»áÇëÄã°ïËýÕÒËýµÄÕÉ·òRoe£¬Äã¿ÉÒÔÔÚÈ¥NashkelµÄÂ·ÉÏ´ÓÒ»ÈºÇ¿µÁÉíÉÏÕÒµ½RoeµÄÐÅ£¬°ÑÐÅ½»¸øMirianneÄãÄÜµÃµ½Ò»Ã¶²»´íµÄ½äÖ¸¡£
+2.åœ¨é•‡å­ä¸œè¾¹çš„ä¸€é—´æˆ¿å­é‡Œä½ èƒ½æ‰¾åˆ°Mirianneï¼Œå¥¹ä¼šè¯·ä½ å¸®å¥¹æ‰¾å¥¹çš„ä¸ˆå¤«Roeï¼Œä½ å¯ä»¥åœ¨åŽ»Nashkelçš„è·¯ä¸Šä»Žä¸€ç¾¤å¼ºç›—èº«ä¸Šæ‰¾åˆ°Roeçš„ä¿¡ï¼ŒæŠŠä¿¡äº¤ç»™Mirianneä½ èƒ½å¾—åˆ°ä¸€æžšä¸é”™çš„æˆ’æŒ‡ã€‚
 
-3.ÔÚFeldepostsÂÃ¹ÝÀïMarlÕýÔÚ´óÄÖ£¬Äã¿ÉÒÔÉ±ÁËËû»òÊÇÈ°ËµËûÈÃËûÀä¾²ÏÂÀ´¡£È°ËµËûËùµÃ¾­ÑéÖµ½Ï¸ß¡£
+3.åœ¨Feldepostsæ—…é¦†é‡ŒMarlæ­£åœ¨å¤§é—¹ï¼Œä½ å¯ä»¥æ€äº†ä»–æˆ–æ˜¯åŠè¯´ä»–è®©ä»–å†·é™ä¸‹æ¥ã€‚åŠè¯´ä»–æ‰€å¾—ç»éªŒå€¼è¾ƒé«˜ã€‚
 
-4.ÔÚJovial JugglerÂÃ¹ÝÀïÒ»¸ö½ÐBjornsonµÄÓÎÏÀ»áÈÃÄãÈ¥BeregostÎ÷ÄÏ·½ÏûÃðÒ»Èºhalf-ogres£¬Íê³ÉºóÄÜµÃµ½Ò»¸ö²»´íµÄ¶Ü¡£
+4.åœ¨Jovial Juggleræ—…é¦†é‡Œä¸€ä¸ªå«Bjornsonçš„æ¸¸ä¾ ä¼šè®©ä½ åŽ»Beregostè¥¿å—æ–¹æ¶ˆç­ä¸€ç¾¤half-ogresï¼Œå®ŒæˆåŽèƒ½å¾—åˆ°ä¸€ä¸ªä¸é”™çš„ç›¾ã€‚
 
-5.Beregost×ó±ßÊÇHigh Hedge£¬ÔÚÄÇ×¡×Å¸öÄ§·¨Ê¦Thalantyr£¬Ëû»áÂôÒ»Ð©²»´íµÄÎïÆ·¡£²»¹ýÄÇÓÐÐí¶à÷¼÷ÃºÍ¹·£¬Èç¹ûÄãµÈ¼¶²»¹»¸ßµÄ»°»¹ÊÇÏÈ±ðÈ¥ÁË¡£´ËÍâÔÚËûµÄÉñÃíÀï»¹ÓÐÁ½Ãû¾ÞÈË,¸ã²»ºÃËûÃÇ¿ÉÊÇ»áÏòÄã½ø¹¥µÄ(Ò»¸öÖµ2000µã¾­ÑéÖµ).ÔÚHighHedgeµÄÏÂ·½µÄÒ°ÍâÄã»¹ÄÜÕÒµ½Ò»Ö»»áËµ»°µÄ¼¦£¬°ÑËü´ø¸øThalantyr£¬Äã»á·¢ÏÖÄÇ¼¦Ô­À´ÊÇThalantyrµÄÍ½µÜMelicamp£¬Òª°ÑËû»Ö¸´Ô­×´ÄãÐèÒª¸øThalantyr¸ãÒ»¸ö÷¼÷ÃÍ·£¬¶øÇÒ¾ÍËãÓÐÁËÄÇÍæÒÕ¶ùThalantyr»¹²»Ò»¶¨³É¹¦£¬¿´ÄãÔËÆøÁË¡£
+5.Beregostå·¦è¾¹æ˜¯High Hedgeï¼Œåœ¨é‚£ä½ç€ä¸ªé­”æ³•å¸ˆThalantyrï¼Œä»–ä¼šå–ä¸€äº›ä¸é”™çš„ç‰©å“ã€‚ä¸è¿‡é‚£æœ‰è®¸å¤šéª·é«…å’Œç‹—ï¼Œå¦‚æžœä½ ç­‰çº§ä¸å¤Ÿé«˜çš„è¯è¿˜æ˜¯å…ˆåˆ«åŽ»äº†ã€‚æ­¤å¤–åœ¨ä»–çš„ç¥žåº™é‡Œè¿˜æœ‰ä¸¤åå·¨äºº,æžä¸å¥½ä»–ä»¬å¯æ˜¯ä¼šå‘ä½ è¿›æ”»çš„(ä¸€ä¸ªå€¼2000ç‚¹ç»éªŒå€¼).åœ¨HighHedgeçš„ä¸‹æ–¹çš„é‡Žå¤–ä½ è¿˜èƒ½æ‰¾åˆ°ä¸€åªä¼šè¯´è¯çš„é¸¡ï¼ŒæŠŠå®ƒå¸¦ç»™Thalantyrï¼Œä½ ä¼šå‘çŽ°é‚£é¸¡åŽŸæ¥æ˜¯Thalantyrçš„å¾’å¼ŸMelicampï¼Œè¦æŠŠä»–æ¢å¤åŽŸçŠ¶ä½ éœ€è¦ç»™Thalantyræžä¸€ä¸ªéª·é«…å¤´ï¼Œè€Œä¸”å°±ç®—æœ‰äº†é‚£çŽ©è‰ºå„¿Thalantyrè¿˜ä¸ä¸€å®šæˆåŠŸï¼Œçœ‹ä½ è¿æ°”äº†ã€‚
 
-6.´ÓHigh Hedge×ó±ßÀë¿ª,À´µ½º£±ßÓÐÒ»¸ö¿´ÆðÀ´ËÆºõÆÄÎªÓÑºÃµÄº£ÑýShoal theNereid,²»¹ýÖ»ÒªÄãµÄÈËÉÏÇ°ÓëËýËµ»°(Ç§Íò±ðÅÉÄãµÄÖ÷½ÇÉÏ,·ñÔò¾ÍµÃÌá¼ÇÂ¼ÁË),ÄÇÈË¾Í»á±»ËýÎÇËÀ(¾ÍºÃÈÃÄã¶ÓÀï×îÇ¿×³µÄÈËºÍËý¶Ô»°,ÀýÈçKhalid ),´óÅ­Ö®ÏÂ,ÄãÁ¢¿ÌÖ¸»ÓÈ«Ìå¶ÓÔ±ÏòËýÕ¹¿ª¹¥»÷.ÔÚ´òÉËËýÖ®ºóShoal the Nereid¾Í»áÏóÄãÇóÈÄ.²¢»á´ðÓ¦³¢ÊÔ¸´»îÄãÄÇÎ»¿ÉÁ¯µÄ¶ÓÔ±(Èç¹ûËû×ã¹»Ç¿×³ÊÇ»á³É¹¦µÄ).ÕâÊ±Droth³öÏÖ,Shoal theNereid»á¸æËßÄãÕâÒ»ÇÐ¶¼ÊÇËûµÄÒõÄ±.ÄÕÐß³ÉÅ­µÄËû»áÏòÄãÕ¹¿ª¹¥»÷,¸ÉµôËû°É(Ð¡ÐÄ,Õâ¼Ò»ï»¹ÊÇÍ¦À÷º¦µÄ).ÔÚÕâÆ¬ÇøÓò»¹ÓÐ¼¸¸öº£Ñý,Ò»¸ö2000µã¾­ÑéÖµ.
+6.ä»ŽHigh Hedgeå·¦è¾¹ç¦»å¼€,æ¥åˆ°æµ·è¾¹æœ‰ä¸€ä¸ªçœ‹èµ·æ¥ä¼¼ä¹Žé¢‡ä¸ºå‹å¥½çš„æµ·å¦–Shoal theNereid,ä¸è¿‡åªè¦ä½ çš„äººä¸Šå‰ä¸Žå¥¹è¯´è¯(åƒä¸‡åˆ«æ´¾ä½ çš„ä¸»è§’ä¸Š,å¦åˆ™å°±å¾—æè®°å½•äº†),é‚£äººå°±ä¼šè¢«å¥¹å»æ­»(å°±å¥½è®©ä½ é˜Ÿé‡Œæœ€å¼ºå£®çš„äººå’Œå¥¹å¯¹è¯,ä¾‹å¦‚Khalid ),å¤§æ€’ä¹‹ä¸‹,ä½ ç«‹åˆ»æŒ‡æŒ¥å…¨ä½“é˜Ÿå‘˜å‘å¥¹å±•å¼€æ”»å‡».åœ¨æ‰“ä¼¤å¥¹ä¹‹åŽShoal the Nereidå°±ä¼šè±¡ä½ æ±‚é¥¶.å¹¶ä¼šç­”åº”å°è¯•å¤æ´»ä½ é‚£ä½å¯æ€œçš„é˜Ÿå‘˜(å¦‚æžœä»–è¶³å¤Ÿå¼ºå£®æ˜¯ä¼šæˆåŠŸçš„).è¿™æ—¶Drothå‡ºçŽ°,Shoal theNereidä¼šå‘Šè¯‰ä½ è¿™ä¸€åˆ‡éƒ½æ˜¯ä»–çš„é˜´è°‹.æ¼ç¾žæˆæ€’çš„ä»–ä¼šå‘ä½ å±•å¼€æ”»å‡»,å¹²æŽ‰ä»–å§(å°å¿ƒ,è¿™å®¶ä¼™è¿˜æ˜¯æŒºåŽ‰å®³çš„).åœ¨è¿™ç‰‡åŒºåŸŸè¿˜æœ‰å‡ ä¸ªæµ·å¦–,ä¸€ä¸ª2000ç‚¹ç»éªŒå€¼.
 
-7.ÔÚBeregostÓÒ±ßÊÇÉñÃí£¬ÔÚÄãÔÚµÚËÄÕÂÉ±ÁËÁúºÍBassilusºó¿ÉÒÔ»Øµ½ÕâÀ´ÁìÉÍ¡£ÔÚÉñÃí¸½½ü»¹ÓÐÐí¶àÀÇ£¬ÆÄºÝ¡£ÌØ±ðÊÇÎüÑª¹íÀÇ£¨Ò»¸ö2000µã¾­ÑéÖµ£©£¬Èç¹ûÄãÃ»¸ö4£¬5¶ÎµÄ»¹ÊÇ±ðÈ¥ËÍËÀÁË¡£
+7.åœ¨Beregostå³è¾¹æ˜¯ç¥žåº™ï¼Œåœ¨ä½ åœ¨ç¬¬å››ç« æ€äº†é¾™å’ŒBassilusåŽå¯ä»¥å›žåˆ°è¿™æ¥é¢†èµã€‚åœ¨ç¥žåº™é™„è¿‘è¿˜æœ‰è®¸å¤šç‹¼ï¼Œé¢‡ç‹ ã€‚ç‰¹åˆ«æ˜¯å¸è¡€é¬¼ç‹¼ï¼ˆä¸€ä¸ª2000ç‚¹ç»éªŒå€¼ï¼‰ï¼Œå¦‚æžœä½ æ²¡ä¸ª4ï¼Œ5æ®µçš„è¿˜æ˜¯åˆ«åŽ»é€æ­»äº†ã€‚
 
-µÚ¶þÕÂ£º
+ç¬¬äºŒç« ï¼š
 
-ÔÚNashkelµÄÂÃ¹ÝÀïÄã»áÓÐÉÍ½ðÁÔÈËÔÚÄÇµÈÄã£¬×îºÃÏÈ×öÐ©×¼±¸¡£ÔÚÉñÃíÃÅ¿ÚÕÒµ½Berrun Ghastkill£¬Ëû»áÇëÄã°ïÃ¦µ÷²éNashkelµÄ¿ó¾®Àï³öÁËÊ²Ã´ÎÊÌâ¡£À´µ½¿ó¾®£¨Nashkel Mines)£¬ÔÚ×îºóÒ»²ãÄã»á¼ûµ½Mulahey£¬¸ÉµôËûÄã¾ÍÍê³ÉÕâÕÂÁË¡£¶Ô¸¶ËûÊ±£¬Äã¶ÓÎéÀï×îºÃÓÐÈË»áHOLD PERSONÄ§·¨£¬ºÃ°ÑËû¶¨×¡¡£´ËÍâ×îºÃ»¹ÄÜÓÃHORRORÕâÖÖÄ§·¨°ÑÄÇÐ©Ð¡¹ÖÎï¸Ï×ß£¬ÕâÑù»áºÃ´òÐ©¡£
+åœ¨Nashkelçš„æ—…é¦†é‡Œä½ ä¼šæœ‰èµé‡‘çŒŽäººåœ¨é‚£ç­‰ä½ ï¼Œæœ€å¥½å…ˆåšäº›å‡†å¤‡ã€‚åœ¨ç¥žåº™é—¨å£æ‰¾åˆ°Berrun Ghastkillï¼Œä»–ä¼šè¯·ä½ å¸®å¿™è°ƒæŸ¥Nashkelçš„çŸ¿äº•é‡Œå‡ºäº†ä»€ä¹ˆé—®é¢˜ã€‚æ¥åˆ°çŸ¿äº•ï¼ˆNashkel Mines)ï¼Œåœ¨æœ€åŽä¸€å±‚ä½ ä¼šè§åˆ°Mulaheyï¼Œå¹²æŽ‰ä»–ä½ å°±å®Œæˆè¿™ç« äº†ã€‚å¯¹ä»˜ä»–æ—¶ï¼Œä½ é˜Ÿä¼é‡Œæœ€å¥½æœ‰äººä¼šHOLD PERSONé­”æ³•ï¼Œå¥½æŠŠä»–å®šä½ã€‚æ­¤å¤–æœ€å¥½è¿˜èƒ½ç”¨HORRORè¿™ç§é­”æ³•æŠŠé‚£äº›å°æ€ªç‰©èµ¶èµ°ï¼Œè¿™æ ·ä¼šå¥½æ‰“äº›ã€‚
 
-ÆäËûÈÎÎñ£º
+å…¶ä»–ä»»åŠ¡ï¼š
 
-1.ÔÚNashkelÖÐÑëÄã»áÓö¼ûMinsc£¬Ëû»áÇëÄã°ïËû´ÓGnoll Stronghold¾È³öËûµÄÅóÓÑDynhera¡£Õâ¸öÈÎÎñÊÇÓÐÊ±¼äÏÞÖÆµÄ£¬µ±Minsc¿ªÊ¼±§Ô¹ÎªÊ²Ã´ÄãÀÏ²»È¥¾ÈDynheraÊ±£¬Äã×îºÃ¸Ï¿ìÈ¥¾ÈËý£¬·ñÔòMinsc»áºÍÄã·´Ä¿Îª³ðµÄ¡£Gnoll Stronghold¹ÖÎï²»ÉÙ£¬²»¹ý»¹ºÃ¶Ô¸¶£¬Ö»Òª±ð¸øËûÃÇÎ§¹¥¾Í¿ÉÒÔÁË¡£Í¬Ê±ÔÚÕò×ÓÀïÄã»¹»áÓö¼ûEdwin£¨Ò»¸öÄ§·¨Ê¦£©£¬ËûµÄÒªÇóÊÇÉ±ËÀDynhera£¬ÒªÔõÃ´×ö¾Í¿´Äã×Ô¼ºÁË¡£
+1.åœ¨Nashkelä¸­å¤®ä½ ä¼šé‡è§Minscï¼Œä»–ä¼šè¯·ä½ å¸®ä»–ä»ŽGnoll Strongholdæ•‘å‡ºä»–çš„æœ‹å‹Dynheraã€‚è¿™ä¸ªä»»åŠ¡æ˜¯æœ‰æ—¶é—´é™åˆ¶çš„ï¼Œå½“Minscå¼€å§‹æŠ±æ€¨ä¸ºä»€ä¹ˆä½ è€ä¸åŽ»æ•‘Dynheraæ—¶ï¼Œä½ æœ€å¥½èµ¶å¿«åŽ»æ•‘å¥¹ï¼Œå¦åˆ™Minscä¼šå’Œä½ åç›®ä¸ºä»‡çš„ã€‚Gnoll Strongholdæ€ªç‰©ä¸å°‘ï¼Œä¸è¿‡è¿˜å¥½å¯¹ä»˜ï¼Œåªè¦åˆ«ç»™ä»–ä»¬å›´æ”»å°±å¯ä»¥äº†ã€‚åŒæ—¶åœ¨é•‡å­é‡Œä½ è¿˜ä¼šé‡è§Edwinï¼ˆä¸€ä¸ªé­”æ³•å¸ˆï¼‰ï¼Œä»–çš„è¦æ±‚æ˜¯æ€æ­»Dynheraï¼Œè¦æ€Žä¹ˆåšå°±çœ‹ä½ è‡ªå·±äº†ã€‚
 
-2.ÔÚÂÃ¹ÝÓÒ±ßµÄÉÌµêÀï£¬µêÖ÷»áÒªÇóÄã°ïËûÅª¹ý¶¬µÄÀÇµÄÃ«Æ¤£¨ÄÇÖÖ°×É«µÄÀÇ£©¡£
+2.åœ¨æ—…é¦†å³è¾¹çš„å•†åº—é‡Œï¼Œåº—ä¸»ä¼šè¦æ±‚ä½ å¸®ä»–å¼„è¿‡å†¬çš„ç‹¼çš„æ¯›çš®ï¼ˆé‚£ç§ç™½è‰²çš„ç‹¼ï¼‰ã€‚
 
-3.ÔÚNashkelÓÒÏÂ½ÇµÄÒ»¼ä·¿×ÓÀïÓÐÒ»¸öÅ®ÈËÏëÕÒËýÔÚ¿ó¾®¹¤×÷µÄÕÉ·ò£¬Äã¿ÉÒÔÔÚ¿ó¿ÓÀïµÄÒ»¾ßÊ¬ÌåÉÏÕÒµ½Josephs greenstone ring£¬°Ñ½äÖ¸½»»¹¸øÄÇÅ®ÈË¾Í¿ÉÒÔÁË¡£
+3.åœ¨Nashkelå³ä¸‹è§’çš„ä¸€é—´æˆ¿å­é‡Œæœ‰ä¸€ä¸ªå¥³äººæƒ³æ‰¾å¥¹åœ¨çŸ¿äº•å·¥ä½œçš„ä¸ˆå¤«ï¼Œä½ å¯ä»¥åœ¨çŸ¿å‘é‡Œçš„ä¸€å…·å°¸ä½“ä¸Šæ‰¾åˆ°Josephs greenstone ringï¼ŒæŠŠæˆ’æŒ‡äº¤è¿˜ç»™é‚£å¥³äººå°±å¯ä»¥äº†ã€‚
 
-4.ÔÚNashkel×ó±ßµÄÒ°Íâ£¨¿¿º££©ÄãÄÜÕÒµ½Captain of the Guard Brage£¬ËûËÆºõ±»¶ñÄ§¸½ÉíÁË¡£Ñ¡ÔñºÃ¶Ô»°£¨±ðÉ±Ëû£©£¬°ÑËû´ø»ØNashkelµÄÉñÃí£¬ÄãÄÜÕõµ½Ð©¶«Î÷¡£Í¬ÑùÔÚÕâ£¬ÓÐÒ»ÈºÈËÔÚÍÚÒ»¸ö¹ÅÄ¹£¬Äã¿ÉÒÔ´ðÓ¦ÄÇ¹¤Í·°ïËûµÄÃ¦¡£½øµ½¹ÅÄ¹ºó£¬Äã»á·¢ÏÖÄÇÐ©¹¤ÈË¶¼·¢·èÁË£¬°ÑËûÃÇ¸Éµô£¨ºÜÈÝÒ×µÄ£¬²»¹ýÐ¡ÐÄ±ðÉËÁËÄÇ¹¤Í·£©£¬ÄãÄÜµÃµ½²»ÉÙ¾­ÑéÖµ¡£´ËÍâÄã»¹ÄÜÕÒµ½Ò»×ðÊ¯Ïñ£¨idol),²»¹ý³ö¶´ºóÄã»áÓö¼ûÒ»ÃûDoomsayerµÄ¼Ò»ïÏòÄãÒªÄÇÊ¯Ïñ¡£²»¹ÜÄãÈçºÎ»Ø´ðËû¶¼»áÏòÄã½ø¹¥£¬Èç¹ûÄã²»»áÕÙ»½Ò»ÀàµÄÄ§·¨µÄ»°£¬»¹ÊÇÈýÊ®Áù¼Æ×ßÎªÉÏ²ß°É£¨ÄÇØËÆÄºÝ£¬¸ÉµôËûÄãÄÜÕõ4000µã¾­ÑéÖµ£¬Òª´òËû×îºÃ±ðÈÃËû½üÉí£¬ÓÃÕÙ»½Êõ½Ð³öÒ»Ð©¹ÖÎï°ÑËûÎ§ÆðÀ´ÂýÂý´ò£©¡£
+4.åœ¨Nashkelå·¦è¾¹çš„é‡Žå¤–ï¼ˆé æµ·ï¼‰ä½ èƒ½æ‰¾åˆ°Captain of the Guard Brageï¼Œä»–ä¼¼ä¹Žè¢«æ¶é­”é™„èº«äº†ã€‚é€‰æ‹©å¥½å¯¹è¯ï¼ˆåˆ«æ€ä»–ï¼‰ï¼ŒæŠŠä»–å¸¦å›žNashkelçš„ç¥žåº™ï¼Œä½ èƒ½æŒ£åˆ°äº›ä¸œè¥¿ã€‚åŒæ ·åœ¨è¿™ï¼Œæœ‰ä¸€ç¾¤äººåœ¨æŒ–ä¸€ä¸ªå¤å¢“ï¼Œä½ å¯ä»¥ç­”åº”é‚£å·¥å¤´å¸®ä»–çš„å¿™ã€‚è¿›åˆ°å¤å¢“åŽï¼Œä½ ä¼šå‘çŽ°é‚£äº›å·¥äººéƒ½å‘ç–¯äº†ï¼ŒæŠŠä»–ä»¬å¹²æŽ‰ï¼ˆå¾ˆå®¹æ˜“çš„ï¼Œä¸è¿‡å°å¿ƒåˆ«ä¼¤äº†é‚£å·¥å¤´ï¼‰ï¼Œä½ èƒ½å¾—åˆ°ä¸å°‘ç»éªŒå€¼ã€‚æ­¤å¤–ä½ è¿˜èƒ½æ‰¾åˆ°ä¸€å°ŠçŸ³åƒï¼ˆidol),ä¸è¿‡å‡ºæ´žåŽä½ ä¼šé‡è§ä¸€åDoomsayerçš„å®¶ä¼™å‘ä½ è¦é‚£çŸ³åƒã€‚ä¸ç®¡ä½ å¦‚ä½•å›žç­”ä»–éƒ½ä¼šå‘ä½ è¿›æ”»ï¼Œå¦‚æžœä½ ä¸ä¼šå¬å”¤ä¸€ç±»çš„é­”æ³•çš„è¯ï¼Œè¿˜æ˜¯ä¸‰åå…­è®¡èµ°ä¸ºä¸Šç­–å§ï¼ˆé‚£åŽ®é¢‡ç‹ ï¼Œå¹²æŽ‰ä»–ä½ èƒ½æŒ£4000ç‚¹ç»éªŒå€¼ï¼Œè¦æ‰“ä»–æœ€å¥½åˆ«è®©ä»–è¿‘èº«ï¼Œç”¨å¬å”¤æœ¯å«å‡ºä¸€äº›æ€ªç‰©æŠŠä»–å›´èµ·æ¥æ…¢æ…¢æ‰“ï¼‰ã€‚
 
-5.ÔÚNashkelÓÒ±ßµÄcarnivalÀïÄã¿ÉÒÔÕÒµ½Ò»Ãû±»Ê¯»¯µÄÄÁÊ¦£¬ÔÚËý¸½½üÓÐÒ»¸ö°«ÈË»áÂôÄãÒ»¸öÈ¥Ê¯»¯µÄ¾íÖá£¬²»¹ýËû»áÇÃÕ©Äã500Ôª£¬Èç¹ûÔÚÉñÃíÀïÂòÖ»Òª100¶àÔª¡£ÔÚÄÇÄÁÊ¦ÉíÉÏÊ¹ÓÃ¾íÖáºó£¬Äã¾Í¿ÉÒÔÈÃËý¼ÓÈëÄãµÄ¶ÓÎé£¨Èç¹ûÄã¶ÓÎéÀïÃ»ÄÁÊ¦µÄ»°£¬×îºÃÈÃËý¼ÓÈë,ÕâÑù¶ÔÒÔºóµÄÕ½¶·±È½ÏÓÐÀû£©¡£
+5.åœ¨Nashkelå³è¾¹çš„carnivalé‡Œä½ å¯ä»¥æ‰¾åˆ°ä¸€åè¢«çŸ³åŒ–çš„ç‰§å¸ˆï¼Œåœ¨å¥¹é™„è¿‘æœ‰ä¸€ä¸ªçŸ®äººä¼šå–ä½ ä¸€ä¸ªåŽ»çŸ³åŒ–çš„å·è½´ï¼Œä¸è¿‡ä»–ä¼šæ•²è¯ˆä½ 500å…ƒï¼Œå¦‚æžœåœ¨ç¥žåº™é‡Œä¹°åªè¦100å¤šå…ƒã€‚åœ¨é‚£ç‰§å¸ˆèº«ä¸Šä½¿ç”¨å·è½´åŽï¼Œä½ å°±å¯ä»¥è®©å¥¹åŠ å…¥ä½ çš„é˜Ÿä¼ï¼ˆå¦‚æžœä½ é˜Ÿä¼é‡Œæ²¡ç‰§å¸ˆçš„è¯ï¼Œæœ€å¥½è®©å¥¹åŠ å…¥,è¿™æ ·å¯¹ä»¥åŽçš„æˆ˜æ–—æ¯”è¾ƒæœ‰åˆ©ï¼‰ã€‚
 
-6.»¹ÊÇÔÚcarnival£¬ÓÒ±ßµÄÒ»¸öÕÊÅñÀïÓÐÒ»ÃûÎ×Ê¦ZordralÇô½û×ÅÒ»¸öÅ®×ÓBentha£¬ÎÒÊÇÑ¡Ôñ¾ÈËý¡££º£©¸ÉµôÎ×Ê¦ºó£¬ÄÇÅ®×Ó»áÎÊÄãÐèÒªÊ²Ã´±¨³ê£¬Äã¾ÍÑ¡Ê²Ã´¶¼²»Òª°É¡£
+6.è¿˜æ˜¯åœ¨carnivalï¼Œå³è¾¹çš„ä¸€ä¸ªå¸ç¯·é‡Œæœ‰ä¸€åå·«å¸ˆZordralå›šç¦ç€ä¸€ä¸ªå¥³å­Benthaï¼Œæˆ‘æ˜¯é€‰æ‹©æ•‘å¥¹ã€‚ï¼šï¼‰å¹²æŽ‰å·«å¸ˆåŽï¼Œé‚£å¥³å­ä¼šé—®ä½ éœ€è¦ä»€ä¹ˆæŠ¥é…¬ï¼Œä½ å°±é€‰ä»€ä¹ˆéƒ½ä¸è¦å§ã€‚
 
-7.ÔÚ¿óÇøµÄÖÐÑëµØ´øÄã»á¼ûµ½PrismËû¸æËßÄãËûÕýÔÚ×öÒ»¸öÊµÑé£¬¿ÉÊÇÒ»¸ö½ÐGreywolfµÄÇ¿µÁÀÏÀ´ÕÒËûÂé·³£¬ÏëÇëÄã°ïÃ¦½â¾öÕâ¸öÎÊÌâ¡£´ðÓ¦Ëûºó¹ýÒ»»á¶ùÄã¾Í»á¿´µ½Greywolf£¬Õâ¼Ò»ï²»Ì«ºÃ¶Ô¸¶£¬Èç¹ûÄã»áHOLD PERSON£¬×îºÃÓÃÕâÖÖ·¨Êé°ÑËû¶¨×¡¡£¸ÉµôËûÄãÄÜµÃµ½Ò»±ú²»´íµÄ½££¬²»¹ýPrismÔÚ×öÍêÊµÑéºóÒ²ËÀÁË£¬Äã¿ÉÒÔÔÚËûÉíÉÏÕÒµ½Á½¿ÅË®¾§£¬Äã¿ÉÒÔ°ÑË®¾§»¹¸øNashkelÉñÃíÅÔµÄOublek£¬²»¹ýÎÒ¾õµÃ»¹ÊÇÂôÁËºÃ---Ò»¸öË®¾§ÄÜÂô1500Ôª°¡£¡£¡
+7.åœ¨çŸ¿åŒºçš„ä¸­å¤®åœ°å¸¦ä½ ä¼šè§åˆ°Prismä»–å‘Šè¯‰ä½ ä»–æ­£åœ¨åšä¸€ä¸ªå®žéªŒï¼Œå¯æ˜¯ä¸€ä¸ªå«Greywolfçš„å¼ºç›—è€æ¥æ‰¾ä»–éº»çƒ¦ï¼Œæƒ³è¯·ä½ å¸®å¿™è§£å†³è¿™ä¸ªé—®é¢˜ã€‚ç­”åº”ä»–åŽè¿‡ä¸€ä¼šå„¿ä½ å°±ä¼šçœ‹åˆ°Greywolfï¼Œè¿™å®¶ä¼™ä¸å¤ªå¥½å¯¹ä»˜ï¼Œå¦‚æžœä½ ä¼šHOLD PERSONï¼Œæœ€å¥½ç”¨è¿™ç§æ³•ä¹¦æŠŠä»–å®šä½ã€‚å¹²æŽ‰ä»–ä½ èƒ½å¾—åˆ°ä¸€æŸ„ä¸é”™çš„å‰‘ï¼Œä¸è¿‡Prismåœ¨åšå®Œå®žéªŒåŽä¹Ÿæ­»äº†ï¼Œä½ å¯ä»¥åœ¨ä»–èº«ä¸Šæ‰¾åˆ°ä¸¤é¢—æ°´æ™¶ï¼Œä½ å¯ä»¥æŠŠæ°´æ™¶è¿˜ç»™Nashkelç¥žåº™æ—çš„Oublekï¼Œä¸è¿‡æˆ‘è§‰å¾—è¿˜æ˜¯å–äº†å¥½---ä¸€ä¸ªæ°´æ™¶èƒ½å–1500å…ƒå•Šï¼ï¼
 
-8.ÔÚ¿ó¾®Àï»áÓÐÒ»¸ö¿ó¹¤ÒªÄã°ÑÒ»°ÑØ°Ê×½»¸øÏÂ²ãµÄKylees£¬´ËÍâÔÚ¸ÉµôMulaheyºóÔÚËûÉíºóµÄÏä×ÓÀïÄã»áÕÒµ½Ò»°ÑºÜ±ðÖÂµÄ½££¬Õâ°Ñ½£Ö»ÓÐ¸½½üÒ»Ãû±»À§µÄÎ×Ê¦Xan²ÅÄÜÓÃ¡£
+8.åœ¨çŸ¿äº•é‡Œä¼šæœ‰ä¸€ä¸ªçŸ¿å·¥è¦ä½ æŠŠä¸€æŠŠåŒ•é¦–äº¤ç»™ä¸‹å±‚çš„Kyleesï¼Œæ­¤å¤–åœ¨å¹²æŽ‰MulaheyåŽåœ¨ä»–èº«åŽçš„ç®±å­é‡Œä½ ä¼šæ‰¾åˆ°ä¸€æŠŠå¾ˆåˆ«è‡´çš„å‰‘ï¼Œè¿™æŠŠå‰‘åªæœ‰é™„è¿‘ä¸€åè¢«å›°çš„å·«å¸ˆXanæ‰èƒ½ç”¨ã€‚
 
-9.ÔÚÈ¥Gnoll FortressµÄÂ·ÉÏÄã»¹»áÓö¼ûDryad of the Cloudpeaks,Ëý¸æËßÄã)CaldoºÍKrummÏë¿³µôÕâÀïµÄÊ÷,Ï£ÍûÄãÄÜÖÆÖ¹ËûÃÇ.¼ûµ½ÄÇÁ½ÈËºó,Äã±¾ÏëºÃÑÔÏàÈ°,¿ÉËûÃÇÈ´Ìý²»½øÈ¥,Ö»ºÃ°ÑËûÃÇ½â¾öµôÁË.
+9.åœ¨åŽ»Gnoll Fortressçš„è·¯ä¸Šä½ è¿˜ä¼šé‡è§Dryad of the Cloudpeaks,å¥¹å‘Šè¯‰ä½ )Caldoå’ŒKrummæƒ³ç æŽ‰è¿™é‡Œçš„æ ‘,å¸Œæœ›ä½ èƒ½åˆ¶æ­¢ä»–ä»¬.è§åˆ°é‚£ä¸¤äººåŽ,ä½ æœ¬æƒ³å¥½è¨€ç›¸åŠ,å¯ä»–ä»¬å´å¬ä¸è¿›åŽ»,åªå¥½æŠŠä»–ä»¬è§£å†³æŽ‰äº†.
 
-10.ÔÚÈ¥Gnoll FortressµÄÂ·ÉÏ(´ÓGnoll StrongholdÏòÉÏ×ß)Äã»áÓö¼ûÒ»¸ö½ÐAlbertsµÄ¡°Ð¡Å®º¢¡±£¬ËýÏëÈÃÄã°ïËýÕÒËýµÄ³èÎï¡°Ð¡¹·¡±Ruffie£¬¹·¾ÍÔÚÓÒ±ßµÄÁÖ×ÓÀï£¨ÎÒÔõÃ´¿´ÔõÃ´ÏóÖ»ÀÇ£©£¬°Ñ¹·´ø»Ø¸øAlberts£¬Ëý£¨Ëû£¿£©»áËÍ¸øÄãÒ»¸öË®¾§¡£
+10.åœ¨åŽ»Gnoll Fortressçš„è·¯ä¸Š(ä»ŽGnoll Strongholdå‘ä¸Šèµ°)ä½ ä¼šé‡è§ä¸€ä¸ªå«Albertsçš„â€œå°å¥³å­©â€ï¼Œå¥¹æƒ³è®©ä½ å¸®å¥¹æ‰¾å¥¹çš„å® ç‰©â€œå°ç‹—â€Ruffieï¼Œç‹—å°±åœ¨å³è¾¹çš„æž—å­é‡Œï¼ˆæˆ‘æ€Žä¹ˆçœ‹æ€Žä¹ˆè±¡åªç‹¼ï¼‰ï¼ŒæŠŠç‹—å¸¦å›žç»™Albertsï¼Œå¥¹ï¼ˆä»–ï¼Ÿï¼‰ä¼šé€ç»™ä½ ä¸€ä¸ªæ°´æ™¶ã€‚
 
-µÚÈýÕÂ£º
+ç¬¬ä¸‰ç« ï¼š
 
-´Ó¿ó¿ÓµÚËÄ²ãÄã¿ÉÒÔÕÒµ½Ò»¸ö³ö¿ÚÍ¨ÍùÒ°Íâ¡£²»¹ýÔÚÄÇ¿éÒ°µØµÄÉÏ·½ÓÐ¼¸¸öÒªÄãÐÔÃüµÄÉÍ½ðÁÔÊÖ£¬ÔÚÓÒ±ß»¹ÓÐÒ»ÃûÕÙ»½Î×Ê¦£¬¹À¼ÆÒÔÄãÏÖÔÚµÄ¶ÎÎ»Èç¹ûÓö¼ûËûÃÇÒ»¶¨ÊÇËÍËÀ¡£ËùÒÔ»¹ÊÇ¸Ï½ôÀë¿ªÕâÈ¥NashkelÁìÉÍ°É¡£ÔÚNashkelµÄÂÃ¹Ý¸½½ü»¹ÓÐ¼¸ÃûÉÍ½ðÁÔÈË£¬»¹±È½ÏÀ÷º¦£¬½¨ÒéÄãµÈÄÇÐ©ÊØÎÀÑ²Âßµ½ÂÃ¹Ý¸½½üÊ±ÔÙÉÏÈ¥ºÍÄÇÐ©ÈË¶Ô»°£¬ÕâÑùÓÐÊ¿±øµÄ°ïÖú»áºÃ´ò²»ÉÙ¡£
+ä»ŽçŸ¿å‘ç¬¬å››å±‚ä½ å¯ä»¥æ‰¾åˆ°ä¸€ä¸ªå‡ºå£é€šå¾€é‡Žå¤–ã€‚ä¸è¿‡åœ¨é‚£å—é‡Žåœ°çš„ä¸Šæ–¹æœ‰å‡ ä¸ªè¦ä½ æ€§å‘½çš„èµé‡‘çŒŽæ‰‹ï¼Œåœ¨å³è¾¹è¿˜æœ‰ä¸€åå¬å”¤å·«å¸ˆï¼Œä¼°è®¡ä»¥ä½ çŽ°åœ¨çš„æ®µä½å¦‚æžœé‡è§ä»–ä»¬ä¸€å®šæ˜¯é€æ­»ã€‚æ‰€ä»¥è¿˜æ˜¯èµ¶ç´§ç¦»å¼€è¿™åŽ»Nashkelé¢†èµå§ã€‚åœ¨Nashkelçš„æ—…é¦†é™„è¿‘è¿˜æœ‰å‡ åèµé‡‘çŒŽäººï¼Œè¿˜æ¯”è¾ƒåŽ‰å®³ï¼Œå»ºè®®ä½ ç­‰é‚£äº›å®ˆå«å·¡é€»åˆ°æ—…é¦†é™„è¿‘æ—¶å†ä¸ŠåŽ»å’Œé‚£äº›äººå¯¹è¯ï¼Œè¿™æ ·æœ‰å£«å…µçš„å¸®åŠ©ä¼šå¥½æ‰“ä¸å°‘ã€‚
 
-Àë¿ªNashkelµ½Beregost£¬ÔÚFeldpostÂÃ¹ÝµÄ¶þ²ãÄãÕÒµ½Î×Ê¦Tranzig£¬±ÆËûÒ»ÏÂ£¬Ëû¾Í»á¸æËßÄãBandit campµÄÎ»ÖÃ£¬Ö®ºó¿´ÄãÐÄÇé£¬¿ÉÒÔ·Å×ßËû»ò°ÑËû¸Éµô£¨ÎÒÊÇÑ¡Ôñ¸ÉµôËû£¬ÒòÎªÕâÑùÄÜµÃµ½Ð©¶«Î÷£¬²»¹ý×îºÃÊÂÏÈÕ¼ºÃÎ»ÖÃ£©¡£
+ç¦»å¼€Nashkelåˆ°Beregostï¼Œåœ¨Feldpostæ—…é¦†çš„äºŒå±‚ä½ æ‰¾åˆ°å·«å¸ˆTranzigï¼Œé€¼ä»–ä¸€ä¸‹ï¼Œä»–å°±ä¼šå‘Šè¯‰ä½ Bandit campçš„ä½ç½®ï¼Œä¹‹åŽçœ‹ä½ å¿ƒæƒ…ï¼Œå¯ä»¥æ”¾èµ°ä»–æˆ–æŠŠä»–å¹²æŽ‰ï¼ˆæˆ‘æ˜¯é€‰æ‹©å¹²æŽ‰ä»–ï¼Œå› ä¸ºè¿™æ ·èƒ½å¾—åˆ°äº›ä¸œè¥¿ï¼Œä¸è¿‡æœ€å¥½äº‹å…ˆå å¥½ä½ç½®ï¼‰ã€‚
 
-À´µ½Bandit camp£¬ÏÈ°ÑÖÜÎ§µÄÄÇÐ©Ç¿µÁÉ¨µ´¹â£¬ÔÚÄÇ¼ä×î´óµÄÎÝ×ÓÀïÄã»áÓö¼ûÕâ¹ØµÄ×îºóµÄµÐÈË¡£ÔÚ´òËûÃÇÊ±ÒªÐ¡ÐÄ£¬É÷ÓÃ»ðÇòÊõÒ»ÀàµÄ´ó·¶Î§·¨Êõ¡£ÒòÎªÔÚÎÝ×Ó×óÉÏ½ÇÓÐÒ»¸öNPC£¬Èç¹ûÄã²»Ð¡ÐÄ°ÑËû¸ø´òËÀµÄ»°¿ÉÊÇ»á¿ñ½µÉùÍûÖµµÄ¡£
+æ¥åˆ°Bandit campï¼Œå…ˆæŠŠå‘¨å›´çš„é‚£äº›å¼ºç›—æ‰«è¡å…‰ï¼Œåœ¨é‚£é—´æœ€å¤§çš„å±‹å­é‡Œä½ ä¼šé‡è§è¿™å…³çš„æœ€åŽçš„æ•Œäººã€‚åœ¨æ‰“ä»–ä»¬æ—¶è¦å°å¿ƒï¼Œæ…Žç”¨ç«çƒæœ¯ä¸€ç±»çš„å¤§èŒƒå›´æ³•æœ¯ã€‚å› ä¸ºåœ¨å±‹å­å·¦ä¸Šè§’æœ‰ä¸€ä¸ªNPCï¼Œå¦‚æžœä½ ä¸å°å¿ƒæŠŠä»–ç»™æ‰“æ­»çš„è¯å¯æ˜¯ä¼šç‹‚é™å£°æœ›å€¼çš„ã€‚
 
-ÆäËûÈÎÎñ£º
+å…¶ä»–ä»»åŠ¡ï¼š
 
-1.ÔÚBeregostµÄJovial JugglerÂÃ¹ÝÀïÓÐÈË»áÏòÄãÊÕ¹ºÇ¿µÁµÄÍ·Æ¤£¨banditscalps£©¡£
+1.åœ¨Beregostçš„Jovial Juggleræ—…é¦†é‡Œæœ‰äººä¼šå‘ä½ æ”¶è´­å¼ºç›—çš„å¤´çš®ï¼ˆbanditscalpsï¼‰ã€‚
 
-2.Firewine bridge(´Ó¿ó¿Ó³öÀ´ºóÏòÉÏ×ß£©ÓÒ±ßÓÐÒ»¸ö·¢·èµÄÅ®Î×Ê¦£¬ËýÓÐÒ»¸ö×°ÕâÑý¹ÖµÄ¹Þ×Ó£¨ºÃÏó¾ÍÊÇ±»Õâ¸ö¹Þ×Ó±Æ·èµÄ£©£¬Èç¹ûÄãÏòËýÒªÄÇ¸ö¹Þ×ÓµÄ»°£¬Ëý»á°ÑÀïÃæµÄÑý¹Ö·Å³öÀ´£¨Ò»¸öOGRE MAGE£©¡£Ð¡ÐÄÓ¦¸¶£¬ÊµÔÚ´ò²»¹ý¾ÍÌÓ¡£ÒÔºó¿ÉÒÔÈ¥Baldur¡¯s GateµÄÄ§·¨ÉÌµêÂòÒ»ÖÖ×¨ÃÅÉ±OGRE MAGEµÄ¼ý¶Ô¸¶Ëü¡£
+2.Firewine bridge(ä»ŽçŸ¿å‘å‡ºæ¥åŽå‘ä¸Šèµ°ï¼‰å³è¾¹æœ‰ä¸€ä¸ªå‘ç–¯çš„å¥³å·«å¸ˆï¼Œå¥¹æœ‰ä¸€ä¸ªè£…è¿™å¦–æ€ªçš„ç½å­ï¼ˆå¥½è±¡å°±æ˜¯è¢«è¿™ä¸ªç½å­é€¼ç–¯çš„ï¼‰ï¼Œå¦‚æžœä½ å‘å¥¹è¦é‚£ä¸ªç½å­çš„è¯ï¼Œå¥¹ä¼šæŠŠé‡Œé¢çš„å¦–æ€ªæ”¾å‡ºæ¥ï¼ˆä¸€ä¸ªOGRE MAGEï¼‰ã€‚å°å¿ƒåº”ä»˜ï¼Œå®žåœ¨æ‰“ä¸è¿‡å°±é€ƒã€‚ä»¥åŽå¯ä»¥åŽ»Baldurâ€™s Gateçš„é­”æ³•å•†åº—ä¹°ä¸€ç§ä¸“é—¨æ€OGRE MAGEçš„ç®­å¯¹ä»˜å®ƒã€‚
 
-3.Firewine bridgeÏòÉÏ×ßÊÇGullykin.ÔÚ´åÀïÄã»áÓö¼û°ëÊÞÈËGendolarLuckyfoot,Ëû¸æËßÄãËûÉíºóµÄÎÝ×ÓÀïÓÐÒ»ÌõÍ¨ÍùFirewine bridgeµÄÃÜµÀ.½øÎÝºó,ÔÚÂ¥ÉÏÄã»á¼ûµ½Jankal,Äã·¢ÏÖËû¾ÓÈ»¹´½áÑý¹Ö.¸ÉµôËûºó,Äã¿ÉÒÔÔÚËûÉíºó·¢ÏÖÒ»ÉÈ°µÃÅ.½øÈ¥ºó¸Éµô°ÑÃÅµÄOGRE MAGE(´æÅÌ!),ÔÚÃÔ¹¬ÀïÓÐÐí¶àÏÝÚå,ÓÃIMOENµÄ²éÏÝÚåµÄÄÜÁ¦²é³öºóÓÃ¿ªËøµÄ¼¼ÄÜ½â³ý.ÔÚÃÔ¹¬Àï»áÓÐÒ»Ãû÷¼÷ÃÆïÊ¿³å¹ýÀ´ÒªÄãÉ±ËÀËû.ÔÚÂú×ãËûµÄÔ¸Íûºó¼ðÆðËûÁôÏÂµÄ¿ø¼×,½»¸øÃÔ¹¬ÀïÅÅ³ÉÒ»ÅÅµÄÄÇÁùÃû¹í»ê,ÕâÑùËûÃÇ¾ÍÄÜÉýÌìÁË.
+3.Firewine bridgeå‘ä¸Šèµ°æ˜¯Gullykin.åœ¨æ‘é‡Œä½ ä¼šé‡è§åŠå…½äººGendolarLuckyfoot,ä»–å‘Šè¯‰ä½ ä»–èº«åŽçš„å±‹å­é‡Œæœ‰ä¸€æ¡é€šå¾€Firewine bridgeçš„å¯†é“.è¿›å±‹åŽ,åœ¨æ¥¼ä¸Šä½ ä¼šè§åˆ°Jankal,ä½ å‘çŽ°ä»–å±…ç„¶å‹¾ç»“å¦–æ€ª.å¹²æŽ‰ä»–åŽ,ä½ å¯ä»¥åœ¨ä»–èº«åŽå‘çŽ°ä¸€æ‰‡æš—é—¨.è¿›åŽ»åŽå¹²æŽ‰æŠŠé—¨çš„OGRE MAGE(å­˜ç›˜!),åœ¨è¿·å®«é‡Œæœ‰è®¸å¤šé™·é˜±,ç”¨IMOENçš„æŸ¥é™·é˜±çš„èƒ½åŠ›æŸ¥å‡ºåŽç”¨å¼€é”çš„æŠ€èƒ½è§£é™¤.åœ¨è¿·å®«é‡Œä¼šæœ‰ä¸€åéª·é«…éª‘å£«å†²è¿‡æ¥è¦ä½ æ€æ­»ä»–.åœ¨æ»¡è¶³ä»–çš„æ„¿æœ›åŽæ‹£èµ·ä»–ç•™ä¸‹çš„ç›”ç”²,äº¤ç»™è¿·å®«é‡ŒæŽ’æˆä¸€æŽ’çš„é‚£å…­åé¬¼é­‚,è¿™æ ·ä»–ä»¬å°±èƒ½å‡å¤©äº†.
 
-4.GullykinÍùÉÏ×ßÄã»á¿´µ½Ðí¶àÊ¯»¯ÊÞ(Basilisk)Õâ¿ÉÄÜÊÇÓÎÏ·ÖÐ×î¿ÉÅÂµÄÒ»ÖÖ¹ÖÎïÁË,ÒòÎªÒ»µ©±»ËüµÄÊ¯»¯Êõ»÷ÖÐÄã¾ÍÍêµ°ÁË(¿ÉºÞµÄÊÇËüÃÇµÄÃüÖÐÂÊ»¹Í¦¸ß).¶Ô¸¶ËüÃÇ×îºÃµÄ·½·¨ÊÇÏÈÅÉÈËÕÒ³öËüÃÇµÄÎ»ÖÃ,È»ºóÓÃ»ðÇòÊõÂýÂýºä.ÔÚÕâ»¹ÓÐÒ»¸ö±»Ê¯»¯µ«»¹»î×ÅµÄÅ®Õ½Ê¿Tamah.ÄãÈç¹ûÓÃ³ýÊ¯»¯µÄ¾íÖá¾È»îËýÄÜ³¤Ò»µãÉùÍû.
+4.Gullykinå¾€ä¸Šèµ°ä½ ä¼šçœ‹åˆ°è®¸å¤šçŸ³åŒ–å…½(Basilisk)è¿™å¯èƒ½æ˜¯æ¸¸æˆä¸­æœ€å¯æ€•çš„ä¸€ç§æ€ªç‰©äº†,å› ä¸ºä¸€æ—¦è¢«å®ƒçš„çŸ³åŒ–æœ¯å‡»ä¸­ä½ å°±å®Œè›‹äº†(å¯æ¨çš„æ˜¯å®ƒä»¬çš„å‘½ä¸­çŽ‡è¿˜æŒºé«˜).å¯¹ä»˜å®ƒä»¬æœ€å¥½çš„æ–¹æ³•æ˜¯å…ˆæ´¾äººæ‰¾å‡ºå®ƒä»¬çš„ä½ç½®,ç„¶åŽç”¨ç«çƒæœ¯æ…¢æ…¢è½°.åœ¨è¿™è¿˜æœ‰ä¸€ä¸ªè¢«çŸ³åŒ–ä½†è¿˜æ´»ç€çš„å¥³æˆ˜å£«Tamah.ä½ å¦‚æžœç”¨é™¤çŸ³åŒ–çš„å·è½´æ•‘æ´»å¥¹èƒ½é•¿ä¸€ç‚¹å£°æœ›.
 
-5.È¥Bandit camp»¹ÓÐÁíÒ»ÖÖ·½·¨:ÔÚFriendly Arm InnÓÒÏÂ·½ÊÇLarswood,ÔÚÄÇÀïÄã»áÓö¼ûÒ»¸öÇ¿µÁÍ·×Ó,ÔÚ»Ø´ðËûµÄÎÊÌâÊ±Èç¹ûÄãËµ"I want to join the banditscause you¡¯re looking for blood.",Ëû¾Í»á´øÄãÈ¥Bandit camp.
+5.åŽ»Bandit campè¿˜æœ‰å¦ä¸€ç§æ–¹æ³•:åœ¨Friendly Arm Innå³ä¸‹æ–¹æ˜¯Larswood,åœ¨é‚£é‡Œä½ ä¼šé‡è§ä¸€ä¸ªå¼ºç›—å¤´å­,åœ¨å›žç­”ä»–çš„é—®é¢˜æ—¶å¦‚æžœä½ è¯´"I want to join the banditscause youâ€™re looking for blood.",ä»–å°±ä¼šå¸¦ä½ åŽ»Bandit camp.
 
-6.ÔÚLarswoodÄã»¹»áÓö¼ûÒ»¸ö½ÐOsmadiµÄµÂÂ³ÒÀ½ÌÍ½,Ëû²»ÓÉ·ÖËµ¾ÍÖ¸ÔðÄãÉ±ÁËËûµÄÐÖµÜ,È»ºó¾Í½Ð³öÁË¼¸Ö»ÐÜ¿ªÊ¼¹¥»÷Äã,²»µÃÒÑ¸ÉµôËûºóCorsone¹ýÀ´¸æËßÄãÓÉÓÚOsmadiµÄÇ×ÓÑ±»µÁÔôÃÇÉ±ÁË,ËùÒÔ·¢ÁË·è.²»¹ýÖ»ÒªÄã²»Í£µÄÖÊÎÊËû,Corsone¾Í»á³ÐÈÏÆäÊµÊÇËûÎªÁË¶ÀÕ¼Õâ¿éµØ¶ø¶ÔOsmadiÏÂ¶¾,Ê¹Ëû·¢·è.ÔÚ½²³öÕæÏàºóCorsone¾Í»áÏòÄã¹¥»÷.±ð¿ÍÆø,É±ÁËËû°É.
+6.åœ¨Larswoodä½ è¿˜ä¼šé‡è§ä¸€ä¸ªå«Osmadiçš„å¾·é²ä¾æ•™å¾’,ä»–ä¸ç”±åˆ†è¯´å°±æŒ‡è´£ä½ æ€äº†ä»–çš„å…„å¼Ÿ,ç„¶åŽå°±å«å‡ºäº†å‡ åªç†Šå¼€å§‹æ”»å‡»ä½ ,ä¸å¾—å·²å¹²æŽ‰ä»–åŽCorsoneè¿‡æ¥å‘Šè¯‰ä½ ç”±äºŽOsmadiçš„äº²å‹è¢«ç›—è´¼ä»¬æ€äº†,æ‰€ä»¥å‘äº†ç–¯.ä¸è¿‡åªè¦ä½ ä¸åœçš„è´¨é—®ä»–,Corsoneå°±ä¼šæ‰¿è®¤å…¶å®žæ˜¯ä»–ä¸ºäº†ç‹¬å è¿™å—åœ°è€Œå¯¹Osmadiä¸‹æ¯’,ä½¿ä»–å‘ç–¯.åœ¨è®²å‡ºçœŸç›¸åŽCorsoneå°±ä¼šå‘ä½ æ”»å‡».åˆ«å®¢æ°”,æ€äº†ä»–å§.
 
-7.ÔÚFriendly Arm InnÉÏ·½ÓÐ¸öÐ¡´å×¯£¬´å×¯×ó±ßÓÐÈý¸öÓæ·ò¸æËßÄãÓÐÒ»¸öÅ®ÄÁÊ¦Ò»Ö±ÔÚÉ§ÈÅËûÃÇ£¬Èç¹ûÄãÄÜ°ÑËý¸Ï×ß£¬ËûÃÇ»áËÍÄãÒ»ÑùÄ§·¨±øÆ÷¡£²»¹ýÔÚÍ¨ÍùBaldur¡¯s GateµÄÇÅµÄÓÒ±ßÕÒµ½ÄÇÄÁÊ¦ºóÄã²ÅÖªµÀÔ­À´ÄÇÐ©Óæ·òÉ±ËÀÁËËýµÄÄ¸Ç×¡£»ØÈ¥ÖÊÎÊÁËÄÇÐ©Óæ·ò£¬²¢´ÓËûÃÇÄÇÄÃ»ØÄÇÄÁÊ¦Ä¸Ç×µÄÒÅÎï£ºÒ»¸ö¾Æ±­£¨BOWL£©»¹¸øÄÇÃûÄÁÊ¦¡£ÖÁÓÚÄÇ¼¸¸öÓæ·òÒªÈçºÎ´¦ÖÃ¾ÍËæÄãÁË¡£
+7.åœ¨Friendly Arm Innä¸Šæ–¹æœ‰ä¸ªå°æ‘åº„ï¼Œæ‘åº„å·¦è¾¹æœ‰ä¸‰ä¸ªæ¸”å¤«å‘Šè¯‰ä½ æœ‰ä¸€ä¸ªå¥³ç‰§å¸ˆä¸€ç›´åœ¨éªšæ‰°ä»–ä»¬ï¼Œå¦‚æžœä½ èƒ½æŠŠå¥¹èµ¶èµ°ï¼Œä»–ä»¬ä¼šé€ä½ ä¸€æ ·é­”æ³•å…µå™¨ã€‚ä¸è¿‡åœ¨é€šå¾€Baldurâ€™s Gateçš„æ¡¥çš„å³è¾¹æ‰¾åˆ°é‚£ç‰§å¸ˆåŽä½ æ‰çŸ¥é“åŽŸæ¥é‚£äº›æ¸”å¤«æ€æ­»äº†å¥¹çš„æ¯äº²ã€‚å›žåŽ»è´¨é—®äº†é‚£äº›æ¸”å¤«ï¼Œå¹¶ä»Žä»–ä»¬é‚£æ‹¿å›žé‚£ç‰§å¸ˆæ¯äº²çš„é—ç‰©ï¼šä¸€ä¸ªé…’æ¯ï¼ˆBOWLï¼‰è¿˜ç»™é‚£åç‰§å¸ˆã€‚è‡³äºŽé‚£å‡ ä¸ªæ¸”å¤«è¦å¦‚ä½•å¤„ç½®å°±éšä½ äº†ã€‚
 
-8.ÔÚÕâ¸ö´å×¯ÉÏ·½ÓÐÒ»¸ö´ó¶´,ÀïÃæÓÐÒ»ÖÖÂÌÉ«µÄ¼×³æAnkheg¡£ÔÚ¶´ÖÐÄã»áÕÒµ½Ò»¾ßÊ¬Ìå,°ÑËû½»¸ø´å×¯ÖÐ²¿µÄÅ©·òBrun.´òËÀ¼×³æºóÄã¿ÉÒÔ¼ðµ½ËûÃÇµÄÍ·(Ò»¸ö¾Í¹»ÁË),°Ñ¼×³æÍ·´ø»Ø¸øBeregostµÄÌú½³(ÔÚ³ÇÕòµÄÓÒ±ß),Ëû»á³ö500ÔªÏòÄãÂò,Èç¹ûÄã¾Ü¾øµÄ»°,Ëû»áÓÃÕâ¼×³æÍ·¸øÄã´òÒ»¸±ºÜ²»´íµÄ¿ø¼×,²»¹ýÒªÊÕ4000Ôª.
+8.åœ¨è¿™ä¸ªæ‘åº„ä¸Šæ–¹æœ‰ä¸€ä¸ªå¤§æ´ž,é‡Œé¢æœ‰ä¸€ç§ç»¿è‰²çš„ç”²è™«Ankhegã€‚åœ¨æ´žä¸­ä½ ä¼šæ‰¾åˆ°ä¸€å…·å°¸ä½“,æŠŠä»–äº¤ç»™æ‘åº„ä¸­éƒ¨çš„å†œå¤«Brun.æ‰“æ­»ç”²è™«åŽä½ å¯ä»¥æ‹£åˆ°ä»–ä»¬çš„å¤´(ä¸€ä¸ªå°±å¤Ÿäº†),æŠŠç”²è™«å¤´å¸¦å›žç»™Beregostçš„é“åŒ (åœ¨åŸŽé•‡çš„å³è¾¹),ä»–ä¼šå‡º500å…ƒå‘ä½ ä¹°,å¦‚æžœä½ æ‹’ç»çš„è¯,ä»–ä¼šç”¨è¿™ç”²è™«å¤´ç»™ä½ æ‰“ä¸€å‰¯å¾ˆä¸é”™çš„ç›”ç”²,ä¸è¿‡è¦æ”¶4000å…ƒ.
 
-µÚËÄÕÂ£º
+ç¬¬å››ç« ï¼š
 
-ÏÖÔÚÈ¥Cloakwood£¬ÄãµÄÄ¿±êÊÇÎ»ÓÚÄÇµÄÌú¿ó¡£ÔÚÌú¿óµÄµÚÒ»²ãÓÒÉÏ½ÇµÄÕ¢ÃÅ±ßÓÐÒ»Ãû¿ó¹¤£¬Ëû»áÇëÄãÈ¥×îºóÒ»²ãÕÒµ½Õ¢ÃÅÔ¿³×£¬ÕâÑù¾Í¿ÉÒÔ·ÅË®°Ñ¿ó¾®ÑÍµô£¬²»¹ýÄã×îºÃ»¹Òªµ½µÚ¶þ²ãµÄ¼àÓüÀïÕÒµ½Rill£¬Ëû»áÏòÄãÒª100ÔªÈ¥¾ÈÆäËû±»À§µÄ¿ó¹¤£¬Äã×îºÃ»¹ÊÇ´ðÓ¦Ëû¡£ÔÚµÚ4²ãÌú¿ó£¬Äã»á¼ûµ½Õâ¹ØµÄBOSS£¬ÏûÃðËûºó£¬µÚ4ÕÂ¾ÍÍê³ÉÁË¡£×÷Õ½Ê±¼ìÑéÏÈ½«ÄÇÁ½ÃûÄÇÕâ»ð½£µÄÌú¼×ÎäÊ¿Òý³öÀ´£¬Öð¸öÏûÃð£¬ÔÙ³åÏÂÈ¥¶Ô¸¶ÄÇÃûÄ§·¨Ê¦£¬·ñÔòÄã±»ËûÃÇÈýÈËÎ§¹¥µÄ»°¿ÉÊÇ»áËÀµÄºÜÄÑ¿´µÄ¡£
+çŽ°åœ¨åŽ»Cloakwoodï¼Œä½ çš„ç›®æ ‡æ˜¯ä½äºŽé‚£çš„é“çŸ¿ã€‚åœ¨é“çŸ¿çš„ç¬¬ä¸€å±‚å³ä¸Šè§’çš„é—¸é—¨è¾¹æœ‰ä¸€åçŸ¿å·¥ï¼Œä»–ä¼šè¯·ä½ åŽ»æœ€åŽä¸€å±‚æ‰¾åˆ°é—¸é—¨é’¥åŒ™ï¼Œè¿™æ ·å°±å¯ä»¥æ”¾æ°´æŠŠçŸ¿äº•æ·¹æŽ‰ï¼Œä¸è¿‡ä½ æœ€å¥½è¿˜è¦åˆ°ç¬¬äºŒå±‚çš„ç›‘ç‹±é‡Œæ‰¾åˆ°Rillï¼Œä»–ä¼šå‘ä½ è¦100å…ƒåŽ»æ•‘å…¶ä»–è¢«å›°çš„çŸ¿å·¥ï¼Œä½ æœ€å¥½è¿˜æ˜¯ç­”åº”ä»–ã€‚åœ¨ç¬¬4å±‚é“çŸ¿ï¼Œä½ ä¼šè§åˆ°è¿™å…³çš„BOSSï¼Œæ¶ˆç­ä»–åŽï¼Œç¬¬4ç« å°±å®Œæˆäº†ã€‚ä½œæˆ˜æ—¶æ£€éªŒå…ˆå°†é‚£ä¸¤åé‚£è¿™ç«å‰‘çš„é“ç”²æ­¦å£«å¼•å‡ºæ¥ï¼Œé€ä¸ªæ¶ˆç­ï¼Œå†å†²ä¸‹åŽ»å¯¹ä»˜é‚£åé­”æ³•å¸ˆï¼Œå¦åˆ™ä½ è¢«ä»–ä»¬ä¸‰äººå›´æ”»çš„è¯å¯æ˜¯ä¼šæ­»çš„å¾ˆéš¾çœ‹çš„ã€‚
 
-ÆäËûÈÎÎñ£º
+å…¶ä»–ä»»åŠ¡ï¼š
 
-1.ÔÚCloakwoodÀïµÄÒ»×ù·¿×ÓÇ°ÓÐÒ»Ãû½ÐAldeth SashenstarµÄÈËÏëÇëÄã°ïÖú½â¾öÒ»Ð©ÏëÉ±ËûµÄÒ°ÂùÈË.´ðÓ¦ºóµÂÂ³ÒÀ½ÌÍ½Seniyad»á³öÏÖ,µ±ÄãÔðÎÊËûÎªºÎÒªÉ±AldethSashenstarÊ±,Seniyad¸æËßÄãAldeth SashenstarËûÃÇÏë»Ù»µÉ­ÁÖ.ÒªÈçºÎ×ö¾Í¿´Äã×Ô¼ºÁË.
+1.åœ¨Cloakwoodé‡Œçš„ä¸€åº§æˆ¿å­å‰æœ‰ä¸€åå«Aldeth Sashenstarçš„äººæƒ³è¯·ä½ å¸®åŠ©è§£å†³ä¸€äº›æƒ³æ€ä»–çš„é‡Žè›®äºº.ç­”åº”åŽå¾·é²ä¾æ•™å¾’Seniyadä¼šå‡ºçŽ°,å½“ä½ è´£é—®ä»–ä¸ºä½•è¦æ€AldethSashenstaræ—¶,Seniyadå‘Šè¯‰ä½ Aldeth Sashenstarä»–ä»¬æƒ³æ¯åæ£®æž—.è¦å¦‚ä½•åšå°±çœ‹ä½ è‡ªå·±äº†.
 
-2.¼ÌÐøÍùCloakwoodÀï×ß,»áÓÐÒ»ÃûÅ©·òTiberÇëÄã´ÓÒ»¸öÖ©Öë¶´ÖÐ¾È³öËûµÄÐÖµÜChelak£¬Äã¿ÉÒÔÔÚ¸½½üµÄÒ»¸ö¶´Ñ¨ÀïÕÒµ½Ò»¸öÖ©ÖëÍõ£¬Ëý»áÕÙ³öÒ»´óÈºÖ©Öë£¬½¨ÒéÄãÓÃ»ðÇòÊõ¶Ô¸¶ËüÃÇ¡£ÔÚÖ©ÖëÍõÉíºóÄãÄÜ·¢ÏÖChelakµÄÊ¬Ìå¡£
+2.ç»§ç»­å¾€Cloakwoodé‡Œèµ°,ä¼šæœ‰ä¸€åå†œå¤«Tiberè¯·ä½ ä»Žä¸€ä¸ªèœ˜è››æ´žä¸­æ•‘å‡ºä»–çš„å…„å¼ŸChelakï¼Œä½ å¯ä»¥åœ¨é™„è¿‘çš„ä¸€ä¸ªæ´žç©´é‡Œæ‰¾åˆ°ä¸€ä¸ªèœ˜è››çŽ‹ï¼Œå¥¹ä¼šå¬å‡ºä¸€å¤§ç¾¤èœ˜è››ï¼Œå»ºè®®ä½ ç”¨ç«çƒæœ¯å¯¹ä»˜å®ƒä»¬ã€‚åœ¨èœ˜è››çŽ‹èº«åŽä½ èƒ½å‘çŽ°Chelakçš„å°¸ä½“ã€‚
 
-3.ÔÚCloakwood»¹ÓÐÒ»¸öÁúÑ¨£¬ÀïÃæÓÐÁ½ÌõÁú£¬¶Ô¸¶ËüÃÇ»¹ÊÇ»ðÇòÊõ±È½ÏºÃÓÃ¡£É±ËÀÁúºó£¬°ÑÁúÍ·´ø»ØBeregostÓÒ±ßµÄÉñÃíÁìÉÍ¡£
+3.åœ¨Cloakwoodè¿˜æœ‰ä¸€ä¸ªé¾™ç©´ï¼Œé‡Œé¢æœ‰ä¸¤æ¡é¾™ï¼Œå¯¹ä»˜å®ƒä»¬è¿˜æ˜¯ç«çƒæœ¯æ¯”è¾ƒå¥½ç”¨ã€‚æ€æ­»é¾™åŽï¼ŒæŠŠé¾™å¤´å¸¦å›žBeregostå³è¾¹çš„ç¥žåº™é¢†èµã€‚
 
-µÚÎåÕÂ:
+ç¬¬äº”ç« :
 
-ºÃÁË£¬ÄãÖÕÓÚ¿ÉÒÔ½øÈëBaldur¡¯s GateÕâ×ùÓÎÏ·ÖÐ×î´óµÄ³ÇÊÐÁË¡£ÔÚÇÅÍ·Äã»áÓö¼ûScar£¬ËûÒªÄã°ïËûµ÷²éSeven SunµÄÇé¿ö¡£ÔÚ³ÇÀï£¬ÄãÓÖ»á¼ûµ½Elminster¡£ÌýÍêËûËµµÄ»°ºóÏò×ó×ß£¬ÔÚ³Ç×óÏÂ½ÇÄãÄÜÕÒµ½Seven Sun£¬½øÈ¥ºó£¬Ëæ±ãÕÒ¸öÈË²»Í£µÄÎÊËûÎÊÌâ£¬×îºóÄÇÐ©ÈË¾Í»á±ä³É¹ÖÎï¡£Àë¿ªÕâ£¬ÔÚÃÅ¿Ú»áÓÐÒ»ÃûÊØÎÀ¸æËßÄã¹«¾ôÕýÔÚÕÒÄã¡£×ß½øÅÔ±ßµÄFlaming Fist£¬ÔÚÄÇÄã»á¼ûµ½Scar£¬¸æËßËûÔÚSeven Sun·¢ÉúµÄÊÂºó£¬Ëû»áÒªÇóÄã½â¾öÄÇµÄÎÊÌâ¡£ÔÚFlaming FistµÄ¶þÂ¥£¬Äã¿ÉÒÔÕÒµ½¹«¾ô£¬Ëû»áÒªÄãÈ¥Iron Throneµ÷²é¡£ÏÈ»Øµ½Seven Sun£¬É±¹âÀïÃæµÄ¹ÖÎï¡£ÔÚÒ»Â¥×ó±ßµÄµØÏÂÊÒÀïÄãÄÜ¾È³öSeven SunÔ­ÏÈµÄÖ÷ÈË¡£Àë¿ªÕâ£¬ÏòÓÒ×ßÀ´µ½Iron ThroneµÄ¶¥Â¥£¨ÏÈ´æÅÌ£¡£¡£©¡£ÔÚÄÇÓÐÒ»´óÈºµÄÄ§·¨Ê¦ºÍÎäÊ¿ÔÚµÈ×ÅÄã¡£ÕâÕ½²»Ì«ºÃ´ò£¬¼ìÑé¶àÓÃ»ðÇòÊõºÍ¿Ö¾åÊõ£¬¶øÇÒ¾ÍÎÒ¸öÈË¸Ð¾õ£¬×ßÓÒ±ßµÄÂ¥ÌÝºÃÏó»áºÃ´òÐ©¡£ÏûÃðµÐÈËºó£¨±ðÍüÁË¼ðËûÃÇÉíÉÏµÄ¶«Î÷£©£¬»ØÈ¥Ïò¹«¾ô¸´Ãü£¬Ëû¾Í»á½»¸øÄãÒ»·ÝÍ¨ÐÐÖ¤£¬È»ºó°ÑÄã´«»ØÄãµÄÀÏ¼ÒCandlekeep¡£
+å¥½äº†ï¼Œä½ ç»ˆäºŽå¯ä»¥è¿›å…¥Baldurâ€™s Gateè¿™åº§æ¸¸æˆä¸­æœ€å¤§çš„åŸŽå¸‚äº†ã€‚åœ¨æ¡¥å¤´ä½ ä¼šé‡è§Scarï¼Œä»–è¦ä½ å¸®ä»–è°ƒæŸ¥Seven Sunçš„æƒ…å†µã€‚åœ¨åŸŽé‡Œï¼Œä½ åˆä¼šè§åˆ°Elminsterã€‚å¬å®Œä»–è¯´çš„è¯åŽå‘å·¦èµ°ï¼Œåœ¨åŸŽå·¦ä¸‹è§’ä½ èƒ½æ‰¾åˆ°Seven Sunï¼Œè¿›åŽ»åŽï¼Œéšä¾¿æ‰¾ä¸ªäººä¸åœçš„é—®ä»–é—®é¢˜ï¼Œæœ€åŽé‚£äº›äººå°±ä¼šå˜æˆæ€ªç‰©ã€‚ç¦»å¼€è¿™ï¼Œåœ¨é—¨å£ä¼šæœ‰ä¸€åå®ˆå«å‘Šè¯‰ä½ å…¬çˆµæ­£åœ¨æ‰¾ä½ ã€‚èµ°è¿›æ—è¾¹çš„Flaming Fistï¼Œåœ¨é‚£ä½ ä¼šè§åˆ°Scarï¼Œå‘Šè¯‰ä»–åœ¨Seven Sunå‘ç”Ÿçš„äº‹åŽï¼Œä»–ä¼šè¦æ±‚ä½ è§£å†³é‚£çš„é—®é¢˜ã€‚åœ¨Flaming Fistçš„äºŒæ¥¼ï¼Œä½ å¯ä»¥æ‰¾åˆ°å…¬çˆµï¼Œä»–ä¼šè¦ä½ åŽ»Iron Throneè°ƒæŸ¥ã€‚å…ˆå›žåˆ°Seven Sunï¼Œæ€å…‰é‡Œé¢çš„æ€ªç‰©ã€‚åœ¨ä¸€æ¥¼å·¦è¾¹çš„åœ°ä¸‹å®¤é‡Œä½ èƒ½æ•‘å‡ºSeven SunåŽŸå…ˆçš„ä¸»äººã€‚ç¦»å¼€è¿™ï¼Œå‘å³èµ°æ¥åˆ°Iron Throneçš„é¡¶æ¥¼ï¼ˆå…ˆå­˜ç›˜ï¼ï¼ï¼‰ã€‚åœ¨é‚£æœ‰ä¸€å¤§ç¾¤çš„é­”æ³•å¸ˆå’Œæ­¦å£«åœ¨ç­‰ç€ä½ ã€‚è¿™æˆ˜ä¸å¤ªå¥½æ‰“ï¼Œæ£€éªŒå¤šç”¨ç«çƒæœ¯å’Œææƒ§æœ¯ï¼Œè€Œä¸”å°±æˆ‘ä¸ªäººæ„Ÿè§‰ï¼Œèµ°å³è¾¹çš„æ¥¼æ¢¯å¥½è±¡ä¼šå¥½æ‰“äº›ã€‚æ¶ˆç­æ•ŒäººåŽï¼ˆåˆ«å¿˜äº†æ‹£ä»–ä»¬èº«ä¸Šçš„ä¸œè¥¿ï¼‰ï¼Œå›žåŽ»å‘å…¬çˆµå¤å‘½ï¼Œä»–å°±ä¼šäº¤ç»™ä½ ä¸€ä»½é€šè¡Œè¯ï¼Œç„¶åŽæŠŠä½ ä¼ å›žä½ çš„è€å®¶Candlekeepã€‚
 
-ÆäËûÈÎÎñ£º
+å…¶ä»–ä»»åŠ¡ï¼š
 
-1.¹ýÇÅºóÏòÓÒ×ßÊÇÒ»¸öÐ¡Å©³¡,ÄÇÀïÓÐÐí¶à½©Ê¬.°ÑÕâÀïµÄ½©Ê¬È«²¿ÏûÃðºó¿ÉÏòÔÚÅ©³¡ÖÐÑëµÄÄÇÃûÅ©·òÁìÉÍ.
+1.è¿‡æ¡¥åŽå‘å³èµ°æ˜¯ä¸€ä¸ªå°å†œåœº,é‚£é‡Œæœ‰è®¸å¤šåƒµå°¸.æŠŠè¿™é‡Œçš„åƒµå°¸å…¨éƒ¨æ¶ˆç­åŽå¯å‘åœ¨å†œåœºä¸­å¤®çš„é‚£åå†œå¤«é¢†èµ.
 
-2.ÔÚ³ÇÀïÄã»áÓö¼ûMarek£¬ËûÍþÐ²ÄãÒ»·¬ºó¾Í»áÀë¿ª£¬Ö®ºóÄã»á¼ûµ½ËûµÄÐÖµÜLothander£¬Ëû»á¸æËßÄãÒÑ¾­±»ËûµÄÐÖµÜMarekÏÂ¶¾ÁË¡£²»¹ýÒªµÃµ½½âÒ©ÄãµÃÏÈ°ïËû³ýÈ¥ËûÉíÉÏµÄ×çÖä£¬Ëû»á´øÄãÈ¥Î»ÓÚMark SquareµÄÒ»¸öÕÊÅñÇ°£¬Äã½øÈ¥»¨50ÔªÕÒÄÇÎ×Ê¦ÎÊÈçºÎÖÎLothander£¬Ëû»á¸æËßÄãÒª¾ÈLothanderÐèÒªWater Queen¡¯s house(ÔÚIronThroneÄÇÆ¬³ÇÇø£©µÄÈË°ïÃ¦¡£²»¹ýËýÃÇÒªÄãÈ¥Temple of Timora£¨lady¡¯s hall£©£¨ÔÚ³ÇÊÐ×ó±ß£©°ïËýÃÇÅªÒ»±¾Êé¡£ÔÚÄÇÀïÄãÖ»ÒªÌ¬¶ÈºÃÐ©£¬ËûÃÇ¾Í»á°ÑÊé¸øÄã¡£½«Êé½»¸øWater Queen¡¯s houseµÄÈË£¬ËýÃÇ¾Í»á¸øÄãÒ»¸ö¾íÖá¡£È»ºóÈ¥Blade and Stars£¬°Ñ¾íÖá½»¸øLothander¡£Lothander¾Í»á½»¸øÄã°ëÆ¿Ò©£¬Áí°ëÆ¿ÔÚMarekÄÇ¡£MarekÔÚBlushing Merad£¨ÔÚ³ÇÊÐÓÒÉÏ·½£©£¬ ÔÚÄÇ»áÓÐ¸ö¾ÞÈËÏë×¥Äã£¬Èç¹ûÄã²»ÏëºÍËû´òµÄ»°¿ÉÒÔÆ­Æ­Ëû£¬ÄÇØËºÜ´ÀµÄ¡££º£©
+2.åœ¨åŸŽé‡Œä½ ä¼šé‡è§Marekï¼Œä»–å¨èƒä½ ä¸€ç•ªåŽå°±ä¼šç¦»å¼€ï¼Œä¹‹åŽä½ ä¼šè§åˆ°ä»–çš„å…„å¼ŸLothanderï¼Œä»–ä¼šå‘Šè¯‰ä½ å·²ç»è¢«ä»–çš„å…„å¼ŸMarekä¸‹æ¯’äº†ã€‚ä¸è¿‡è¦å¾—åˆ°è§£è¯ä½ å¾—å…ˆå¸®ä»–é™¤åŽ»ä»–èº«ä¸Šçš„è¯…å’’ï¼Œä»–ä¼šå¸¦ä½ åŽ»ä½äºŽMark Squareçš„ä¸€ä¸ªå¸ç¯·å‰ï¼Œä½ è¿›åŽ»èŠ±50å…ƒæ‰¾é‚£å·«å¸ˆé—®å¦‚ä½•æ²»Lothanderï¼Œä»–ä¼šå‘Šè¯‰ä½ è¦æ•‘Lothanderéœ€è¦Water Queenâ€™s house(åœ¨IronThroneé‚£ç‰‡åŸŽåŒºï¼‰çš„äººå¸®å¿™ã€‚ä¸è¿‡å¥¹ä»¬è¦ä½ åŽ»Temple of Timoraï¼ˆladyâ€™s hallï¼‰ï¼ˆåœ¨åŸŽå¸‚å·¦è¾¹ï¼‰å¸®å¥¹ä»¬å¼„ä¸€æœ¬ä¹¦ã€‚åœ¨é‚£é‡Œä½ åªè¦æ€åº¦å¥½äº›ï¼Œä»–ä»¬å°±ä¼šæŠŠä¹¦ç»™ä½ ã€‚å°†ä¹¦äº¤ç»™Water Queenâ€™s houseçš„äººï¼Œå¥¹ä»¬å°±ä¼šç»™ä½ ä¸€ä¸ªå·è½´ã€‚ç„¶åŽåŽ»Blade and Starsï¼ŒæŠŠå·è½´äº¤ç»™Lothanderã€‚Lothanderå°±ä¼šäº¤ç»™ä½ åŠç“¶è¯ï¼Œå¦åŠç“¶åœ¨Mareké‚£ã€‚Marekåœ¨Blushing Meradï¼ˆåœ¨åŸŽå¸‚å³ä¸Šæ–¹ï¼‰ï¼Œ åœ¨é‚£ä¼šæœ‰ä¸ªå·¨äººæƒ³æŠ“ä½ ï¼Œå¦‚æžœä½ ä¸æƒ³å’Œä»–æ‰“çš„è¯å¯ä»¥éª—éª—ä»–ï¼Œé‚£åŽ®å¾ˆè ¢çš„ã€‚ï¼šï¼‰
 
-ÔÚ¶þÂ¥ÄãÄÜÕÒµ½Marek£¬µÃµ½Áí°ëÆ¿Ò©Ë®ºó£¨+10000µã¾­ÑéÖµ£¡£©Ëû»á¹¥»÷Äã£¬¸ÉµôËû°É¡£
+åœ¨äºŒæ¥¼ä½ èƒ½æ‰¾åˆ°Marekï¼Œå¾—åˆ°å¦åŠç“¶è¯æ°´åŽï¼ˆ+10000ç‚¹ç»éªŒå€¼ï¼ï¼‰ä»–ä¼šæ”»å‡»ä½ ï¼Œå¹²æŽ‰ä»–å§ã€‚
 
-3.»¹ÊÇÔÚÕâÆ¬³ÇÇø£¬Blushing MeradÓÒÏÂ·½ÄãÄÜ¼ûµ½Brielbara,ËýµÄÅ®¶ù±»Ò»¸öÎ×Ê¦YagoÏÂÁË×çÖä£¬ËýÐèÒªÄã°ïËý´ÓYagoÄÇÈ¡µÃÒ»±¾Ä§·¨ÊéÀ´¾ÈËýµÄÅ®¶ù¡£YagoÔÚtheLow Lantern(¾ÍÊÇIron ThroneÄÇÆ¬³ÇÇøÓÒÏÂ·½µÄÄÇËÒ´¬£©ÄãÔÚµÚ3²ã¿ÉÒÔÕÒµ½Ëû£¨²»¹ýÔÚµÚ¶þ²ãÄã»áÓö¼ûÁ½ÃûÅ®×Ó£¬Äã×îºÃ²»ÒªÀí²ÇËýÃÇ£¬·ñÔò»áÊÜµ½ËýÃÇµÄ¹¥»÷£©£¬°ÑËû¸Éµôºó£¬°ÑÄ§·¨Êé½»¸øBrielbara¾Í¿ÉÒÔÁË£¨BrielbaraÔÚËýÔ­ÏÈÕ¾µÄµØ·½µÄÏÂ·½µÄÒ»¼äÂÃ¹ÝÀï£©¡£
+3.è¿˜æ˜¯åœ¨è¿™ç‰‡åŸŽåŒºï¼ŒBlushing Meradå³ä¸‹æ–¹ä½ èƒ½è§åˆ°Brielbara,å¥¹çš„å¥³å„¿è¢«ä¸€ä¸ªå·«å¸ˆYagoä¸‹äº†è¯…å’’ï¼Œå¥¹éœ€è¦ä½ å¸®å¥¹ä»ŽYagoé‚£å–å¾—ä¸€æœ¬é­”æ³•ä¹¦æ¥æ•‘å¥¹çš„å¥³å„¿ã€‚Yagoåœ¨theLow Lantern(å°±æ˜¯Iron Throneé‚£ç‰‡åŸŽåŒºå³ä¸‹æ–¹çš„é‚£è‰˜èˆ¹ï¼‰ä½ åœ¨ç¬¬3å±‚å¯ä»¥æ‰¾åˆ°ä»–ï¼ˆä¸è¿‡åœ¨ç¬¬äºŒå±‚ä½ ä¼šé‡è§ä¸¤åå¥³å­ï¼Œä½ æœ€å¥½ä¸è¦ç†ç¬å¥¹ä»¬ï¼Œå¦åˆ™ä¼šå—åˆ°å¥¹ä»¬çš„æ”»å‡»ï¼‰ï¼ŒæŠŠä»–å¹²æŽ‰åŽï¼ŒæŠŠé­”æ³•ä¹¦äº¤ç»™Brielbaraå°±å¯ä»¥äº†ï¼ˆBrielbaraåœ¨å¥¹åŽŸå…ˆç«™çš„åœ°æ–¹çš„ä¸‹æ–¹çš„ä¸€é—´æ—…é¦†é‡Œï¼‰ã€‚
 
-4.ÔÚELF SONGÀïÓÐ¸ö°«ÈËBrevlikÒªÄã°ïËûÈ¥Hall Of WonderÍµÒ»¸öTelescope£¬Èç¹ûÄãÍµÊõ²»¾«±»ÊØÎÀ·¢ÏÖµÄ»°£¬»¹ÊÇ¸Ï½ô¿ªÁïÎªÉÏ£¬ÒòÎªÉ±ÄÇÐ©ÈË¾­ÑéÖµ¼«ÉÙ£¬¶øÇÒ»á¿ñ½µÉùÍû¡£²»¹ýÕâ¸öÈÎÎñ¾­ÑéÖµºÍÇ®¶¼²»ÉÙ¡£
+4.åœ¨ELF SONGé‡Œæœ‰ä¸ªçŸ®äººBrevlikè¦ä½ å¸®ä»–åŽ»Hall Of Wonderå·ä¸€ä¸ªTelescopeï¼Œå¦‚æžœä½ å·æœ¯ä¸ç²¾è¢«å®ˆå«å‘çŽ°çš„è¯ï¼Œè¿˜æ˜¯èµ¶ç´§å¼€æºœä¸ºä¸Šï¼Œå› ä¸ºæ€é‚£äº›äººç»éªŒå€¼æžå°‘ï¼Œè€Œä¸”ä¼šç‹‚é™å£°æœ›ã€‚ä¸è¿‡è¿™ä¸ªä»»åŠ¡ç»éªŒå€¼å’Œé’±éƒ½ä¸å°‘ã€‚
 
-5.ÔÚSorcerous Sundries£¨¾ÍÔÚELF SONG×ó±ß£©¶þÂ¥ÓÐ¼¸¸öÄ§·¨Ê¦£¬Èç¹ûÄãÑÔÓï¶ñÁÓÐ©£¬ËûÃÇ¾Í»á¹¥»÷Äã¡£Õâ¼¸¸ö¼Ò»ïÓÃÒ»¸ö»ðÇòÊõ¾ÍÄÜÇáËÉ°ÚÆ½£¬´ÓËûÃÇÉíÉÏÄÜËÑµ½Ð©²»´íµÄ¶«Î÷¡£Â¥ÏÂÄ§·¨Ê¦ÓÐÂòÒ»Ð©²»´íµÄ¶«Î÷£¬ÓÐÇ®µÄ»°¶àÂòÐ©»ðÇòÊõÄ§ÕÈºÍÕÙ»½ÊõÄ§ÕÈ¡£¶ÔÒÔºóµÄÕ½¶·ºÜÓÐ°ïÖú¡£
+5.åœ¨Sorcerous Sundriesï¼ˆå°±åœ¨ELF SONGå·¦è¾¹ï¼‰äºŒæ¥¼æœ‰å‡ ä¸ªé­”æ³•å¸ˆï¼Œå¦‚æžœä½ è¨€è¯­æ¶åŠ£äº›ï¼Œä»–ä»¬å°±ä¼šæ”»å‡»ä½ ã€‚è¿™å‡ ä¸ªå®¶ä¼™ç”¨ä¸€ä¸ªç«çƒæœ¯å°±èƒ½è½»æ¾æ‘†å¹³ï¼Œä»Žä»–ä»¬èº«ä¸Šèƒ½æœåˆ°äº›ä¸é”™çš„ä¸œè¥¿ã€‚æ¥¼ä¸‹é­”æ³•å¸ˆæœ‰ä¹°ä¸€äº›ä¸é”™çš„ä¸œè¥¿ï¼Œæœ‰é’±çš„è¯å¤šä¹°äº›ç«çƒæœ¯é­”æ–å’Œå¬å”¤æœ¯é­”æ–ã€‚å¯¹ä»¥åŽçš„æˆ˜æ–—å¾ˆæœ‰å¸®åŠ©ã€‚
 
-6.ÔÚIron ThroneÄÇÆ¬³ÇÇøÓÒÏÂ½ÇÒ»¼ä°×·¿×ÓÀïÓÐÒ»¸öÊÜÁË×çÖäµÄÈËGhorak£¬Ö»ÓÐlady¡¯s hallµÄAgnasia²ÅÄÜ¾ÈËû¡£²»¹ýÄãÏÈµÃÈ¥Three Old Kegs¶þÂ¥×óÉÏ½ÇµÄÒ»·ù±Ú»­ºóÄÃµ½GhorakÐÖµÜKerephµÄÒÅº¡£¬½«Ëü½»¸øAgnasia£¬ÕâÑù²ÅÄÜÖÎºÃGhorak¡£
+6.åœ¨Iron Throneé‚£ç‰‡åŸŽåŒºå³ä¸‹è§’ä¸€é—´ç™½æˆ¿å­é‡Œæœ‰ä¸€ä¸ªå—äº†è¯…å’’çš„äººGhorakï¼Œåªæœ‰ladyâ€™s hallçš„Agnasiaæ‰èƒ½æ•‘ä»–ã€‚ä¸è¿‡ä½ å…ˆå¾—åŽ»Three Old KegsäºŒæ¥¼å·¦ä¸Šè§’çš„ä¸€å¹…å£ç”»åŽæ‹¿åˆ°Ghorakå…„å¼ŸKerephçš„é—éª¸ï¼Œå°†å®ƒäº¤ç»™Agnasiaï¼Œè¿™æ ·æ‰èƒ½æ²»å¥½Ghorakã€‚
 
-7.ÔÚHall Of WonderÉÏ·½µÄÒ»¼ä·¿×ÓÇ°»áÓÐÒ»¸öÒªÄÐº¢ÏëÇëÄã°ïËûÒ»¸öÃ¦¡£´ðÓ¦Ëûºó£¬ÔÚÄÇ·¿×ÓÀïÄã»á¼ûµ½Ò»¸ö½ÐTymoraµÄÄÁÊ¦¡£ËûÐèÒªÄã°ïËû´ÓWater Queen¡¯shouseÀïÄÃ»áËû¶ù×ÓµÄÊ¬Ìå¡£µ½Water Queen¡¯s house»¨2000ÔªÂòÏÂÄÇ¾ßÊ¬Ìå£¬½«Ëü½»»¹¸øTymora£¬ÕâÑùËû¾ÍÄÜ°ÑËû¶ù×Ó¾È»îÁË¡£ÄãÒ²ÄÜµÃµ½²»´íµÄ±¨³ê¡£
+7.åœ¨Hall Of Wonderä¸Šæ–¹çš„ä¸€é—´æˆ¿å­å‰ä¼šæœ‰ä¸€ä¸ªè¦ç”·å­©æƒ³è¯·ä½ å¸®ä»–ä¸€ä¸ªå¿™ã€‚ç­”åº”ä»–åŽï¼Œåœ¨é‚£æˆ¿å­é‡Œä½ ä¼šè§åˆ°ä¸€ä¸ªå«Tymoraçš„ç‰§å¸ˆã€‚ä»–éœ€è¦ä½ å¸®ä»–ä»ŽWater Queenâ€™shouseé‡Œæ‹¿ä¼šä»–å„¿å­çš„å°¸ä½“ã€‚åˆ°Water Queenâ€™s houseèŠ±2000å…ƒä¹°ä¸‹é‚£å…·å°¸ä½“ï¼Œå°†å®ƒäº¤è¿˜ç»™Tymoraï¼Œè¿™æ ·ä»–å°±èƒ½æŠŠä»–å„¿å­æ•‘æ´»äº†ã€‚ä½ ä¹Ÿèƒ½å¾—åˆ°ä¸é”™çš„æŠ¥é…¬ã€‚
 
-8.ÔÚÓÒÉÏ·½³ÇÇøµÄÒ»¼ä·¿×Ó£¨Ã»Ëø£©ÀïÓÐ¸ö½ÐPheirkasµÄ°«ÈËÒªÄãÈ¥Beregost£¬ÔÚFeldpostÂÃ¹ÝµÄ¶þ²ã´ÓÒ»¸ö½ÐAlgernonÈËÄÇÈ¡»ØÒ»¸ö¶·Åñ£¨cloak)¡£
+8.åœ¨å³ä¸Šæ–¹åŸŽåŒºçš„ä¸€é—´æˆ¿å­ï¼ˆæ²¡é”ï¼‰é‡Œæœ‰ä¸ªå«Pheirkasçš„çŸ®äººè¦ä½ åŽ»Beregostï¼Œåœ¨Feldpostæ—…é¦†çš„äºŒå±‚ä»Žä¸€ä¸ªå«Algernonäººé‚£å–å›žä¸€ä¸ªæ–—ç¯·ï¼ˆcloak)ã€‚
 
-9.ÔÚDuchal PalaceÉÏ·½ÓÐÒ»×ùÎ×Ê¦Ëþ£¬ÔÚËþÅÔÄã»áÓö¼ûRamazith£¬ËûÒªÄãÈ¥Ragefast¡¯s House(ÔÚHall Of WonderÓÒ±ß£©Àï¾È³öNymph£¬É±ËÀRagefast¡¯s HouseÀïµÄÄÇÃûÎ×Ê¦ºóÄã¿ÉÒÔÑ¡ÔñÈçºÎ´¦ÖÃNymph¡£ÎÒÊÇ·ÅÁËËý¡£»ØÈ¥ÕÒRamazith£¬Ëû»áÖ¸ÔðÄã±³ÅÑÁËËû¡£ÔÚÓÃÉÁµçÊõ¹¥»÷ÄãÖ®ºóRamazith¾Í¶ãµ½ËþµÄ¶¥²ãÁË¡£²»¹ýÒªÕÒµ½ËûÄãµÃ¾­¹ý6²ãËþ²ã£¬Ã¿Ò»²ã¶¼ÓÐÒ»Ð©¹ÖÎï£¬ÒªÐ¡ÐÄÓ¦¸¶¡£
+9.åœ¨Duchal Palaceä¸Šæ–¹æœ‰ä¸€åº§å·«å¸ˆå¡”ï¼Œåœ¨å¡”æ—ä½ ä¼šé‡è§Ramazithï¼Œä»–è¦ä½ åŽ»Ragefastâ€™s House(åœ¨Hall Of Wonderå³è¾¹ï¼‰é‡Œæ•‘å‡ºNymphï¼Œæ€æ­»Ragefastâ€™s Houseé‡Œçš„é‚£åå·«å¸ˆåŽä½ å¯ä»¥é€‰æ‹©å¦‚ä½•å¤„ç½®Nymphã€‚æˆ‘æ˜¯æ”¾äº†å¥¹ã€‚å›žåŽ»æ‰¾Ramazithï¼Œä»–ä¼šæŒ‡è´£ä½ èƒŒå›äº†ä»–ã€‚åœ¨ç”¨é—ªç”µæœ¯æ”»å‡»ä½ ä¹‹åŽRamazithå°±èº²åˆ°å¡”çš„é¡¶å±‚äº†ã€‚ä¸è¿‡è¦æ‰¾åˆ°ä»–ä½ å¾—ç»è¿‡6å±‚å¡”å±‚ï¼Œæ¯ä¸€å±‚éƒ½æœ‰ä¸€äº›æ€ªç‰©ï¼Œè¦å°å¿ƒåº”ä»˜ã€‚
 
-µÚÁùÕÂ£º
+ç¬¬å…­ç« ï¼š
 
-°Ñ¹«¾ô¸øÄãµÄÍ¨ÐÐÖ¤½»¸øÃÅ¿ÚµÄÊØÎÀ£¬Ëû¾Í»áÈÃÄã½øÈ¥ÁË¡£ºÍ³ÇÀïµÄÈËÐðÐð¾É£¬ËûÃÇ»á¸æËßÄãÕâÀï×î½ü·¢ÉúÁËÒ»Ð©Ææ¹ÖµÄÊÂ¡£½øµ½Í¼Êé¹Ý£¬ÔÚÈýÂ¥ÓÐIron ThroneµÄÊ×Áì¡£Äã×îºÃ»¹ÊÇ±ðÈ¥ÕÐÈÇËûÃÇ£¬»á½µÉùÍûµÄ¡£ÔÚµÚ5²ã£¬Äã»áÒò»³ÒÉÄ±É±ÁËIronThroneµÄÊ×Áì¶ø±»´þ²¶£¨Ô©Í÷°¡£©£¬²»¹ýÃ»¹ØÏµ£¬Tethtoril »á¾ÈÄã³öÀ´£¬²¢°ÑÄã´«µ½Ò»¼äµØÏÂÊÒÀï£¬ÀïÃæÊÇ×ù¹ÅÄ¹¡£ÀïÍ·ÓÐÐí¶àµÄ»ú¹Ø£¬×îºÃÈÃÒ»¸öµÁÔôÔÚÇ°Í·¿ªÂ·¡£¹ÅÄ¹ÀïÓÐ²»ÉÙºÃ¶«Î÷£¬ÈÏÕæËÑËÑ¡£
+æŠŠå…¬çˆµç»™ä½ çš„é€šè¡Œè¯äº¤ç»™é—¨å£çš„å®ˆå«ï¼Œä»–å°±ä¼šè®©ä½ è¿›åŽ»äº†ã€‚å’ŒåŸŽé‡Œçš„äººå™å™æ—§ï¼Œä»–ä»¬ä¼šå‘Šè¯‰ä½ è¿™é‡Œæœ€è¿‘å‘ç”Ÿäº†ä¸€äº›å¥‡æ€ªçš„äº‹ã€‚è¿›åˆ°å›¾ä¹¦é¦†ï¼Œåœ¨ä¸‰æ¥¼æœ‰Iron Throneçš„é¦–é¢†ã€‚ä½ æœ€å¥½è¿˜æ˜¯åˆ«åŽ»æ‹›æƒ¹ä»–ä»¬ï¼Œä¼šé™å£°æœ›çš„ã€‚åœ¨ç¬¬5å±‚ï¼Œä½ ä¼šå› æ€€ç–‘è°‹æ€äº†IronThroneçš„é¦–é¢†è€Œè¢«é€®æ•ï¼ˆå†¤æž‰å•Šï¼‰ï¼Œä¸è¿‡æ²¡å…³ç³»ï¼ŒTethtoril ä¼šæ•‘ä½ å‡ºæ¥ï¼Œå¹¶æŠŠä½ ä¼ åˆ°ä¸€é—´åœ°ä¸‹å®¤é‡Œï¼Œé‡Œé¢æ˜¯åº§å¤å¢“ã€‚é‡Œå¤´æœ‰è®¸å¤šçš„æœºå…³ï¼Œæœ€å¥½è®©ä¸€ä¸ªç›—è´¼åœ¨å‰å¤´å¼€è·¯ã€‚å¤å¢“é‡Œæœ‰ä¸å°‘å¥½ä¸œè¥¿ï¼Œè®¤çœŸæœæœã€‚
 
-´ÓÓÒÉÏ·½µÄ³ö¿Ú³öÀ´£¬ÀïÃæÊÇÒ»¼ä´óÌü£¬ÔÚÄÇÀïÄã»áÓö¼ûÐí¶à¡°ÊìÈË¡±---¶¼ÊÇdopplegangers±äµÄ¡£ÄãÉõÖÁ»¹»á¼ûµ½ÄãÑø¸¸ºÍElminster£¬ÊÇÕæÊÇ¼ÙÄã¾Í×Ô¼ºÅÐ¶Ï°É¡£
+ä»Žå³ä¸Šæ–¹çš„å‡ºå£å‡ºæ¥ï¼Œé‡Œé¢æ˜¯ä¸€é—´å¤§åŽ…ï¼Œåœ¨é‚£é‡Œä½ ä¼šé‡è§è®¸å¤šâ€œç†Ÿäººâ€---éƒ½æ˜¯dopplegangerså˜çš„ã€‚ä½ ç”šè‡³è¿˜ä¼šè§åˆ°ä½ å…»çˆ¶å’ŒElminsterï¼Œæ˜¯çœŸæ˜¯å‡ä½ å°±è‡ªå·±åˆ¤æ–­å§ã€‚
 
-Àë¿ªÕâ£¬À´µ½Ò»¸ö¶´Ñ¨¡£ÔÚÀïÃæÄã»áÊÜµ½Ò»ÈºÈËµÄ¹¥»÷£¬¶Ô¸¶ËûÃÇÎÒ¸Ð¾õÓÃ»ðÇòÊõ+HOLD PERSON±È½ÏºÃÐ©¡£¶´Àï»¹ÓÐ²»ÉÙÖ©Öë£¬ÒªÐ¡ÐÄÓ¦¸¶¡£ÔÚ³ö¿Ú´¦ÓÐÁ½Í·´óÊ¯»¯ÊÞ£¨Greater Basilis£©ÄãÈôÊÇÃ³È»³åÉÏµÄ»°¿ÉÊÇ»áËÀµÄºÜÄÑ¿´µÄ£¬×îºÃµÄ·½·¨»¹ÊÇÏóÉÏÃæËùËµµÄ£¬Ì½³öËüÃÇµÄÎ»ÖÃºó£¬ÔÙÓÃ»ðÇòÊõÂýÂýµÄºä¡£Àë¿ªÕâ¸ö¶´Ñ¨ºó£¬ÕâÒ»ÕÂ¾ÍÍê³ÉÁË¡£
+ç¦»å¼€è¿™ï¼Œæ¥åˆ°ä¸€ä¸ªæ´žç©´ã€‚åœ¨é‡Œé¢ä½ ä¼šå—åˆ°ä¸€ç¾¤äººçš„æ”»å‡»ï¼Œå¯¹ä»˜ä»–ä»¬æˆ‘æ„Ÿè§‰ç”¨ç«çƒæœ¯+HOLD PERSONæ¯”è¾ƒå¥½äº›ã€‚æ´žé‡Œè¿˜æœ‰ä¸å°‘èœ˜è››ï¼Œè¦å°å¿ƒåº”ä»˜ã€‚åœ¨å‡ºå£å¤„æœ‰ä¸¤å¤´å¤§çŸ³åŒ–å…½ï¼ˆGreater Basilisï¼‰ä½ è‹¥æ˜¯è´¸ç„¶å†²ä¸Šçš„è¯å¯æ˜¯ä¼šæ­»çš„å¾ˆéš¾çœ‹çš„ï¼Œæœ€å¥½çš„æ–¹æ³•è¿˜æ˜¯è±¡ä¸Šé¢æ‰€è¯´çš„ï¼ŒæŽ¢å‡ºå®ƒä»¬çš„ä½ç½®åŽï¼Œå†ç”¨ç«çƒæœ¯æ…¢æ…¢çš„è½°ã€‚ç¦»å¼€è¿™ä¸ªæ´žç©´åŽï¼Œè¿™ä¸€ç« å°±å®Œæˆäº†ã€‚
 
-ÆäËüÈÎÎñ£º
+å…¶å®ƒä»»åŠ¡ï¼š
 
-ÔÚÍ¼Êé¹ÝÀïÄã»áÓö¼ûKevoras£¬Ëû»á½»¸øÄãÒ»¸öGorionµÄ½äÖ¸¡£ÔÚÍ¼Êé¹ÝÀï»¹ÓÐÒ»Ö»great doppleganger,ÈÏÕæÎÊÎÊ£¬Äã»áÕÒµ½ËûµÄ¡£
+åœ¨å›¾ä¹¦é¦†é‡Œä½ ä¼šé‡è§Kevorasï¼Œä»–ä¼šäº¤ç»™ä½ ä¸€ä¸ªGorionçš„æˆ’æŒ‡ã€‚åœ¨å›¾ä¹¦é¦†é‡Œè¿˜æœ‰ä¸€åªgreat doppleganger,è®¤çœŸé—®é—®ï¼Œä½ ä¼šæ‰¾åˆ°ä»–çš„ã€‚
 
-µÚÆßÕÂ£º
+ç¬¬ä¸ƒç« ï¼š
 
-»Øµ½Baldur¡¯s Gate£¬ÔÚSorcerous SundriesÃÅ¿ÚÄã»áÓö¼û TomokoËý»á¸æËßÄã³ÇÀï·¢ÉúµÄÒ»Ð©ÊÂ£¬Ì¸ÍêºóÈ¥Iron Throne£¬ÔÚÄÇÀïµÄ×î¶¥²ãÄã»á¼ûµ½Ò»¸öÅ®Ä§·¨Ê¦Cythanchia£¬¸ÉµôËý£¬Äã»áµÃµ½Sarevok¡¯s diary£¨ÖÐÍ¾Ëý»áÏòÄãÇóÈÄ£¬±ðÀíËý£¬¶Ô¸¶Ëý»¹ÊÇÓÃ»ðÇòÊõ°É£©¡£Àë¿ªÕâ£¬µ½Blushing Mermaid,ÔÚ×ó±ßÓÐÒ»µÀÃÅ£¬ÀïÃæÊÇUndercellar£¬ÔÚÖÐÐÄµÄ³Ø×ÓÀïÓÐÁ½¸öµÐÈË£¬°ÚÆ½ËûÃÇÄã¾ÍÄÜµÃµ½È¥Duchal PalaceµÄÇë¼í£¨²»¹ý±ðÉËÁËÅÔ±ßÄÇÐ©ÈË£¬»á¿ñµøÉùÍûµÄ£©¡£°ÑÇë¼í½»¸øDuchal PalaceµÄÊØÎÀÄã¾ÍÄÜ½øÈ¥ÁË¡£
+å›žåˆ°Baldurâ€™s Gateï¼Œåœ¨Sorcerous Sundriesé—¨å£ä½ ä¼šé‡è§ Tomokoå¥¹ä¼šå‘Šè¯‰ä½ åŸŽé‡Œå‘ç”Ÿçš„ä¸€äº›äº‹ï¼Œè°ˆå®ŒåŽåŽ»Iron Throneï¼Œåœ¨é‚£é‡Œçš„æœ€é¡¶å±‚ä½ ä¼šè§åˆ°ä¸€ä¸ªå¥³é­”æ³•å¸ˆCythanchiaï¼Œå¹²æŽ‰å¥¹ï¼Œä½ ä¼šå¾—åˆ°Sarevokâ€™s diaryï¼ˆä¸­é€”å¥¹ä¼šå‘ä½ æ±‚é¥¶ï¼Œåˆ«ç†å¥¹ï¼Œå¯¹ä»˜å¥¹è¿˜æ˜¯ç”¨ç«çƒæœ¯å§ï¼‰ã€‚ç¦»å¼€è¿™ï¼Œåˆ°Blushing Mermaid,åœ¨å·¦è¾¹æœ‰ä¸€é“é—¨ï¼Œé‡Œé¢æ˜¯Undercellarï¼Œåœ¨ä¸­å¿ƒçš„æ± å­é‡Œæœ‰ä¸¤ä¸ªæ•Œäººï¼Œæ‘†å¹³ä»–ä»¬ä½ å°±èƒ½å¾—åˆ°åŽ»Duchal Palaceçš„è¯·æŸ¬ï¼ˆä¸è¿‡åˆ«ä¼¤äº†æ—è¾¹é‚£äº›äººï¼Œä¼šç‹‚è·Œå£°æœ›çš„ï¼‰ã€‚æŠŠè¯·æŸ¬äº¤ç»™Duchal Palaceçš„å®ˆå«ä½ å°±èƒ½è¿›åŽ»äº†ã€‚
 
-ÏÈ´æ¸öÅÌ£¬ÔÙ×ß½ø´óÌü¡£ÀïÃæÄÇÐ©ÉÌÈËÆäÊµ¶¼ÊÇgreat doppleganger±äµÄ......ÄãºÃ×ÔÎªÖ®°É¡£²»¹ýÒª×¢Òâ¼¸µã£º
+å…ˆå­˜ä¸ªç›˜ï¼Œå†èµ°è¿›å¤§åŽ…ã€‚é‡Œé¢é‚£äº›å•†äººå…¶å®žéƒ½æ˜¯great dopplegangerå˜çš„......ä½ å¥½è‡ªä¸ºä¹‹å§ã€‚ä¸è¿‡è¦æ³¨æ„å‡ ç‚¹ï¼š
 
-1.ÔÚÃ»°ÑÄÇÐ©greater dopplegangerÏûÃð¹âÖ®Ç°ÄãµÄÖ÷ÈË¹«×îºÃ±ðÀëSAREVOKÌ«½ü£¬·ñÔòËû»á½ÐÄÇÐ©ÎÀ±øÀ´´òÄãµÄ¡£
+1.åœ¨æ²¡æŠŠé‚£äº›greater dopplegangeræ¶ˆç­å…‰ä¹‹å‰ä½ çš„ä¸»äººå…¬æœ€å¥½åˆ«ç¦»SAREVOKå¤ªè¿‘ï¼Œå¦åˆ™ä»–ä¼šå«é‚£äº›å«å…µæ¥æ‰“ä½ çš„ã€‚
 
-2.ÄãÒª±£×¡BeltµÄÐÔÃü£¬ÔÚÏûÃðÍêÄÇÐ©greater dopplegangerºóºÍBelt½»Ì¸£¬°ÑSarevok¡¯s diary½»¸øËû£¬ÕâÑùSarevok¾Í»áÀë¿ª£¨±ð¹¥»÷Ëû£¬Äã´ò²»ËÀËûµÄ£©¡£
+2.ä½ è¦ä¿ä½Beltçš„æ€§å‘½ï¼Œåœ¨æ¶ˆç­å®Œé‚£äº›greater dopplegangeråŽå’ŒBeltäº¤è°ˆï¼ŒæŠŠSarevokâ€™s diaryäº¤ç»™ä»–ï¼Œè¿™æ ·Sarevokå°±ä¼šç¦»å¼€ï¼ˆåˆ«æ”»å‡»ä»–ï¼Œä½ æ‰“ä¸æ­»ä»–çš„ï¼‰ã€‚
 
-3.Òª±£×¡IMOENµÄÐÔÃü£¬ËýµÄÄÜÁ¦¶ÔÖ®ºóµÄÕ½¶·ºÜÓÐÓÃ¡£SarevokÀë¿ªºó£¬Äã»á±»´«ËÍµ½Thieves¡¯ Guild£¬ÔÚÓÒ±ßµÄÐ¡·¿¼äÀïÄãÄÜµ½Ò»Ð©²»´íµÄÒ©¼Á¡£×¼±¸ºÃºó¾ÍÏÂÈ¥°É¡£ÔÚÃÔ¹¬Àï×î¿ÉÅÂµÄ¹ÖÎïÊÇSkeleton Warriors£¬¶àÓÃÕÙ»½Êõ¶Ô¸¶ËûÃÇ£¬ÃÔ¹¬Àï»¹ÓÐ²»ÉÙÏÝÚå£¬ÒªÐ¡ÐÄ¡£
+3.è¦ä¿ä½IMOENçš„æ€§å‘½ï¼Œå¥¹çš„èƒ½åŠ›å¯¹ä¹‹åŽçš„æˆ˜æ–—å¾ˆæœ‰ç”¨ã€‚Sarevokç¦»å¼€åŽï¼Œä½ ä¼šè¢«ä¼ é€åˆ°Thievesâ€™ Guildï¼Œåœ¨å³è¾¹çš„å°æˆ¿é—´é‡Œä½ èƒ½åˆ°ä¸€äº›ä¸é”™çš„è¯å‰‚ã€‚å‡†å¤‡å¥½åŽå°±ä¸‹åŽ»å§ã€‚åœ¨è¿·å®«é‡Œæœ€å¯æ€•çš„æ€ªç‰©æ˜¯Skeleton Warriorsï¼Œå¤šç”¨å¬å”¤æœ¯å¯¹ä»˜ä»–ä»¬ï¼Œè¿·å®«é‡Œè¿˜æœ‰ä¸å°‘é™·é˜±ï¼Œè¦å°å¿ƒã€‚
 
-ÃÔ¹¬µÄ³ö¿ÚÔÚ×óÉÏ·½£¬ÀïÃæÊÇÒ»´óÆ¬·ÏÐæ£¬ÔÚÄÇÄã»áÓö¼ûÒ»ÈºÀ´ÕÒSarevok»ÞÆøµÄIron ThroneµÄÈË£¬ÕâÐ©¼Ò»ïºÜÀ÷º¦£¬¼ìÑéÄãÔÚÌ½³öËûÃÇµÄ´óÖÂ·½Î»ºóÓÃ»ðÇòÊõÂýÂýºä£¬ÕâÑùÄÜ°ÑÉËÍö¼õµ½×îÐ¡¡£
-ÔÚ×óÉÏ·½¾ÍÊÇSarevok¶ã²ØµÄ¹¬µîÁË¡£×îºóÒ»Õ½ÆäÊµÖ»ÒªÕ½Êõ¶ÔÍ·£¬»¹ÊÇÍ¦ºÃ´òµÄ¡£ÏÖ°ÑÎÒµÄ·½·¨½éÉÜÒ»ÏÂ£º
+è¿·å®«çš„å‡ºå£åœ¨å·¦ä¸Šæ–¹ï¼Œé‡Œé¢æ˜¯ä¸€å¤§ç‰‡åºŸå¢Ÿï¼Œåœ¨é‚£ä½ ä¼šé‡è§ä¸€ç¾¤æ¥æ‰¾Sarevokæ™¦æ°”çš„Iron Throneçš„äººï¼Œè¿™äº›å®¶ä¼™å¾ˆåŽ‰å®³ï¼Œæ£€éªŒä½ åœ¨æŽ¢å‡ºä»–ä»¬çš„å¤§è‡´æ–¹ä½åŽç”¨ç«çƒæœ¯æ…¢æ…¢è½°ï¼Œè¿™æ ·èƒ½æŠŠä¼¤äº¡å‡åˆ°æœ€å°ã€‚
+åœ¨å·¦ä¸Šæ–¹å°±æ˜¯Sarevokèº²è—çš„å®«æ®¿äº†ã€‚æœ€åŽä¸€æˆ˜å…¶å®žåªè¦æˆ˜æœ¯å¯¹å¤´ï¼Œè¿˜æ˜¯æŒºå¥½æ‰“çš„ã€‚çŽ°æŠŠæˆ‘çš„æ–¹æ³•ä»‹ç»ä¸€ä¸‹ï¼š
 
-1).±ðÏòÓÒ×ß£¬ÄÇÓÐÐí¶àÌú¼×ÎäÊ¿£¬ºÜÄÑ²øµÄ¡£
-2).ÅÉIMOEN°Ñ×ó±ßºÍÖÐ¼äµÄ»ú¹Ø¶¼²ðµô£¬Ð¡ÐÄ£¬±ð¸øSarevokËûÃÇ¿´µ½¡£
-3).ÅÉÒ»¸öÄ§·¨Ê¦ÍùÉÏÍ·µÄÌ¨×Ó·¢Ò»·¢»ðÇòÊõ£¬È»ºó¸Ï½ôÍË»ØÀ´£¬ÔÚ¶ÓÎéÇ°·ÅÒ»¸öÕÙ»½Ä§·¨¡£ÕâÊ±Tazok»á³öÏÖÔÚ¶ÓÎéÇ°£¬ÕýºÃ±»ÄãÕÙ»½³öµÄ¹ÖÎïÎ§×¡£¬×¢Òâ±ðÈÃËû¿¿½üÄã£¬Õâ¼Ò»ïµÄ¹¥»÷Á¦»¹ÊÇÂùÇ¿µÄ¡£ÈÃÄãµÄÄÁÊ¦ÓÃHOLD PERSON·¨Êõ¶¨×¡Ëû£¬´ó¸ÅÖ»Òª¼¸»ØºÏ¾ÍÄÜ°ÑËû¸ÉµôÁË¡£
-4).¸ÉµôTazokºó£¬È«¶ÓÏòÉÏÒÆ¶¯µ½¾¡¿ÉÄÜ½Ó½üSarevokµÄµØ·½£¬È»ºóÓÃ»ðÇòÊõÂýÂýµÄºä£¬Ö±µ½°ÑËûµÄÈý¸öËæ´Ó¶¼¸ÉµôÎªÖ¹¡£ÕâÊ±ÔÙÈÃSarevok¼ûµ½Äã£¬µÈ¶Ô»°Ò»½áÊø£¬¾Í¸Ï½ôÕÙ»½³ö¹ÖÎï°ÑËûÎ§ÆðÀ´£¬Ç§Íò±ðÈÃËû¿¿½üÄã£¬Äã´ò²»¹ýËûµÄ¡£Ö»ÒªÄãÓÐ×ã¹»µÄÄÍÐÄºÍÕÙ»½ÊõÄ§ÕÈ£¬´òËÀËûÖ»ÊÇÊ±¼äÎÊÌâ¡£
+1).åˆ«å‘å³èµ°ï¼Œé‚£æœ‰è®¸å¤šé“ç”²æ­¦å£«ï¼Œå¾ˆéš¾ç¼ çš„ã€‚
+2).æ´¾IMOENæŠŠå·¦è¾¹å’Œä¸­é—´çš„æœºå…³éƒ½æ‹†æŽ‰ï¼Œå°å¿ƒï¼Œåˆ«ç»™Sarevokä»–ä»¬çœ‹åˆ°ã€‚
+3).æ´¾ä¸€ä¸ªé­”æ³•å¸ˆå¾€ä¸Šå¤´çš„å°å­å‘ä¸€å‘ç«çƒæœ¯ï¼Œç„¶åŽèµ¶ç´§é€€å›žæ¥ï¼Œåœ¨é˜Ÿä¼å‰æ”¾ä¸€ä¸ªå¬å”¤é­”æ³•ã€‚è¿™æ—¶Tazokä¼šå‡ºçŽ°åœ¨é˜Ÿä¼å‰ï¼Œæ­£å¥½è¢«ä½ å¬å”¤å‡ºçš„æ€ªç‰©å›´ä½ï¼Œæ³¨æ„åˆ«è®©ä»–é è¿‘ä½ ï¼Œè¿™å®¶ä¼™çš„æ”»å‡»åŠ›è¿˜æ˜¯è›®å¼ºçš„ã€‚è®©ä½ çš„ç‰§å¸ˆç”¨HOLD PERSONæ³•æœ¯å®šä½ä»–ï¼Œå¤§æ¦‚åªè¦å‡ å›žåˆå°±èƒ½æŠŠä»–å¹²æŽ‰äº†ã€‚
+4).å¹²æŽ‰TazokåŽï¼Œå…¨é˜Ÿå‘ä¸Šç§»åŠ¨åˆ°å°½å¯èƒ½æŽ¥è¿‘Sarevokçš„åœ°æ–¹ï¼Œç„¶åŽç”¨ç«çƒæœ¯æ…¢æ…¢çš„è½°ï¼Œç›´åˆ°æŠŠä»–çš„ä¸‰ä¸ªéšä»Žéƒ½å¹²æŽ‰ä¸ºæ­¢ã€‚è¿™æ—¶å†è®©Sarevokè§åˆ°ä½ ï¼Œç­‰å¯¹è¯ä¸€ç»“æŸï¼Œå°±èµ¶ç´§å¬å”¤å‡ºæ€ªç‰©æŠŠä»–å›´èµ·æ¥ï¼Œåƒä¸‡åˆ«è®©ä»–é è¿‘ä½ ï¼Œä½ æ‰“ä¸è¿‡ä»–çš„ã€‚åªè¦ä½ æœ‰è¶³å¤Ÿçš„è€å¿ƒå’Œå¬å”¤æœ¯é­”æ–ï¼Œæ‰“æ­»ä»–åªæ˜¯æ—¶é—´é—®é¢˜ã€‚
 
-ÆäËûÈÎÎñ£º
+å…¶ä»–ä»»åŠ¡ï¼š
 
-ÔÚBaldur¡¯s GateÀïÐÐ×ßÊ±ÄãÒªÐ¡ÐÄ¡£ÒòÎªÄã±»»³ÒÉÊÇÉ±ËÀIron ThroneÊ×ÁìµÄÐ×ÊÖ£¬ËùÒÔÒ»µ©±»ÎÀ±ø·¢ÏÖ¾Í»á±»¹¥»÷¡£²»¹ýµÚÒ»´Î±»·¢ÏÖÊ±£¬Èç¹ûÄã²»·´¿¹µÄ»°£¬Ëû»á°ÑÄã´øµ½Flaming Fist£¬ÄÇÀïÒÑ¾­±»Sarevok¿ØÖÆÁË¡£SarevokµÄÊÖÏÂAngelo»áÎÊÄãÎÊÌâ£¬Äã»Ø´ðËû¡°I will be the last who will laugh¡±ÕâÑùËû¾Í»á°ÑÄã¹Ø½ø¼àÓüÀï£¨Èç¹ûÃ»´ðºÃ£¬Ì¬¶ÈÌ«¶ñÁÓµÄ»°£¬ÄãµÄÒ»¸ö¶ÓÔ±»á±»Ëû´òËÀ£©¡£ÏëÒª³öÓüÄãµÃºÍ×óÏÂ·½ÀÎ·¿ÀïµÄ°«ÈËÌ¸Ì¸£¬½â³öËû³öµÄÃÕÓï£¨ºÜ¼òµ¥µÄ£©£¬Ëû¾Í»á°ïÄãÌÓ³ö¼àÓü¡£²»¹ýÕâÒÔºóÄãÔÙ¼ûµ½ÊØÎÀ»¹ÊÇ¿ìÁïµÄºÃ¡£
+åœ¨Baldurâ€™s Gateé‡Œè¡Œèµ°æ—¶ä½ è¦å°å¿ƒã€‚å› ä¸ºä½ è¢«æ€€ç–‘æ˜¯æ€æ­»Iron Throneé¦–é¢†çš„å‡¶æ‰‹ï¼Œæ‰€ä»¥ä¸€æ—¦è¢«å«å…µå‘çŽ°å°±ä¼šè¢«æ”»å‡»ã€‚ä¸è¿‡ç¬¬ä¸€æ¬¡è¢«å‘çŽ°æ—¶ï¼Œå¦‚æžœä½ ä¸åæŠ—çš„è¯ï¼Œä»–ä¼šæŠŠä½ å¸¦åˆ°Flaming Fistï¼Œé‚£é‡Œå·²ç»è¢«SarevokæŽ§åˆ¶äº†ã€‚Sarevokçš„æ‰‹ä¸‹Angeloä¼šé—®ä½ é—®é¢˜ï¼Œä½ å›žç­”ä»–â€œI will be the last who will laughâ€è¿™æ ·ä»–å°±ä¼šæŠŠä½ å…³è¿›ç›‘ç‹±é‡Œï¼ˆå¦‚æžœæ²¡ç­”å¥½ï¼Œæ€åº¦å¤ªæ¶åŠ£çš„è¯ï¼Œä½ çš„ä¸€ä¸ªé˜Ÿå‘˜ä¼šè¢«ä»–æ‰“æ­»ï¼‰ã€‚æƒ³è¦å‡ºç‹±ä½ å¾—å’Œå·¦ä¸‹æ–¹ç‰¢æˆ¿é‡Œçš„çŸ®äººè°ˆè°ˆï¼Œè§£å‡ºä»–å‡ºçš„è°œè¯­ï¼ˆå¾ˆç®€å•çš„ï¼‰ï¼Œä»–å°±ä¼šå¸®ä½ é€ƒå‡ºç›‘ç‹±ã€‚ä¸è¿‡è¿™ä»¥åŽä½ å†è§åˆ°å®ˆå«è¿˜æ˜¯å¿«æºœçš„å¥½ã€‚
 
-¼¸µã²¹³ä£º
+å‡ ç‚¹è¡¥å……ï¼š
 
-1.ÓÉÓÚ´ËÓÎÏ·ÓÐ¾­ÑéÖµÏÞÖÆ£¨89000µã£©£¬ËùÒÔÑ¡ÈËÊ±Òª×¢Òâ¡£¼ìÑéÑ¡ÈËÀà£¬µ«²»ÒªÓÃÓÎÏÀ£¨PALADIN£©£¬ÀËÈË£¨RANGER£©ºÍÓÎÒ÷Ê«ÈË£¨BARD£©£¬ÒòÎªÕâÈýÖÖÖ°Òµ²»ÄÜ¸ÄÖ°£¨DUAL-CLASS£©¡£¶øÇÒ¸ÄÖ°»¹ÒªÇóÄãµÚÒ»Ö°ÒµµÄÖ÷ÒªÄÜÁ¦Öµ(ABILITIS)Òª´óÓÚ15,µÚ¶þÖ°ÒµµÄÖ÷ÒªÄÜÁ¦ÖµÒª´óÓÚ17.
+1.ç”±äºŽæ­¤æ¸¸æˆæœ‰ç»éªŒå€¼é™åˆ¶ï¼ˆ89000ç‚¹ï¼‰ï¼Œæ‰€ä»¥é€‰äººæ—¶è¦æ³¨æ„ã€‚æ£€éªŒé€‰äººç±»ï¼Œä½†ä¸è¦ç”¨æ¸¸ä¾ ï¼ˆPALADINï¼‰ï¼Œæµªäººï¼ˆRANGERï¼‰å’Œæ¸¸åŸè¯—äººï¼ˆBARDï¼‰ï¼Œå› ä¸ºè¿™ä¸‰ç§èŒä¸šä¸èƒ½æ”¹èŒï¼ˆDUAL-CLASSï¼‰ã€‚è€Œä¸”æ”¹èŒè¿˜è¦æ±‚ä½ ç¬¬ä¸€èŒä¸šçš„ä¸»è¦èƒ½åŠ›å€¼(ABILITIS)è¦å¤§äºŽ15,ç¬¬äºŒèŒä¸šçš„ä¸»è¦èƒ½åŠ›å€¼è¦å¤§äºŽ17.
 
-2.´ËÓÎÏ·Éý¼¶Ê±ËùÔö¼ÓµÄHPµãÊýÊÇËæ»úµÄ£¬ÓÐÊ±ÉõÖÁ»áÏà²îÊ®Óàµã£¬ËùÒÔÉý¼¶Ç°×îºÃ¼ÇÂ¼Ò»ÏÂ¡£
+2.æ­¤æ¸¸æˆå‡çº§æ—¶æ‰€å¢žåŠ çš„HPç‚¹æ•°æ˜¯éšæœºçš„ï¼Œæœ‰æ—¶ç”šè‡³ä¼šç›¸å·®åä½™ç‚¹ï¼Œæ‰€ä»¥å‡çº§å‰æœ€å¥½è®°å½•ä¸€ä¸‹ã€‚
 
-3.Õ½¶·Ê±ÉÆÓÃÔÝÍ£¹¦ÄÜ£¨°´¿Õ¸ñ¼ü£©£¬ÕâÑù»áÈÝÒ×ºÜ¶à¡£²»¹ýÔÚÄã½øÎïÆ·À¸Ñ¡ÔñÎïÆ·Ê±ÔÝÍ£»á±»È¡Ïû£¬Òª×¢Òâ¡£
+3.æˆ˜æ–—æ—¶å–„ç”¨æš‚åœåŠŸèƒ½ï¼ˆæŒ‰ç©ºæ ¼é”®ï¼‰ï¼Œè¿™æ ·ä¼šå®¹æ˜“å¾ˆå¤šã€‚ä¸è¿‡åœ¨ä½ è¿›ç‰©å“æ é€‰æ‹©ç‰©å“æ—¶æš‚åœä¼šè¢«å–æ¶ˆï¼Œè¦æ³¨æ„ã€‚
 

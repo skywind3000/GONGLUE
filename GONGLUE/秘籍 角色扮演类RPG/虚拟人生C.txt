@@ -1,21 +1,21 @@
-��������
+虚拟人生
 
-����ѡ����������, ���ð� Enter�I 
-hpisok =����Ѫ
-myexp =�Ӿ���ֵ100
-dollarok =�ӽ�Ǯ10000Ԫ
-ethicok = �ӵ���ֵ100
-addint =������ֵ100
-umycharm =������ֵ100
-strengthhigh =������ֵ100
-workstar =�û���������߲���
-�������� 
-���ÿ������߲������ܼ�̤��С���� 
-������޸�ǰ����������ֱ���ü������� longlife 
-��С����̤�й��޸�Ϳ�����������޴򶷲�ʧѪ 
-һ���غσ���Ч
-����תְҵ 
-���ÿ������߲����ܼ�̤��С���� 
-����תְ��ǰ����������ֱ���ü������� ilovework 
-��С����̤��ְ���Ϳ�������ְ�� 
-P.S.һ���غσ���Ч
+在主选单界面输入, 不用按 Enter鍵 
+hpisok =补满血
+myexp =加经验值100
+dollarok =加金钱10000元
+ethicok = 加道德值100
+addint =加智力值100
+umycharm =加魅力值100
+strengthhigh =加体能值100
+workstar =用滑鼠控制行走步数
+不死金身 
+先用控制行走步数的密技踏中小如意 
+进入怪兽格前，在主界面直接用键盘输入 longlife 
+用小如意踏中怪兽格就可以做到与怪兽打斗不失血 
+一个回合內有效
+自由转职业 
+先用控制行走步数密技踏中小如意 
+进入转职格前，在主界面直接用键盘输入 ilovework 
+用小如意踏中职格格就可以自由职格 
+P.S.一个回合內有效

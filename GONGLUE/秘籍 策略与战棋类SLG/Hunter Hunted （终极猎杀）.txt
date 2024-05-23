@@ -1,16 +1,16 @@
-Hunter Hunted £¨ÖÕ¼«ÁÔÉ±£©
+Hunter Hunted ï¼ˆç»ˆæžçŒŽæ€ï¼‰
 
-°´ENTER¼ü£¬ÔÙÊäÈëÏÂÁÐÃØ¼¼£¬È»ºóÔÙ°´ENTERÈ·ÈÏ£º
-AVACADO£º½«Ö÷½ÇµÄÑÕÉ«ÇÐ»»µ½ÂÌÉ«
-BLUE£º½«Ö÷½ÇµÄÑÕÉ«ÇÐ»»µ½À¶É«
-COLE£ºµÃµ½ËùÓÐÎäÆ÷¡¢×Óµ¯È«Âú¡¢100¸öÉúÃüµãÇÒÎÞµÐ
-HAHN£º½«Ö÷½ÇµÄÑÕÉ«ÇÐ»»µ½ºìÉ«
-INVINCIBLE: ÎÞµÐ
-LUKASZUK£ºµÃµ½ËùÓÐÎäÆ÷
-OCHRE£º½«Ö÷½ÇµÄÑÕÉ«ÇÐ»»µ½ºÖÉ«
-RAYL£ºÎÞµÐ
-SAGE£º½«Ö÷½ÇµÄÑÕÉ«ÇÐ»»µ½ÁÁÂÌÉ«
-SNELLINGS£ºµÃµ½100¸öÉúÃüµã
-TREVOR£ºµÃµ½ËùÓÐÎäÆ÷²¢×Óµ¯È«Âú
-VINCENT£º½«ÍæÕßµÄÑÕÉ«ÇÐ»»µ½»ÒÉ«
+æŒ‰ENTERé”®ï¼Œå†è¾“å…¥ä¸‹åˆ—ç§˜æŠ€ï¼Œç„¶åŽå†æŒ‰ENTERç¡®è®¤ï¼š
+AVACADOï¼šå°†ä¸»è§’çš„é¢œè‰²åˆ‡æ¢åˆ°ç»¿è‰²
+BLUEï¼šå°†ä¸»è§’çš„é¢œè‰²åˆ‡æ¢åˆ°è“è‰²
+COLEï¼šå¾—åˆ°æ‰€æœ‰æ­¦å™¨ã€å­å¼¹å…¨æ»¡ã€100ä¸ªç”Ÿå‘½ç‚¹ä¸”æ— æ•Œ
+HAHNï¼šå°†ä¸»è§’çš„é¢œè‰²åˆ‡æ¢åˆ°çº¢è‰²
+INVINCIBLE: æ— æ•Œ
+LUKASZUKï¼šå¾—åˆ°æ‰€æœ‰æ­¦å™¨
+OCHREï¼šå°†ä¸»è§’çš„é¢œè‰²åˆ‡æ¢åˆ°è¤è‰²
+RAYLï¼šæ— æ•Œ
+SAGEï¼šå°†ä¸»è§’çš„é¢œè‰²åˆ‡æ¢åˆ°äº®ç»¿è‰²
+SNELLINGSï¼šå¾—åˆ°100ä¸ªç”Ÿå‘½ç‚¹
+TREVORï¼šå¾—åˆ°æ‰€æœ‰æ­¦å™¨å¹¶å­å¼¹å…¨æ»¡
+VINCENTï¼šå°†çŽ©è€…çš„é¢œè‰²åˆ‡æ¢åˆ°ç°è‰²
 

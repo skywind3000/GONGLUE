@@ -1,18 +1,18 @@
-Jedi Knight_ Dark Forces 2£¨½ÜµÏÆïÊ¿_ºÚ°µÁ¦Á¿2£©
+Jedi Knight_ Dark Forces 2ï¼ˆæ°è¿ªéª‘å£«_é»‘æš—åŠ›é‡2ï¼‰
 
-ÔÚÓÎÏ·ÖÐ°´"T"¼ü,ÇÐ»»µ½¿ØÖÆÌ¨Ä£Ê½(ÔÚÆÁÄ»ÉÏ·½,ÓÐCOMMAND×ÖÑù³öÏÖ),È»ºóÊäÈë
-ÒÔÏÂÃÜÂë:
-5858lvr: È«µØÍ¼ÏÔÊ¾
-deeznuts: Ôö¼ÓÁ¦Á¿¼¶Êý
-eriamjh: ·ÉÐÐÄ£Ê½
-imayoda: ¸øÄãËùÓÐµÄÁ¦Á¿
-jediwannabe: ÎÞµÐÄ£Ê½µÄ¿ªÆôÓë¹Ø±Õ
-raccoonking: ¸øÄãËùÓÐµÄÁ¦Á¿
-red5: µÃµ½ËùÓÐÎäÆ÷
-sithlord: ¸øÄãËùÓÐµÄÁ¦Á¿
-slowmo: »ºÂýÄ£Ê½µÄ¿ªÆôÓë¹Ø±Õ 
-thereisnotry: Ìøµ½ÏÂÒ»¹Ø
-yodajammies: ¸øÄã¸ü¶àµÄÁ¦Á¿
-wamprat: µÃµ½ËùÓÐÎïÆ·
-warp: ´©Ç½
+åœ¨æ¸¸æˆä¸­æŒ‰"T"é”®,åˆ‡æ¢åˆ°æŽ§åˆ¶å°æ¨¡å¼(åœ¨å±å¹•ä¸Šæ–¹,æœ‰COMMANDå­—æ ·å‡ºçŽ°),ç„¶åŽè¾“å…¥
+ä»¥ä¸‹å¯†ç :
+5858lvr: å…¨åœ°å›¾æ˜¾ç¤º
+deeznuts: å¢žåŠ åŠ›é‡çº§æ•°
+eriamjh: é£žè¡Œæ¨¡å¼
+imayoda: ç»™ä½ æ‰€æœ‰çš„åŠ›é‡
+jediwannabe: æ— æ•Œæ¨¡å¼çš„å¼€å¯ä¸Žå…³é—­
+raccoonking: ç»™ä½ æ‰€æœ‰çš„åŠ›é‡
+red5: å¾—åˆ°æ‰€æœ‰æ­¦å™¨
+sithlord: ç»™ä½ æ‰€æœ‰çš„åŠ›é‡
+slowmo: ç¼“æ…¢æ¨¡å¼çš„å¼€å¯ä¸Žå…³é—­ 
+thereisnotry: è·³åˆ°ä¸‹ä¸€å…³
+yodajammies: ç»™ä½ æ›´å¤šçš„åŠ›é‡
+wamprat: å¾—åˆ°æ‰€æœ‰ç‰©å“
+warp: ç©¿å¢™
 

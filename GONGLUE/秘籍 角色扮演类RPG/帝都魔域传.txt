@@ -1,7 +1,7 @@
-�۶�ħ��
+帝都魔域传
 
-��Ϸ�м��� RAWTOH �����ܼ����ܣ��������������룺 
-Crystal =ˮ���� 1000 �� 
-Money =Ǯ�� 10000 Ԫ 
-Exit =ֱ���뿪��Ϸ 
+游戏中键入 RAWTOH 启动密技功能，再输入以下密码： 
+Crystal =水晶加 1000 个 
+Money =钱加 10000 元 
+Exit =直接离开游戏 
 

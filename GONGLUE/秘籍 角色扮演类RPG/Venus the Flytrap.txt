@@ -1,12 +1,12 @@
 Venus the Flytrap
 
-´úÂë£º
-JUPITER£ºÊ±¼äÎÞÏÞ
-PLUTO£ºµ¯Ò©ÎÞÏÞ
-MARS£ºÈ«²¿ÎäÆ÷
-MERCURY£º·ÉÐÐ²»ÊÜÏÞÖÆ
-SATURN£º²»Ïê£¿£¿
-¹ý¹ØÃÜÂë£º
+ä»£ç ï¼š
+JUPITERï¼šæ—¶é—´æ— é™
+PLUTOï¼šå¼¹è¯æ— é™
+MARSï¼šå…¨éƒ¨æ­¦å™¨
+MERCURYï¼šé£žè¡Œä¸å—é™åˆ¶
+SATURNï¼šä¸è¯¦ï¼Ÿï¼Ÿ
+è¿‡å…³å¯†ç ï¼š
 2 - Mantids
 3 - Cicadas
 4 - Psyllids

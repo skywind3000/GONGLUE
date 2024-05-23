@@ -1,9 +1,9 @@
 Red Line Racing
 
-����Ϸ�а�סG+O+D��Ȼ�������������������´��룺
-immortal----ʹ���ϵ�ģʽ
-mortal----ֹͣ�ϵ�ģʽ 
-cw----ȫ����������
-ca----ȫ��������ҩ 
-reticle��ʮ���߳���Ŀ��ʱ���
-stoneage----������������������
+在游戏中按住G+O+D，然后在命令行内输入以下代码：
+immortal----使用上帝模式
+mortal----停止上帝模式 
+cw----全部汽车武器
+ca----全部汽车弹药 
+reticle当十字线超过目标时变红
+stoneage----用人来代替汽车比赛

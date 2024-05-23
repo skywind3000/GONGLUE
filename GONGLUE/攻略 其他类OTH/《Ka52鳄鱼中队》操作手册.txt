@@ -1,138 +1,138 @@
-¡¶Ka52öùÓãÖĞ¶Ó¡·²Ù×÷ÊÖ²á
+ã€ŠKa52é³„é±¼ä¸­é˜Ÿã€‹æ“ä½œæ‰‹å†Œ
 
-Miscellaneous¡¡Ñ¡Ïî 
-Ctrl + P£ºPause ÔİÍ£ 
-Ctrl + O£ºOptions Ñ¡Ïî²Ëµ¥ 
-Ctrl + G£ºScreen Grab ÆÁÄ»½ØÍ¼ 
-ESC£ºExit (out of game, menus, etc) ÍË³öÓÎÏ· 
-Numpad /£ºSkip Tutorial Audio Í£Ö¹µ¼º½ÒôĞ§ 
-Systems¡¡ÏµÍ³ 
-B£ºWindscreen Wipers: ON/OFF ·çµ²ÓêË¢ 
-Ctrl + B£ºIntermittent Wipers: ON/OFF ÓêË¢¶ÏĞø¿ªÆô 
-Ctrl + S£ºSpotlight: ON/OFF ¾Û¹âµÆ 
-G£ºLanding Gear: UP/DOWN ÆğÂä¼Ü 
-Ctrl + E£ºEject µ¯ÉäÌÓÉú 
-C£ºChaff ÂÁ²­¸ÉÈÅµ¯ 
-F£ºFlareÒ·¹âµ¯ 
-Flight¡¡·ÉĞĞ 
-Ctrl + R£ºRotor Brake/Engines: ON/OFF ¿ªÆô·¢¶¯»ú 
-+£ºIncrease Collective Ôö¼ÓÓÍÃÅ 
--£ºDecrease Collective ¼õĞ¡ÓÍÃÅ 
-<£ºYaw Left ×ó×ªÍä 
->£ºYaw Right ÓÒ×ªÍä 
-¡ü£ºCyclic Forward »úÉíÏòÇ°ÇãĞ± 
-¡ı£ºCyclic Backward »úÉíÏòºóÇãĞ± 
-¡û£ºCyclic Left »úÉíÏò×óÇãĞ± 
-¡ú£ºCyclic Right »úÉíÏòºóÇãĞ± 
-A£ºAutopilot: ON/OFF ×Ô¶¯·ÉĞĞ 
-H£ºAutohover: ON/OFF ±£³Ö¸ß¶È 
-Weapons¡¡ÎäÆ÷ 
-Ctrl + M£ºWeapons Master Arm È¡µÃÎäÆ÷¿ØÖÆÈ¨ 
-D£ºWeapons Manual/Automatic setting ÎäÆ÷ÊÖ¶¯/×Ô¶¯ÉèÖÃ 
-Backspace£ºWeapons select Ñ¡ÔñÎäÆ÷ 
-Space£ºWeapons Fire ¿ª»ğ 
-R, Numpad 1£ºTarget boresighted unit Ëø¶¨Ä¿±ê 
-T£ºSelect Next Target Ñ¡ÔñÏÂÒ»Ä¿±ê 
-Y£ºSelect Previous Target Ñ¡ÔñÉÏÒ»Ä¿±ê 
-U, Numpad 3£ºTrack Current TargetËø¶¨Ä¿±ê 
-O£ºAdd friendly units to the target list: ON/OFF Ëø¶¨¼º·½Ä¿±ê 
-S£ºRocket Salvo/ Gun RoF select »úÅÚ/»ğ¼ıËÙ¶ÈÇĞ»» 
-I£ºWeapons Officer Independent/Dependent ¶ÀÁ¢/ÒÀ¿¿Ãé×¼Ä£Ê½ 
-J£ºWeapons Officer Prioritise Primary: ON/OFF ÎäÆ÷²Ù×÷Ô±ÓÅÏÈÑ¡ÔñÄ£Ê½¿ªÆô/¹Ø±Õ 
-K£ºWeapons Officer Prioritise Air: ON/OFF L£ºWeapons Officer Prioritise ADA: ON/OFF 
-Communications¡¡Í¨ĞÅ 
-Q, 0£ºSelect ALL channels (All friendly helicopters) Ñ¡ÔñËùÓĞÍ¨ĞÅÆµµÀ 
-Ctrl + 1£ºSelect Channel 1 (Group 1) Ñ¡ÔñÆµµÀ1 
-Ctrl + 2£ºSelect Channel 2 (Group 2) Ñ¡ÔñÆµµÀ2 
-Ctrl + 3£ºSelect Channel 3 (Group 3) Ñ¡ÔñÆµµÀ3 
-Ctrl + 4£ºSelect Channel 4 (Group 4) Ñ¡ÔñÆµµÀ4 
-Ctrl + 5£ºSelect Channel 5 (Group 5) Ñ¡ÔñÆµµÀ5 
-E£ºOrder: Follow me "¸ú×ÅÎÒ" 
-Z£ºOrder: Go to NOE 
-X£ºOrder: Bob-up 
-2£ºOrder: Follow Mission Briefing "°´¼Æ»®ĞĞ¶¯" 
-3£ºOrder: Attack My Target "¹¥»÷ÎÒµÄÄ¿±ê" 
-4£ºOrder: Go to the Briefed Height "µ½´ïÔ¤¶¨¸ß¶È" 
-5£ºOrder: SEAD "Ñ¹ÖÆ·À¿Õ»ğÁ¦" 
-6£ºOrder: Engage Primary "¹¥»÷Ê×ÒªÄ¿±ê" 
-7£ºOrder: Engage Secondary "¹¥»÷´ÎÒªÄ¿±ê" 
-8£ºOrder: Engage AFV "¹¥»÷×°¼×³µ" 
-9£ºOrder: Engage ALL "¹¥»÷ËùÓĞÄ¿±ê" 
-Insert£ºOrder: Disengage "Í£Ö¹¹¥»÷" 
-Ctrl + Insert£ºOrder: End Disengagement "»Ö¸´¹¥»÷" 
-Delete£ºOrder: Wait "µÈ´ıÃüÁî" 
-Ctrl + Delete£ºOrder: End Waiting "½áÊøµÈ´ı" 
-Home£ºOrder: Return to Base "·µ»Ø»ùµØ" 
-End£ºOrder: Go to Rally Point "µ½´ï¼¯½áµØµã" 
-Ctrl + End£ºOrder: Go to ARSP and Reload/Refuel "µ½´ï²¹¸øµØµã" 
-Page Up,Shift +1£ºOrder: Go to Next Waypoint "µ½ÏÂÒ»µ¼º½µã" 
-Page Down,Shift + 2£ºOrder: Go to Previous Waypoint "µ½ÉÏÒ»µ¼º½µã" 
-View¡¡ÊÓ½Ç 
-Ctrl + F1, Enter£º3D Cockpit: ON/OFF 3D×ù²Õ 
-F1£ºForward Cockpit View ×ù²ÕÊÓ½Ç 
-F2£ºExterior Chase Camera View Î²×·ÊÓ½Ç 
-Shift + F2£ºFly-by Camera ÂÓ¹ıÊÓ½Ç 
-Ctrl + F2£ºCycle Fixed Camera View Ñ­»·Ñ¡ÔñÊÓ½Ç 
-F3£ºZoom to left MFD ×óÏÔÊ¾ÒÇ 
-F4£ºZoom to right MFD ÓÒÏÔÊ¾ÒÇ 
-F5£ºView: Targeted Enemy Unit ¹Û²ìµĞÈËµ¥Î» 
-Shift + F5£ºView: Player team members ¹Û²ìÏÂÒ»ÓÑ»ú 
-Ctrl + F5£ºView: Previous player team members ¹Û²ìÉÏÒ»ÓÑ»ú 
-F6£ºView: Enemy units ¹Û²ìµĞÈËµ¥Î» 
-Shift + F6£ºView: Previous enemy units ¹Û²ìÉÏÒ»µĞÈËµ¥Î» 
-Ctrl + F6£ºView: Closest enemy unit ¹Û²ì×î½üµĞÈË 
-F7£ºView: Friendly units ¹Û²ì¼º·½µ¥Î» 
-Shift + F7£ºView: Previous friendly units ¹Û²ìÉÏÒ»¼º·½µ¥Î» 
-Ctrl + F7£ºView: Closest friendly unit ¹Û²ì×î½ü¼º·½µ¥Î» 
-F8£ºMissile Camera View ¹Û²ìµ¼µ¯ 
-Shift + F8£ºPole Camera 
-F8£ºDrop Camera View 
-M£ºView: In-Flight Map µØÍ¼ 
-N£ºNight Vision: ON/OFF Ò¹ÊÓÒÇ 
-Numpad *£º Padlock current target Ëø¶¨µ±Ç°Ä¿±ê 
-Numpad 0£ºSelect next target and Padlock Ëø¶¨ÏÂÒ»Ä¿±ê 
-Numpad Del£º Select previous target and Padlock Ëø¶¨ÉÏÒ»Ä¿±ê 
-Numpad 4£ºPan View Left (interior and exterior) ¹Û²ì×ó·½ 
-Numpad 6£ºPan View Right (interior and exterior) ¹Û²ìÓÒ·½ 
-Numpad 2£ºPan View Down (interior and exterior) ¹Û²ìÏÂ·½ 
-Numpad 8£ºPan View Up (interior and exterior) ¹Û²ìÉÏ·½ 
-Numpad +£ºView: Zoom In (interior and exterior) ËõĞ¡ 
-Numpad -£ºView: Zoom Out (interior and exterior) ·Å´ó 
-Numpad 5£ºCentre cockpit view ¹Û²ìÕıÇ°·½ 
-Ctrl + Numpad 1£ºView: Helo Group 1 ¹Û²ì»úÈº1 
-Ctrl + Numpad 2£ºView: Helo Group 2¹Û²ì»úÈº2 
-Ctrl + Numpad 3£ºView: Helo Group 3¹Û²ì»úÈº3 
-Ctrl + Numpad 4£ºView: Helo Group 4¹Û²ì»úÈº4 
-Ctrl + Numpad 5£ºView: Helo Group 5¹Û²ì»úÈº5 
-MFD¡¡¶à¹¦ÄÜÏÔÊ¾ÒÇ 
-MFD 1: Change mode ¸Ä±ä¶à¹¦ÄÜÏÔÊ¾ÒÇ1Ä£Ê½ 
-Shift + MFD 1: Reduce system range on MFD ¼õĞ¡¶à¹¦ÄÜÏÔÊ¾ÒÇ1·¶Î§ 
-Ctrl + MFD 1: Increase system range on MFD Ôö¼Ó¶à¹¦ÄÜÏÔÊ¾ÒÇ1·¶Î§ 
-MFD 2: Change mode¸Ä±ä¶à¹¦ÄÜÏÔÊ¾ÒÇ2Ä£Ê½ 
-Shift + MFD 2: Reduce system range on MFD¼õĞ¡¶à¹¦ÄÜÏÔÊ¾ÒÇ2·¶Î§ 
-Ctrl + MFD 2: Increase system range on MFDÔö¼Ó¶à¹¦ÄÜÏÔÊ¾ÒÇ2·¶Î§ 
-'£ºChange Radar mode ¸Ä±äÀ×´ïÄ£Ê½ 
-HUD¡¡Ì§Í·ÏÔÊ¾ÒÇ 
-; £ºChange HUD modes ¸Ä±äÄ£Ê½ 
-Shift + +£ºHUD Brightness Increase Ôö¼ÓÁÁ¶È 
-Shift + - £ºHUD Brightness Decrease ¼õĞ¡ÁÁ¶È 
-Shift + /£ºHUD Colour Change ¸Ä±äÑÕÉ« 
-Cockpit ×ù²Õ 
-Ctrl + C£ºCockpit Light: ON/OFF ×ù²ÕµÆ 
-Ctrl + +£ºCockpit Light Intensity Up ÔöÇ¿µÆÁÁ¶È 
-Ctrl + - £ºCockpit Light Intensity Down ¼õĞ¡µÆÁÁ¶È 
-Ctrl + N£ºNavigation Lights: ON/OFF µ¼º½µÆ 
-Network¡¡ÍøÂç 
-Tab£ºActivate Network Message ¿ªÆô·¢ĞÅÏ¢¹¦ÄÜ 
-`£ºSend chat message (only if text has been input) ·¢ËÍĞÅÏ¢ 
-Ctrl + `£ºCancel chat message È¡ÏûĞÅÏ¢ 
-V£ºNetwork Score ¶ÔÕ½µÃ·Ö 
-Shift + Numpad 1£ºSend Preset message 1·¢ËÍĞÅÏ¢1 
-Shift + Numpad 2£ºSend Preset message 2·¢ËÍĞÅÏ¢2 
-Shift + Numpad 3£ºSend Preset message 3·¢ËÍĞÅÏ¢3 
-Shift + Numpad 4£ºSend Preset message 4·¢ËÍĞÅÏ¢4 
-Shift + Numpad 5£ºSend Preset message 5·¢ËÍĞÅÏ¢5 
-Shift + Numpad 6£ºSend Preset message 6·¢ËÍĞÅÏ¢6 
-Shift + Numpad 7£ºSend Preset message 7·¢ËÍĞÅÏ¢7 
-Shift + Numpad 8£ºSend Preset message 8·¢ËÍĞÅÏ¢8 
-Shift + Numpad 9£ºSend Preset message 9·¢ËÍĞÅÏ¢9
+Miscellaneousã€€é€‰é¡¹ 
+Ctrl + Pï¼šPause æš‚åœ 
+Ctrl + Oï¼šOptions é€‰é¡¹èœå• 
+Ctrl + Gï¼šScreen Grab å±å¹•æˆªå›¾ 
+ESCï¼šExit (out of game, menus, etc) é€€å‡ºæ¸¸æˆ 
+Numpad /ï¼šSkip Tutorial Audio åœæ­¢å¯¼èˆªéŸ³æ•ˆ 
+Systemsã€€ç³»ç»Ÿ 
+Bï¼šWindscreen Wipers: ON/OFF é£æŒ¡é›¨åˆ· 
+Ctrl + Bï¼šIntermittent Wipers: ON/OFF é›¨åˆ·æ–­ç»­å¼€å¯ 
+Ctrl + Sï¼šSpotlight: ON/OFF èšå…‰ç¯ 
+Gï¼šLanding Gear: UP/DOWN èµ·è½æ¶ 
+Ctrl + Eï¼šEject å¼¹å°„é€ƒç”Ÿ 
+Cï¼šChaff é“ç®”å¹²æ‰°å¼¹ 
+Fï¼šFlareæ›³å…‰å¼¹ 
+Flightã€€é£è¡Œ 
+Ctrl + Rï¼šRotor Brake/Engines: ON/OFF å¼€å¯å‘åŠ¨æœº 
++ï¼šIncrease Collective å¢åŠ æ²¹é—¨ 
+-ï¼šDecrease Collective å‡å°æ²¹é—¨ 
+<ï¼šYaw Left å·¦è½¬å¼¯ 
+>ï¼šYaw Right å³è½¬å¼¯ 
+â†‘ï¼šCyclic Forward æœºèº«å‘å‰å€¾æ–œ 
+â†“ï¼šCyclic Backward æœºèº«å‘åå€¾æ–œ 
+â†ï¼šCyclic Left æœºèº«å‘å·¦å€¾æ–œ 
+â†’ï¼šCyclic Right æœºèº«å‘åå€¾æ–œ 
+Aï¼šAutopilot: ON/OFF è‡ªåŠ¨é£è¡Œ 
+Hï¼šAutohover: ON/OFF ä¿æŒé«˜åº¦ 
+Weaponsã€€æ­¦å™¨ 
+Ctrl + Mï¼šWeapons Master Arm å–å¾—æ­¦å™¨æ§åˆ¶æƒ 
+Dï¼šWeapons Manual/Automatic setting æ­¦å™¨æ‰‹åŠ¨/è‡ªåŠ¨è®¾ç½® 
+Backspaceï¼šWeapons select é€‰æ‹©æ­¦å™¨ 
+Spaceï¼šWeapons Fire å¼€ç« 
+R, Numpad 1ï¼šTarget boresighted unit é”å®šç›®æ ‡ 
+Tï¼šSelect Next Target é€‰æ‹©ä¸‹ä¸€ç›®æ ‡ 
+Yï¼šSelect Previous Target é€‰æ‹©ä¸Šä¸€ç›®æ ‡ 
+U, Numpad 3ï¼šTrack Current Targeté”å®šç›®æ ‡ 
+Oï¼šAdd friendly units to the target list: ON/OFF é”å®šå·±æ–¹ç›®æ ‡ 
+Sï¼šRocket Salvo/ Gun RoF select æœºç‚®/ç«ç®­é€Ÿåº¦åˆ‡æ¢ 
+Iï¼šWeapons Officer Independent/Dependent ç‹¬ç«‹/ä¾é ç„å‡†æ¨¡å¼ 
+Jï¼šWeapons Officer Prioritise Primary: ON/OFF æ­¦å™¨æ“ä½œå‘˜ä¼˜å…ˆé€‰æ‹©æ¨¡å¼å¼€å¯/å…³é—­ 
+Kï¼šWeapons Officer Prioritise Air: ON/OFF Lï¼šWeapons Officer Prioritise ADA: ON/OFF 
+Communicationsã€€é€šä¿¡ 
+Q, 0ï¼šSelect ALL channels (All friendly helicopters) é€‰æ‹©æ‰€æœ‰é€šä¿¡é¢‘é“ 
+Ctrl + 1ï¼šSelect Channel 1 (Group 1) é€‰æ‹©é¢‘é“1 
+Ctrl + 2ï¼šSelect Channel 2 (Group 2) é€‰æ‹©é¢‘é“2 
+Ctrl + 3ï¼šSelect Channel 3 (Group 3) é€‰æ‹©é¢‘é“3 
+Ctrl + 4ï¼šSelect Channel 4 (Group 4) é€‰æ‹©é¢‘é“4 
+Ctrl + 5ï¼šSelect Channel 5 (Group 5) é€‰æ‹©é¢‘é“5 
+Eï¼šOrder: Follow me "è·Ÿç€æˆ‘" 
+Zï¼šOrder: Go to NOE 
+Xï¼šOrder: Bob-up 
+2ï¼šOrder: Follow Mission Briefing "æŒ‰è®¡åˆ’è¡ŒåŠ¨" 
+3ï¼šOrder: Attack My Target "æ”»å‡»æˆ‘çš„ç›®æ ‡" 
+4ï¼šOrder: Go to the Briefed Height "åˆ°è¾¾é¢„å®šé«˜åº¦" 
+5ï¼šOrder: SEAD "å‹åˆ¶é˜²ç©ºç«åŠ›" 
+6ï¼šOrder: Engage Primary "æ”»å‡»é¦–è¦ç›®æ ‡" 
+7ï¼šOrder: Engage Secondary "æ”»å‡»æ¬¡è¦ç›®æ ‡" 
+8ï¼šOrder: Engage AFV "æ”»å‡»è£…ç”²è½¦" 
+9ï¼šOrder: Engage ALL "æ”»å‡»æ‰€æœ‰ç›®æ ‡" 
+Insertï¼šOrder: Disengage "åœæ­¢æ”»å‡»" 
+Ctrl + Insertï¼šOrder: End Disengagement "æ¢å¤æ”»å‡»" 
+Deleteï¼šOrder: Wait "ç­‰å¾…å‘½ä»¤" 
+Ctrl + Deleteï¼šOrder: End Waiting "ç»“æŸç­‰å¾…" 
+Homeï¼šOrder: Return to Base "è¿”å›åŸºåœ°" 
+Endï¼šOrder: Go to Rally Point "åˆ°è¾¾é›†ç»“åœ°ç‚¹" 
+Ctrl + Endï¼šOrder: Go to ARSP and Reload/Refuel "åˆ°è¾¾è¡¥ç»™åœ°ç‚¹" 
+Page Up,Shift +1ï¼šOrder: Go to Next Waypoint "åˆ°ä¸‹ä¸€å¯¼èˆªç‚¹" 
+Page Down,Shift + 2ï¼šOrder: Go to Previous Waypoint "åˆ°ä¸Šä¸€å¯¼èˆªç‚¹" 
+Viewã€€è§†è§’ 
+Ctrl + F1, Enterï¼š3D Cockpit: ON/OFF 3Dåº§èˆ± 
+F1ï¼šForward Cockpit View åº§èˆ±è§†è§’ 
+F2ï¼šExterior Chase Camera View å°¾è¿½è§†è§’ 
+Shift + F2ï¼šFly-by Camera æ è¿‡è§†è§’ 
+Ctrl + F2ï¼šCycle Fixed Camera View å¾ªç¯é€‰æ‹©è§†è§’ 
+F3ï¼šZoom to left MFD å·¦æ˜¾ç¤ºä»ª 
+F4ï¼šZoom to right MFD å³æ˜¾ç¤ºä»ª 
+F5ï¼šView: Targeted Enemy Unit è§‚å¯Ÿæ•Œäººå•ä½ 
+Shift + F5ï¼šView: Player team members è§‚å¯Ÿä¸‹ä¸€å‹æœº 
+Ctrl + F5ï¼šView: Previous player team members è§‚å¯Ÿä¸Šä¸€å‹æœº 
+F6ï¼šView: Enemy units è§‚å¯Ÿæ•Œäººå•ä½ 
+Shift + F6ï¼šView: Previous enemy units è§‚å¯Ÿä¸Šä¸€æ•Œäººå•ä½ 
+Ctrl + F6ï¼šView: Closest enemy unit è§‚å¯Ÿæœ€è¿‘æ•Œäºº 
+F7ï¼šView: Friendly units è§‚å¯Ÿå·±æ–¹å•ä½ 
+Shift + F7ï¼šView: Previous friendly units è§‚å¯Ÿä¸Šä¸€å·±æ–¹å•ä½ 
+Ctrl + F7ï¼šView: Closest friendly unit è§‚å¯Ÿæœ€è¿‘å·±æ–¹å•ä½ 
+F8ï¼šMissile Camera View è§‚å¯Ÿå¯¼å¼¹ 
+Shift + F8ï¼šPole Camera 
+F8ï¼šDrop Camera View 
+Mï¼šView: In-Flight Map åœ°å›¾ 
+Nï¼šNight Vision: ON/OFF å¤œè§†ä»ª 
+Numpad *ï¼š Padlock current target é”å®šå½“å‰ç›®æ ‡ 
+Numpad 0ï¼šSelect next target and Padlock é”å®šä¸‹ä¸€ç›®æ ‡ 
+Numpad Delï¼š Select previous target and Padlock é”å®šä¸Šä¸€ç›®æ ‡ 
+Numpad 4ï¼šPan View Left (interior and exterior) è§‚å¯Ÿå·¦æ–¹ 
+Numpad 6ï¼šPan View Right (interior and exterior) è§‚å¯Ÿå³æ–¹ 
+Numpad 2ï¼šPan View Down (interior and exterior) è§‚å¯Ÿä¸‹æ–¹ 
+Numpad 8ï¼šPan View Up (interior and exterior) è§‚å¯Ÿä¸Šæ–¹ 
+Numpad +ï¼šView: Zoom In (interior and exterior) ç¼©å° 
+Numpad -ï¼šView: Zoom Out (interior and exterior) æ”¾å¤§ 
+Numpad 5ï¼šCentre cockpit view è§‚å¯Ÿæ­£å‰æ–¹ 
+Ctrl + Numpad 1ï¼šView: Helo Group 1 è§‚å¯Ÿæœºç¾¤1 
+Ctrl + Numpad 2ï¼šView: Helo Group 2è§‚å¯Ÿæœºç¾¤2 
+Ctrl + Numpad 3ï¼šView: Helo Group 3è§‚å¯Ÿæœºç¾¤3 
+Ctrl + Numpad 4ï¼šView: Helo Group 4è§‚å¯Ÿæœºç¾¤4 
+Ctrl + Numpad 5ï¼šView: Helo Group 5è§‚å¯Ÿæœºç¾¤5 
+MFDã€€å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª 
+MFD 1: Change mode æ”¹å˜å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª1æ¨¡å¼ 
+Shift + MFD 1: Reduce system range on MFD å‡å°å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª1èŒƒå›´ 
+Ctrl + MFD 1: Increase system range on MFD å¢åŠ å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª1èŒƒå›´ 
+MFD 2: Change modeæ”¹å˜å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª2æ¨¡å¼ 
+Shift + MFD 2: Reduce system range on MFDå‡å°å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª2èŒƒå›´ 
+Ctrl + MFD 2: Increase system range on MFDå¢åŠ å¤šåŠŸèƒ½æ˜¾ç¤ºä»ª2èŒƒå›´ 
+'ï¼šChange Radar mode æ”¹å˜é›·è¾¾æ¨¡å¼ 
+HUDã€€æŠ¬å¤´æ˜¾ç¤ºä»ª 
+; ï¼šChange HUD modes æ”¹å˜æ¨¡å¼ 
+Shift + +ï¼šHUD Brightness Increase å¢åŠ äº®åº¦ 
+Shift + - ï¼šHUD Brightness Decrease å‡å°äº®åº¦ 
+Shift + /ï¼šHUD Colour Change æ”¹å˜é¢œè‰² 
+Cockpit åº§èˆ± 
+Ctrl + Cï¼šCockpit Light: ON/OFF åº§èˆ±ç¯ 
+Ctrl + +ï¼šCockpit Light Intensity Up å¢å¼ºç¯äº®åº¦ 
+Ctrl + - ï¼šCockpit Light Intensity Down å‡å°ç¯äº®åº¦ 
+Ctrl + Nï¼šNavigation Lights: ON/OFF å¯¼èˆªç¯ 
+Networkã€€ç½‘ç»œ 
+Tabï¼šActivate Network Message å¼€å¯å‘ä¿¡æ¯åŠŸèƒ½ 
+`ï¼šSend chat message (only if text has been input) å‘é€ä¿¡æ¯ 
+Ctrl + `ï¼šCancel chat message å–æ¶ˆä¿¡æ¯ 
+Vï¼šNetwork Score å¯¹æˆ˜å¾—åˆ† 
+Shift + Numpad 1ï¼šSend Preset message 1å‘é€ä¿¡æ¯1 
+Shift + Numpad 2ï¼šSend Preset message 2å‘é€ä¿¡æ¯2 
+Shift + Numpad 3ï¼šSend Preset message 3å‘é€ä¿¡æ¯3 
+Shift + Numpad 4ï¼šSend Preset message 4å‘é€ä¿¡æ¯4 
+Shift + Numpad 5ï¼šSend Preset message 5å‘é€ä¿¡æ¯5 
+Shift + Numpad 6ï¼šSend Preset message 6å‘é€ä¿¡æ¯6 
+Shift + Numpad 7ï¼šSend Preset message 7å‘é€ä¿¡æ¯7 
+Shift + Numpad 8ï¼šSend Preset message 8å‘é€ä¿¡æ¯8 
+Shift + Numpad 9ï¼šSend Preset message 9å‘é€ä¿¡æ¯9

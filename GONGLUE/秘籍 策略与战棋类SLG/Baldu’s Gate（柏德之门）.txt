@@ -1,20 +1,20 @@
-Baldu��s Gate���ص�֮�ţ�
+Baldu’s Gate（柏德之门）
 
-�򿪲���֮����ϷĿ¼�µ�baldur.ini�ļ�����[Game Options]С�����в��� Cheats=1 ��������ļ��󣬽�����Ϸ�� 
+打开伯德之门游戏目录下的baldur.ini文件，在[Game Options]小节首行插入 Cheats=1 保存这个文件后，进入游戏。 
 
-����Ϸ�У���Ctrl+Tab ����Ϸ����̨�����������ؼ��� �ٰ�Ctrl+Tab����̨��رա� ��ȷ����Ĵ������µ��ؼ�����[Enter]�س��������ɼ�� 
+在游戏中，按Ctrl+Tab 打开游戏控制台，敲入以下秘籍。 再按Ctrl+Tab控制台会关闭。 正确无误的打入以下的秘籍，按[Enter]回车键，即可激活。 
 
-TheGreatGonzo() - �ٻ�10��ɱ��ChickensΪ��绤 
-FirstAid() - ���Եõ�5��ҽ�Ƽ���5ƿ��ҩ������1��stone 
-Midas() - �õ�500���ƽ� 
-CowKill() - �������cow�Աߣ����Եõ�һ��Cowkill����DrizztAttacks() - �õ�һ���жԵ�Drizzt 
-DrizztDefends() - �õ�һ�����Ƶ�Drizzt 
-CriticalItems() - �õ�������ϷΣ������Ʒ 
-Hans() - �����Characters�ƶ����ڽ������ɵĵط� 
-ExploreArea() - �����еĵ������Ϊ̽����������ͼȫ���� 
+TheGreatGonzo() - 召唤10个杀手Chickens为你辩护 
+FirstAid() - 可以得到5个医疗剂，5瓶毒药，还有1个stone 
+Midas() - 得到500个黄金 
+CowKill() - 如果你在cow旁边，可以得到一个Cowkill符咒DrizztAttacks() - 得到一个敌对的Drizzt 
+DrizztDefends() - 得到一个友善的Drizzt 
+CriticalItems() - 得到所有游戏危急的物品 
+Hans() - 把你的Characters移动到邻近的自由的地方 
+ExploreArea() - 把所有的地区标记为探索过。（地图全亮） 
 
-׬Ǯ�󷨣�
+赚钱大法：
 
-���� Inventory ���棬�Ƚ�һ֧ Potion ����Quick-Item�н�һ�� Jewel ( ��Ϸ������ܵõ���Ӧ���� LynxEye Gem ) ��Quick-Item �е� Potion �� Click һ�´�ʱָ���������� Potion��Ȼ��ֱ�Ӱ������Ϸ��ġ�����ͷ����ť�ص���Ϸ��������һ�»������½ǵ� Quick-Item λ�ã�ԭ�Ƿ�����Gem ��λ�û���ʾΪ Potion������ Left Click Լ 5 �Σ��ص� Inventory �����ᷢ���� Quick-Item�� Gem ���������� 65535 !
+进入 Inventory 画面，先将一支 Potion 放在Quick-Item列将一件 Jewel ( 游戏最初期能得到的应该是 LynxEye Gem ) 移Quick-Item 列的 Potion 上 Click 一下此时指标便会拿著了 Potion，然后直接按最左上方的「骷髅头」按钮回到游戏画面留意一下画面右下角的 Quick-Item 位置，原是放置了Gem 的位置会显示为 Potion在上面 Left Click 约 5 次，回到 Inventory 画面便会发现在 Quick-Item上 Gem 的数量竟有 65535 !
 
-�����ɹ��Ļ���ֻҪ�ظ��� 5 ������ 1 �� 2 �α�ɣ����ܳɹ���ȫ��������׬�ܶ�Ǯ���������ǽ�Ҫ�Ƚ���Ʒ�� Quick- Item �зŻ��·�����Ʒ���ſɡ�
+若不成功的话，只要重覆第 5 个步骤 1 至 2 次便可，定能成功！全数卖掉可赚很多钱哩！不过记紧要先将物品由 Quick- Item 列放回下方的物品栏才可。

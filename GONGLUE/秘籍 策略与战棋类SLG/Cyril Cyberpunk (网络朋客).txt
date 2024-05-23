@@ -1,17 +1,17 @@
-Cyril Cyberpunk (ÍøÂçÅó¿Í)
+Cyril Cyberpunk (ç½‘ç»œæœ‹å®¢)
 
-RSDIE: ×ÔÉ±
-RSDOC: ÉúÃüÖµ¼ÓÂú
-RSEND: ¹ý¹Ø
-RSFLYxxyy: Ìøµ½xxyy×ø±ê
-RSFUEL: ËùÓÐµ÷Ñ¹Æ÷È¼ÁÏ
-RSGOD: ÎÞµÐ
-RSGOOD: ËùÓÐÎäÆ÷,µ¯Ò©ºÍµ÷Ñ¹Æ÷
-RSGRAV: Ã»ÓÐµØÐÄÒýÁ¦
-RSKEY: ËùÓÐÔ¿³×
-RSLEV??: Ìøµ½??¹Ø
-RSLIFE: Ôö¼ÓÉúÃü
-RSNOWALLS: ´©Ç½
-RSNUKE: É±µôÕâ¹ØµÄËùÓÐÑý¹Ö
-RSSHIELD: ±£»¤ÕÖ
+RSDIE: è‡ªæ€
+RSDOC: ç”Ÿå‘½å€¼åŠ æ»¡
+RSEND: è¿‡å…³
+RSFLYxxyy: è·³åˆ°xxyyåæ ‡
+RSFUEL: æ‰€æœ‰è°ƒåŽ‹å™¨ç‡ƒæ–™
+RSGOD: æ— æ•Œ
+RSGOOD: æ‰€æœ‰æ­¦å™¨,å¼¹è¯å’Œè°ƒåŽ‹å™¨
+RSGRAV: æ²¡æœ‰åœ°å¿ƒå¼•åŠ›
+RSKEY: æ‰€æœ‰é’¥åŒ™
+RSLEV??: è·³åˆ°??å…³
+RSLIFE: å¢žåŠ ç”Ÿå‘½
+RSNOWALLS: ç©¿å¢™
+RSNUKE: æ€æŽ‰è¿™å…³çš„æ‰€æœ‰å¦–æ€ª
+RSSHIELD: ä¿æŠ¤ç½©
 

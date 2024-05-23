@@ -1,7 +1,7 @@
-Daedalus Encounter£¨ÓîÖæÃ°ÏÕ¼Ò£©
+Daedalus Encounterï¼ˆå®‡å®™å†’é™©å®¶ï¼‰
 
-1.ÃÕÌâÆÆ½â·¨£º
-°´×¡ALT+SHIFT²»·Å£¬ÔÙ¼üÈë¸ÃÃÕÌâµÄµÚÒ»¸ö×ÖÄ¸¼´¿É×Ô¶¯Íê³ÉÕâµÀÃÕÌâ¡£ÀýÈçÒªÌø¹ý¡°Probe Logic Circuit¡±ÕâµÀÃÕÌâ£¬Ö»Ðè°´ÏÂALT+SHIFT+PÈý¸ö°´¼ü¼´¿É£¬µ«¡°Orbit¡±ÕâµÀÃÕÌâÀýÍâ£¬±ØÐë°´ÏÂALT+SHIFT+I²ÅÄÜ×Ô¶¯Í¨¹ý¡£
-2.×Ô¶¯Ñ¡¹Ø·¨£º
-Ö÷Ñ¡µ¥²Ëµ¥£¨Main Menu£©ÖÐÑ¡ÔñÓÎÏ·³¡¾°Ê±£¬°´ÏÂALT-F5£¬È»ºóÑ¡ÔñJUMP TOµÄÉè¶¨£¬½ÓÖø»­ÃæÉÏ¾ÍÄÜÏÔÊ¾¸÷³¡¾°µÄÐ¡·ùËõÓ°£¬Ö»ÒªÓÃÊó±êµãÑ¡ÈÎÒ»³¡¾°¼´¿ÉÌøÖÁ¸ÃÇøÓò¡£
+1.è°œé¢˜ç ´è§£æ³•ï¼š
+æŒ‰ä½ALT+SHIFTä¸æ”¾ï¼Œå†é”®å…¥è¯¥è°œé¢˜çš„ç¬¬ä¸€ä¸ªå­—æ¯å³å¯è‡ªåŠ¨å®Œæˆè¿™é“è°œé¢˜ã€‚ä¾‹å¦‚è¦è·³è¿‡â€œProbe Logic Circuitâ€è¿™é“è°œé¢˜ï¼Œåªéœ€æŒ‰ä¸‹ALT+SHIFT+Pä¸‰ä¸ªæŒ‰é”®å³å¯ï¼Œä½†â€œOrbitâ€è¿™é“è°œé¢˜ä¾‹å¤–ï¼Œå¿…é¡»æŒ‰ä¸‹ALT+SHIFT+Iæ‰èƒ½è‡ªåŠ¨é€šè¿‡ã€‚
+2.è‡ªåŠ¨é€‰å…³æ³•ï¼š
+ä¸»é€‰å•èœå•ï¼ˆMain Menuï¼‰ä¸­é€‰æ‹©æ¸¸æˆåœºæ™¯æ—¶ï¼ŒæŒ‰ä¸‹ALT-F5ï¼Œç„¶åŽé€‰æ‹©JUMP TOçš„è®¾å®šï¼ŒæŽ¥è‘—ç”»é¢ä¸Šå°±èƒ½æ˜¾ç¤ºå„åœºæ™¯çš„å°å¹…ç¼©å½±ï¼Œåªè¦ç”¨é¼ æ ‡ç‚¹é€‰ä»»ä¸€åœºæ™¯å³å¯è·³è‡³è¯¥åŒºåŸŸã€‚
 

@@ -1,568 +1,568 @@
-ÒøºÓÓ¢ÐÛ´«Ëµ3
+é“¶æ²³è‹±é›„ä¼ è¯´3
 
-*Æª¼¯¶ÓÎéºÍÑ¡Ôñ¶ÓÎé=CTRL+#,#,ALT+#
+*ç¯‡é›†é˜Ÿä¼å’Œé€‰æ‹©é˜Ÿä¼=CTRL+#,#,ALT+#
 
 *Bookmark/SetView=CTRL+F9-F12,F9-F12
 
 *UnitFormation=F
 
-*·ÀÊØÄ£Ê½=G
+*é˜²å®ˆæ¨¡å¼=G
 
-*Ç¿ÖÆ¹¥»÷=CTRL+LEFTCLICK
+*å¼ºåˆ¶æ”»å‡»=CTRL+LEFTCLICK
 
-*Ç¿ÖÆÒÆ¶¯=ALT+LEFTCLICK
+*å¼ºåˆ¶ç§»åŠ¨=ALT+LEFTCLICK
 
 *ScatterUnit(s)=X
 
-*Í£Ö¹²¿¶Ó=S
+*åœæ­¢éƒ¨é˜Ÿ=S
 
-*»¤ËÍ²¿¶Ó=CTRL+ALT+LEFTCLICK
+*æŠ¤é€éƒ¨é˜Ÿ=CTRL+ALT+LEFTCLICK
 
 *CenterOnSelectedUnits=HOMEKEY
 
-*»Øµ½½¨Öþ¹¤³§=HSelect
+*å›žåˆ°å»ºç­‘å·¥åŽ‚=HSelect
 
 *AllUnitsOnScreen=EGoToNextUnit=N
 
-Õ½½¢ÐÛ×Ë
+æˆ˜èˆ°é›„å§¿
 
-o²®ÂÖÏ£¶û:È«½¢ÒÔÁ÷ÏßÐÍµÄÉè¼Æ,ËÆºõºÍÀ³Òð¹þÎïµÄÃÀÃ²»¥Ïà»ÔÓ³È«³¤1107Ã×,×°±¸ÓÐÖÐ×ÓÅÚ
+oä¼¯è½®å¸Œå°”:å…¨èˆ°ä»¥æµçº¿åž‹çš„è®¾è®¡,ä¼¼ä¹Žå’ŒèŽ±èŒµå“ˆç‰©çš„ç¾Žè²Œäº’ç›¸è¾‰æ˜ å…¨é•¿1107ç±³,è£…å¤‡æœ‰ä¸­å­ç‚®
 
-oÐÝ²®Àû°²:Í¬ÃË¾ü×î´óÐÍµÄÕ½½¢.È«³¤1159Ã×,½¢Ê×¹â×ÓÅÚ40ÃÅ, Ç°áá×óÓÒ¾ù×°ÓÐÓÐÀØÉäÅÚ¼°·Éµ¯Éè±¸.
+oä¼‘ä¼¯åˆ©å®‰:åŒç›Ÿå†›æœ€å¤§åž‹çš„æˆ˜èˆ°.å…¨é•¿1159ç±³,èˆ°é¦–å…‰å­ç‚®40é—¨, å‰å¾Œå·¦å³å‡è£…æœ‰æœ‰é•­å°„ç‚®åŠé£žå¼¹è®¾å¤‡.
 
-oÓÈÀïÎ÷Ë¹:Êôì¶ÖÐÐÍÕ½½¢,È«³¤624Ã×,Õ½½¢ÄÚ´îÔØ9¼ÜË¹°Í´ïÄáÒòÕ½¶·Í§,½¢Ê××°ÓÐµç×ÓÅÚ¼°ÓãÀ×µÈ×°±¸!
+oå°¤é‡Œè¥¿æ–¯:å±žæ–¼ä¸­åž‹æˆ˜èˆ°,å…¨é•¿624ç±³,æˆ˜èˆ°å†…æ­è½½9æž¶æ–¯å·´è¾¾å°¼å› æˆ˜æ–—è‰‡,èˆ°é¦–è£…æœ‰ç”µå­ç‚®åŠé±¼é›·ç­‰è£…å¤‡!
 
-oÍõ¶û¹ÅÀ×:µÛ¹ú¾üµÄ¸ßËÙÓîÖæÕ½¶·»ú,×óÓÒ×°ÓÐ´ó¿Ú¾¶ÀØÉäÅÚÖ÷ÒªÓÃ×÷½ü¾àÀëÕ½.
+oçŽ‹å°”å¤é›·:å¸å›½å†›çš„é«˜é€Ÿå®‡å®™æˆ˜æ–—æœº,å·¦å³è£…æœ‰å¤§å£å¾„é•­å°„ç‚®ä¸»è¦ç”¨ä½œè¿‘è·ç¦»æˆ˜.
 
-ÎÒÃÇÒªÕ÷·þµÄÊÇÐÇÐÇºÍ´óº£
+æˆ‘ä»¬è¦å¾æœçš„æ˜¯æ˜Ÿæ˜Ÿå’Œå¤§æµ·
 
-¡¡¡¡Õâ¸ö¾ç³¡°æµÄ¹ÊÊÂ¸Ä±à×ÔÒøÓ¢Íâ´«µÚÒ»ÆÚ (»÷ËéÐÇ³½µÄÈË)¹ÊÊÂ½²ÊöÀ³Òò¹þÌØÔÚÌáÑÇÂíÌØÐÇÓòÕ½¶·µÄÊÂ¼£!µ±Ê±À³Òò¹þÌØ»¹ÊÇÖÐ½«,ÔÚÃ×¿Ë±´¶û¼ÓÔªË§µÄÖ¸»ÓÏÂ×÷Õ½¿ÉÊÇÃ×¿Ë±´¶û¼ÓÔç¾Í¶ÔÀ³Òò¹þÌØ¼«Ö®²»Âú¡¤Ï£Íû½è´Ë»ú»áÏûÃðÀ³Òò¹þÌØËûÃüÀ³Òò¹þÌØÎª×óÒí²¢ÔÚÓëÍ¬ÃË¾ü¶ÔÖÅÊ±Ãü×óÒíÇ°½øµ«±¾ÕóºÍÓÒÒíÔòÎÆ·ç²»¶¯Ï£ÍûÎþÉüÀ³Òò¹þÌØÒÔ»»È¡Ê¤Àû.À³Òò¹þÌØ¾ö¶¨±øÐÐÏÕÖø,Ëû¾ö¶¨È«½¢ÔÚµÐÃæÇ°ÓÒ×ª,Ê»È¥ÓÒÒí,ÑîÍþÀûµ±Ê±ÈÔÊÇ×¼½«Éí·ÝËûÊ¶´©ÁËÀ³ÒòµÄ¹î¼Æ,Ã÷°×ÔÚµÛ¹ú¾üÖÐÓÐÈËÏ£ÍûÎþÉü×óÒí¾ü»»È¡Ê¤ÀûËû½«ÕâÏë·¨Ëµ¸øÅÉÌØÌý¡¤¿ÉÊÇÅÉÌØº¦ÅÂÕâÊÇµÛ¹ú¾üµÄÒõÄ±Òò´Ë°´±ø²»¶¯²»¹¥»÷Í»³öÁËµÄ×óÒí½¢¶Ó×îááÀ³Òò¹þÌØµÄ×óÒí¾ü·´¶ø³ÉÁË×óÓÒÊ¤¸ºµÄ¹Ø¼ü£¢ÊýÊ®Î»Ìá¶½µÄ·´¸ÐÓëÊý°ÙÍòµÃ¾ÈÊ¿±øµÄ¸ÐÐ»Ïà±ÈÊÇÎ¢²»×ãµÀµÄ£¢À³Òò¹þÌØÔÚÆë¸ñ·ÉµÄÈ°¸æÏÂ¾ö¶¨¼ÓÈëÕ½ÕóÊ¹Í¬ÃË¾ü½Ú½Ú°ÜÍË¾ÍÔÚÕâÊ±ºòÑîÍþÀû¾ö¶¨Ã°ÏÕÓëÑÇµä²¨ÂÞ¼ÝÊ»Ò»Ê×½¢Ö»Í»¹¨À³Òò¹þÌØÆì½¢²®ÂÖÏ£¶û,ÒªÐ²×óÒí¾üÍ£»ð!´Ó¶øÊ¹Í¬ÃË±ÜÃâÁËÈ«¾ü¸²Ã»µÄ¶òÔËÕâÊÇÀ³Òò¹þÌØ³õ´ÎÊÜ´ìì¶ÑîÍþÀûµÄÊÖÉÏ,Ò²ÊÇÕâÁ½Î»ËÞµÐµÄ³õ´Î¶ÔÕó!
-ÒøÓ¢OVAµÚÒ»ÆÚ»°Ìâ±í
+ã€€ã€€è¿™ä¸ªå‰§åœºç‰ˆçš„æ•…äº‹æ”¹ç¼–è‡ªé“¶è‹±å¤–ä¼ ç¬¬ä¸€æœŸ (å‡»ç¢Žæ˜Ÿè¾°çš„äºº)æ•…äº‹è®²è¿°èŽ±å› å“ˆç‰¹åœ¨æäºšé©¬ç‰¹æ˜ŸåŸŸæˆ˜æ–—çš„äº‹è¿¹!å½“æ—¶èŽ±å› å“ˆç‰¹è¿˜æ˜¯ä¸­å°†,åœ¨ç±³å…‹è´å°”åŠ å…ƒå¸…çš„æŒ‡æŒ¥ä¸‹ä½œæˆ˜å¯æ˜¯ç±³å…‹è´å°”åŠ æ—©å°±å¯¹èŽ±å› å“ˆç‰¹æžä¹‹ä¸æ»¡Â·å¸Œæœ›å€Ÿæ­¤æœºä¼šæ¶ˆç­èŽ±å› å“ˆç‰¹ä»–å‘½èŽ±å› å“ˆç‰¹ä¸ºå·¦ç¿¼å¹¶åœ¨ä¸ŽåŒç›Ÿå†›å¯¹å³™æ—¶å‘½å·¦ç¿¼å‰è¿›ä½†æœ¬é˜µå’Œå³ç¿¼åˆ™çº¹é£Žä¸åŠ¨å¸Œæœ›ç‰ºç‰²èŽ±å› å“ˆç‰¹ä»¥æ¢å–èƒœåˆ©.èŽ±å› å“ˆç‰¹å†³å®šå…µè¡Œé™©è‘—,ä»–å†³å®šå…¨èˆ°åœ¨æ•Œé¢å‰å³è½¬,é©¶åŽ»å³ç¿¼,æ¨å¨åˆ©å½“æ—¶ä»æ˜¯å‡†å°†èº«ä»½ä»–è¯†ç©¿äº†èŽ±å› çš„è¯¡è®¡,æ˜Žç™½åœ¨å¸å›½å†›ä¸­æœ‰äººå¸Œæœ›ç‰ºç‰²å·¦ç¿¼å†›æ¢å–èƒœåˆ©ä»–å°†è¿™æƒ³æ³•è¯´ç»™æ´¾ç‰¹å¬Â·å¯æ˜¯æ´¾ç‰¹å®³æ€•è¿™æ˜¯å¸å›½å†›çš„é˜´è°‹å› æ­¤æŒ‰å…µä¸åŠ¨ä¸æ”»å‡»çªå‡ºäº†çš„å·¦ç¿¼èˆ°é˜Ÿæœ€å¾ŒèŽ±å› å“ˆç‰¹çš„å·¦ç¿¼å†›åè€Œæˆäº†å·¦å³èƒœè´Ÿçš„å…³é”®ï¼‚æ•°åä½æç£çš„åæ„Ÿä¸Žæ•°ç™¾ä¸‡å¾—æ•‘å£«å…µçš„æ„Ÿè°¢ç›¸æ¯”æ˜¯å¾®ä¸è¶³é“çš„ï¼‚èŽ±å› å“ˆç‰¹åœ¨é½æ ¼é£žçš„åŠå‘Šä¸‹å†³å®šåŠ å…¥æˆ˜é˜µä½¿åŒç›Ÿå†›èŠ‚èŠ‚è´¥é€€å°±åœ¨è¿™æ—¶å€™æ¨å¨åˆ©å†³å®šå†’é™©ä¸Žäºšå…¸æ³¢ç½—é©¾é©¶ä¸€é¦–èˆ°åªçªé¾šèŽ±å› å“ˆç‰¹æ——èˆ°ä¼¯è½®å¸Œå°”,è¦èƒå·¦ç¿¼å†›åœç«!ä»Žè€Œä½¿åŒç›Ÿé¿å…äº†å…¨å†›è¦†æ²¡çš„åŽ„è¿è¿™æ˜¯èŽ±å› å“ˆç‰¹åˆæ¬¡å—æŒ«æ–¼æ¨å¨åˆ©çš„æ‰‹ä¸Š,ä¹Ÿæ˜¯è¿™ä¸¤ä½å®¿æ•Œçš„åˆæ¬¡å¯¹é˜µ!
+é“¶è‹±OVAç¬¬ä¸€æœŸè¯é¢˜è¡¨
 
 ---------------------------------------------------------------------------
 
-FirstSeason(µÚÒ»ÆÚ)
+FirstSeason(ç¬¬ä¸€æœŸ)
 
 #EnglishTitleChineseTitle
 
-1IntotheEternalNightÔÚÓÀºãµÄÒ¹Ö®ÖÐ
+1IntotheEternalNightåœ¨æ°¸æ’çš„å¤œä¹‹ä¸­
 
-2BattleatAstateÑÇË¹Ìá»áÕ½
+2BattleatAstateäºšæ–¯æä¼šæˆ˜
 
-3Birthofthe13thFleetµÚ13½¢¶Óµ®Éú
+3Birthofthe13thFleetç¬¬13èˆ°é˜Ÿè¯žç”Ÿ
 
-4Empire¡¯sAfterglowµÛ¹úÖ®²ÐÕÕ
+4Empireâ€™sAfterglowå¸å›½ä¹‹æ®‹ç…§
 
-5RiotonKastrop¿¨Ë¹ÌØÂÞÆÕÐÇÓò¶¯ÂÒ
+5RiotonKastropå¡æ–¯ç‰¹ç½—æ™®æ˜ŸåŸŸåŠ¨ä¹±
 
-6TheKnightsoftheRoseÃµ¹åÆïÊ¿
+6TheKnightsoftheRoseçŽ«ç‘°éª‘å£«
 
-7IserlohnInvasion!ÆæÏ®!ÒÀÐ»¶ûÂ×ÒªÈû
+7IserlohnInvasion!å¥‡è¢­!ä¾è°¢å°”ä¼¦è¦å¡ž
 
-8TheRuthlessObersteinÀä¿áµÄÒåÑÛ
+8TheRuthlessObersteinå†·é…·çš„ä¹‰çœ¼
 
-9TheKlopstockIncident¹ÅÂå²¼¹ó×åÊÂ¼þ
+9TheKlopstockIncidentå¤æ´›å¸ƒè´µæ—äº‹ä»¶
 
-10Jessica¡¯sStruggle½àÎ÷¿¨Ö®Õ½
+10Jessicaâ€™sStruggleæ´è¥¿å¡ä¹‹æˆ˜
 
-11AnActressExitsÅ®ÐÇÍË³¡
+11AnActressExitså¥³æ˜Ÿé€€åœº
 
-12AttackontheEmpireµÛ¹úÁì½ø¹¥
+12AttackontheEmpireå¸å›½é¢†è¿›æ”»
 
-13AStormisComingÉ½ÓêÓûÀ´
+13AStormisComingå±±é›¨æ¬²æ¥
 
-14Frontier¡¯sLiberation±ß¾³µÄ½â·Å
+14Frontierâ€™sLiberationè¾¹å¢ƒçš„è§£æ”¾
 
-15BattleatStarzoneAmlitzerÑÇÄ·Á¦ÔýÐÇÓò»áÕ½
+15BattleatStarzoneAmlitzeräºšå§†åŠ›æœ­æ˜ŸåŸŸä¼šæˆ˜
 
-16NewTrendoftheTimesÐÂµÄ³±Á÷
+16NewTrendoftheTimesæ–°çš„æ½®æµ
 
-17BeforetheStorm±©·çÓêÇ°µÄÄþ¾²
+17BeforetheStormæš´é£Žé›¨å‰çš„å®é™
 
-18Lippshatd¡¯sSecretAgreement¹ó×å¿ÚÍ·µÄÃÜÔ¼
+18Lippshatdâ€™sSecretAgreementè´µæ—å£å¤´çš„å¯†çº¦
 
-19Yang¡¯sFleetSetOffÑî½¢¶Ó³ö»÷
+19Yangâ€™sFleetSetOffæ¨èˆ°é˜Ÿå‡ºå‡»
 
-20BloodshedinSpaceÁ÷ÑªµÄÓîÖæ
+20BloodshedinSpaceæµè¡€çš„å®‡å®™
 
-21BattleatStarzoneDoria,and...µÂ°ÂÀïÑÇÐÇÓò»áÕ½,¶øÇÒ...
+21BattleatStarzoneDoria,and...å¾·å¥¥é‡Œäºšæ˜ŸåŸŸä¼šæˆ˜,è€Œä¸”...
 
-22CourageandLoyaltyÓÂÆøÓëÖÒ³Ï
+22CourageandLoyaltyå‹‡æ°”ä¸Žå¿ è¯š
 
-23CollapseofGoldenbaum»Æ½ðÊ÷µ¹ÏÂÁË
+23CollapseofGoldenbaumé»„é‡‘æ ‘å€’ä¸‹äº†
 
-24WhoBenefitsFromVictoryÎªÁËË­µÄÊ¤Àû
+24WhoBenefitsFromVictoryä¸ºäº†è°çš„èƒœåˆ©
 
-25DayBeforeDestinyÃüÔËµÄÊ¤Àû
+25DayBeforeDestinyå‘½è¿çš„èƒœåˆ©
 
-26Farewell,DistantLightÓÀ±ð°É!ÊÅÈ¥µÄÈÕ×Ó
-ÒøÓ¢OVAµÚ¶þÆÚ»°Ìâ±í
+26Farewell,DistantLightæ°¸åˆ«å§!é€åŽ»çš„æ—¥å­
+é“¶è‹±OVAç¬¬äºŒæœŸè¯é¢˜è¡¨
 
 ---------------------------------------------------------------------------
 
-SecondSeason(µÚ¶þÆÚ)
+SecondSeason(ç¬¬äºŒæœŸ)
 
 #EnglishTitleChineseTitle
 
-27FirstBattleÊ×¶È³ö»÷
+27FirstBattleé¦–åº¦å‡ºå‡»
 
-28PortraitsÐ¤Ïñ
+28Portraitsè‚–åƒ
 
-29OneNarrowThreadÒ»¸ùÏ¸ÏÒ
+29OneNarrowThreadä¸€æ ¹ç»†å¼¦
 
-30LostThingsÊÅÈ¥µÄÒ»ÇÐ‚Ì
+30LostThingsé€åŽ»çš„ä¸€åˆ‡åº
 
-31InquiryÒ¶xÊÂÉó²é
+31Inquiryå¶xäº‹å®¡æŸ¥
 
-32WarwithoutWeapons•Ã»ÓÐÎäÆ÷µÄÕ½Õù‚¢
+32WarwithoutWeaponsæ™²æ²¡æœ‰æ­¦å™¨çš„æˆ˜äº‰å„
 
-33Fortressvs.Fortress¥±nÈû¶ÔÒªÈû
+33Fortressvs.Fortressã‚±nå¡žå¯¹è¦å¡ž
 
-34TheReturnÓ¢ÐÛµÄ¹é»¹
+34TheReturnè‹±é›„çš„å½’è¿˜
 
-35DeterminationandAmbitionŒˆÒâÖ¾ÓëÒ°ÐÄ‚Æ
+35DeterminationandAmbitionå¯›æ„å¿—ä¸Žé‡Žå¿ƒå²
 
-36ThunderÀ×±©
+36Thunderé›·æš´
 
-37AbductionoftheYoungEmperorÓÕ¹ÕÓ×µÛ
+37AbductionoftheYoungEmperorè¯±æ‹å¹¼å¸
 
-38TheArrowisReleased(?)–bÒÑÀëÏÒ
+38TheArrowisReleased(?)æœ¾å·²ç¦»å¼¦
 
-39DepartureofOne‚tÉíÉÏÂ·
+39DepartureofOneå€€èº«ä¸Šè·¯
 
-40Julian¡¯sJourney;Humanity¡¯sJourneyƒ†ÓÈÀï°²Ö®ÂÃ‚Ì
+40Julianâ€™sJourney;Humanityâ€™sJourneyå„å°¤é‡Œå®‰ä¹‹æ—…åº
 
-41TheBattleNamed"TwilightoftheGods"@Õ½Ãû--ÖîÉñÖ®»Æ»èw
+41TheBattleNamed"TwilightoftheGods"@æˆ˜å--è¯¸ç¥žä¹‹é»„æ˜äº€
 
-42InvitationtoaRequiem’Êíw»êÇúµÄÖ®ÑûÑç‚Ì
+42InvitationtoaRequiemæ éŸœé­‚æ›²çš„ä¹‹é‚€å®´åº
 
-43Soundingof?-HornsƒMÏìÉùƒ“
+43Soundingof?-HornsåƒŠå“å£°å„ž
 
-44OccupationofPhezzanƒFÕ¼Áì·ÑÉ³[
+44OccupationofPhezzanåƒƒå é¢†è´¹æ²™ä¹•
 
-45ArrivaloftheColdWaveº®Á÷À´Ï®
+45ArrivaloftheColdWaveå¯’æµæ¥è¢­
 
-46TheArkFleetofAdmiralYangÑîÌá¶½µÄÅ²ÑÇ·½ÖÛ“Â
+46TheArkFleetofAdmiralYangæ¨æç£çš„æŒªäºšæ–¹èˆŸæ’€
 
-47SearchforaUniverseofFreedomŽ¸ýlÑ°×ÔÓÉµÄÓîÖæ‰F
+47SearchforaUniverseofFreedomå¹é½¦å¯»è‡ªç”±çš„å®‡å®™å¡…
 
-48Two-HeadedSnake~Battleof"Rantemario"‘oË«Í·Éß-À¼ÌáÂíÀûÅ·ÐÇÓò»á
+48Two-HeadedSnake~Battleof"Rantemario"æ†ƒåŒå¤´è›‡-å…°æé©¬åˆ©æ¬§æ˜ŸåŸŸä¼š
 
-(?)Õ½`
+(?)æˆ˜ä¹£
 
-49TheDarknessDeepens(?)[ÀèÃ÷Ç°µÄºÚ°µ‚­
+49TheDarknessDeepens(?)æ€ºé»Žæ˜Žå‰çš„é»‘æš—å”
 
-50ContinuousBattle˜AÁ¬Õ½
+50ContinuousBattleæ¥¢è¿žæˆ˜
 
-51DeathMatchofBa¡¯mirion1ƒo°ÍÃ×Àû¶÷Ö®ËÀ¶·1
+51DeathMatchofBaâ€™mirion1åƒ¶å·´ç±³åˆ©æ©ä¹‹æ­»æ–—1
 
-52DeathMatchofBa¡¯mirion2ƒo°ÍÃ×Àû¶÷Ö®ËÀ¶·2
+52DeathMatchofBaâ€™mirion2åƒ¶å·´ç±³åˆ©æ©ä¹‹æ­»æ–—2
 
-53EmergencyTurnÖè±ä
+53EmergencyTurnéª¤å˜
 
-54LongLivetheEmperor!»ÊµÛÍòËê‚ñ
-ÒøÓ¢OVAµÚÈýÆÚ»°Ìâ±í
+54LongLivetheEmperor!çš‡å¸ä¸‡å²å‚«
+é“¶è‹±OVAç¬¬ä¸‰æœŸè¯é¢˜è¡¨
 
 ---------------------------------------------------------------------------
 
-ThirdSeason(µÚÈýÆÚ)
+ThirdSeason(ç¬¬ä¸‰æœŸ)
 
 #EnglishTitleChineseTitle
 
-55AftertheCeremonytheCurtainRisesAgain...µäÀñÖ®áá-Ò¹Ä»ÔÙ´ÎÉýÆð
+55AftertheCeremonytheCurtainRisesAgain...å…¸ç¤¼ä¹‹å¾Œ-å¤œå¹•å†æ¬¡å‡èµ·
 
-56EarthµØÇòË¥Íö¼ÇÂ¼
+56Earthåœ°çƒè¡°äº¡è®°å½•
 
-57"Kyunmeru"IncidentÇñÃ·¶ûÊÂ¼þ
+57"Kyunmeru"Incidenté‚±æ¢…å°”äº‹ä»¶
 
-58Visitor·Ã¿Í
+58Visitorè®¿å®¢
 
-59Past,Present,Future¹ýÈ¥,ÏÖÔÚ,½«À´
+59Past,Present,Futureè¿‡åŽ»,çŽ°åœ¨,å°†æ¥
 
-60ToCapturetheMagician´þ²¶Ä§ÊõÊ¦
+60ToCapturetheMagiciané€®æ•é­”æœ¯å¸ˆ
 
-61InvitationtoOpera±»ÑûÇëµÄÏ·¾ç
+61InvitationtoOperaè¢«é‚€è¯·çš„æˆå‰§
 
-62BleedingStageofBlood(Cascade)Á÷Ñª,ÔÙÁ÷Ñª
+62BleedingStageofBlood(Cascade)æµè¡€,å†æµè¡€
 
-63SacredGroundÉñÊ¥Ö®µØn
+63SacredGroundç¥žåœ£ä¹‹åœ°æ˜
 
-64TheEndofVacationÐÝ¼Ù½áÊø
+64TheEndofVacationä¼‘å‡ç»“æŸ
 
-65ToShoulderEveryFlag(?)ÔÚ¼çÉÏµÄÆì
+65ToShoulderEveryFlag(?)åœ¨è‚©ä¸Šçš„æ——
 
-66LoweringoftheGoldenLionFlag»Æ½ðÊ¨×ÓÆìÏÂ
+66LoweringoftheGoldenLionFlagé»„é‡‘ç‹®å­æ——ä¸‹
 
-67"TwilightoftheGods"OnceAgainÖîÉñÖ®»Æ»èÔÙÏÖ
+67"TwilightoftheGods"OnceAgainè¯¸ç¥žä¹‹é»„æ˜å†çŽ°
 
-68ElFacile°¬¶û.·¨Î÷¶û
+68ElFacileè‰¾å°”.æ³•è¥¿å°”
 
-69BattletoRegainIserlohnÖØ¶áÒÁÐ»¶ûÂ×ÒªÈû
+69BattletoRegainIserlohné‡å¤ºä¼Šè°¢å°”ä¼¦è¦å¡ž
 
-70HomecomingoftheEnchanted(?)ChildrenÁ÷ÀË¶ù»Ø¼Ò
+70HomecomingoftheEnchanted(?)Childrenæµæµªå„¿å›žå®¶
 
-71Battleat"MaruAdetta"Starfield1Âí¶û.ÑÇµÏÌØÐÇÓò»áÕ½1
+71Battleat"MaruAdetta"Starfield1é©¬å°”.äºšè¿ªç‰¹æ˜ŸåŸŸä¼šæˆ˜1
 
-72Battleat"MaruAdetta"Starfield2ƒ}Âí¶û.ÑÇµÏÌØÐÇÓò»áÕ½
+72Battleat"MaruAdetta"Starfield2å„…é©¬å°”.äºšè¿ªç‰¹æ˜ŸåŸŸä¼šæˆ˜
 
-73ImperialEdictoftheWinterRoseGarden¶¬Ç¾Þ±Ô°µÄë·Áî
+73ImperialEdictoftheWinterRoseGardenå†¬è”·è–‡å›­çš„æ••ä»¤
 
-74DistantDestinationÇ°Í¾Ò£Ô¶
+74DistantDestinationå‰é€”é¥è¿œ
 
-75ThunderingÀ×Ãù
+75Thunderingé›·é¸£
 
-76BeforetheFestival½ÚÈÕÖ®Ç°
+76BeforetheFestivalèŠ‚æ—¥ä¹‹å‰
 
-77WindyCorridor(?)·ç¹ý»ØÀÈ
+77WindyCorridor(?)é£Žè¿‡å›žå»Š
 
-78StormofSpring´ºÌìµÄ·ç±©
+78StormofSpringæ˜¥å¤©çš„é£Žæš´
 
-79BattleoftheCorridor:Ever-winning,no‰^ÀÈÖ®Õ½-³¤Ê¤¶Ô²»°Ü
+79BattleoftheCorridor:Ever-winning,noå¡£å»Šä¹‹æˆ˜-é•¿èƒœå¯¹ä¸è´¥
 
-defeat 80BattleoftheCorridor:Kaleidoscope»ØÀÈÖ®Õ½-Íò»¨Í²
+defeat 80BattleoftheCorridor:Kaleidoscopeå›žå»Šä¹‹æˆ˜-ä¸‡èŠ±ç­’
 
-81BattleoftheCorridor:EndoftheGrandÏÔºÕµÄÔ¶Õ÷
+81BattleoftheCorridor:EndoftheGrandæ˜¾èµ«çš„è¿œå¾
 
-Expedition 82TheMagiciandoesn¡¯tReturn–‚Ä§ÊõÊ¦,Ò»È¥²»·µ
+Expedition 82TheMagiciandoesnâ€™tReturnæºé­”æœ¯å¸ˆ,ä¸€åŽ»ä¸è¿”
 
-83AftertheFestival±ì·Á
+83AftertheFestivalè†˜å¦¨
 
-84DisappointingVictoryŽÍ§£²ÎõÙòÓ
+84DisappointingVictoryå¹«Ð’å‚è¸¬è›´
 
-85MovingtheCapitalÇ¨¶¼
+85MovingtheCapitalè¿éƒ½
 
-86NewGovernmentofAugust8ÔÂµÄÐÂÕþ¸®
-ÒøÓ¢OVAµÚËÄÆÚ»°Ìâ±í
+86NewGovernmentofAugust8æœˆçš„æ–°æ”¿åºœ
+é“¶è‹±OVAç¬¬å››æœŸè¯é¢˜è¡¨
 
 ---------------------------------------------------------------------------
 
-FourthSeason(µÚËÄÆÚ)
+FourthSeason(ç¬¬å››æœŸ)
 
 #EnglishTitleChineseTitle
 
-87PremonitionofStorm±©·çÓêµÄÔ¤Õ×
+87PremonitionofStormæš´é£Žé›¨çš„é¢„å…†
 
-88IntheDistantRegionÔÚ±ß¾³ÉÏ•Ó
+88IntheDistantRegionåœ¨è¾¹å¢ƒä¸Šæ›ˆ
 
-89ARoseatSummer¡¯sEndÏÄÎ´µÄÇ¾Þ±
+89ARoseatSummerâ€™sEndå¤æœªçš„è”·è–‡
 
-90RumblingÃù¶¯
+90Rumblingé¸£åŠ¨
 
-91BurgeoningÃÈÑ¿
+91BurgeoningèŒèŠ½
 
-92IncidenceatUruvashii(?)ÎÚÂ³ÑÅÏ£ÊÂ¼þƒE
+92IncidenceatUruvashii(?)ä¹Œé²é›…å¸Œäº‹ä»¶åƒ‚
 
-93IntheNameofPrideŽÒò°ÁÂýÖ®Ãû‚É
+93IntheNameofPrideå¸©å› å‚²æ…¢ä¹‹ååµ
 
-94RebellionisaHero¡¯sPrivilegeÅÑÄæÊÇÓ¢ÐÛµÄÌØÈ¨”½
+94RebellionisaHeroâ€™sPrivilegeå›é€†æ˜¯è‹±é›„çš„ç‰¹æƒæ–€
 
-95TheTwoGreatOnesStrikeSimultaneouslyË«èµÕù°ÔÕ½‘o
+95TheTwoGreatOnesStrikeSimultaneouslyåŒç’§äº‰éœ¸æˆ˜æ†ƒ
 
-96SurvivingtheSword...Òò½£¶øÉúc
+96SurvivingtheSword...å› å‰‘è€Œç”Ÿä¹§
 
-97FallenbytheSwordÒò½£¶øÍöŒ•
+97FallenbytheSwordå› å‰‘è€Œäº¡å¯±
 
-98TheFinalRequiemÎÞÐÝÖ¹µÄ°²»êÇúI
+98TheFinalRequiemæ— ä¼‘æ­¢çš„å®‰é­‚æ›²å»”
 
-99RunningStartTowardtheFuture–bÍùÎ´À´
+99RunningStartTowardtheFutureæœ¾å¾€æœªæ¥
 
-100LongLivetheQueen!c»ÊºóÍòËê
+100LongLivetheQueen!cçš‡åŽä¸‡å²
 
-101InvitationtoRebellion¶¯ÂÒµÄÓÕÒò
+101InvitationtoRebellionåŠ¨ä¹±çš„è¯±å› 
 
-102ChallengetoArmsÎä×°ÌôÕ½‚É
+102ChallengetoArmsæ­¦è£…æŒ‘æˆ˜åµ
 
-ÒøºÓÓ¢ÐÛ´«Ëµ3sp
+é“¶æ²³è‹±é›„ä¼ è¯´3sp
 
-*ÓÎÏ··½Ê½
+*æ¸¸æˆæ–¹å¼
 
-oÒøÓ¢´«3ÊÇÒ»¿î´¿´âµÄÕ½ÂÔÓÎÏ·.Ã»Éõ÷áÄÚÕþÖ¸Áî,Ö»ÒªÊÇ´òÕÌ´òµÃºÃ±ã¿ÉÍ³Ò»ÒøºÓ.
-
-----------------------------------------------------------------------
-
-*Õ½ÊõÄ£Ê½
-
-oÕâÊÇ´ËÓÎÏ·µÄ¾«´âËùÔÚ.ËäÈ»ÈýÎ¬¿Õ¼ä×÷Õ½»¯Îª¶þÎ¬.µ«Ò²·Ç³£¿¼ÖÇÁ¦µÄÅ¶.
-
-o×îºÃ×¢Òâ½«¹ÙºÍ¸±¹Ù´îÅä,¿É»¥²¹²»×ã.±¾ÈË×îÏ²»¶ÑîÍþÀû´îÅä·ÑÑ©.
-
-o¹¥»÷Ê±×îºÃ´ò¶Ô·½µÄÎ²»ò²à.¶Ô·½Ò»¶¨ÉËÍö²ÒÖØ.
+oé“¶è‹±ä¼ 3æ˜¯ä¸€æ¬¾çº¯ç²¹çš„æˆ˜ç•¥æ¸¸æˆ.æ²¡ç”šéº½å†…æ”¿æŒ‡ä»¤,åªè¦æ˜¯æ‰“ä»—æ‰“å¾—å¥½ä¾¿å¯ç»Ÿä¸€é“¶æ²³.
 
 ----------------------------------------------------------------------
 
-*½¢Ö»×éÖ¯
+*æˆ˜æœ¯æ¨¡å¼
 
-oÊ×ÏÈ,ÂÛ¹¥»÷Á¦Óë·¶Î§,ÒÔÑ²º½½¢×î¼Ñ,µ«ÎäÆ÷·Éµ¯¹©Ó¦ºÍÕ½½¢ÐÞ¸´,Ò²ÎªÁË³¤ÆÚ×÷Õ½,ËùÒÔÒ²ÐëÒªÔËÊä½¢¸úÐÞ»¤½¢,¶ø±ÈÀýÒÔ1:1·ÖÅä,1Ì¨Ñ²º½½¢ÅäÒ»Ì¨ÐÞ»¤½¢¼°ÔËÊä½¢,¹¥»÷Ê±,ÒªÓÐ¶þ¶ÓÈ¥¹¥»÷,²»¹ÜÎÒ·½½¢¶ÓÈçºÎÉÙ,¶¼ÒªÓÃ¶þ¶Óµ²×¡µÐÈË,±ðÈÃÈËÍ»ÆÆ,¶øÄÚ²¿°²ÅÅ×¨ÃÅ´øÐÞ»¤½¢ºÍÔËÊä½¢ÒÆÖÁµÐÈË¹¥»÷²»µ½µÄµØ·½È´¿ÉÒÔ½øÐÐ²¹¸øÐÞ»¤µÄ·¶Î§,¼´¿É³¤ÆÚ×÷Õ½. ÑîÍþÀû×îºÃÊÇÈ«²¿ÊÇº½¿ÕÄ¸½¢.·ÑÑ©µÄÐÐ¶¯ÄÜÁ¦¿É²¹Æä²»×ã.
+oè¿™æ˜¯æ­¤æ¸¸æˆçš„ç²¾ç²¹æ‰€åœ¨.è™½ç„¶ä¸‰ç»´ç©ºé—´ä½œæˆ˜åŒ–ä¸ºäºŒç»´.ä½†ä¹Ÿéžå¸¸è€ƒæ™ºåŠ›çš„å“¦.
 
-----------------------------------------------------------------------
-*ÕóÐÎÑ¡Ôñ
+oæœ€å¥½æ³¨æ„å°†å®˜å’Œå‰¯å®˜æ­é…,å¯äº’è¡¥ä¸è¶³.æœ¬äººæœ€å–œæ¬¢æ¨å¨åˆ©æ­é…è´¹é›ª.
 
-oÔ²×¶Õó,¹¥»÷Á¦Ç¿,Æì½¢µ±Í·,Ñ²º½½¢µîáá,µ«Ð¡ÐÄËüµÄ·ÀÓùÁ¦½ÏÈõ.
-
-oËùÒÔ×îºÃÑ¡·ÀÓùÁ¦×îÇ¿µÄº½¿ÕÄ¸½¢ÎªÖ÷½¢ÈºÅä´ËÕóÊ½.µ±¿ÉÕ½ÎÞ²»Ê¤. Ò²¿ÉÓÃ°ëÔÂÐÎµÄ.ÓÃÁ½¸ö¼ÐÒ»¸ö.ÁíÍâÒ»¶Ó¿ìËÙ½¢¶Ó.Á½¸ö°ëÔÂÐÎ¿ÉÒÔ°Ñ¶Ô·½µÄ½¢¶Ó¸ø¼ÐÉ¢ÁË.¶ø¿ìËÙ½¢¶ÓÓÃÀ´ÈÆµ½¶Ô·½áá·½.»òÓÃÀ´µ±ÓÕ¶ü. È»ááËø¶¨Æì½¢ÃÍ´ò.»òÊÇÔË²¹½¢.²»´ò±ðµÄ.!!ÈôÓÐ¿ÉÒÔ´òÖÐ×Ó·Éµ¯×îºÃÓÃ.(µ±È»·Éµ¯ÄÜÁ¦Òª¸ß!!)
+oæ”»å‡»æ—¶æœ€å¥½æ‰“å¯¹æ–¹çš„å°¾æˆ–ä¾§.å¯¹æ–¹ä¸€å®šä¼¤äº¡æƒ¨é‡.
 
 ----------------------------------------------------------------------
 
-*ÉÆÓÃ±à¶Ó
+*èˆ°åªç»„ç»‡
 
-oËæÊ±¸Ä±ä¶ÓÐÎ.µ±Äã±È¶Ô·½¶àÊ±.²»·ÁÓÃÁ¬ºÏ°üÎ§ÐÎ³É°üÎ§Íø.. µ±Äã±È¶Ô·½ÉÙÊ±.´ò´øÅÜ..±ßÍË±ß×ª..²¢ËæÊ±°ÑÍ·³¯Ëü!! Ç§Íò±ðÖÐÑëÍ»ÆÆ....ÄÇÄã»áËÀµÄ±ÈË­¶¼ÄÑ¿´.³ý·ÇÄãµÄÖ¸»Ó¹Ù·ÀÓù,Í³ÂÊºÍÒÆ¶¯ÄÜÁ¦ÕæµÄºÜ¸ß....
+oé¦–å…ˆ,è®ºæ”»å‡»åŠ›ä¸ŽèŒƒå›´,ä»¥å·¡èˆªèˆ°æœ€ä½³,ä½†æ­¦å™¨é£žå¼¹ä¾›åº”å’Œæˆ˜èˆ°ä¿®å¤,ä¹Ÿä¸ºäº†é•¿æœŸä½œæˆ˜,æ‰€ä»¥ä¹Ÿé¡»è¦è¿è¾“èˆ°è·Ÿä¿®æŠ¤èˆ°,è€Œæ¯”ä¾‹ä»¥1:1åˆ†é…,1å°å·¡èˆªèˆ°é…ä¸€å°ä¿®æŠ¤èˆ°åŠè¿è¾“èˆ°,æ”»å‡»æ—¶,è¦æœ‰äºŒé˜ŸåŽ»æ”»å‡»,ä¸ç®¡æˆ‘æ–¹èˆ°é˜Ÿå¦‚ä½•å°‘,éƒ½è¦ç”¨äºŒé˜ŸæŒ¡ä½æ•Œäºº,åˆ«è®©äººçªç ´,è€Œå†…éƒ¨å®‰æŽ’ä¸“é—¨å¸¦ä¿®æŠ¤èˆ°å’Œè¿è¾“èˆ°ç§»è‡³æ•Œäººæ”»å‡»ä¸åˆ°çš„åœ°æ–¹å´å¯ä»¥è¿›è¡Œè¡¥ç»™ä¿®æŠ¤çš„èŒƒå›´,å³å¯é•¿æœŸä½œæˆ˜. æ¨å¨åˆ©æœ€å¥½æ˜¯å…¨éƒ¨æ˜¯èˆªç©ºæ¯èˆ°.è´¹é›ªçš„è¡ŒåŠ¨èƒ½åŠ›å¯è¡¥å…¶ä¸è¶³.
+
+----------------------------------------------------------------------
+*é˜µå½¢é€‰æ‹©
+
+oåœ†é”¥é˜µ,æ”»å‡»åŠ›å¼º,æ——èˆ°å½“å¤´,å·¡èˆªèˆ°æ®¿å¾Œ,ä½†å°å¿ƒå®ƒçš„é˜²å¾¡åŠ›è¾ƒå¼±.
+
+oæ‰€ä»¥æœ€å¥½é€‰é˜²å¾¡åŠ›æœ€å¼ºçš„èˆªç©ºæ¯èˆ°ä¸ºä¸»èˆ°ç¾¤é…æ­¤é˜µå¼.å½“å¯æˆ˜æ— ä¸èƒœ. ä¹Ÿå¯ç”¨åŠæœˆå½¢çš„.ç”¨ä¸¤ä¸ªå¤¹ä¸€ä¸ª.å¦å¤–ä¸€é˜Ÿå¿«é€Ÿèˆ°é˜Ÿ.ä¸¤ä¸ªåŠæœˆå½¢å¯ä»¥æŠŠå¯¹æ–¹çš„èˆ°é˜Ÿç»™å¤¹æ•£äº†.è€Œå¿«é€Ÿèˆ°é˜Ÿç”¨æ¥ç»•åˆ°å¯¹æ–¹å¾Œæ–¹.æˆ–ç”¨æ¥å½“è¯±é¥µ. ç„¶å¾Œé”å®šæ——èˆ°çŒ›æ‰“.æˆ–æ˜¯è¿è¡¥èˆ°.ä¸æ‰“åˆ«çš„.!!è‹¥æœ‰å¯ä»¥æ‰“ä¸­å­é£žå¼¹æœ€å¥½ç”¨.(å½“ç„¶é£žå¼¹èƒ½åŠ›è¦é«˜!!)
 
 ----------------------------------------------------------------------
 
-¡¡¡¡ÒøºÓÓ¢ÐÛ´«ËµÊÇÓÉÈÕ±¾µÂ¼äÊéµêÍÆ³öµÄÊ×²¿ÖÜ¿¯Ê½¶¯»­Â¼Ó°´øµÚÒ»ÆÚÍÆ³öáá´óÊÜºÃÆÀÒò´ËµÚ¶þ¼°ÈýÆÚÏà¼ÌÍÆ³ö¡¤ÒøÓ¢Ð¡ËµÖÐÎÄ°æÕý´«ÓÐ20ÆÚÍâ´«³öµ½µÚËÄÆÚ³ýÁË¶¯»­Íâ»¹ÓÐÓÉµÀÔ­Ê¤ÃÀ»­µÄÂþ»­°æÏÖÈÔÔÚÁ¬ÔØÖÐµçÓ°°æÔòÓÐÒ»³öÎÒÃÇÒªÕ÷·þµÄÊÇÐÇÐÇºÍ´óº£!»¹ÓÐÒøÓ¢Íâ´«OVA»Æ½ðÖ®Òí
+*å–„ç”¨ç¼–é˜Ÿ
 
-¶¯»­°æµÚÒ»ÖÁËÄÆÚ»°Ìâ±íÈçÏÂ:
+oéšæ—¶æ”¹å˜é˜Ÿå½¢.å½“ä½ æ¯”å¯¹æ–¹å¤šæ—¶.ä¸å¦¨ç”¨è¿žåˆåŒ…å›´å½¢æˆåŒ…å›´ç½‘.. å½“ä½ æ¯”å¯¹æ–¹å°‘æ—¶.æ‰“å¸¦è·‘..è¾¹é€€è¾¹è½¬..å¹¶éšæ—¶æŠŠå¤´æœå®ƒ!! åƒä¸‡åˆ«ä¸­å¤®çªç ´....é‚£ä½ ä¼šæ­»çš„æ¯”è°éƒ½éš¾çœ‹.é™¤éžä½ çš„æŒ‡æŒ¥å®˜é˜²å¾¡,ç»ŸçŽ‡å’Œç§»åŠ¨èƒ½åŠ›çœŸçš„å¾ˆé«˜....
 
-*OVAµÚÒ»ÆÚ
+----------------------------------------------------------------------
 
-*OVAµÚ¶þÆÚ
+ã€€ã€€é“¶æ²³è‹±é›„ä¼ è¯´æ˜¯ç”±æ—¥æœ¬å¾·é—´ä¹¦åº—æŽ¨å‡ºçš„é¦–éƒ¨å‘¨åˆŠå¼åŠ¨ç”»å½•å½±å¸¦ç¬¬ä¸€æœŸæŽ¨å‡ºå¾Œå¤§å—å¥½è¯„å› æ­¤ç¬¬äºŒåŠä¸‰æœŸç›¸ç»§æŽ¨å‡ºÂ·é“¶è‹±å°è¯´ä¸­æ–‡ç‰ˆæ­£ä¼ æœ‰20æœŸå¤–ä¼ å‡ºåˆ°ç¬¬å››æœŸé™¤äº†åŠ¨ç”»å¤–è¿˜æœ‰ç”±é“åŽŸèƒœç¾Žç”»çš„æ¼«ç”»ç‰ˆçŽ°ä»åœ¨è¿žè½½ä¸­ç”µå½±ç‰ˆåˆ™æœ‰ä¸€å‡ºæˆ‘ä»¬è¦å¾æœçš„æ˜¯æ˜Ÿæ˜Ÿå’Œå¤§æµ·!è¿˜æœ‰é“¶è‹±å¤–ä¼ OVAé»„é‡‘ä¹‹ç¿¼
 
-*OVAµÚÈýÆÚ
+åŠ¨ç”»ç‰ˆç¬¬ä¸€è‡³å››æœŸè¯é¢˜è¡¨å¦‚ä¸‹:
 
-*OVAµÚËÄÆÚ
+*OVAç¬¬ä¸€æœŸ
+
+*OVAç¬¬äºŒæœŸ
+
+*OVAç¬¬ä¸‰æœŸ
+
+*OVAç¬¬å››æœŸ
 
 ---------------------------------------------------------------------------
 
-ÒøºÓÓ¢ÐÛ´«ËµÄê±í
+é“¶æ²³è‹±é›„ä¼ è¯´å¹´è¡¨
 
-ÓîÖæÀúµÛ¹ú¾üÍ¬ÃË¾ü
+å®‡å®™åŽ†å¸å›½å†›åŒç›Ÿå†›
 
-268Â³µÀ·ò.·ë.¸ßµÇ°ÍÄ·µ®Éú-
+268é²é“å¤«.å†¯.é«˜ç™»å·´å§†è¯žç”Ÿ-
 
-310ÒøºÓµÛ¹ú³ÉÁ¢-
+310é“¶æ²³å¸å›½æˆç«‹-
 
-473-ÑÇÀ×.º£ÄáÉ­³É¹¦ÌÓÍù°¢¶ûÌ©¶û
+473-äºšé›·.æµ·å°¼æ£®æˆåŠŸé€ƒå¾€é˜¿å°”æ³°å°”
 
-527-×ÔÓÉÐÐÐÇÍ¬ÃËÖ®³ÉÁ¢
+527-è‡ªç”±è¡Œæ˜ŸåŒç›Ÿä¹‹æˆç«‹
 
-640´ï¹±¼ßÃðÕ½
+640è¾¾è´¡æ­¼ç­æˆ˜
 
-682·Ñ·¨×ÔÖÎÁì³ÉÁ¢-
+682è´¹æ³•è‡ªæ²»é¢†æˆç«‹-
 
-767°ÂË¹¿¨.·ë.ÂÞÑÏËþ¶ûµ®Éú-
+767å¥¥æ–¯å¡.å†¯.ç½—ä¸¥å¡”å°”è¯žç”Ÿ-
 
-776À³Òò¹þÌØ.·ë.Ã×Ðª¶ûµ®ÉúÑîÍþÀûµ®Éú
+776èŽ±å› å“ˆç‰¹.å†¯.ç±³æ­‡å°”è¯žç”Ÿæ¨å¨åˆ©è¯žç”Ÿ
 
-782-ÓÈÀï°².Ãô×Èµ®Éú
+782-å°¤é‡Œå®‰.æ•å…¹è¯žç”Ÿ
 
-786¼ª¶û·Æ°¬Ë¹ÓëÀ³Òò¹þÌØÏà»á-
+786å‰å°”è²è‰¾æ–¯ä¸ŽèŽ±å› å“ˆç‰¹ç›¸ä¼š-
 
--°²ÄÝÂÞ½Ü³ÉÎª»ÊµÛ³èåú-
+-å®‰å¦®ç½—æ°æˆä¸ºçš‡å¸å® å¦ƒ-
 
-787-ÑîÈë¾ü¼®(ÉÙÎ¾)
+787-æ¨å…¥å†›ç±(å°‘å°‰)
 
-788-ÑîÉýÎªÖÐÎ¾
+788-æ¨å‡ä¸ºä¸­å°‰
 
-791À³Òò¹þÌØ³õ´Î³öÕó-
-792µÚÎå´ÎÒÁÐ»¶ûÂ×ÒªÈû¹¥ÂÔÕ½
+791èŽ±å› å“ˆç‰¹åˆæ¬¡å‡ºé˜µ-
+792ç¬¬äº”æ¬¡ä¼Šè°¢å°”ä¼¦è¦å¡žæ”»ç•¥æˆ˜
 
--Ã×´ïÂóÑÇÓë°¬·¼ÉªÁÕ½á»é-
+-ç±³è¾¾éº¦äºšä¸Žè‰¾èŠ³ç‘Ÿç³ç»“å©š-
 
-794À³Òò¹þÌØÉýÎªÉÙ½«ÓÈÀï°²³ÉÎªÑîµÄÑø×Ó
+794èŽ±å› å“ˆç‰¹å‡ä¸ºå°‘å°†å°¤é‡Œå®‰æˆä¸ºæ¨çš„å…»å­
 
--¼ª¶û·Æ°¬Ë¹½úÉýÉÙÐ£ÏÈ¿Ü²¼´úÀíÇ¾Þ±ÆïÊ¿Á¬¶Ó³¤
+-å‰å°”è²è‰¾æ–¯æ™‹å‡å°‘æ ¡å…ˆå¯‡å¸ƒä»£ç†è”·è–‡éª‘å£«è¿žé˜Ÿé•¿
 
---·ÆÁÐÌØÀû¼Ó¾ü¹ÙÑ§Ð£±ÏÒµ
+--è²åˆ—ç‰¹åˆ©åŠ å†›å®˜å­¦æ ¡æ¯•ä¸š
 
--µÚÁù´ÎÒÁÐ»¶ûÂ×ÒªÈû¹¥ÂÔÕ½
+-ç¬¬å…­æ¬¡ä¼Šè°¢å°”ä¼¦è¦å¡žæ”»ç•¥æˆ˜
 
--À³Òò¹þÌØ½úÉýÉÏ½«À­ÆÕÓë½àÎ÷¿¨¶©»é
+-èŽ±å› å“ˆç‰¹æ™‹å‡ä¸Šå°†æ‹‰æ™®ä¸Žæ´è¥¿å¡è®¢å©š
 
-796À³Òò¹þÌØ³ÉÎªÂÞÑÏ¿ËÀ­Ä·²®¾ô-
+796èŽ±å› å“ˆç‰¹æˆä¸ºç½—ä¸¥å…‹æ‹‰å§†ä¼¯çˆµ-
 
--ÑÇË¹Ìá»áÕ½
+-äºšæ–¯æä¼šæˆ˜
 
-796À³Òò¹þÌØ³ÉÎªµÛ¹úÔªË§Ñî³ÉÎªµÚÊ®Èý½¢¶ÓË¾Áî¹Ù
+796èŽ±å› å“ˆç‰¹æˆä¸ºå¸å›½å…ƒå¸…æ¨æˆä¸ºç¬¬åä¸‰èˆ°é˜Ÿå¸ä»¤å®˜
 
--Æë¸ñ·ÉÕòÑ¹¿¨Ë¹ÌØÆÕ¶¯ÂÒ·ÆÁÐÌØÀû¼Ó³ÉÎªÑîµÄ¸±¹Ù
+-é½æ ¼é£žé•‡åŽ‹å¡æ–¯ç‰¹æ™®åŠ¨ä¹±è²åˆ—ç‰¹åˆ©åŠ æˆä¸ºæ¨çš„å‰¯å®˜
 
--ÒÁÐ»¶ûÂ×ÏÝÂäÑî±ø²»ÈÐÑªÕ¼ÁìÒÁÐ»¶ûÂ×ÒªÈû
+-ä¼Šè°¢å°”ä¼¦é™·è½æ¨å…µä¸åˆƒè¡€å é¢†ä¼Šè°¢å°”ä¼¦è¦å¡ž
 
--°Â±´Ë¹Ì¹³ÉÎªÀ³Òò¹þÌØµÄ²ÎÄ±ÑîÌá³öÇë´Ç±»¾Ü,ÉýÎªÖÐ½«
+-å¥¥è´æ–¯å¦æˆä¸ºèŽ±å› å“ˆç‰¹çš„å‚è°‹æ¨æå‡ºè¯·è¾žè¢«æ‹’,å‡ä¸ºä¸­å°†
 
--ÑÇÄ·Á¢Ôý»áÕ½
+-äºšå§†ç«‹æœ­ä¼šæˆ˜
 
--µÛ¹ú»ÊµÛËÀ,ÓÉÐ»·ò¶þÊÀ¼´Î»ÑîÈÎÃüÎªÒªÈû¼°×¤Áô½¢¶ÓË¾Áî
+-å¸å›½çš‡å¸æ­»,ç”±è°¢å¤«äºŒä¸–å³ä½æ¨ä»»å‘½ä¸ºè¦å¡žåŠé©»ç•™èˆ°é˜Ÿå¸ä»¤
 
-797¹ó×åÃÇ³ÉÁ¢·´À³Òò¹þÌØÁªÃËÍ¬ÃË·¢ÉúÄÚÂÒ,ÑîÊÜÃüÕòÑ¹
+797è´µæ—ä»¬æˆç«‹åèŽ±å› å“ˆç‰¹è”ç›ŸåŒç›Ÿå‘ç”Ÿå†…ä¹±,æ¨å—å‘½é•‡åŽ‹
 
--À³Òò¹þÌØ³ÉÎªµÛ¹ú×î¸ßË¾Áî¹Ùº£ÄáÉ­·¢ÉúÕþ±ä
+-èŽ±å› å“ˆç‰¹æˆä¸ºå¸å›½æœ€é«˜å¸ä»¤å®˜æµ·å°¼æ£®å‘ç”Ÿæ”¿å˜
 
--ÍþË¹ËþÀÊÌØµÄ²Ò¾ç½àÎ÷¿¨ÒòÕþ¸®¾üµÄÀÄÉ±ËÀÍö
+-å¨æ–¯å¡”æœ—ç‰¹çš„æƒ¨å‰§æ´è¥¿å¡å› æ”¿åºœå†›çš„æ»¥æ€æ­»äº¡
 
--Æë¸ñ·ÉÎª±£»¤ÒòÀ³Òò¹þÌØ¶øÍöÑî½¢¶Ó»÷°ÜÅÑÂÒ¾ü,½áÊøÕþ±ä
+-é½æ ¼é£žä¸ºä¿æŠ¤å› èŽ±å› å“ˆç‰¹è€Œäº¡æ¨èˆ°é˜Ÿå‡»è´¥å›ä¹±å†›,ç»“æŸæ”¿å˜
 
--À³Òò¹þÌØ·âÎª¹«¾ô,µÛ¹úÔ×ÏàÃ·¶û¿¨×ÈÍöÃüÖÁÍ¬ÃË
+-èŽ±å› å“ˆç‰¹å°ä¸ºå…¬çˆµ,å¸å›½å®°ç›¸æ¢…å°”å¡å…¹äº¡å‘½è‡³åŒç›Ÿ
 
-798ÍßÆÕÊµÑé³É¹¦Ñîµ½Ê×¶¼ÊÜÉó²é»áµÄµ÷²é
+798ç“¦æ™®å®žéªŒæˆåŠŸæ¨åˆ°é¦–éƒ½å—å®¡æŸ¥ä¼šçš„è°ƒæŸ¥
 
--ÍºÓ¥Ö®³Ç¶ÔÒÁÐ»¶ûÂ×µÄÒªÈû¶ÔÒªÈûÖ®Õ½
+-ç§ƒé¹°ä¹‹åŸŽå¯¹ä¼Šè°¢å°”ä¼¦çš„è¦å¡žå¯¹è¦å¡žä¹‹æˆ˜
 
--ÓÉÐ»·ò¶þÊÀÔâÓÕ¹ÕÓÈÀï°²Ç°Íù·ÑÉ³¾ÍÈÎ
+-ç”±è°¢å¤«äºŒä¸–é­è¯±æ‹å°¤é‡Œå®‰å‰å¾€è´¹æ²™å°±ä»»
 
--ÖîÉñÖ®»Æ»è×÷Õ½¾ö¶¨-
+-è¯¸ç¥žä¹‹é»„æ˜ä½œæˆ˜å†³å®š-
 
--ÂÞÑÏËþ¶û½ø¹¥ÒÁÐ»¶ûÂ×-
+-ç½—ä¸¥å¡”å°”è¿›æ”»ä¼Šè°¢å°”ä¼¦-
 
--¼²·çÖ®ÀÇÃ×´ïÂóÑÇ½øÕ¼·ÑÉ³-
+-ç–¾é£Žä¹‹ç‹¼ç±³è¾¾éº¦äºšè¿›å è´¹æ²™-
 
-799µÛ¹ú¾üÍ¨¹ý·ÑÉ³»ØÀÈ½ø¹¥Í¬ÃËÑîÖ÷¶¯·ÅÆúÒÁÐ»¶ûÂ×ÒªÈû
+799å¸å›½å†›é€šè¿‡è´¹æ²™å›žå»Šè¿›æ”»åŒç›Ÿæ¨ä¸»åŠ¨æ”¾å¼ƒä¼Šè°¢å°”ä¼¦è¦å¡ž
 
---ÓÈÀï°²ÌÓÀë·ÑÉ³
+--å°¤é‡Œå®‰é€ƒç¦»è´¹æ²™
 
---±È¿Ë¹ÅÌá¶½ÂÊÂÊÁì½¢¶ÓÇ°ÍùÓ­Õ½
+--æ¯”å…‹å¤æç£çŽ‡çŽ‡é¢†èˆ°é˜Ÿå‰å¾€è¿Žæˆ˜
 
--À¼µÌÂíÀïÅ·ÐÇÓò»áÕ½
+-å…°å ¤é©¬é‡Œæ¬§æ˜ŸåŸŸä¼šæˆ˜
 
--ÊæÃ·Ì¹×È,Á¬ÁÐ¿ÏÆÕ,ÍßÁÐÕ½°ÜÑî½úÉýÔªË§
+-èˆ’æ¢…å¦å…¹,è¿žåˆ—è‚¯æ™®,ç“¦åˆ—æˆ˜è´¥æ¨æ™‹å‡å…ƒå¸…
 
--°ÍÃ×Àû¶÷ÐÇÓò»áÕ½
+-å·´ç±³åˆ©æ©æ˜ŸåŸŸä¼šæˆ˜
 
--À³Òò¹þÌØÓëÑîÍþÀû»áÃæ×ÔÓÉÐÇÇòÍ¬ÃËÎÞÌõ¼þÍ¶½µ
+-èŽ±å› å“ˆç‰¹ä¸Žæ¨å¨åˆ©ä¼šé¢è‡ªç”±æ˜ŸçƒåŒç›Ÿæ— æ¡ä»¶æŠ•é™
 
--À³Òò¹þÌØ³ÉÎª»ÊµÛÑîÍËÒÛ²¢ºÍ·ÆÁÐÌØÀû¼Ó½á»é
+-èŽ±å› å“ˆç‰¹æˆä¸ºçš‡å¸æ¨é€€å½¹å¹¶å’Œè²åˆ—ç‰¹åˆ©åŠ ç»“å©š
 
--ÇñÃ·¶ûÊÂ¼þÓÈÀï°²ÍùµØÇòµ÷²éµØÇò½ÌµÄÊÂ
+-é‚±æ¢…å°”äº‹ä»¶å°¤é‡Œå®‰å¾€åœ°çƒè°ƒæŸ¥åœ°çƒæ•™çš„äº‹
 
--ÍßÁÐ½¢¶ÓÇ°ÍùÕòÑ¹µØÇò½ÌÑî·ýÂ²Á¬ÁÐ¿ÏÆÕ,²¢ÌÓÀëº£ÄáÉ­
+-ç“¦åˆ—èˆ°é˜Ÿå‰å¾€é•‡åŽ‹åœ°çƒæ•™æ¨ä¿˜è™è¿žåˆ—è‚¯æ™®,å¹¶é€ƒç¦»æµ·å°¼æ£®
 
--Á¬ÁÐ¿ÏÆÕ×ÔÉ±°¬¶û.·¨Î÷¶û¶ÀÁ¢ÐûÑÔ
+-è¿žåˆ—è‚¯æ™®è‡ªæ€è‰¾å°”.æ³•è¥¿å°”ç‹¬ç«‹å®£è¨€
 
--µÛ¹úÔÙ½ø¹¥Í¬ÃËÑî½¢¶Ó³ÉÎª°¬¶û.·¨Î÷¶ûÔ¤±¸¾ü
+-å¸å›½å†è¿›æ”»åŒç›Ÿæ¨èˆ°é˜Ÿæˆä¸ºè‰¾å°”.æ³•è¥¿å°”é¢„å¤‡å†›
 
--Âí¶û.ÑÇµÏÌØÐÇÓò»áÕ½
-800ÒÁÐ»¶ûÂ×ÔÙ±»ÑîÍþÀû¹¥Õ¼±È¿Ë¹ÅÕ½ËÀ
+-é©¬å°”.äºšè¿ªç‰¹æ˜ŸåŸŸä¼šæˆ˜
+800ä¼Šè°¢å°”ä¼¦å†è¢«æ¨å¨åˆ©æ”»å æ¯”å…‹å¤æˆ˜æ­»
 
--À³Òò¹þÌØÂÊ´ó¾ü½ø¹¥ÒÁÐ»¶ûÂ×-
+-èŽ±å› å“ˆç‰¹çŽ‡å¤§å†›è¿›æ”»ä¼Šè°¢å°”ä¼¦-
 
--·¨Â×º£ÌØ,ÊæÃ·Ì¹×ÈÕóÍö·ÑÑ©ÕóÍö,ÑîÍþÀûÔâµØÇò½ÌÍ½°µÉ±
+-æ³•ä¼¦æµ·ç‰¹,èˆ’æ¢…å¦å…¹é˜µäº¡è´¹é›ªé˜µäº¡,æ¨å¨åˆ©é­åœ°çƒæ•™å¾’æš—æ€
 
--À³Òò¹þÌØÇ¨¶¼·ÑÉ³ÒÁÐ»¶ûÂ×¹²ºÍ¹ú³ÉÁ¢
+-èŽ±å› å“ˆç‰¹è¿éƒ½è´¹æ²™ä¼Šè°¢å°”ä¼¦å…±å’Œå›½æˆç«‹
 
--ÎÚÂ³ÑÅÏ£ÊÂ¼þÓÈÀï°²¼Ì³ÐÑîÍþÀûµÄÎ»ÖÃ
+-ä¹Œé²é›…å¸Œäº‹ä»¶å°¤é‡Œå®‰ç»§æ‰¿æ¨å¨åˆ©çš„ä½ç½®
 
--ÂÞÑÏËþ¶ûÅÑ±ä,Õ¹¿ªÁËË«±ÚÕù°ÔÕ½ÓÈÀï°²×¼ÐíµÛ¹ú¾ü¹ýÒÁÐ»¶ûÂ×
+-ç½—ä¸¥å¡”å°”å›å˜,å±•å¼€äº†åŒå£äº‰éœ¸æˆ˜å°¤é‡Œå®‰å‡†è®¸å¸å›½å†›è¿‡ä¼Šè°¢å°”ä¼¦
 
--À³Òò¹þÌØ²¡ÊÅ°ÍÀ­ÌØÐÇÏµ»ñµÃÄÚÕþ×ÔÖÎÈ¨
+-èŽ±å› å“ˆç‰¹ç—…é€å·´æ‹‰ç‰¹æ˜Ÿç³»èŽ·å¾—å†…æ”¿è‡ªæ²»æƒ
 
-ÒøºÓÏµµÄÀúÊ·ÓÖ·­¹ýÁËÒ»Ò³......
+é“¶æ²³ç³»çš„åŽ†å²åˆç¿»è¿‡äº†ä¸€é¡µ......
 
-µÛ¹ú¾ü
+å¸å›½å†›
 
-*À³Òð¹þÌØReinhardvonLohengramm
+*èŽ±èŒµå“ˆç‰¹ReinhardvonLohengramm
 
-*À³Òð¹þÌØReinhardvonLohengramm
+*èŽ±èŒµå“ˆç‰¹ReinhardvonLohengramm
 
-¡¡¡¡À³Òð¹þÌØÊÇÒ»¸ö°ÔÆøÊ®×ãµÄÈËÎïµ«ËûÒà¾ß±¸¹ýÈËµÄ÷ÈÁ¦Ê¹ÆäÕóÓªÏÂµÄ½«¹Ù¼°Ê¿±ø¶ÔËûÖÒÐÄ²»¶þ.²»ÊÇÕ½ËÀÉ³³¡¶øÊÇ²¡ÊÅÏàÐÅÊÇÕâÎ»³¤Ê¤½«¾ü×î²»ã«ÒâµÄÊÂ
+ã€€ã€€èŽ±èŒµå“ˆç‰¹æ˜¯ä¸€ä¸ªéœ¸æ°”åè¶³çš„äººç‰©ä½†ä»–äº¦å…·å¤‡è¿‡äººçš„é­…åŠ›ä½¿å…¶é˜µè¥ä¸‹çš„å°†å®˜åŠå£«å…µå¯¹ä»–å¿ å¿ƒä¸äºŒ.ä¸æ˜¯æˆ˜æ­»æ²™åœºè€Œæ˜¯ç—…é€ç›¸ä¿¡æ˜¯è¿™ä½é•¿èƒœå°†å†›æœ€ä¸æƒ¬æ„çš„äº‹
 
-²ßÂÔ:####
+ç­–ç•¥:####
 
-Í³ÂÊ:#####
+ç»ŸçŽ‡:#####
 
-ËÙ¶È:###
+é€Ÿåº¦:###
 
-¹¥»÷:####
+æ”»å‡»:####
 
-·ÀÓù:##
+é˜²å¾¡:##
 
-*¼ª¶û·Æ°¬Ë¹SiegfriedKircheis
+*å‰å°”è²è‰¾æ–¯SiegfriedKircheis
 
-*¼ª¶û·Æ°¬Ë¹SiegfriedKircheis
+*å‰å°”è²è‰¾æ–¯SiegfriedKircheis
 
-¡¡¡¡Ëû´ÓÐ¡Ê±±ãÊÇÀ³Òò¹þÌØµÄÅóÓÑ, ÓÐÖøÎÞÓëÂ×±ÈµÄ´È±¯ÐÄÓëÕýÒå¸Ð.ËûµÄ¾üÊÂ²ÅÄÜÓëÀ³Òò¹þÌØ²»Ïà²®ÖÙ,Éä»÷ÄÜÁ¦Ò²Ïàµ±²»Ë×, ËûááÀ´ÎªÁË¾ÈÀ³Òò¹þÌØ¶øËÀ,ÊµÔÚ·Ç³£¿ÉÏ§.
+ã€€ã€€ä»–ä»Žå°æ—¶ä¾¿æ˜¯èŽ±å› å“ˆç‰¹çš„æœ‹å‹, æœ‰è‘—æ— ä¸Žä¼¦æ¯”çš„æ…ˆæ‚²å¿ƒä¸Žæ­£ä¹‰æ„Ÿ.ä»–çš„å†›äº‹æ‰èƒ½ä¸ŽèŽ±å› å“ˆç‰¹ä¸ç›¸ä¼¯ä»²,å°„å‡»èƒ½åŠ›ä¹Ÿç›¸å½“ä¸ä¿—, ä»–å¾Œæ¥ä¸ºäº†æ•‘èŽ±å› å“ˆç‰¹è€Œæ­»,å®žåœ¨éžå¸¸å¯æƒœ.
 
-²ßÂÔ:####
+ç­–ç•¥:####
 
-Í³ÂÊ:####
+ç»ŸçŽ‡:####
 
-ËÙ¶È:###
+é€Ÿåº¦:###
 
-¹¥»÷:####
+æ”»å‡»:####
 
-·ÀÓù:####
+é˜²å¾¡:####
 
-*°Â±´Ë¹Ì¹PaulvonOberstein
+*å¥¥è´æ–¯å¦PaulvonOberstein
 
-*°Â±´Ë¹Ì¹PaulvonOberstein
+*å¥¥è´æ–¯å¦PaulvonOberstein
 
-¡¡¡¡°Â±´Ë¹Ì¹ÊÇÒ»¸ö³öÉ«µÄÄ±ÂÔ¼ÒºÍ»ú»áÖ÷ÒåÕß,Ëû¶Ô¸ßµÇ°ÍÄ·»Ê³¯Í´ºÞÓû¾øÒò´ËËûÍ¶¿¿À³Òò¹þÌØÏ£Íû½èËûµÄÁ¦Á¿ÍÆ·­ÓÐµÄÌåÖÆ.µ«ËûÐÐÊÂ¹ýì¶Æ«¼¤,Í¬ÁÅ¶ÔËû¶¼ºÜ²»Âú
+ã€€ã€€å¥¥è´æ–¯å¦æ˜¯ä¸€ä¸ªå‡ºè‰²çš„è°‹ç•¥å®¶å’Œæœºä¼šä¸»ä¹‰è€…,ä»–å¯¹é«˜ç™»å·´å§†çš‡æœç—›æ¨æ¬²ç»å› æ­¤ä»–æŠ•é èŽ±å› å“ˆç‰¹å¸Œæœ›å€Ÿä»–çš„åŠ›é‡æŽ¨ç¿»æœ‰çš„ä½“åˆ¶.ä½†ä»–è¡Œäº‹è¿‡æ–¼åæ¿€,åŒåƒšå¯¹ä»–éƒ½å¾ˆä¸æ»¡
 
-²ßÂÔ:###
+ç­–ç•¥:###
 
-Í³ÂÊ:##
+ç»ŸçŽ‡:##
 
-ËÙ¶È:##
+é€Ÿåº¦:##
 
-¹¥»÷:#
+æ”»å‡»:#
 
-·ÀÓù:#
+é˜²å¾¡:#
 
-*Ã×´ïÂóÑÇWolfgangMittermeyer
+*ç±³è¾¾éº¦äºšWolfgangMittermeyer
 
-*Ã×´ïÂóÑÇWolfgangMittermeyer
+*ç±³è¾¾éº¦äºšWolfgangMittermeyer
 
-¡¡¡¡Ã×´ïÂóÑÇÓÐ¼²·çÖ®ÀÇ³Æ,ËÙ¶ÈÎÞÈËÄÜ¼°.ÂÞÑÏËþ¶ûÓëËûºÏ³ÆµÛ¹úË«±ÚÏ§ÂÞÑÏËþ¶û²¢·Ç°²ì¶ÏÖ×´Ö®ÈË.×îáá±³ÅÑÀ³Òð¹þÌØ,ÓëÃ×´ïÂóÑÇÉÏÑÝÁËÒ»Ä»Ë«±ÚÕù°ÔÕ½.Ã×´ïÂóÑÇ×îÖÕ³ÉÎªÁËÀ³Òò¹þÌØÆìÏÂµÄÊ×Ï¯ÔªË§.
+ã€€ã€€ç±³è¾¾éº¦äºšæœ‰ç–¾é£Žä¹‹ç‹¼ç§°,é€Ÿåº¦æ— äººèƒ½åŠ.ç½—ä¸¥å¡”å°”ä¸Žä»–åˆç§°å¸å›½åŒå£æƒœç½—ä¸¥å¡”å°”å¹¶éžå®‰æ–¼çŽ°çŠ¶ä¹‹äºº.æœ€å¾ŒèƒŒå›èŽ±èŒµå“ˆç‰¹,ä¸Žç±³è¾¾éº¦äºšä¸Šæ¼”äº†ä¸€å¹•åŒå£äº‰éœ¸æˆ˜.ç±³è¾¾éº¦äºšæœ€ç»ˆæˆä¸ºäº†èŽ±å› å“ˆç‰¹æ——ä¸‹çš„é¦–å¸­å…ƒå¸….
 
-²ßÂÔ:###
+ç­–ç•¥:###
 
-Í³ÂÊ:###
+ç»ŸçŽ‡:###
 
-ËÙ¶È:#####
+é€Ÿåº¦:#####
 
-¹¥»÷:###
+æ”»å‡»:###
 
-·ÀÓù:###
-*ÂÞÑÏËþ¶ûOskarvonReeuenta
+é˜²å¾¡:###
+*ç½—ä¸¥å¡”å°”OskarvonReeuenta
 
-¡¡¡¡×óÓÒÑÛÍ«É«²»Í¬µÄËû±»ÈË¹ÚÒÔ½ðÒøÑýÍ«µÄ³ÆºÅ,ËäÈ»ËûµÄË½Éú»î²»Ì«¼ìµã,µ«ÎÞ¿É·ñÈÏµÄÊÇËûµÄ¾üÊÂ²ÅÄÜÔÚµÛ¹úÖÐÊÇÊýÒ»Êý¶þµÄÃû½«Ö®²Å.ÔÚË«±ÚÕù°ÔÕ½ÖÐÒò²¿ÏÂ±³ÅÑ¶øÕ½°Ü,×îáá×ÔÉ±ÉíÍöÊµÔÚ·Ç³£·í´Ì.
+ã€€ã€€å·¦å³çœ¼çž³è‰²ä¸åŒçš„ä»–è¢«äººå† ä»¥é‡‘é“¶å¦–çž³çš„ç§°å·,è™½ç„¶ä»–çš„ç§ç”Ÿæ´»ä¸å¤ªæ£€ç‚¹,ä½†æ— å¯å¦è®¤çš„æ˜¯ä»–çš„å†›äº‹æ‰èƒ½åœ¨å¸å›½ä¸­æ˜¯æ•°ä¸€æ•°äºŒçš„åå°†ä¹‹æ‰.åœ¨åŒå£äº‰éœ¸æˆ˜ä¸­å› éƒ¨ä¸‹èƒŒå›è€Œæˆ˜è´¥,æœ€å¾Œè‡ªæ€èº«äº¡å®žåœ¨éžå¸¸è®½åˆº.
 
-²ßÂÔ:###
+ç­–ç•¥:###
 
-Í³ÂÊ:####
+ç»ŸçŽ‡:####
 
-ËÙ¶È:###
+é€Ÿåº¦:###
 
-¹¥»÷:####
+æ”»å‡»:####
 
-·ÀÓù:###
+é˜²å¾¡:###
 
-Í¬ÃË¾ü
+åŒç›Ÿå†›
 
-*ÑîÍþÀûYangWenli
+*æ¨å¨åˆ©YangWenli
 
-*ÑîÍþÀûYangWenli
+*æ¨å¨åˆ©YangWenli
 
-¡¡¡¡ÑîÍþÀûÊÇÒ»Ãû²»ÕÛ²»¿ÛµÄÃñÖ÷Ö÷ÒåµÄÖ§³ÖÕß×ÝÊ¹ÓÐ»ú»á³ÉÎªÍ¬ÃËµÄÁìÐäËûÒ²×Ô¸Ê×öÒ»¸ö·ÀÓù±ß¾³µÄ¾üÈË¡¤Ëû±»³ÆÍ¬ÃË×î¸ßÖÇ½«Ò»Éú¶¼³ÉÎªÀ³Òò¹þÌØµÄ¾¢µÐ¡¤ÓÉËûËùÖ¸»ÓµÄÊ®Èý½¢¶ÓÎ´³¢°Ü¼¨¡¤´ó²¿·ÝµÄµÛ¹ú½«Áì¶¼Ôø±»ÑîµÄÆæÄ±»÷°Ü
+ã€€ã€€æ¨å¨åˆ©æ˜¯ä¸€åä¸æŠ˜ä¸æ‰£çš„æ°‘ä¸»ä¸»ä¹‰çš„æ”¯æŒè€…çºµä½¿æœ‰æœºä¼šæˆä¸ºåŒç›Ÿçš„é¢†è¢–ä»–ä¹Ÿè‡ªç”˜åšä¸€ä¸ªé˜²å¾¡è¾¹å¢ƒçš„å†›äººÂ·ä»–è¢«ç§°åŒç›Ÿæœ€é«˜æ™ºå°†ä¸€ç”Ÿéƒ½æˆä¸ºèŽ±å› å“ˆç‰¹çš„åŠ²æ•ŒÂ·ç”±ä»–æ‰€æŒ‡æŒ¥çš„åä¸‰èˆ°é˜Ÿæœªå°è´¥ç»©Â·å¤§éƒ¨ä»½çš„å¸å›½å°†é¢†éƒ½æ›¾è¢«æ¨çš„å¥‡è°‹å‡»è´¥
 
-²ßÂÔ:#####
+ç­–ç•¥:#####
 
-Í³ÂÊ:####
+ç»ŸçŽ‡:####
 
-ËÙ¶È:###
+é€Ÿåº¦:###
 
-¹¥»÷:###
+æ”»å‡»:###
 
-·ÀÓù:####
+é˜²å¾¡:####
 
-*ÑÇµä²¨ÂÞDustyAttenborough
+*äºšå…¸æ³¢ç½—DustyAttenborough
 
-*ÑÇµä²¨ÂÞDustyAttenborough
+*äºšå…¸æ³¢ç½—DustyAttenborough
 
-¡¡¡¡ÑÇµä²¨ÂÞÊÇÑîÍþÀûµÄ¾üÐ£Í¬Ñ§Ëû¶ÔÑîÍþÀûµÄÊµÁ¦ÓÐ¼«¸ßµÄÆÀ¼ÛÒ²ÊÇÎ¨Ò»ÁËÉîÇÐÁË½âÑîµÄÖÇÄ±µÄÈË¡¤Ëû±¾ÉíÒ²ÊÇÒ»¸ö²Å¸É³öÖÚµÄÎä½«¶Ôì¶Õ½ÊõµÄÔËÓÃËûÒ»µãÒ²²»Ñ·É«ÄØ
+ã€€ã€€äºšå…¸æ³¢ç½—æ˜¯æ¨å¨åˆ©çš„å†›æ ¡åŒå­¦ä»–å¯¹æ¨å¨åˆ©çš„å®žåŠ›æœ‰æžé«˜çš„è¯„ä»·ä¹Ÿæ˜¯å”¯ä¸€äº†æ·±åˆ‡äº†è§£æ¨çš„æ™ºè°‹çš„äººÂ·ä»–æœ¬èº«ä¹Ÿæ˜¯ä¸€ä¸ªæ‰å¹²å‡ºä¼—çš„æ­¦å°†å¯¹æ–¼æˆ˜æœ¯çš„è¿ç”¨ä»–ä¸€ç‚¹ä¹Ÿä¸é€Šè‰²å‘¢
 
-²ßÂÔ:###
+ç­–ç•¥:###
 
-Í³ÂÊ:###
+ç»ŸçŽ‡:###
 
-ËÙ¶È:##
+é€Ÿåº¦:##
 
-¹¥»÷:##
+æ”»å‡»:##
 
-·ÀÓù:###
+é˜²å¾¡:###
 
-*²¨²¼À¼OliverPoplan¸ßÄá·òIvanKonve
+*æ³¢å¸ƒå…°OliverPoplané«˜å°¼å¤«IvanKonve
 
-*²¨²¼À¼OliverPoplan¸ßÄá·òIvanKonve
+*æ³¢å¸ƒå…°OliverPoplané«˜å°¼å¤«IvanKonve
 
-¡¡¡¡¶þÈË¶¼ÊÇ¿ÕÕ½ÄÜÊÖÓÐ»÷×¹ÍõµÄÃÀÓþÊÇÍ¬ÃË¾üµÄ»ÊÅÆ»úÊ¦²¨²¼À¼ÎªÈË½ÏÇá¸¡¶ø¸ßÄá·òÔòÐÔ¸ñ¹£Ö±µ«Á½ÈËºÏ×÷ÆðÀ´È´ÌìÒÀÎÞ·ì¡¤¿ÉÏ§ËûÃÇÁ©Ã»»ú»áºÍµÛ¹ú¾üµÄ»÷×¹Íõ¿²ÆÕ½»ÊÖÕæ²»ÖªË­Ê¤Ë­¸ºÄØ
+ã€€ã€€äºŒäººéƒ½æ˜¯ç©ºæˆ˜èƒ½æ‰‹æœ‰å‡»å çŽ‹çš„ç¾Žèª‰æ˜¯åŒç›Ÿå†›çš„çš‡ç‰Œæœºå¸ˆæ³¢å¸ƒå…°ä¸ºäººè¾ƒè½»æµ®è€Œé«˜å°¼å¤«åˆ™æ€§æ ¼æ¢—ç›´ä½†ä¸¤äººåˆä½œèµ·æ¥å´å¤©ä¾æ— ç¼Â·å¯æƒœä»–ä»¬ä¿©æ²¡æœºä¼šå’Œå¸å›½å†›çš„å‡»å çŽ‹åŽæ™®äº¤æ‰‹çœŸä¸çŸ¥è°èƒœè°è´Ÿå‘¢
 

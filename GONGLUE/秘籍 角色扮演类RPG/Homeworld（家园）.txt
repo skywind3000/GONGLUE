@@ -1,44 +1,44 @@
-Homeworld£¨¼ÒÔ°£©
+Homeworldï¼ˆå®¶å›­ï¼‰
 
-ÓÃÒÔÏÂÃüÁîÎªÑ¡ÏîÆô¶¯ÓÎÏ·£º£¨Èç£ºc:\homeworld\homeworld.exe /debug£©
+ç”¨ä»¥ä¸‹å‘½ä»¤ä¸ºé€‰é¡¹å¯åŠ¨æ¸¸æˆï¼šï¼ˆå¦‚ï¼šc:\homeworld\homeworld.exe /debugï¼‰
 
-/debug ´ò¿ªµ÷ÊÔ´°¿Ú
-/noSound ¹ØµôÉùĞ§
-/noSpeech ¹ØµôÓïÒô
-/reverseStereo »»µô×óÓÒÉùµÀ
-/noBG ¹Øµô»­Ãæ±³¾°
-/noFilter ¹Øµô·ÇÏßĞÔ¹ıÂË
-/nilTexture ²»Òª²ÄÖÊ
-/NoFETextures ¹Øµô×ÖÌåºÍ²ÄÖÊ
-/stipple ´ò¿ªALPHA»ìÉ«
-/noShowDamage ¹Øµô¹¥»÷Ğ§¹û
-/noCompPlayer ½ûÖ¹µçÄÔAIÍæ¼Ò
-/notactics ½ûÖ¹Õ½ÊõÕ½ÂÔ
-/noretreat ½ûÖ¹³·ÍË
-/dockLines -ÏÔÊ¾´¬ÎëÏß
-/gunLines - ÏÔÊ¾µ¯µÀ
-/lightLines - ÏÔÊ¾¹âÏß
-/640 - 640x480 ·Ö±çÂÊ
-/800 - 800x600 ·Ö±çÂÊ
-/1024 - 1024x768 ·Ö±çÂÊ
-/1280 - 1280x1024 ·Ö±çÂÊ
-/1600 - 1600x1200 ·Ö±çÂÊ
-/d16 - 16 Î»É«
-/d24 - 24 Î»É«
-/d32 - 32 Î»É«
-/captaincyLogOff ´ò¿ª½¢³¤ÈÕÖ¾
-/captaincyLogOn ¹Øµô½¢³¤ÈÕÖ¾
-/demoRecord Â¼Ïñ
-/demoPlay ²¥·ÅÂ¼Ïñ
+/debug æ‰“å¼€è°ƒè¯•çª—å£
+/noSound å…³æ‰å£°æ•ˆ
+/noSpeech å…³æ‰è¯­éŸ³
+/reverseStereo æ¢æ‰å·¦å³å£°é“
+/noBG å…³æ‰ç”»é¢èƒŒæ™¯
+/noFilter å…³æ‰éçº¿æ€§è¿‡æ»¤
+/nilTexture ä¸è¦æè´¨
+/NoFETextures å…³æ‰å­—ä½“å’Œæè´¨
+/stipple æ‰“å¼€ALPHAæ··è‰²
+/noShowDamage å…³æ‰æ”»å‡»æ•ˆæœ
+/noCompPlayer ç¦æ­¢ç”µè„‘AIç©å®¶
+/notactics ç¦æ­¢æˆ˜æœ¯æˆ˜ç•¥
+/noretreat ç¦æ­¢æ’¤é€€
+/dockLines -æ˜¾ç¤ºèˆ¹åçº¿
+/gunLines - æ˜¾ç¤ºå¼¹é“
+/lightLines - æ˜¾ç¤ºå…‰çº¿
+/640 - 640x480 åˆ†è¾©ç‡
+/800 - 800x600 åˆ†è¾©ç‡
+/1024 - 1024x768 åˆ†è¾©ç‡
+/1280 - 1280x1024 åˆ†è¾©ç‡
+/1600 - 1600x1200 åˆ†è¾©ç‡
+/d16 - 16 ä½è‰²
+/d24 - 24 ä½è‰²
+/d32 - 32 ä½è‰²
+/captaincyLogOff æ‰“å¼€èˆ°é•¿æ—¥å¿—
+/captaincyLogOn å…³æ‰èˆ°é•¿æ—¥å¿—
+/demoRecord å½•åƒ
+/demoPlay æ’­æ”¾å½•åƒ
 
-ÆäËü£º
+å…¶å®ƒï¼š
 /heap - Sets size of global memory heap to [n]
 /prepath - Sets path to search for opening files
 /CDpath - Sets path to CD-ROM in case of ambiguity
 /freemouse - Mouse free to move about entire screen at startup. Use F11 to toggle during play
-/ignoreBigfiles - don¡¯t use anything from bigfile(s)
+/ignoreBigfiles - donâ€™t use anything from bigfile(s)
 /logFileLoads - create log of data files loaded
-/disableKatmai - don¡¯t use KNI even if support is detected
+/disableKatmai - donâ€™t use KNI even if support is detected
 /forceKatmai - force usage of KNI even if determined to be unavailable
 /waveout - forces mixer to write to Waveout even if a DirectSound supported object is available
 /dsound - forces mixer to write to DirectSound driver, even if driver reports not certified
@@ -53,8 +53,8 @@ Homeworld£¨¼ÒÔ°£©
 /gl - select default OpenGL as renderer
 /d3d - select Direct3D as renderer
 /nohint - disable usage of OpenGL perspective correction hints
-/noPause - don¡¯t pause when you alt-tab
-/noMinimize - don¡¯t minimize when you alt-tab
+/noPause - donâ€™t pause when you alt-tab
+/noMinimize - donâ€™t minimize when you alt-tab
 /boxes - render bounding bowties on the ships
 /textFeedback - enable text feedback for in game commands
 
@@ -80,6 +80,6 @@ NETWORK PLAY
 /testNISScript - enables NIS testing mode using [scriptFile]
 /packetRecord - record packets of this multiplayer game
 /packetPlay - play back packet recording
-/disablePacking - don¡¯t use the packed textures if available
+/disablePacking - donâ€™t use the packed textures if available
 /smCentreCamera - centres the SM world plane about 0,0,0 rather than the camera
 /closeCaptioned - close captioned for the hearing impared

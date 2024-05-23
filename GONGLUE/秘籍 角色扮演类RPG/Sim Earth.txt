@@ -1,15 +1,15 @@
 Sim Earth
 
 Modify ocean level
-Hold [Option] in the Edit window. Then select ¡°Raise/Lower¡± land tool. Additional options should appear allowing you to change the sea level. 
+Hold [Option] in the Edit window. Then select â€œRaise/Lowerâ€ land tool. Additional options should appear allowing you to change the sea level. 
 
-µ±Êó±êÖ¸Ïò¹¤¾ß¿ò£¨Toolbox£©Ê±ÊäÈë¡°fund¡±£¬¾Í¿ÉµÃµ½¸ü¶à½ğÇ®
+å½“é¼ æ ‡æŒ‡å‘å·¥å…·æ¡†ï¼ˆToolboxï¼‰æ—¶è¾“å…¥â€œfundâ€ï¼Œå°±å¯å¾—åˆ°æ›´å¤šé‡‘é’±
 
-µ±Êó±êÖ¸Ïò¹¤¾ß¿ò£¨Toolbox£©Ê±ÊäÈë¡°erad¡±£¬¶¯Ö²Îï¾Í»áÃğ¾ø
+å½“é¼ æ ‡æŒ‡å‘å·¥å…·æ¡†ï¼ˆToolboxï¼‰æ—¶è¾“å…¥â€œeradâ€ï¼ŒåŠ¨æ¤ç‰©å°±ä¼šç­ç»
 
-ÔÚµØÍ¼´°¿ÚÊäÈë¡°rand¡±£¬¾Í»á²úÉúËæ»úµÄº£°Î¸ß¶È
+åœ¨åœ°å›¾çª—å£è¾“å…¥â€œrandâ€ï¼Œå°±ä¼šäº§ç”Ÿéšæœºçš„æµ·æ‹”é«˜åº¦
 
-ÓÎÏ·ÖĞÊäÈë´óĞ´µÄ"SMOOTH"£¬¾Í¿ÉÆ½ÕûµØÃæ
+æ¸¸æˆä¸­è¾“å…¥å¤§å†™çš„"SMOOTH"ï¼Œå°±å¯å¹³æ•´åœ°é¢
 
 Robots
 Place an atomic bomb in a city of the Nanotech Age. The robots will escape and live as separate life forms. 

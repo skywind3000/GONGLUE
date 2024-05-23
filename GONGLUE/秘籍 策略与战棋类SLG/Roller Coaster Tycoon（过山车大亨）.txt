@@ -1,22 +1,22 @@
-Roller Coaster Tycoon����ɽ����ࣩ
+Roller Coaster Tycoon（过山车大亨）
 
-���йؿ�����ʩ�����޽�Ǯ
+所有关卡、设施，无限金钱
 
-����ѡ���У���ס��Shift�������롰rct2�������¡�Enter��������ܹ����������һ����ֵ�������
+在主选单中，按住“Shift”再输入“rct2”并按下“Enter”。如果能功，你会听到一个奇怪的声音。
 
-�� 5000 Ԫ
+加 5000 元
 
-����F�����򿪲���ѡ����Ȼ���¡�M��+��Enter����ɵõ� 5000   Ԫ�ˣ���һ����ֻ��ʹ��һ�Ρ�
+按‘F’键打开财政选单，然后按下‘M’+‘Enter’便可得到 5000   元了，但一个月只能使用一次。
 
 
-�����һ�οͣ����һ�����ڣ��ٵ���۱�ǩ�ݸ��ο͸�����
+点击任一游客，会打开一个窗口，再点击［标签］给游客改名：
 
-John Wardley����ֲ�и���ο�
-John Mace����˫��Ǯ���ο�
-Chris Sawyer��������ο�
-Simon Foster���������ο�
-Melanie Warn���ǳ����ֵ��ο�
-Katie Brayshaw������ͬ����ο�
+John Wardley＝坚持不懈的游客
+John Mace＝交双倍钱的游客
+Chris Sawyer＝照像的游客
+Simon Foster＝画画的游客
+Melanie Warn＝非常快乐的游客
+Katie Brayshaw＝招揽同伴的游客
 
-ע��ע���ο����ֵĴ�Сд�Ϳո�ֻ����һλ�ο�ӵ����������֡� 
+注：注意游客名字的大小写和空格；只能有一位游客拥有上面的名字。 
 

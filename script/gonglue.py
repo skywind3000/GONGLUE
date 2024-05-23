@@ -70,17 +70,21 @@ TEMPLATE = '''<!DOCTYPE html>
 # convert files
 #----------------------------------------------------------------------
 def convert(srcname, template, htmlfile):
-    with open(srcname, 'rt', encoding='utf-8', errors = 'ignore') as f:
+    with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
         text = f.read()
+    print(text)
+    sys.exit(0)
     title = text.split('\n', 1)[0]
     if not title:
         title = os.path.splitext(os.path.basename(srcname))[0]
+    print('title', title)
     content = text2html(text)
     final = template.replace('<!--TITLE-->', title)
     final = final.replace('<!--CONTENT-->', content)
-    with open(htmlfile, 'wt', encoding='utf-8') as f:
-        f.write(final)
-    return 0
+    if htmlfile:
+        with open(htmlfile, 'wt', encoding='utf-8') as f:
+            f.write(final)
+    return final
 
 
 #----------------------------------------------------------------------
@@ -95,8 +99,12 @@ def compile_to_html():
         for filename in file_list[dirname]:
             srcname = file_list[dirname][filename]
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
-            convert(srcname, TEMPLATE, outname)
-            print(f'generating {outname} ...')
+            relname = os.path.relpath(outname, BUILD)
+            print(f'Generating {relname} ...')
+            t = convert(srcname, TEMPLATE, outname)
+            if 1:
+                print(t)
+                sys.exit(1)
     return 0
 
 
@@ -110,9 +118,25 @@ if __name__ == '__main__':
         pprint.pprint(file_list)
         return 0
     def test2():
-        compile_to_html()
+        file_list = list_text()
+        for dirname in file_list:
+            for filename in file_list[dirname]:
+                srcname = file_list[dirname][filename]
+                print(f'Converting {srcname} ...')
+                convert(srcname, TEMPLATE, None)
         return 0
-    test2()
+    def test3():
+        file_list = list_text()
+        for dirname in file_list:
+            for filename in file_list[dirname]:
+                srcname = file_list[dirname][filename]
+                with open(srcname, 'r', encoding='gbk', errors = 'ignore') as f:
+                    text = f.read()
+                with open(srcname, 'w', encoding='utf-8') as f:
+                    f.write(text)
+                print(f'Convert {srcname} ...')
+        return 0
+    test3()
 
 
 

@@ -1,131 +1,131 @@
-Wing Commander III(ÒøºÓ·É½«3)
+Wing Commander III(é“¶æ²³é£žå°†3)
 
-·ÉÐÐ·½Ïò¿ØÖÆ
+é£žè¡Œæ–¹å‘æŽ§åˆ¶
 
-ÉÏÏÂ×óÓÒ »úÊ×·½Ïò¿ØÖÆ
+ä¸Šä¸‹å·¦å³ æœºé¦–æ–¹å‘æŽ§åˆ¶
 
-SHIFT+ÉÏÏÂ×óÓÒ ¿ìËÙ·½Î»¿ØÖÆ
+SHIFT+ä¸Šä¸‹å·¦å³ å¿«é€Ÿæ–¹ä½æŽ§åˆ¶
 
-< > »úÉí×óÓÒ·­¹ö
+< > æœºèº«å·¦å³ç¿»æ»š
 
-ÎäÆ÷¼°Ãé×¼¿ØÖÆ
+æ­¦å™¨åŠçž„å‡†æŽ§åˆ¶
 
-A ×Ô¶¯¼ÝÊ»
+A è‡ªåŠ¨é©¾é©¶
 
-E Å×³öÓÕµ¼¿ÕÀ×
+E æŠ›å‡ºè¯±å¯¼ç©ºé›·
 
-F È«²¿»ðÅÚ¹¦ÄÜ
+F å…¨éƒ¨ç«ç‚®åŠŸèƒ½
 
-G »ðÅÚÀàÐÍÑ¡Ôñ
+G ç«ç‚®ç±»åž‹é€‰æ‹©
 
-J ³¬Ê±¿ÕÔ¾½ø
+J è¶…æ—¶ç©ºè·ƒè¿›
 
-L Ëø¶¨Ä¿±ê
+L é”å®šç›®æ ‡
 
-M µ¼µ¯ÀàÐÍÑ¡Ôñ
+M å¯¼å¼¹ç±»åž‹é€‰æ‹©
 
-T Ä¿±êÑ¡Ôñ
+T ç›®æ ‡é€‰æ‹©
 
-W È«²¿µ¼µ¯Ñ¡Ôñ
+W å…¨éƒ¨å¯¼å¼¹é€‰æ‹©
 
-Y ÊÊÅäÄ¿±êËÙ¶È
+Y é€‚é…ç›®æ ‡é€Ÿåº¦
 
-ENTER ·¢Éäµ¼µ¯
+ENTER å‘å°„å¯¼å¼¹
 
-SPACEBAR ·¢Éä»ðÅÚ
+SPACEBAR å‘å°„ç«ç‚®
 
-CTRL+C ÒþÐÎ
+CTRL+C éšå½¢
 
-CTRL+E µ¯ÉäÀë»ú
+CTRL+E å¼¹å°„ç¦»æœº
 
-¶¯Á¦Ö¸Áî
+åŠ¨åŠ›æŒ‡ä»¤
 
-TAB ºóÈ¼Æ÷¼¤·¢
+TAB åŽç‡ƒå™¨æ¿€å‘
 
-ºóÈ¼Æ÷Ëø¶¨/ÊÍ·Å
+åŽç‡ƒå™¨é”å®š/é‡Šæ”¾
 
--¼ü ¼õÉÙ1%¶¯Á¦
+-é”® å‡å°‘1%åŠ¨åŠ›
 
-]¼ü Ôö¼Ó5%¶¯Á¦
+]é”® å¢žåŠ 5%åŠ¨åŠ›
 
-[¼ü ¼õÉÙ5%¶¯Á¦
+[é”® å‡å°‘5%åŠ¨åŠ›
 
-\¼ü ×î´ó¶¯Á¦
+\é”® æœ€å¤§åŠ¨åŠ›
 
-BACKSPACE ×îÐ¡¶¯Á¦
+BACKSPACE æœ€å°åŠ¨åŠ›
 
-ÁÅ»úÖ¸Áî
+åƒšæœºæŒ‡ä»¤
 
-ALT+A ¹¥»÷ÎÒµÄÄ¿±ê
+ALT+A æ”»å‡»æˆ‘çš„ç›®æ ‡
 
-ALT+B ·ÖÉ¢¹¥»÷
+ALT+B åˆ†æ•£æ”»å‡»
 
-ALT+F ±£³Ö/ÖØ×é±à¶Ó
+ALT+F ä¿æŒ/é‡ç»„ç¼–é˜Ÿ
 
-ALT+H Ð­Öú°ÚÍÑµÐ¹¥»÷
+ALT+H ååŠ©æ‘†è„±æ•Œæ”»å‡»
 
-ALT+W ±¨¸æÄ¿Ç°×´¿ö
+ALT+W æŠ¥å‘Šç›®å‰çŠ¶å†µ
 
-ALT+T ³°ÂîµÐÈË
+ALT+T å˜²éª‚æ•Œäºº
 
-ÏµÍ³¹¦ÄÜ
+ç³»ç»ŸåŠŸèƒ½
 
-ALT+C Ð£ÕýÒ¡¸Ë
+ALT+C æ ¡æ­£æ‘‡æ†
 
-ALT+M ÒôÀÖ¿ª¹Ø
+ALT+M éŸ³ä¹å¼€å…³
 
-ALT+O ¿ØÖÆÃæ°å
+ALT+O æŽ§åˆ¶é¢æ¿
 
-ALT+P ÓÎÏ·ÔÝÍ£
+ALT+P æ¸¸æˆæš‚åœ
 
-ALT+S ÉùÒô¿ª¹Ø
+ALT+S å£°éŸ³å¼€å…³
 
-ALT+V ÓÎÏ·°æ±¾
+ALT+V æ¸¸æˆç‰ˆæœ¬
 
-ALT+X ·µ»Ødos
-CTRL+F ÏÔÊ¾µ±Ç°Í¼ÏóÒ³Ö¡Êý
+ALT+X è¿”å›ždos
+CTRL+F æ˜¾ç¤ºå½“å‰å›¾è±¡é¡µå¸§æ•°
 
-CTRL+J Éè¶¨Ò¡¸Ë¿ØÖÆÄ£Ê½
+CTRL+J è®¾å®šæ‘‡æ†æŽ§åˆ¶æ¨¡å¼
 
-CTRL+K Éè¶¨¼üÅÌ¿ØÖÆÄ£Ê½
+CTRL+K è®¾å®šé”®ç›˜æŽ§åˆ¶æ¨¡å¼
 
-CTRL+M Éè¶¨Êó±ê¿ØÖÆÄ£Ê½
+CTRL+M è®¾å®šé¼ æ ‡æŽ§åˆ¶æ¨¡å¼
 
-ÊÓÏñÏÔÊ¾µ¥Ôª£¨VDU)Ö¸Áî
+è§†åƒæ˜¾ç¤ºå•å…ƒï¼ˆVDU)æŒ‡ä»¤
 
-O VDUÇÐ»»
+O VDUåˆ‡æ¢
 
-C Í¨Ñ¶VDU
+C é€šè®¯VDU
 
-D Ëðº¦VDU
+D æŸå®³VDU
 
-N µ¼º½VDU
+N å¯¼èˆªVDU
 
-P ÄÜÁ¿VDU/ÏîÄ¿µ÷Åä
+P èƒ½é‡VDU/é¡¹ç›®è°ƒé…
 
-S ·À¶ÜVDU
+S é˜²ç›¾VDU
 
-CTRL+F4 ºóÊÓVDU
+CTRL+F4 åŽè§†VDU
 
-CTRL+V VDUÍ¼Ïó¿ª¹Ø
+CTRL+V VDUå›¾è±¡å¼€å…³
 
-¹Û²ìµãÖ¸Áî
+è§‚å¯Ÿç‚¹æŒ‡ä»¤
 
-F1 ×ù²Ö/Ç°ÊÓ¹Û²ìµã
+F1 åº§ä»“/å‰è§†è§‚å¯Ÿç‚¹
 
-F2 ×óÊÓ¹Û²ìµã
+F2 å·¦è§†è§‚å¯Ÿç‚¹
 
-F3 ÓÒÊÓ¹Û²ìµã
+F3 å³è§†è§‚å¯Ÿç‚¹
 
-F4 ºóÊÓ¹Û²ìµã
+F4 åŽè§†è§‚å¯Ÿç‚¹
 
-F5 Î²Ëæ¹Û²ìµã
+F5 å°¾éšè§‚å¯Ÿç‚¹
 
-F6 »úÍâ¹Û²ìµã
+F6 æœºå¤–è§‚å¯Ÿç‚¹
 
-F8 µ¼µ¯¹Û²ìµã
+F8 å¯¼å¼¹è§‚å¯Ÿç‚¹
 
-F9 Ä¿±ê¹Û²ìµã
+F9 ç›®æ ‡è§‚å¯Ÿç‚¹
 
-F10 ×·×Ù¹Û²ìµã
+F10 è¿½è¸ªè§‚å¯Ÿç‚¹
 

@@ -1,14 +1,14 @@
 Seven Kingdoms 2
 
-ÔÚÓÎÏ·ÖÐ°´!!##%%&&£¬»á³öÏÖÈ·ÈÏÏûÏ¢£¬È»ºóÊäÈëÒÔÏÂ´úÂë£º
-CTRL + M£ºÈ«²¿µØÍ¼
-CTRL + T£ºÈ«²¿¼¼Êõ
-CTRL + U£º×ª»»Mortal\Immortal¹úÍõ
-CTRL + /£º¼Ó1000Ê³Îï
-CTRL + C£º¼Ó1000½ðÇ®
-CTRL + Z£º¿ìËÙ½¨ÔìÄ£Ê½
-CTRL + Semicolon£ºÔÚÑ¡¶¨µÄ³ÇÊÐ¼Ó10¸öÈË¿Ú
-ALT + CTRL + K£º½¨ÖþÎïËðÉË¼õ20
-ALT + CTRL + J£º½¨ÖþÎïËðÉË¼Ó20
-ALT + CTRL + X£º¼õ1000Ê³Îï
-ALT + CTRL + C£º¼õ1000½ðÇ®
+åœ¨æ¸¸æˆä¸­æŒ‰!!##%%&&ï¼Œä¼šå‡ºçŽ°ç¡®è®¤æ¶ˆæ¯ï¼Œç„¶åŽè¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+CTRL + Mï¼šå…¨éƒ¨åœ°å›¾
+CTRL + Tï¼šå…¨éƒ¨æŠ€æœ¯
+CTRL + Uï¼šè½¬æ¢Mortal\Immortalå›½çŽ‹
+CTRL + /ï¼šåŠ 1000é£Ÿç‰©
+CTRL + Cï¼šåŠ 1000é‡‘é’±
+CTRL + Zï¼šå¿«é€Ÿå»ºé€ æ¨¡å¼
+CTRL + Semicolonï¼šåœ¨é€‰å®šçš„åŸŽå¸‚åŠ 10ä¸ªäººå£
+ALT + CTRL + Kï¼šå»ºç­‘ç‰©æŸä¼¤å‡20
+ALT + CTRL + Jï¼šå»ºç­‘ç‰©æŸä¼¤åŠ 20
+ALT + CTRL + Xï¼šå‡1000é£Ÿç‰©
+ALT + CTRL + Cï¼šå‡1000é‡‘é’±

@@ -1,21 +1,21 @@
-Ripper£¨Ğ×Õ×£©
+Ripperï¼ˆå‡¶å…†ï¼‰
 
-ÔÚ½âÃÕ»òÕß¶¯×÷ÆÆ¹Ø¹ı³ÌÖĞ¼üÈëÏÂÁĞÃÜÂë¾ÍÄÜÖ±½ÓÌø¹ı£º
+åœ¨è§£è°œæˆ–è€…åŠ¨ä½œç ´å…³è¿‡ç¨‹ä¸­é”®å…¥ä¸‹åˆ—å¯†ç å°±èƒ½ç›´æ¥è·³è¿‡ï¼š
 
-ÃÜÂë     ÃÕÌâ»ò¶¯×÷¹Ø¿¨Ãû
+å¯†ç      è°œé¢˜æˆ–åŠ¨ä½œå…³å¡å
 ----     ----------------
-ARCADE   Catherine¡¯s well ice
-ARCADE   Falconetti¡¯s shooting gallery
-ARCADE   Orestes¡¯ well ice
-ARCADE   Odysseus¡¯ well
-ASPIRIN  Pegasus¡¯ well chess game
-CAFFEINE Catherine¡¯s brain
-HEADACHE Falconetti¡¯s secret well puzzle
-PARADISE Falcon Eddie¡¯s well
-PISCES   Catherine¡¯s apartment
+ARCADE   Catherineâ€™s well ice
+ARCADE   Falconettiâ€™s shooting gallery
+ARCADE   Orestesâ€™ well ice
+ARCADE   Odysseusâ€™ well
+ASPIRIN  Pegasusâ€™ well chess game
+CAFFEINE Catherineâ€™s brain
+HEADACHE Falconettiâ€™s secret well puzzle
+PARADISE Falcon Eddieâ€™s well
+PISCES   Catherineâ€™s apartment
 PRETZEL  Anti-Viral well puzzle
-SPARKY   Dr. Burton¡¯s secret lab
-SPONGE   Falconetti¡¯s book puzzle
+SPARKY   Dr. Burtonâ€™s secret lab
+SPONGE   Falconettiâ€™s book puzzle
 ZZTOP    Web Runners archive sliding puzzle
 
 

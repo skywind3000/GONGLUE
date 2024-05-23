@@ -1,33 +1,33 @@
 Madden NFL 2000
 
-´òÍê±ÈÈüºó£¬ÊäÈëÒÔÏÂÃØ¼¼£º
-firstis20 20ÂëµÄ£¿£¿
-painful ÔöÇ¿ÉËº¦Á¦
-nopicks ²»×¼ÖĞÍ¾À¹½Ø
-qbintheclub ÍêÃÀµÄÍ¨¹ı
-quarkandstar Î¢ĞÍÈË
-itsinthegame EAµÄÌåÓı³¡ 
-wildwest ±Ü¿ª³ÇÊĞÌåÓı³¡
-cowboys MarshallsÃÎ»Ã¶Ó
-mojo ËùÓĞ60s team
-sideburns ËùÓĞ70s team
-KillerJoke Ğ¡³ó¶Ó
-Phalanx Centurian ¶Ó
-Snaptaclepnt Sugar Buzz ¶Ó 
-XmasGift XMax Rush ÌåÓı³¡
+æ‰“å®Œæ¯”èµ›åï¼Œè¾“å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š
+firstis20 20ç çš„ï¼Ÿï¼Ÿ
+painful å¢å¼ºä¼¤å®³åŠ›
+nopicks ä¸å‡†ä¸­é€”æ‹¦æˆª
+qbintheclub å®Œç¾çš„é€šè¿‡
+quarkandstar å¾®å‹äºº
+itsinthegame EAçš„ä½“è‚²åœº 
+wildwest é¿å¼€åŸå¸‚ä½“è‚²åœº
+cowboys Marshallsæ¢¦å¹»é˜Ÿ
+mojo æ‰€æœ‰60s team
+sideburns æ‰€æœ‰70s team
+KillerJoke å°ä¸‘é˜Ÿ
+Phalanx Centurian é˜Ÿ
+Snaptaclepnt Sugar Buzz é˜Ÿ 
+XmasGift XMax Rush ä½“è‚²åœº
 BtheBall Ball Cam 
-refisblind ²ÃÅĞÔ±Ï¹µô
-inthefuture Industrials ¶Ó
-airmadden ³¬¼¶Ìø
-teammadden ËùÓĞ·è¿ñ¶ÓÈ«³ö³¡
-weputithere Tiburon ÌåÓı³¡
-maganasave ¹ÄÕÆ 
-NO2 ±¬·¢³¬¼¶ËÙ¶È
-pickedoff Ê¹ÖĞÍ¾À¹½Ø±äµÃÈİÒ×
-industrials Robot ¶Ó
-rollergirl ¸ü¶àÃşË÷
-wearethegame EA ÔË¶¯¶Ó
-sharkattack Tiburon ¶Ó
-pancakes ÉÁµçÕ½
-drbenway ¡¯81 Ï®»÷Õß¶Ó 
-smackdown ½©Ó²µÄ±Û
+refisblind è£åˆ¤å‘˜çæ‰
+inthefuture Industrials é˜Ÿ
+airmadden è¶…çº§è·³
+teammadden æ‰€æœ‰ç–¯ç‹‚é˜Ÿå…¨å‡ºåœº
+weputithere Tiburon ä½“è‚²åœº
+maganasave é¼“æŒ 
+NO2 çˆ†å‘è¶…çº§é€Ÿåº¦
+pickedoff ä½¿ä¸­é€”æ‹¦æˆªå˜å¾—å®¹æ˜“
+industrials Robot é˜Ÿ
+rollergirl æ›´å¤šæ‘¸ç´¢
+wearethegame EA è¿åŠ¨é˜Ÿ
+sharkattack Tiburon é˜Ÿ
+pancakes é—ªç”µæˆ˜
+drbenway â€™81 è¢­å‡»è€…é˜Ÿ 
+smackdown åƒµç¡¬çš„è‡‚

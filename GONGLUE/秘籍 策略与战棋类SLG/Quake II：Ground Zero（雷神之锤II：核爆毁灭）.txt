@@ -1,8 +1,8 @@
-Quake II£ºGround Zero£¨À×ÉñÖ®´¸II£ººË±¬»ÙÃð£©
+Quake IIï¼šGround Zeroï¼ˆé›·ç¥žä¹‹é”¤IIï¼šæ ¸çˆ†æ¯ç­ï¼‰
 
-ºÍ¡¶À×ÉñÖ®´¸II¡·Ò»Ñù£¬ÔÚÓÎÏ·ÖÐÊäÈë"GiVE XXX"ºÍ"MAP XXX"£¨XXXÎªÏàÓ¦ÎïÆ·ºÍ¹Ø¿¨Ãû³Æ£©ºó»Ø³µ¿ÉµÃµ½ÏàÓ¦ÎïÆ·ºÍ¹Ø¿¨£º
+å’Œã€Šé›·ç¥žä¹‹é”¤IIã€‹ä¸€æ ·ï¼Œåœ¨æ¸¸æˆä¸­è¾“å…¥"GiVE XXX"å’Œ"MAP XXX"ï¼ˆXXXä¸ºç›¸åº”ç‰©å“å’Œå…³å¡åç§°ï¼‰åŽå›žè½¦å¯å¾—åˆ°ç›¸åº”ç‰©å“å’Œå…³å¡ï¼š
 
-ÎïÆ·Ãû³ÆÁÐ±í
+ç‰©å“åç§°åˆ—è¡¨
 
 ChainFist
 ETF Rifle
@@ -19,15 +19,15 @@ Doppleganger
 Flechettes
 Prox
 
-¸ü¼òµ¥µÄÊÇÖ±½ÓÊ¹ÓÃÊäÈëÒÔÏÂÃüÁîÐÐ£º 
+æ›´ç®€å•çš„æ˜¯ç›´æŽ¥ä½¿ç”¨è¾“å…¥ä»¥ä¸‹å‘½ä»¤è¡Œï¼š 
 
 give all
 give weapons
 give ammo
 
-¹Ø¿¨µØÍ¼ÁÐ±í£¨Ê¹ÓÃ"MAP"ÃüÁî£©
+å…³å¡åœ°å›¾åˆ—è¡¨ï¼ˆä½¿ç”¨"MAP"å‘½ä»¤ï¼‰
 
-µ¥ÈËÓÎÏ·µØÍ¼£º
+å•äººæ¸¸æˆåœ°å›¾ï¼š
 
 RMINE1 Lower Mines
 RMINE2 Mine Engineering
@@ -43,9 +43,9 @@ RSEWER1 Waste Processing
 RSEWER2 Waste Disposal
 RAMMO1 Munitions Plant
 RAMMO2 Ammo Depot
-RBOSS Widow¡¯s Lair
+RBOSS Widowâ€™s Lair
 
-¶àÈËµØÍ¼ÁÐ±í
+å¤šäººåœ°å›¾åˆ—è¡¨
 
 RDM1 The Low Road
 RDM2 The High Road
@@ -60,9 +60,9 @@ RDM10 Great Divide
 RDM11 Dish It Out
 RDM12 Fall From Grace
 RDM13 Roads To Nowhere
-RDM14 Rogue¡¯s Edge
+RDM14 Rogueâ€™s Edge
 
-ÆäÓàÈý¸öÔÚÓÎÏ·ËµÃ÷ÎÄ¼þÖÐÕÒ²»µ½µÄÈý¸öµØÍ¼ÁÐ±í
+å…¶ä½™ä¸‰ä¸ªåœ¨æ¸¸æˆè¯´æ˜Žæ–‡ä»¶ä¸­æ‰¾ä¸åˆ°çš„ä¸‰ä¸ªåœ°å›¾åˆ—è¡¨
 
 RUNIT2 \
 RUNIT3 > Weapon- & Ammo Depot for Units 2, 3 & 4

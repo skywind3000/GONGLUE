@@ -1,13 +1,13 @@
 DANCE DANCE REVOLUTION
 
-����ģʽ 
-�ڽֻ�ģʽ�����׶�ѡ�����а�����������һ���ر��
-SECRET��MODE��SELECT��ֻҪ���������ָ�����������
-�Գ���MIRROR��DOUBLE��ANOTHER��MANIAC�ĸ�����ģʽ�� 
-ģʽ�� ָ�� 
-MIRROR��MODE ���ҡ����ҡ����ҡ����� 
-DOUBLE��MODE �ϡ��ϡ��¡��¡����ҡ����� 
-ANOTHER��MODE �ϡ��ϡ��¡��¡��ϡ��ϡ��¡��� 
-MANLAC��MODE �����ҡ��ҡ������ҡ��� 
+隐藏模式 
+在街机模式的难易度选择画面中按↑，便会出现一个特别的
+SECRET　MODE　SELECT，只要按照下面的指令进行输入便可
+以出现MIRROR、DOUBLE、ANOTHER、MANIAC四个隐藏模式。 
+模式名 指令 
+MIRROR　MODE 左、右、左、右、左、右、左、右 
+DOUBLE　MODE 上、上、下、下、左、右、左、右 
+ANOTHER　MODE 上、上、下、下、上、上、下、下 
+MANLAC　MODE 左、左、右、右、左、左、右、右 
 
 

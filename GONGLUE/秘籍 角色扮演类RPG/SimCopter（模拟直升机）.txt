@@ -1,14 +1,14 @@
-SimCopter£¨Ä£ÄâÖ±Éý»ú£©
+SimCopterï¼ˆæ¨¡æ‹Ÿç›´å‡æœºï¼‰
 
-°´ÏÂCtrl+Alt+XÆô¶¯×÷±×Ä£Ê½£¬¼üÈëÈçÏÂµÄÄÚÈÝ£º
+æŒ‰ä¸‹Ctrl+Alt+Xå¯åŠ¨ä½œå¼Šæ¨¡å¼ï¼Œé”®å…¥å¦‚ä¸‹çš„å†…å®¹ï¼š
 
-I¡¯m the CEO of McDonnell Douglas:ÈÃÄãµÃµ½1ÖÁ9ÖÖµÄÖ±Éý»ú£¬Èç¹ûÈ«²¿°´ÏÂ»áµÃµ½ËùÓÐµÄÖ±Éý»ú¡£
+Iâ€™m the CEO of McDonnell Douglas:è®©ä½ å¾—åˆ°1è‡³9ç§çš„ç›´å‡æœºï¼Œå¦‚æžœå…¨éƒ¨æŒ‰ä¸‹ä¼šå¾—åˆ°æ‰€æœ‰çš„ç›´å‡æœºã€‚
 
-Warp me to caree:x(xµÄÈ¡Öµ0µ½30)£ºÈÃÄãµ½ÆäËüµÄ³ÇÊÐ£¨Ö»ÄÜÔÚcareer gamesÄ£Ê½ÏÂÊ¹ÓÃ£©¡£
+Warp me to caree:x(xçš„å–å€¼0åˆ°30)ï¼šè®©ä½ åˆ°å…¶å®ƒçš„åŸŽå¸‚ï¼ˆåªèƒ½åœ¨career gamesæ¨¡å¼ä¸‹ä½¿ç”¨ï¼‰ã€‚
 
-Been there,done that:Íê³ÉÈÎÎñ¡£
+Been there,done that:å®Œæˆä»»åŠ¡ã€‚
 
-Gas does grow on trees£º¸øÖ±Éý»ú¼ÓÂúÓÍ¡£
+Gas does grow on treesï¼šç»™ç›´å‡æœºåŠ æ»¡æ²¹ã€‚
 
-Give me bucks or give me death:x(xµÄÈ¡ÖµÔÚ0µ½50000)£º¼ÓÂúÏß£¬Èç¹ûxµÄÈ¡Öµ³¬¹ý50000£¬ÄÇÃ´µÈ´ýÄãµÄ½«ÊÇshutdown??ËÀ»ú¡£
+Give me bucks or give me death:x(xçš„å–å€¼åœ¨0åˆ°50000)ï¼šåŠ æ»¡çº¿ï¼Œå¦‚æžœxçš„å–å€¼è¶…è¿‡50000ï¼Œé‚£ä¹ˆç­‰å¾…ä½ çš„å°†æ˜¯shutdown??æ­»æœºã€‚
 

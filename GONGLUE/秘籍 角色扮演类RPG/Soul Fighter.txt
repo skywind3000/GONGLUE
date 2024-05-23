@@ -1,17 +1,17 @@
 Soul Fighter
 
-ÔÚSoul Fighter±êÖ¾Ê±£¬ÊäÈë¡°×ó+Y¡±¡£½øÈëÑ¡Ïî²Ëµ¥ºóÍË³ö¡£Èç¹û
-²Ù×÷ÕýÈ·£¬ÏÂÒ»¸öÆÁÄ»¾ÍÊÇ×÷±×Ä£Ê½ÆÁÄ»¡£È»ºóÊäÈëÒ»ÏÂ´úÂë£º
-ABXXYA--¶îÍâµÄÑª
-XAAYBB--È«²¿ÎäÆ÷
-AABXYA--µÚ2¹Ø
-XAYAAB--µÚ3¹Ø
-YYBAXA--µÚ4¹Ø
-BABXXY--µÚ5¹Ø
-XAXBYY--µÚ6¹Ø
-ABXBYB--µÚ7¹Ø
-YBBAXY--µÚ8¹Ø
-BYAAXB--µÚ9¹Ø
-XABBAX--µÚ10¹Ø
-YBYXAB--µÚ11¹Ø
-XBAXBY--µÚ12¹Ø
+åœ¨Soul Fighteræ ‡å¿—æ—¶ï¼Œè¾“å…¥â€œå·¦+Yâ€ã€‚è¿›å…¥é€‰é¡¹èœå•åŽé€€å‡ºã€‚å¦‚æžœ
+æ“ä½œæ­£ç¡®ï¼Œä¸‹ä¸€ä¸ªå±å¹•å°±æ˜¯ä½œå¼Šæ¨¡å¼å±å¹•ã€‚ç„¶åŽè¾“å…¥ä¸€ä¸‹ä»£ç ï¼š
+ABXXYA--é¢å¤–çš„è¡€
+XAAYBB--å…¨éƒ¨æ­¦å™¨
+AABXYA--ç¬¬2å…³
+XAYAAB--ç¬¬3å…³
+YYBAXA--ç¬¬4å…³
+BABXXY--ç¬¬5å…³
+XAXBYY--ç¬¬6å…³
+ABXBYB--ç¬¬7å…³
+YBBAXY--ç¬¬8å…³
+BYAAXB--ç¬¬9å…³
+XABBAX--ç¬¬10å…³
+YBYXAB--ç¬¬11å…³
+XBAXBY--ç¬¬12å…³

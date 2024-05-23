@@ -1,15 +1,15 @@
 Vigilante 8_ Second Offense
 
-µ±×÷ÃÜÂëÊäÈë£º
-RAPID_FIRE--¿ìËÙÉä»÷
-BLAST_FIRE--³¬¼¶µ¼µ¯
-MORE_SPEED--¸ü¿ìµÄ³µ
-GO_RAMMING--¸üÖØÐÍµÄ³µ
-QUICK_PLAY--¿ìËÙÐÐ¶¯
-UNDER_FIRE--ÎüÒýµÐÈË
-GO_SLOW_MO--ÂýËÙÄ£Ê½
-NO_GRAVITY--ÎÞÖØÁ¦
-GO_MONSTER--´ó³µÂÖ
-DRIVE_ONLY--ÎÞÂÖ³µ
-MIXES_CARS--¶àÈËÓÎÏ·ÖÐÓÐÍ¬ÑùµÄ³µ 
+å½“ä½œå¯†ç è¾“å…¥ï¼š
+RAPID_FIRE--å¿«é€Ÿå°„å‡»
+BLAST_FIRE--è¶…çº§å¯¼å¼¹
+MORE_SPEED--æ›´å¿«çš„è½¦
+GO_RAMMING--æ›´é‡åž‹çš„è½¦
+QUICK_PLAY--å¿«é€Ÿè¡ŒåŠ¨
+UNDER_FIRE--å¸å¼•æ•Œäºº
+GO_SLOW_MO--æ…¢é€Ÿæ¨¡å¼
+NO_GRAVITY--æ— é‡åŠ›
+GO_MONSTER--å¤§è½¦è½®
+DRIVE_ONLY--æ— è½®è½¦
+MIXES_CARS--å¤šäººæ¸¸æˆä¸­æœ‰åŒæ ·çš„è½¦ 
 

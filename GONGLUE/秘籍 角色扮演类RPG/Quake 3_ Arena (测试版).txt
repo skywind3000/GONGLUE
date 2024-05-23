@@ -1,22 +1,22 @@
-Quake 3_ Arena (²âÊÔ°æ)
+Quake 3_ Arena (æµ‹è¯•ç‰ˆ)
 
-Èç¹ûÏëÊ¹ÓÃÃÜ¼¼£¬ÓÎÏ·µÄ´´½¨Õß±ØĞëÔÚ´´½¨Ê±´ò¿ªÃÜ¼¼Ä£Ê½¡£ÕâÑùÄãÔÚÓÎÏ·ÖĞ¾Í¿ÉÒÔÊäÈëÒÔÏÂÃÜÂë£º 
+å¦‚æœæƒ³ä½¿ç”¨å¯†æŠ€ï¼Œæ¸¸æˆçš„åˆ›å»ºè€…å¿…é¡»åœ¨åˆ›å»ºæ—¶æ‰“å¼€å¯†æŠ€æ¨¡å¼ã€‚è¿™æ ·ä½ åœ¨æ¸¸æˆä¸­å°±å¯ä»¥è¾“å…¥ä»¥ä¸‹å¯†ç ï¼š 
 
-god ÉÏµÛÄ£Ê½ 
-give all »ñµÃËùÓĞµÄÎäÆ÷ºÍ¹¤¾ß 
-give health Ôö¼ÓÉúÃüÖµ 
-give armor Ôö¼Ó×°¼×Öµ 
-give quad damage »ñµÃQuad Damage 
-give personal teleporter »ñµÃPersonal Teleporter 
-give gauntlet »ñµÃGauntlet 
-give machinegun »ñµÃMachinegun 
-give shotgun »ñµÃShotgun 
-give granade launcher »ñµÃGranade Launcher 
-give rocket launcher »ñµÃRocket Launcher 
-give lightning gun »ñµÃLightning Gun 
-give railgun »ñµÃRailgun 
-give plasma gun »ñµÃPlasma Gun 
-give bfg10k »ñµÃBFG10K 
-give grappling hook »ñµÃGrappling Hook 
-give ammo »ñµÃµ¯Ò©
+god ä¸Šå¸æ¨¡å¼ 
+give all è·å¾—æ‰€æœ‰çš„æ­¦å™¨å’Œå·¥å…· 
+give health å¢åŠ ç”Ÿå‘½å€¼ 
+give armor å¢åŠ è£…ç”²å€¼ 
+give quad damage è·å¾—Quad Damage 
+give personal teleporter è·å¾—Personal Teleporter 
+give gauntlet è·å¾—Gauntlet 
+give machinegun è·å¾—Machinegun 
+give shotgun è·å¾—Shotgun 
+give granade launcher è·å¾—Granade Launcher 
+give rocket launcher è·å¾—Rocket Launcher 
+give lightning gun è·å¾—Lightning Gun 
+give railgun è·å¾—Railgun 
+give plasma gun è·å¾—Plasma Gun 
+give bfg10k è·å¾—BFG10K 
+give grappling hook è·å¾—Grappling Hook 
+give ammo è·å¾—å¼¹è¯
 

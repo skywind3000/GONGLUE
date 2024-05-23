@@ -1,23 +1,23 @@
 Pandemonium II
 
-1.ÔÚÓÎÏ·ÖÐÊäÈëÒÔÏÂÃÜÂë
-ACIDDUDE = »Ã¾õÄ£Ê½
-GENETICS = ±äÒìÄ£Ê½
-GETACCES = Ñ¡¹Ø
-GONAHURL = ÊÓ½Ç¸Ä±ä
-HORMONES = ¼ÓÑª
-IMMORTAL = 31ÌõÃü
-JUSTKIDN = ¹ÖÎï¸´»î
-MAKMYDAY = ÎäÆ÷
-NEVERDIE = ÎÞµÐ
-OCMCKKEJ = Ñ¡¹Ø
-SKATBORD = ¼ÓËÙ
-2.¸÷¹ØÃÜÂë£º
-Ãû³Æ / ÃÜÂë 
+1.åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å¯†ç 
+ACIDDUDE = å¹»è§‰æ¨¡å¼
+GENETICS = å˜å¼‚æ¨¡å¼
+GETACCES = é€‰å…³
+GONAHURL = è§†è§’æ”¹å˜
+HORMONES = åŠ è¡€
+IMMORTAL = 31æ¡å‘½
+JUSTKIDN = æ€ªç‰©å¤æ´»
+MAKMYDAY = æ­¦å™¨
+NEVERDIE = æ— æ•Œ
+OCMCKKEJ = é€‰å…³
+SKATBORD = åŠ é€Ÿ
+2.å„å…³å¯†ç ï¼š
+åç§° / å¯†ç  
 1 Ice Prison =EMIAGCAI 
-2 Zorrscha¡¯s Lab =OMACCBAI 
+2 Zorrschaâ€™s Lab =OMACCBAI 
 3 Hot Pants =FAIAGCBI 
-4 Stan¡¯s The Man =FEKAGCCA 
+4 Stanâ€™s The Man =FEKAGCCA 
 5 Oyster Desoyster =LGBFIICE 
 6 Puzzle Wood =LMBBIIEE 
 7 Temple Of Nori =IEBBIIGF 

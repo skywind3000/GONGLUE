@@ -1,8 +1,8 @@
-Battle Arena Toshinden�����񴫣�
+Battle Arena Toshinden（斗神传）
 
-1.��Ϸ�п����������ܼ���
-FUNNYHEADS����ͷģʽ
-GIMMEJIM��ʹ����λ��������
-LIFEISUNFAIR�� �����ּ����ܷ���ɱ��
-VIRTUAL1����һ�˳�ģʽ
-2.��սʤ���ͷĿGAIA�󣬻���ֱ�ɱ����ѧ���档��ʱ��F12������1P VS 2P��սģʽ����ʤ��һ��������������SHO��ս������ʤ��������ֵڶ���ɱ����ѧ���档��ʱ��F12�����ܺ���ս���JIM�ˡ�
+1.游戏中可输入下列密技：
+FUNNYHEADS：大头模式
+GIMMEJIM：使用三位隐藏人物
+LIFEISUNFAIR： 按数字键就能发必杀技
+VIRTUAL1：第一人称模式
+2.在战胜最后头目GAIA后，会出现必杀技教学画面。这时按F12，进入1P VS 2P对战模式，获胜的一方可向隐藏任务SHO挑战。若获胜，将会出现第二必杀技教学画面。这时按F12，就能和挑战蚯蚓JIM了。

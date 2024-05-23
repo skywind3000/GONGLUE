@@ -1,9 +1,9 @@
-Power Boat Racing��������ͧ��
+Power Boat Racing（致命快艇）
 
-���������ִ���
-SML    ʹ�����߿���
-EPS    Ѳ����ģʽ
-PBR    �ϰ���ģʽ
-PDL    ���ܹؿ������
-URN    ����ĹѨ
+键入以下字串：
+SML    使用无线控制
+EPS    巡回赛模式
+PBR    障碍赛模式
+PDL    秘密关卡：矿坑
+URN    地下墓穴
 

@@ -1,6 +1,6 @@
 The Last Resort
 
-�����ȴ�һ����,����Ϸ��ʼʱ,������м���"120763-090665".��סCTRL�����"OK"��.�ٰ�CTRL+O,ѡ�񲻴浵.������ȡ��,��Ϳ�����������������еص�ת��(ÿһ�������Ӧһ������):ATTIC,CHASM,DALI,DRUM,GARAGE,HALL1,JUNGLE,
+必须先存一个档,当游戏开始时,在入口中键入"120763-090665".按住CTRL并点击"OK"键.再按CTRL+O,选择不存档.接着再取档,你就可以输入以下密码进行地点转移(每一个密码对应一个地区):ATTIC,CHASM,DALI,DRUM,GARAGE,HALL1,JUNGLE,
 LOBBY,TAPESTRY,VRROOM
 
 

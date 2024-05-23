@@ -1,13 +1,13 @@
-Hi Octane£¨¿ñÒ°ì­³µ£©
+Hi Octaneï¼ˆç‹‚é‡Žé£™è½¦ï¼‰
 
-ÔÚÓÎÏ·½øÐÐÊ±¼üÈëÏÂÁÐÃÜÂë£º 
+åœ¨æ¸¸æˆè¿›è¡Œæ—¶é”®å…¥ä¸‹åˆ—å¯†ç ï¼š 
 
-¡¡¡¡ALT+F1£º×Ô±¬ 
-¡¡¡¡ALT+F2£ºµÐÈËÈ«Ãð 
-¡¡¡¡ALT+F3£ºÄÜÔ´È«Âú 
-¡¡¡¡ALT+F4£º×Óµ¯È«Âú 
-¡¡¡¡ALT+F5£º·À»¤ÕÖÈ«Âú 
-¡¡¡¡ALT+F6£ºLAP Ôö¼Ó 
-¡¡¡¡ALT+Y£ºÆô¶¯×Ô¶¯µ¼º½ 
-¡¡¡¡ALT+C£º¹Ø±Õ×Ô¶¯µ¼º½ 
+ã€€ã€€ALT+F1ï¼šè‡ªçˆ† 
+ã€€ã€€ALT+F2ï¼šæ•Œäººå…¨ç­ 
+ã€€ã€€ALT+F3ï¼šèƒ½æºå…¨æ»¡ 
+ã€€ã€€ALT+F4ï¼šå­å¼¹å…¨æ»¡ 
+ã€€ã€€ALT+F5ï¼šé˜²æŠ¤ç½©å…¨æ»¡ 
+ã€€ã€€ALT+F6ï¼šLAP å¢žåŠ  
+ã€€ã€€ALT+Yï¼šå¯åŠ¨è‡ªåŠ¨å¯¼èˆª 
+ã€€ã€€ALT+Cï¼šå…³é—­è‡ªåŠ¨å¯¼èˆª 
 

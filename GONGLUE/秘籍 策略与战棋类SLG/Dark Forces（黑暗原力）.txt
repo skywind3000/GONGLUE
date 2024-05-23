@@ -1,26 +1,26 @@
-Dark Forces���ڰ�ԭ����
+Dark Forces（黑暗原力）
 
-����Ϸ����ʱ�����������룺
-LABUG ����ģʽ 
-LACDS (��һ��) ������ϸ�ĵ�ͼģʽ(����ʾ���е���Ʒ�͵��˵�λ��)
-(��ɫ����=��ĵ��� ��ɫ����=��������
-��ɫ����=������λ ��ɫ����=��ҩ 
-��ɫС��=��̬���� ��ɫ����=��̬����)
-LACDS (�ڶ���) ����ı�ʶ��ɰ���ɫ
-LACDS (������) �رյ�ͼģʽ
-LADATA ��ʾ������������
-X������ Y���� Z=������ H=�߶� S=���ְٷ�֮S������
-LAIMLAME �޵� 
-LAMAXOUT ��������,����,��ҩ����Ʒȫ��
-LAPOGO �л����߶ȼ�� 
-LAPOSTAL ��������,����,��ҩ��ҽ����Ʒȫ�� 
-LARANDY ��ʱ��������
-LAREDLITE �䶳ģʽ 
-LASKIP ������ʤ 
-LATERMINATE ��ģʽ���ܵõ���ǿ�ĵ�ҩ
-LAUNLOCK �õ�����ͨ����Ʒ
-����Ϸ����ʱ��������������Դ��͵���Ӧ�Ĺؿ���
-(ע�⣺������֮��ԭ�����е���������Ʒ�����ᱻ������Щ�ؿ�)
+在游戏进行时键入下列密码：
+LABUG 昆虫模式 
+LACDS (第一次) 开启详细的地图模式(能显示所有的物品和敌人得位置)
+(黄色三角=活的敌人 灰色三角=已死敌人
+蓝色三角=防护单位 蓝色方块=弹药 
+黄色小点=静态区域 橙色三角=动态区域)
+LACDS (第二次) 把你的标识变成暗绿色
+LACDS (第三次) 关闭地图模式
+LADATA 显示你的五个参数：
+X横坐标 Y海拔 Z=纵坐标 H=高度 S=发现百分之S的秘密
+LAIMLAME 无敌 
+LAMAXOUT 所有武器,护盾,弹药，物品全满
+LAPOGO 切换到高度检测 
+LAPOSTAL 所有武器,护盾,弹药，医疗物品全满 
+LARANDY 暂时提升火力
+LAREDLITE 冷冻模式 
+LASKIP 立即获胜 
+LATERMINATE 狂暴模式，能得到超强的弹药
+LAUNLOCK 得到所有通行物品
+在游戏进行时键入下列密码可以传送到对应的关卡：
+(注意：当传送之后，原先所有的武器和物品都不会被带入这些关卡)
 1.LASECBASE Secret Base (The Death Star Plans) 
 2.LATALAY Talay: Tak Base 
 3.LASEWERS Anoat City (The Subterranean Hideout) 
@@ -30,7 +30,7 @@ LAUNLOCK �õ�����ͨ����Ʒ
 7.LARAMSHED Ramsees Hed Docking Port 
 8.LAROBOTICS Robotics Construction Facility 
 9.LANARSHADA Nar Shaddaa 
-10.LAJABSHIP Jabba��s Ship 
+10.LAJABSHIP Jabba’s Ship 
 11.LAIMPCITY Imperial City 
 12.LAFUELSTAT Fuel Station 
 13.LAEXECUTOR The Executor 

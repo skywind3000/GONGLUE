@@ -1,33 +1,33 @@
-Diablo(�����ƻ���)��������
+Diablo(暗黑破坏神)秘密任务
 
-��ӭ���¸ҵ�ð���ߣ���������������һ�������Ҫ��������Щ�����ҷ��ֵ�һ�����ܣ��Ǿ��ǽ��봫˵�е�����level. Ҫִ�����������������һ��Warrior��������Rogues�� Sorcerersֻ��˵��Ǹ�ˡ���������30�������У����ұ���սʤ�� Normal,Nightmare,Hell������Diablo�����У����������б���������������Ʒ��
+欢迎，勇敢的冒险者！来，在篝火旁坐一会儿，我要告诉你这些年来我发现的一个秘密，那就是进入传说中的秘密level. 要执行这项任务，你必须是一个Warrior，（对于Rogues和 Sorcerers只能说抱歉了。）至少有30级的修行，而且必须战胜过 Normal,Nightmare,Hell三级的Diablo。还有，你的行李袋中必须有以下四样物品：
 
-����GnarledRoot,
+　　GnarledRoot,
 
-����Fool��sCrest(һ�����صĲ�ɫñ�ӣ���
+　　Fool’sCrest(一个奇特的彩色帽子），
 
-����ElixirofGullibility
+　　ElixirofGullibility
 
-����10000���ҡ�
+　　10000块金币。
 
-����һ����ӵ������Щ��Ʒ���Ϳ��Կ�ʼִ�����������ˡ�
+　　一旦你拥有了这些物品，就可以开始执行秘密任务了。
 
-������һ���Ǵ���Fool��sCrestվ��С��Ĺ㳡�ϣ�ʹ��gullibility��Ȼ����Gillian��ȥ����ʱ��Ӧ�ÿ��Ժ�Gillian�Ի����㰴Voiceͼ�꣬Ȼ�����룺��Gillian,Ibidyou,followme! ��С�㣬���������hehehe...����Gillian��Ȼ�ԹԵظ��������ˡ�
+　　第一步是戴着Fool’sCrest站在小镇的广场上，使用gullibility。然后向Gillian走去。这时你应该可以和Gillian对话。点按Voice图标，然后输入：“Gillian,Ibidyou,followme! （小姐，请跟我来。hehehe...）”Gillian居然乖乖地跟着你走了。
 
-�����ڶ��������Diablo�ĳ�Ѩ��ɱ������·�����е��ˡ�
+　　第二步，冲进Diablo的巢穴，杀掉挡你路的所有敌人。
 
-������Ҫע�⣬���Բ�����Gillian������ɱ���������ֻ�ܴ�ͷ������ֱ����ᶯ���һ������,��Diablo���ҵ���,����Ҫ����ʹ��ɱ�֡���ʱDiablo�ῴ��Gillian,Ȼ��˵�������������ʲô���� ��ʱ������������롰Diablo,whatdidyousay,I��mabitdeaf! ����˵Щʲô��Diablo���ҵĶ��䲻̫��ʹ������ Diablo��ش𣺡�û����...�ҽ����һֻ���䣬��Ϳ���������ˡ��� Ȼ�����ὫEarofDiablo�ӵ�����
+　　但要注意，绝对不能让Gillian被怪物杀死，否则就只能从头来过。直到你搬动最后一道机关,打开Diablo卧室的门,但不要对它痛下杀手。这时Diablo会看见Gillian,然后说：“她在这里干什么？” 这时你必须马上输入“Diablo,whatdidyousay,I’mabitdeaf! （你说些什么，Diablo，我的耳朵不太好使！）” Diablo会回答：“没问题...我借给你一只耳朵，你就可以听清楚了。” 然后它会将EarofDiablo扔到地上
 
-����ע�⣬���ǿ���������һ�����׵��Ǹ�������
+　　注意，就是看起来象是一件盔甲的那个东西。
 
-������ʱ��Ҫһ��ץ�����䣬���Ϸų�һ��Portal����Diablo��û��Ӧ����������Gillian�ص����档����ص������ʱ�򣬻�����Diablo�������� ����Ҳ��������Warrior�ˣ����Ǳȸ���������Ա��Ҫ������Ogden ע�⵽�������Gillian��������еĶ��䣬�ͻῪ�ڣ������ѣ��㿴���ڿ��ˣ�Ҳ������Ҫ��Щ�������� Ȼ�󽻸�������ElixirsofJackDaniels����Gillianһ���й䣬�������ù�Ĺ��վ��һ�鵹����Ĺ���ԣ��ȵ�����һ��ElixirsofJackDaniels�����ݸ�Gillianһ�ޡ�����������󣬰�EarofDiablo�ӵ�Ĺ���ϣ��ٽ�GnarledRoot�ӵ�����ǰ��Gillian��һƲ����˭˵Chivalry���������Ѿ����ˣ��� Ȼ������GnarledRoot������ɴ��˵��۾���ע���£���ʼ��Ĺ�����˿�Ĺ����¶��һ���������·�˪��Զ�����MapoftheStars������Ȼ������������������Ĺ��ȥ������ţ��Gillian�ἷһƿţ�̵ݸ��㡣
-����������ƿ��ȥŮ��Adria��С�ݡ�Adria���ù�ţ�̣�����װ��һ��ElixirofBovine2%�С����ź�Gillianһ��ȥGriswold�Ƕ�������Griswold��������ElixirofBovine2%, �����������˵����̫���ˣ���˵���ǿ��ټ���ҩ����Ҳֵ��һ�ԣ������ҵĶ��ӿ��Լ��Ḻ���ˡ���Ϊ�˱�ʾ�м��� Griswold�����һ����Ʒװ��TheCraniumBasher���л���˵������ȥWirt�Ƕ��������������Gillianһ�𣬾ͻ�˵��������һЩ�ر�Ķ������㡣��
+　　这时你要一把抓过耳朵，马上放出一个Portal，乘Diablo还没反应过来，拖着Gillian回到地面。当你回到地面的时候，会听见Diablo在咆哮： “再也不能相信Warrior了！他们比该死的推销员还要坏１当Ogden 注意到你身后的Gillian和行李袋中的耳朵，就会开口：“朋友，你看来口渴了，也许你需要这些东西。” 然后交给你三罐ElixirsofJackDaniels。和Gillian一起闲逛，来到教堂公墓，站在一块倒塌的墓碑旁，喝掉其中一罐ElixirsofJackDaniels，并递给Gillian一罐。看着她喝完后，把EarofDiablo扔到墓碑上，再将GnarledRoot扔到她面前。Gillian嘴一撇：“谁说Chivalry（国王）已经死了？” 然后拿起GnarledRoot，在你瞪大了的眼睛的注视下，开始撬墓碑。撬开墓碑后露出一个饱经岁月风霜的远古轴卷MapoftheStars。它自然进了你的行李袋。盗完墓再去牧场放牛。Gillian会挤一瓶牛奶递给你。
+　　拿着这瓶奶去女巫Adria的小屋。Adria会拿过牛奶，将其装进一个ElixirofBovine2%中。接着和Gillian一起去Griswold那儿，当着Griswold的面扔下ElixirofBovine2%, 他会捡起来并说：“太好了，虽说不是快速减肥药，但也值得一试，这下我的肚子可以减轻负担了。”为了表示感激， Griswold会给你一个极品装备TheCraniumBasher。闲话少说，现在去Wirt那儿。当他看见你和Gillian一起，就会说：“我有一些特别的东西给你。”
 
-����Ȼ���ó�һ��RingofEngagement�������ָ��������Ҫ30000��ҡ�����ʱ��ֻ��10000��ҡ�������ȫ���ó�������Ѻ��ʣ�µ��ǹ� ElixirofJackDaniels���������ճɽ���Wirt��Ring�����㣬���ź�Gillian����С���ڵ���ĹѨ��ڸ�����һ��Ƨ��������ʱ��������Gillian���ó������ָ����ϥ�¹����룺 ��Gillian,Ihavelovedyousincethefirstoureyesmet! MarrymeandIwillgiveyoutheSTARS! ���Դӵ�һ�������㣬�ҾͰ������㡣�޸��Һ����һ����STARS������Ҫ��һ�С����� Gillian���Ͻ������������������˵�����һ���Ϊ�㲻�Ὺ���أ��ҵ���ʿ��������С��㳡�Ͼ��У����ǻ�������Griswold��Adria �����ɺͰ��
+　　然后拿出一个RingofEngagement（定婚戒指），并索要30000金币。但这时你只有10000金币。把它们全部拿出来，再押上剩下的那罐 ElixirofJackDaniels。生意最终成交，Wirt把Ring交给你，接着和Gillian穿过小镇，在地下墓穴入口附近找一个僻静处。这时必须面向Gillian，拿出订婚戒指，单膝下跪，输入： “Gillian,Ihavelovedyousincethefirstoureyesmet! MarrymeandIwillgiveyoutheSTARS! （自从第一次遇见你，我就爱上了你。嫁给我好吗？我会给你STARS和你想要的一切。）” Gillian马上接受了你的请求，流着泪说：“我还以为你不会开口呢，我的骑士１婚礼在小镇广场上举行，你们还邀请了Griswold和Adria 做伴郎和伴娘。
 
-��������ֳ������������̶���¡�ء�����Gillian�ص�����С�ݡ���ɴ��������ҡק����վ���ݽǣ������ڴ���Ŀ�⿴���㡣����ԥʲô��...... �㲢û������������Ϊ�㲻������������ݣ����ʹ����������һ��Ԥ������ڣ�������Ĳ߻���...�����ó�MapofThestars���ݸ�Gillian���������� ��Gillian.IpromisedyoutheStars,andheretheyare! ���Ҵ�Ӧ����STARS�����ڶ��֣�����Gillian����map��ϸ��Ħ��ͻȻ��������� ����Ȼ���㣬����ǰ��Ԥ���е��Ǹ��ˡ���Ȼ���map�����ң� �����ȷ��һ���ܺõ�����������Ҫ�����¸ҵ���ʿ�����ţ�Gillian������ϵľɵ�̺��¶��һ�����ڣ�һ��̨��������ʧ�ںڰ��С�����Ҳ��������Ҫ�ҵ���ڣ���
+　　大家又唱又跳，婚礼简短而又隆重。跟着Gillian回到她的小屋。缦纱轻拂，烛光摇拽，她站在屋角，带着期待的目光看着你。还犹豫什么呢...... 你并没有那样做，因为你不能忘记你的身份，你的使命！（这是一个预定的情节，这该死的策划人...）你拿出MapofThestars，递给Gillian，告诉她： “Gillian.IpromisedyoutheStars,andheretheyare! （我答应给你STARS，现在兑现！）”Gillian拿起map仔细观摩，突然大叫起来： “果然是你，多年前的预言中的那个人。”然后把map还给我， “这的确是一件很好的礼物，但你更需要它，勇敢的骑士１接着，Gillian卷起地上的旧地毯，露出一个洞口，一条台阶蜿蜒消失在黑暗中。“这也许就是你要找的入口１。
 
-������ȥǰ��Ҫ����һЩ׼��������CraniumBasher����������໥����ģʽ��Ȼ���������...... ����ص�����ʱ��GillianͻȻ�������аγ�һ��ذ�ף�˹Ъ����ؿ�Ц�ţ���ݺݵ��������������� ��Diablo,�ڰ�֮����������ּ��...�� �㵱Ȼ����׼����ʹ��Craniumbasher��׼Gillianӭͷһ�����������̻�Ϊһ�����̣�����ɢ��������ֻ����һƬ�ڻ�ɫ�ĺۼ�����������һ���Σ�ת��֮����ȥ¥�գ���Ϊ���µ�һ���͵���Ҳֻ�ܶԱڳ�̾...
+　　下去前需要先做一些准备。戴上CraniumBasher，设置玩家相互攻击模式。然后钻进洞口...... 当你回到房间时，Gillian突然从上衣中拔出一把匕首，斯歇底里地狂笑着，恶狠狠地向你刺来，狂叫着 “Diablo,黑暗之神，我遵从你的旨意...” 你当然有所准备，使用Craniumbasher对准Gillian迎头一击，她会立刻化为一阵青烟，随风飞散，地面上只留下一片黑灰色的痕迹。人生宛如一场梦，转眼之间人去楼空，身为天下第一剑客的你也只能对壁长叹...
 
-����......��̨�׵ľ�ͷ����ῴ�����������˸���š�ѡ��һ���ɣ��¸ҵ���Բ���Ԥ֪�����ˣ�
+　　......在台阶的尽头，你会看见两个金光闪烁的门。选择一个吧，勇敢地面对不可预知的命运！
 

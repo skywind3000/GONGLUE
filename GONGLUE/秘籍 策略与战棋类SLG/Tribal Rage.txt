@@ -1,7 +1,7 @@
 Tribal Rage
 
-��סShift+Ctrl+:
-R �����е�ͼ 
-V ʤ�� 
-Z ��1000��Ǯ 
+按住Shift+Ctrl+:
+R 打开所有地图 
+V 胜利 
+Z 加1000块钱 
 

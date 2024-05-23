@@ -1,12 +1,12 @@
-̩̹Ǳͧ
+泰坦潜艇
 
-����Ϸ������԰��»س�Ȼ���������µ����룻 
-FOW ��ͼȫ�� 
-TECH �������м��� 
-ENERGY ����ȫ�� 
-AIR ����ȫ�� 
-SILICON ��Ԫ��ȫ�� 
-METAL ��������1000��λ 
-GOLD ��������1000��λ 
-CORIUM Ƥ������1000��λ 
-EXITON ���ӡ�Ƥ�Ӻͽ���ͬʱ�ֱ�����1000��5000��10000��λ
+在游戏中你可以按下回车然后输入以下的密码； 
+FOW 地图全开 
+TECH 掌握所有技术 
+ENERGY 能量全满 
+AIR 空气全满 
+SILICON 硅元素全满 
+METAL 金属增加1000单位 
+GOLD 金子增加1000单位 
+CORIUM 皮子增加1000单位 
+EXITON 金子、皮子和金属同时分别增加1000、5000和10000单位

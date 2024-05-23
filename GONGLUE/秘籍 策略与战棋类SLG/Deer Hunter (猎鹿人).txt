@@ -1,10 +1,10 @@
-Deer Hunter (��¹��)
+Deer Hunter (猎鹿人)
 
-�ڵ�ͼ�Ӵ��м��������ַ�������Ӧ���ܣ�
-dhbambi���ڵ�ͼ�Ӵ���ʾ¹��λ��
-dhdoeinheat��������¹�����ڵ�λ��
-dhstealth��¹�������㣬Ҳ�Ų��������ζ
-dhbuckdown�������ʱ¹ԭ�ز���
-dhbigbuck������¹�󣬿����ӣ�����
-dhrambo������������
+在地图视窗中键入以下字符开启相应功能：
+dhbambi：在地图视窗显示鹿的位置
+dhdoeinheat：吸引雄鹿到你在的位置
+dhstealth：鹿听不到你，也闻不到你的气味
+dhbuckdown：在射击时鹿原地不动
+dhbigbuck：打中鹿后，可增加１５磅
+dhrambo：提高射击精度
 

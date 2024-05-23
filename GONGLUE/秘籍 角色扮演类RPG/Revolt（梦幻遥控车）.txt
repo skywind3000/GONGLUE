@@ -1,10 +1,10 @@
-Revoltё╗цн╩црё©ьЁ╣ё╘
+RevoltО╪┬Ф╒╕Е╧╩И│╔Ф▌╖Х╫╕О╪┴
 
-тзсно╥д©б╪об╣д CAR д©б╪жпур╣╫ Paremeters.txt 
-©ипч╦дртоб╦В╡нйЩ 
+Е°╗Ф╦╦Ф┬▐Г⌡╝Е╫∙Д╦▀Г └ CAR Г⌡╝Е╫∙Д╦╜Ф┴╬Е┬╟ Paremeters.txt 
+Е▐╞Д©╝Ф■╧Д╩╔Д╦▀Е░└Е▐┌Ф∙╟ 
 
-TopSpeed =╪╚кы 
-acceleration =╪скыпт 
-steering rate =╡ы©ьпт 
-wheel size =бжх╕Ёъ╢Г
+TopSpeed =Ф·│И─÷ 
+acceleration =Е┼═И─÷Ф─╖ 
+steering rate =Ф⌠█Ф▌╖Ф─╖ 
+wheel size =Х╫╝Е°┬Е╟╨Е╞╦
 

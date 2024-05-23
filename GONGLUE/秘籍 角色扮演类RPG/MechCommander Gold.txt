@@ -1,14 +1,14 @@
 MechCommander Gold
 
-¿½±´ÓÎÏ·Ä¿Â¼ÏÂµÄwindows.fitÎÄ¼þ£¬²¢½«Ëü¸üÃûÎª²»´øÀ©Õ¹Ãû
-µÄixtlriimceourl£¬¼´¿É¼¤»î×÷±×Ä£Ê½£º
-Íê³ÉÈÎÎñ£ºÕ½¶·ÖÐÊäÈë¡°CTRL-ALT-W¡±
-µÃµ½1000000 RP£ºÔÚºóÇÚ×´Ì¬ÊäÈë£º¡°poundofflesh¡±
-ÎÞµÐ£ºÕ½¶·ÖÐÊäÈë£º¡°osmium¡±
-MechWarriorsµÄ·¢ÅÚ¼¼Êõ×î´ó£ºÕ½¶·ÖÐÊäÈë£º¡°deadeye¡±
-ÐÞÀíºÍÖØ×°µ¯Ò©£ºÕ½¶·ÖÐÊäÈë£º¡°deadeye¡±
-ÏÔÊ¾µØÍ¼£ºÕ½¶·ÖÐÊäÈë£º¡°mineeyeshaveseentheglory¡±
-ÏÔÊ¾Ö¡Æµ£ºÕ½¶·ÖÐÊäÈë£º¡°framegraph¡±
-ÎÞÏÞºË¹¥»÷£ºÕ½¶·ÖÐÊäÈë£º¡°lordbunny¡±¡£°´×¡B²¢×ó¼üµ¥»÷
-Ä¿±ê¼´¿É¡£ 
+æ‹·è´æ¸¸æˆç›®å½•ä¸‹çš„windows.fitæ–‡ä»¶ï¼Œå¹¶å°†å®ƒæ›´åä¸ºä¸å¸¦æ‰©å±•å
+çš„ixtlriimceourlï¼Œå³å¯æ¿€æ´»ä½œå¼Šæ¨¡å¼ï¼š
+å®Œæˆä»»åŠ¡ï¼šæˆ˜æ–—ä¸­è¾“å…¥â€œCTRL-ALT-Wâ€
+å¾—åˆ°1000000 RPï¼šåœ¨åŽå‹¤çŠ¶æ€è¾“å…¥ï¼šâ€œpoundoffleshâ€
+æ— æ•Œï¼šæˆ˜æ–—ä¸­è¾“å…¥ï¼šâ€œosmiumâ€
+MechWarriorsçš„å‘ç‚®æŠ€æœ¯æœ€å¤§ï¼šæˆ˜æ–—ä¸­è¾“å…¥ï¼šâ€œdeadeyeâ€
+ä¿®ç†å’Œé‡è£…å¼¹è¯ï¼šæˆ˜æ–—ä¸­è¾“å…¥ï¼šâ€œdeadeyeâ€
+æ˜¾ç¤ºåœ°å›¾ï¼šæˆ˜æ–—ä¸­è¾“å…¥ï¼šâ€œmineeyeshaveseenthegloryâ€
+æ˜¾ç¤ºå¸§é¢‘ï¼šæˆ˜æ–—ä¸­è¾“å…¥ï¼šâ€œframegraphâ€
+æ— é™æ ¸æ”»å‡»ï¼šæˆ˜æ–—ä¸­è¾“å…¥ï¼šâ€œlordbunnyâ€ã€‚æŒ‰ä½Bå¹¶å·¦é”®å•å‡»
+ç›®æ ‡å³å¯ã€‚ 
 

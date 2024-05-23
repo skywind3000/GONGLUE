@@ -1,8 +1,8 @@
 B-Hunter
 
-ÔÚÓÎÏ·ÖÐ£¬ÊäÈëÒÔÏÂÃÜÂë£º
+åœ¨æ¸¸æˆä¸­ï¼Œè¾“å…¥ä»¥ä¸‹å¯†ç ï¼š
 
 IABAT = Pilot BAT Vehicle
-IADQD = ÎÞµÐ ¿ª/¹Ø
-IAKFA = ÎäÆ÷ºÍµ¯Ò©È«Âú
+IADQD = æ— æ•Œ å¼€/å…³
+IAKFA = æ­¦å™¨å’Œå¼¹è¯å…¨æ»¡
 

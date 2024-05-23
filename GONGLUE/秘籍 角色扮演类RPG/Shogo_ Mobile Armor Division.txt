@@ -1,18 +1,18 @@
 Shogo_ Mobile Armor Division
 
-����Ϸ�а� [T]����ʾ�Ի���Ȼ�������ܼ��� 
+在游戏中按 [T]键显示对话框，然后输入密技： 
 
-MPGOD �ϵ�ģʽ 
-MPKFA ��������ҩ��װ��ֵȫ�� 
-MPHEALTH ����ֵȫ�� 
-MPAMMO ��ҩֵȫ�� 
-MPARMOR װ��ֵȫ�� 
-MPCLIP ��ǽģʽ 
-MPPOS λ����ʾ 
-MPCAMERA �����ӽ� 
-MPTEARS ��ҩ���� 
+MPGOD 上帝模式 
+MPKFA 生命、弹药、装甲值全满 
+MPHEALTH 生命值全满 
+MPAMMO 弹药值全满 
+MPARMOR 装甲值全满 
+MPCLIP 穿墙模式 
+MPPOS 位置显示 
+MPCAMERA 调整视角 
+MPTEARS 弹药无限 
 
-�㻹����ʹ��world [name]�ܼ�������Ӧ�����εص㣬�����г�NAME���룺 
+你还可以使用world [name]密技进入相应的隐蔽地点，下面列出NAME代码： 
 
 01_Ambush 
 02_Quarters 

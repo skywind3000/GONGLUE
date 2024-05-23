@@ -1,21 +1,21 @@
-Starcraft£¨ĞÇ¼ÊÕù°Ô£©
+Starcraftï¼ˆæ˜Ÿé™…äº‰éœ¸ï¼‰
 
-ÓÎÏ·ÖĞÏÈ°´ÏÂENTER¼ü£¬È»ºóÔÚCHAT¿òÄÚ¼üÈëÒÔÏÂ×Ö·û£¬ÔÙ°´ENTER¼ü¼¤»îÃÜ¼¼¡£
-power overwhelming£º´ò¿ªÉÏµÛÄ£Ê½
-operation cwal£º½¨ÔìËÙ¶È¼Ó¿ì
-the gathering£º¼¼ÄÜµãÊıÎŞÏŞ
-noglues£ºÊ¹¶Ô·½ÎŞ·¨Ê¹ÓÃ
-game over man£ºµ±Ç°¹Ø¿¨Ê§°Ü
-staying alive£ºÔÚ¹Ø¿¨Ê¤Àûºó¼ÌĞøÍæÏÂÈ¥
-show me the money£º¸÷ÖÖ×ÊÔ´Ôö¼Ó10000¸öµ¥Î»
-there is no cow level£ºÁ¢¼´Í¨¹ı±¾¹Ø
-whats mine is mine£ºµÃµ½500µ¥Î»Ë®¾§Ê¯
-breathe deep£ºµÃµ½500µ¥Î»ÍßË¹
-something for nothing£º¿ªÆôËùÓĞ¿ÉÉú²úµÄÑ¡Ïî
-black sheep wall£ºÕ¹ÏÖÍêÕûµÄµØÍ¼
-medieval man£º×÷Õ½µ¥Î»Ãâ·ÑÉı¼¶
-modify the phase variance£º¿ÉÉú²úËùÓĞµÄ½¨ÖşÎï
-war aint what it used to be£º¹Ø±ÕÕÚÕÖµÄÃÔÎí
-food for thought£ºÊ¹ÄãÄÜ¹»ÎŞÏŞÖÆµÄ½¨Ôì×÷Õ½µ¥Î»
-ophelia£ºÌøµ½ÈÎºÎÒ»¹Ø£¨°´enter¼ü¼¤»îºó£¬ÔÙ°´Êı×Ö¼ü£¬Ìøµ½ËùÒªµÄ¹Ø¿¨Êı£©
+æ¸¸æˆä¸­å…ˆæŒ‰ä¸‹ENTERé”®ï¼Œç„¶ååœ¨CHATæ¡†å†…é”®å…¥ä»¥ä¸‹å­—ç¬¦ï¼Œå†æŒ‰ENTERé”®æ¿€æ´»å¯†æŠ€ã€‚
+power overwhelmingï¼šæ‰“å¼€ä¸Šå¸æ¨¡å¼
+operation cwalï¼šå»ºé€ é€Ÿåº¦åŠ å¿«
+the gatheringï¼šæŠ€èƒ½ç‚¹æ•°æ— é™
+nogluesï¼šä½¿å¯¹æ–¹æ— æ³•ä½¿ç”¨
+game over manï¼šå½“å‰å…³å¡å¤±è´¥
+staying aliveï¼šåœ¨å…³å¡èƒœåˆ©åç»§ç»­ç©ä¸‹å»
+show me the moneyï¼šå„ç§èµ„æºå¢åŠ 10000ä¸ªå•ä½
+there is no cow levelï¼šç«‹å³é€šè¿‡æœ¬å…³
+whats mine is mineï¼šå¾—åˆ°500å•ä½æ°´æ™¶çŸ³
+breathe deepï¼šå¾—åˆ°500å•ä½ç“¦æ–¯
+something for nothingï¼šå¼€å¯æ‰€æœ‰å¯ç”Ÿäº§çš„é€‰é¡¹
+black sheep wallï¼šå±•ç°å®Œæ•´çš„åœ°å›¾
+medieval manï¼šä½œæˆ˜å•ä½å…è´¹å‡çº§
+modify the phase varianceï¼šå¯ç”Ÿäº§æ‰€æœ‰çš„å»ºç­‘ç‰©
+war aint what it used to beï¼šå…³é—­é®ç½©çš„è¿·é›¾
+food for thoughtï¼šä½¿ä½ èƒ½å¤Ÿæ— é™åˆ¶çš„å»ºé€ ä½œæˆ˜å•ä½
+opheliaï¼šè·³åˆ°ä»»ä½•ä¸€å…³ï¼ˆæŒ‰enteré”®æ¿€æ´»åï¼Œå†æŒ‰æ•°å­—é”®ï¼Œè·³åˆ°æ‰€è¦çš„å…³å¡æ•°ï¼‰
 

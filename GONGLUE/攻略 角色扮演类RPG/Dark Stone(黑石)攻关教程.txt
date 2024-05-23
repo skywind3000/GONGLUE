@@ -1,188 +1,188 @@
-Dark Stone(��ʯ)���ؽ̳�
+Dark Stone(黑石)攻关教程
 
-ת������Ϸ�ռ� 
+转载自游戏空间 
 
-����˵��Dark Stone�ǰ���1.5���Ҿ���ˮƽӦ���ڡ�����1.5��������֮�ϡ������ȸ�����������ƣ��Ͳ��˷�ʱ���˵�ˡ� 
+有人说，Dark Stone是暗黑1.5，我觉得水平应该在“暗黑1.5”的评价之上。操作等各方面基本类似，就不浪费时间多说了。 
 
-�������鷽�棬ͬ���̳��˰��ڵĴ�ͳ�����ǲ�����������Ȼ�Ȱ���Ҫ��ʵ���࣬���㼴ʹ��ȫ��������˵�Ĺ���Ҳͬ���ܱ����� 
+　　剧情方面，同样继承了暗黑的传统，就是不必理它。当然比暗黑要充实许多，但你即使完全不明白它说的故事也同样能爆机。 
 
-����������ǰ��Uma�����ֹ���һ������˿�ͷ�ģ���һ��а���ħ��ʦȡ����һ��ħ����ƷAstral Hand�������˻�ñ����Draak��������Ȼ�������������ֻ��Astral Hand����ħ����һС���֣�Ϊ�˻�ø����������Draak���ٻ�ħʯMonolith��Ҳ����the Dark Stone�����������������ͬʱ�����Ǳ��ʯͷ�����������ǵ�Ӣ�۱�����ˡ��� �� 
+　　许多年前的Uma（这种故事一向是如此开头的），一个邪恶的魔法师取得了一个魔法物品Astral Hand，并籍此获得变成龙Draak的能力。然而仅仅变成龙，只是Astral Hand无限魔力的一小部分，为了获得更大的力量，Draak将召唤魔石Monolith（也就是the Dark Stone）吸收生物的生命，同时把他们变成石头……于是我们的英雄便出发了…… 　 
 
-����һ����˵���� 
+　　一般性说明： 
 
-������ߴ�����Դ�����Ӣ�۳����ˣ������ǰ����е�һ������Ȼ������в�ͬѡ�񣬵��ҽ�����һ����ʿ�������������ѷŮսʿ����һ��ħ��ʦ�����ǰ������ʿ�������ɴ��أ���������������ħ��ʦ�������ˡ���������ķ�չ�������÷ֱ��Ӧ������ħ�������ɣ������������ԡ� 
+　　这边次你可以带两名英雄出场了，而不是暗黑中的一个。当然你可以有不同选择，但我建议用一个武士型人物（包括亚马逊女战士）加一名魔法师型人物。前期用武士可以轻松闯关，而后期则必须借重魔法师的力量了。四种人物的发展方向正好分别对应力量，魔法，灵巧，活力四种属性。 
 
-������Զ��������ﱼ�ܣ���Quakeһ���ĵ�������Ϊ��ͬʱֻ�ܿ���һ������ҽ��������ʿ����Ϊ�ɵ��Կ��Ƶ�ħ��ʦʵ����̫ǿ���ˣ���С�����������ʿ������ֵŶ����ͨ���ƶ�ħ�������еĸ��꣬������ƶ�ħ��ʹ�õĵ��ޣ��������ｫ�Զ�ʹ��ѡ����ħ����ֱ��ħ��ֵ�����趨�����ơ� 
+　　永远让你的人物奔跑！和Quake一样的道理。因为你同时只能控制一个人物，我建议控制武士，因为由电脑控制的魔法师实在是太强大了（得小心他和你的武士抢经验值哦）。通过移动魔法力槽中的浮标，你可以制定魔法使用的底限，这样人物将自动使用选定的魔法，直到魔法值降到设定的限制。 
 
-���������õ�ħ�����£��ҵ�ϰ�ߣ���Healing��������ÿ����ɫ��Ӧ�����յġ�Antidote�ⶾ�����㲢������Я���Žⶾҩˮ�ġ���������ħ��ʦ�ľ��Ա�����Magic Mine������Ϊ����õĽ�����ħ�������ܵͣ�ɱ������ֻҪ�ڶ������нӽ�100��ɱ�����������ҿ��Ը����κ��ϰ�ʹ�ã��ں��ڶԸ������е�ǿ�зǳ���Ч���������Sparks, Magic Missile, Poison Cloud, Stone�Ⱦ�ƾ����ϲ���ˡ�����Slow��Haste��ֻ��˵�����ò��ϣ�����Ӧ���Ǻ���Ч�ķ�������Slow�㻹û���ü��ã������Ѿ���ɱ����ɱ�����ˣ���Haste���������ܸ�ħ���ȼ����������ʱ��̫���ˡ�������Light��NightView�Ǻڰ���ʹ�õģ����ûѧ�����þ���Ҳ�Ϳ����ˡ����о�������ȡ���ʱ����ʣȥ�����鷳����ȡ��Crystal of Bravery������֮һ�� 
+　　最有用的魔法如下（我的习惯）：Healing治疗术，每个角色都应该掌握的。Antidote解毒术，你并不总是携带着解毒药水的。隐身术，魔法师的绝对保护。Magic Mine，我认为最好用的进攻性魔法，耗能低，杀伤力大（只要第二级就有接近100的杀伤力），而且可以隔着任何障碍使用，在后期对付房间中的强敌非常有效。其余的如Sparks, Magic Missile, Poison Cloud, Stone等就凭各自喜好了。至于Slow和Haste，只能说基本用不上，尽管应该是很有效的法术，但Slow你还没来得及用，敌人已经被杀，或杀死你了，而Haste除非练到很高魔法等级，否则持续时间太短了。另外如Light，NightView是黑暗中使用的，如果没学到，用卷轴也就可以了。再有就是劈空取物，有时可以剩去不少麻烦，如取得Crystal of Bravery的任务之一。 
 
-������Ʒ���棬��Ӧ����ʱЯ��5�����ϵ�Ѫƿ����ħ��ʦ����Ҫ�㹻��ħ��ҩˮ�����������Draakʱ��սʿЯ����16��Ѫƿ����Ȼֻ�õ���һ�룬������ȷ������������� 
+　　物品方面，你应该随时携带5个以上的血瓶，而魔法师更需要足够的魔法药水。我最后手刃Draak时，战士携带了16个血瓶，虽然只用掉了一半，但你能确定有如此运气吗？ 
 
-����Dark Stone���𰵺ڵ�һ�������������������ܵ���������ʵHellFire�����Ҳ�У���������ͬ�����������Town�������������װ��Upgrade��ÿ��5000����������һ�㹥�������ף��ܻ�ͷ������һ���������������û�����޵ģ���ÿUpgradeһ����ʧһ���;öȣ���Ȼ�㲻������һ���;�10���µĽ���ս������Upgrade����Ҫ�ʿɶ�ֹ�� 
+　　Dark Stone比起暗黑的一个新增功能是武器性能的提升（其实HellFire里好象也有，但方法不同）。你可以在Town里请铁匠给你的装备Upgrade，每次5000大洋，武器升一点攻击而盔甲，盾或头盔则升一点防御。理论上是没有上限的，但每Upgrade一次损失一点耐久度，显然你不可能用一把耐久10以下的剑作战，所以Upgrade还是要适可而止。 
 
-��������ĳЩԭ����ܿ��ܾ�������Ϸ�����з������ﱻ��ס�����������Ǳ���һ�����￨ס�ģ���������ץ����ʱ��Ӧ�����෴�����ߣ���˵��Wait for me here���ٷֱ��ƶ����� �� 
+　　由于某些原因，你很可能经常在游戏过程中发现人物被卡住，而且往往是被另一个人物卡住的，真是令人抓狂。这时你应该向相反方向走，或说“Wait for me here”再分别移动人物 。 
 
-��������Ϸ�����У�ÿȡ��һ��������Ʒ����������������Ч��������Congratulations, you have ound XXX����������֧����Ʒ�����ύ�����NPCһ����Եõ�10000Ԫ�����������ǰ�ĶԻ��в鵽��˭ί�е����񡣶�������Ʒ���㲻�ص��Ĵ��������е���������ص㶼����ʾ��Location�У���ֻҪѡ��ص㽫�Զ�ǰ�� 
+　　在游戏过程中，每取得一个任务物品，都会听到特殊音效并看到“Congratulations, you have ound XXX”字样。把支线物品交给提交任务的NPC一般可以得到10000元，你可以在以前的对话中查到是谁委托的任务。而过关物品，你不必担心错过。所有到过的特殊地点都会显示在Location中，你只要选择地点将自动前。 
 
-�����ѹ�����ħ����Ʒ���������Լ��õĻ�������������������ġ� 
-�������� 
+　　搜刮所有魔法物品！不论是自己用的还是卖掉，否则你会很穷的。 
+主线任务： 
 
-����-Land of Ardyl �� 
+　　-Land of Ardyl 　 
 
-����-Crystal of Wisdom���ϣ� 
+　　-Crystal of Wisdom（紫） 
 
-����A. 
+　　A. 
 
-�������е�Major��Թ��������ʦ͵�������ǵ�ʳ����ԴHorn of Plenty�������Ǿ�Ҫ�����ˡ����е�����Ricken������³��Ѿ��ܾ��ˡ�����Lev1,�����׶��Һ�С��һ�㣬�ڽӽ�ĩβ��һ�䷿���м���Ricken�Ĺ��ꡣ�����ڽ����������㡣��Lev2һ���󷿼�ǰ���㽫�ٴ�����Ricken���������㣬������һ��Fire Golim, �����Ǳ���ɱ���ġ�ɱ��Fire Golim�����������ϵ�������Fire Sphere����Lev3ͬ��ɱ��һ��Ice Golim���õ�Ice Sphere����Lev4һ����յĴ󷿼�ʵ������һ����ײė�ǰ�ּ��Ricken�����������û���ŵģ���Ϊ�Ŷ���һ��ǿ�����ʦ��˵����û�á�������õ���Fire Sphere��Ice Sphere��Ricken�Ϳ��԰�������취����������Ȼ��õ�Cloak of Cloud�����ϼ��ɽ��롣ɱ��wizard������ǵ�һ����Ļ�������������˵����������ǿ�ģ����ڷ������е�̨��ȡ��Hornof Plenty����ȥ����Major�����뿪����ʱ��Ricken�ֳ��֣���Crystal of Wisdom�����㡣Horn of Plentyʵ����������ʳ���õģ��һ�һ�µõ�һ�����ȡ���Ȼ����Ӧ����ι���Լ�����ȥ���ˡ� 
+　　村中的Major抱怨，由于巫师偷走了他们的食物来源Horn of Plenty，村民们就要饿死了。村中的勇者Ricken进入地下城已经很久了。进入Lev1,很容易而且很小的一层，在接近末尾的一间房间中见到Ricken的鬼魂。他会在接下来帮助你。在Lev2一个大房间前，你将再次遇见Ricken，他提醒你，里面是一个Fire Golim, 他就是被它杀死的。杀掉Fire Golim，捡起它身上掉下来的Fire Sphere。在Lev3同样杀死一个Ice Golim，得到Ice Sphere。到Lev4一个封闭的大房间検导噬鲜且桓龃蠊撞臈椙坝旨到Ricken。这个房间是没有门的，因为门对于一个强大的巫师来说根本没用。但如果得到了Fire Sphere和Ice Sphere，Ricken就可以帮我们想办法。交给他，然后得到Cloak of Cloud。穿上即可进入。杀死wizard（如果是第一次玩的话，对现在你来说，它还是蛮强的），在房间正中的台上取得Hornof Plenty。拿去还给Major，在离开村子时，Ricken又出现，将Crystal of Wisdom交给你。Horn of Plenty实际上是制造食物用的，右击一下得到一个鸡腿。当然我们应该先喂饱自己再拿去还了。 
 
-����B. 
+　　B. 
 
-������ᷢ�֣������Ů�˶����ʯͷ�ˡ�����һ����ʦMika�����䵼�µģ��Ա���������Ů�˵ĳͷ����ҵ�Mika�����ܾ����ħ�����������������ᡣ��Fountain of Youth����Lev1��һ·ɱ��ȥ����Lev2�ҵ�һ�澵��a Mirror����Lev4������Elas����˵�Լ������ֳ󣬿���������ȥ�������ᰡ�������ӽ�������ԭ��������ľ�����thecured mirror��������ľ��ӣ�Ҳ��the mirror of lies������֮����������ʾ�����෴�ľ���Elas�����ľ��ӽ����㣬��������ȥƭMika����Ȼ��ħ���⿪�ˡ�������������ĸ��д���ظ����ɵõ�Crystal of Wisdom 
+　　你会发现，村里的女人都变成石头了。那是一个巫师Mika的诅咒导致的，对比她美丽的女人的惩罚。找到Mika，她拒绝解除魔法，除非让她变年轻。从Fountain of Youth进入Lev1，一路杀下去，在Lev2找到一面镜子a Mirror，到Lev4，见到Elas，他说自己又老又丑，可是他看上去还很年轻啊。将镜子交给他，原来他手里的镜子是thecured mirror，被诅咒的镜子，也叫the mirror of lies，谎言之镜，里面显示的是相反的景象。Elas把他的镜子交给你，正好用它去骗Mika。果然，魔法解开了。到村里找随便哪个男村民回复即可得到Crystal of Wisdom 
 
-����C. 
+　　C. 
 
-����The Farm��ũ�������㣬Drakus�Ǹ�ƭ�ӡ�ȥ��������˵Kaliba����ͽ͵����Sun Cross��������һ��������������ı��ꡣ������³ǣ���Lev3��һ��ʬ��Corpse���ҵ�һ���ţ�˵Kaliba��ʥ��Monastery��ͨ��InocĹ���ص����������޷�����Monastery����Ϊֻ��Kaliba����ͽ���ܽ�ȥ����Lev4��ondoor��������в��ԡ������һ�����䣬�ĸ��ź���ֱ������������һ��Կ�ס����ϵĿ��ز��Ƕ�Ӧ�ġ�ȡ��Կ�ף�������һ�����䣬ɱ������ס��������Ȼ���Ⱥ֩����֡���ȡ��һ��Կ�ף����ͨ�������ˡ�Gondoor��Ҫ��ѡ��һ��������Ȼ�����һ��������������ϾͿ��Խ���Lev3��Monastery���������Sun Cross�Ǽٵģ���һ�������Աߵ�Monk���������ù����㡣�����ֱߵ�ǽ����һ������Ϩ��Ļ��Ŀ��أ������������ֽ���InocĹ���ص����򿪹ײĲ���Inoc������ȥ��ͬʱȡ�����Sun Cross����ȥ����Drakus��׼����ȡ�㡰���Ľ��͡��ɣ���Ҳ��Draak�����£���������Я����Crystal of Wisdom ��
+　　The Farm的农民会告诉你，Drakus是个骗子。去找他，他说Kaliba的信徒偷走了Sun Cross，如果能找会来，他会给你丰厚的报酬。进入地下城，在Lev3的一具尸体Corpse上找到一封信，说Kaliba的圣殿Monastery有通向Inoc墓的秘道。现在你无法进入Monastery，因为只有Kaliba的门徒才能进去。到Lev4，ondoor会让你进行测试。进入第一个房间，四个门后面分别是三个怪物和一把钥匙。门上的开关不是对应的。取得钥匙，进入下一个房间，杀死被帮住的囚犯，然后大群蜘蛛出现。又取得一把钥匙，你就通过测试了。Gondoor会要你选择一种武器，然后给你一个护身符，佩带上就可以进入Lev3的Monastery。正殿里的Sun Cross是假的，你一动它，旁边的Monk都会变成骷髅攻击你。在右手边的墙上有一个类似熄灭的火炬的开关，拉下它，出现进入Inoc墓的秘道。打开棺材并让Inoc真正死去，同时取得真的Sun Cross。回去交给Drakus，准备领取你“丰厚的奖赏”吧，他也是Draak的手下，并且随身携带着Crystal of Wisdom 　
 
-����ȡ�õ�һ��ˮ����Sebstian����֣�Ҫ��֤���Լ��Ǳ�ѡ����theChosen One����˵ֻ���ҵ��߿�ˮ�����������ٻ�Kaliba��ʥ�飬��ʹTime Orb���֣�����սʤDraak��Ψһ������Sebstian�ƺ��ǵ�������Time Orb��Kalibaɮ����Ψһ���ŵ��ˡ� 
+　　取得第一颗水晶，Sebstian会出现，要你证明自己是被选定者theChosen One，并说只有找到七颗水晶，他才能召唤Kaliba的圣灵，并使Time Orb重现，这是战胜Draak的唯一方法。Sebstian似乎是当年制作Time Orb的Kaliba僧侣中唯一活着的人。 
 
-����-Crystal of Virtue���죩 
+　　-Crystal of Virtue（红） 
 
-����A. 
+　　A. 
 
-������С���ߴ���һ�¹ģ�һλС��Ů�����֣�Ϊ�㴵һ��the Song ofthe Snakes����ס���ɣ�Ȼ�����Lev5����Lev5��Lev8��������ҵ�������the Reeds��Lev5������,���������һ��.��Lev8���߳���ڱ��������������������������嵽���������˳���ǣ������1-5��ʾ�����������Ļ�������23451.��ʱ��������߻ᱻ�Ի󼸷���,�����������ʱ��ȡ��Crystal of Virtue.��Ȼ�������ֱ�Ӱ���ɱ��Ҳһ��. 
+　　在小湖边触摸一下鼓，一位小仙女将出现，为你吹一曲the Song ofthe Snakes。记住旋律！然后进入Lev5，从Lev5到Lev8，你可以找到五根竹管the Reeds，Lev5有两根,其余各层是一根.到Lev8的蛇池里，内壁上有五个人脸，将五根竹管逐个插到人脸的嘴里，顺序是：如果用1-5表示低音到高音的话，就是23451.这时候里面的蛇会被迷惑几分钟,正好利用这点时间取出Crystal of Virtue.当然不用竹管直接把蛇杀死也一样. 
 
 B. 
 
-������һ�����������Կ���һ��������Ů��Genna���Ա������Ķ��Ӻ����������ɷ�ĵܵ�Ӧ�óƺ�ʲô�����ˣ�Gutrick���������������������ҵ�һ��ί���ţ���Gutrick���������������µĶ������������ںܺ�ڡ�����ȥ�����춾ҩ����ʦGer���õ�һ���𱭣�����ʢFountain of Light��ˮ�ͳ��˽�ҩ�ˡ�������³ǣ��������Lev2�ҵ�Fountain of Light�����㻹��Ҫ�Ŀ�Prism��������ߣ����Ƿֱ����Ĳ����ҵ��������ǰ�װ���Ľǵĵ����ϣ�cup�������еĵ��������ɵõ���ҩ������Genna���õ�Crystal of irtue��Ϊ�ر��� 
+　　在一个帐篷里，你可以看到一个濒死的女人Genna，旁边是她的儿子和她……（丈夫的弟弟应该称呼什么？忘了）Gutrick。你在帐篷里的箱里可以找到一封委托信，给Gutrick看，他承认是他下的毒，并且他现在很后悔。带他去见制造毒药的巫师Ger，得到一个金杯，用它盛Fountain of Light的水就成了解药了。进入地下城，你可以在Lev2找到Fountain of Light，但你还需要四颗Prism来反射光线，它们分别在四层中找到。把它们安装在四角的底座上，cup放在正中的底座，即可得到解药。交给Genna，得到Crystal of irtue作为回报。 
 
-����C. 
+　　C. 
 
-����һλС��ŮFairy�����Ѷ�����Unicorn��а���ħ��ʦFelder��ס�ˡ�Fairy���������Felder���ڵ�ʱ��ȡ��Կ�ס�����԰�Fairy���ڱ���������԰���һ��æ��������³ǣ�Lev6��բ�ſ�����Fairy�ɽ�ȥ�������ش򿪣�������ûʲô���˵ġ�����Lev8��բ�ţ�ͬ����Fairy�ɽ�ȥ������Felder�����棡airy��׽ס�ˣ��Ͽ�ɱ��Felder�ȳ�Fairy�����Ѿ�͵��Կ���ˡ��ص������Ϸſ�Unicorn������Fairy�Ի����������Crystal of Virtue�� 
+　　一位小仙女Fairy的朋友独角兽Unicorn被邪恶的魔法师Felder锁住了。Fairy请你帮她趁Felder不在的时候取出钥匙。你可以把Fairy放在背包里，她可以帮上一点忙。进入地下城，Lev6的闸门可以让Fairy飞进去拉动开关打开，但里面没什么大不了的。到了Lev8的闸门，同样让Fairy飞进去，可以Felder在里面！airy被捉住了，赶快杀了Felder救出Fairy，她已经偷到钥匙了。回到地面上放开Unicorn，再与Fairy对话，她会给你Crystal of Virtue。 
 
-����-Land of Marghor 
+　　-Land of Marghor 
 
-����-Crystal of Bravery�������� 
+　　-Crystal of Bravery（深蓝） 
 
-����A. 
+　　A. 
 
-����һ�������鷳������Brother Jean�����㣬����һ��ɮ���������䣬ʧ���ˡ�ֻ��the Eye of Ra����������������Lev9-Lev11���������ÿ�㿴��һ��û���۾��ĵ����ҵ��۾����ֱ���Lev9����gold��Lev10һ��Silver��Lev11һ��Silver��һ��Bronze��Lev12һ��Bronze����װ�������ϼ���ȡ�õ��񡣴���Lev12��̫��������ϸ�Ķ�ǽ��ʯ�����Ϣ�����������ڵ���7��λ�ã�������10�㣬ͭ����3�㣬�Ž�����������ȡ��Eye of Ra����ȥ��Brother Jean�����ָ������󣬷Ŵ󾵾�û���ˣ�����͸��㡣���ָܻ�����������������Ȼ�������Ŀ��顣����Rhina��̸����˵������ⲻ�ã��������ŪЩ��������ˡ���������������Ȼ�������ͨ�����ϵĶ��űߣ���������޺á����ϵĸ�ʾ�ƣ������е��ס��ṩ��ȫ·�ߵ������ϵ���̫С�˿�������������ʹ�÷Ŵ󾵣��õ���Ϣ��From thetree to the stream, then from the stream to the stone������˵�Ĵ����ߵ�Ϫ���ٴ�Ϫ�ߵ�ʯ��Ȼ��ֱ�ӽ���ȡ�����е�û���ֵ�a Bible��������ȡ��Ҳ���Եõ������õ�the Temple of era��������ʳ����ڼ�̳�ϣ�Era�����֣���a Bible��������Ȼ�󽻸�brother Jean������Era�ظ������ɵõ�Crystal of Bravery�� 
+　　一个极其麻烦的任务。Brother Jean告诉你，他被一个僧侣下了诅咒，失明了。只有the Eye of Ra可以治愈他。进入Lev9-Lev11，你可以在每层看到一个没有眼睛的雕像。找到眼睛，分别是Lev9两个gold，Lev10一个Silver，Lev11一个Silver，一个Bronze，Lev12一个Bronze，安装到雕像上即可取得雕像。带到Lev12的太阳厅，仔细阅读墙上石板的信息，将金雕像放在地上7点位置，银的在10点，铜的在3点，门将开启，进入取得Eye of Ra。拿去给Brother Jean，他恢复视力后，放大镜就没用了，便会送给你。尽管恢复了视力，但是他忽然觉得内心空虚。再与Rhina交谈，他说最近生意不好，请你帮他弄些鱼养活家人。随便找条鱼给他，然后带他到通往岛上的断桥边，他会把桥修好。岛上的告示称，岛上有地雷。提供安全路线的招牌上的字太小了看不见，在上面使用放大镜，得到信息“From thetree to the stream, then from the stream to the stone”，照说的从树走到溪，再从溪走到石，然后直接进入取得箱中的没有字的a Bible（用劈空取物也可以得到）。拿到the Temple of era，把两个食物放在祭坛上，Era将出现，把a Bible交给他，然后交给brother Jean，再找Era回复，即可得到Crystal of Bravery。 
 
-����B. 
+　　B. 
 
-����������һȺ������Ϯ���˴�ׯ�����������ҵĺ��ӡ����ɷ�׷����ȥ���Ѿ�����Сʱû�����ˡ���������Ψһ���Ҵ��������˷��������顣��Lev9��ڴ���������ҵ������ɷ򣬵�������Ҫ���Ա�һ�����������ܵ����м�ĵ��ϡ�����һ��Ѫƿ��Ȼ��ʼ������񡣽��շ���ܼ򵥣�һ·ɱ��Lev12�����м�һ�������ڿ����ҵ���ʧ��Ӥ�����Աߵ�Monk��ʵ���������˱�ġ���Ӥ��������ĸ�׼��ɵõ�Crystal of Bravery 
+　　“龙和一群蜥蜴人袭击了村庄，它们抢走我的孩子。我丈夫追了上去，已经几个小时没回来了……”村中唯一的幸存者叙述了发生的事情。在Lev9入口处，你可以找到她的丈夫，但你首先要把旁边一棵树劈倒才能到达中间的岛上。给他一个血瓶，然后开始这个任务。解谜方面很简单，一路杀到Lev12，在中间一个房间内可以找到丢失的婴儿。旁边的Monk其实都是蜥蜴人变的。把婴儿交还给母亲即可得到Crystal of Bravery 
 
-����C. 
+　　C. 
 
-���������й��·������ھ�ʧ���ˣ�����Ҳ�ɿ��ˡ�������������Ӵ���ľ�������³ǡ�����ȥ����Well����ӭ�����۷�����硣��Lev11����Ҳ������Ȥ�۲���Щ�������罻�����������Ȼ������ӭ�㡣ɱ�����ǣ����ȳ��ھӡ�Rosso�����һ������ǧ���պ��ˡ�����Lev12�������Ƿ䳲��������Ͽ�ɱ���Ǹ���ͣ�������۷�ļһ�������ֻ����Rosso���Ľ�����ɱ���ġ��������Ǵ�����õ���Crystal of Bravery������һ��˵�������³������֩�룬��ˮ���Ǳ��ȳ��Ĵ������ģ����Ҽ��������۷䡣Ҳ����һ��˵���Ǹ������ڵİ汾�ɣ� 
+　　村里有怪事发生，邻居失踪了，而井也干枯了。这个任务你必须从村里的井进入地下城。爬下去了吗？Well，欢迎来到蜜蜂的世界。在Lev11，你也许有兴趣观察这些东西的社交生活，但它们显然并不欢迎你。杀光它们，并救出邻居。Rosso会给你一柄剑，千万收好了。到了Lev12，这里是蜂巢的最深处，赶快杀掉那个不停地制造蜜蜂的家伙，而蜂后是只有用Rosso给的剑才能杀死的。它究竟是从哪里得到的Crystal of Bravery？（另一种说法，地下城里的是蜘蛛，而水晶是被救出的村民给你的，但我见到的是蜜蜂。也许另一种说法是根据早期的版本吧） 
 
-����ȡ������ˮ��������ж�������Draak��ע�⡣һ��Spectre����һȺTroll���Ը��㣬ҪС��Ӧ��Ŷ�� 
+　　取得三颗水晶后，你的行动引起了Draak的注意。一个Spectre带领一群Troll来对付你，要小心应付哦。 
 
--Crystal of Nobility����ƣ� 
+-Crystal of Nobility（金黄） 
 
-����A. 
+　　A. 
 
-��������Shadire�����㣬�ڵ��³���Lizards������һЩ����������ĵ���ֻ��Celestial Sword�ܻٵ����ǡ�������ڵ����ϣ�������ĵ�·��һ���ʯͷ��ס�ˡ��Ƚ���Lev13��������ҵ�һ������aPrison���������һ��Celestial Symbol����״���úʹ�ʯͷ�ϵ�ӡ����ͬ��ʹ����ʯͷ�ϣ�ʯͷ��������ȡ��Celestial Symbol��Lev13�ٵ���Щ������Shadire�ظ����������һ��ذ��theCelestial Dagger����˵��It��s not only a weapon������Lev16�����������the Lizard��s Temple��Crystal of Nobility�������棬�����������������ϴ��ͣ���ֻ�а�Celestial Dagger�嵽һ���յ����ϣ������ܲ����ˣ� 
+　　老者Shadire告诉你，在地下城中Lizards正孵化一些被诅咒生物的蛋，只有Celestial Sword能毁掉它们。这柄剑在地面上，但进入的道路被一块大石头挡住了。先进入Lev13，你可以找到一个囚犯aPrison，他会给你一个Celestial Symbol，形状正好和大石头上的印记相同。使用在石头上，石头将爆开，取得Celestial Symbol到Lev13毁掉那些蛋。找Shadire回复，他会给你一柄匕首theCelestial Dagger，并说“It’s not only a weapon”。到Lev16的蜥蜴人神殿the Lizard’s Temple，Crystal of Nobility就在里面，但它会在两个底座上传送，你只有把Celestial Dagger插到一个空底座上，它就跑不了了！ 
 
-����B. 
+　　B. 
 
-����һȺ����������Horgan�ı���Crystal of Life��������Щ�����˵�Ӫ�أ�ɱ�����ǲ���Korganʬ����ȡ��ˮ������Horgan���������һ���������������������³ǵķ�����һ����վ��Բ��ʯ���ϣ���һ������������򿪴��š���Lev13��Lev14�����뷿��Gartol��s Lair��Digmar��s Lair�У�������������ʿGartol��Digmar��ɱ֮�ֱ�õ����˵Ľ�����Lev16��Hall of Death�����������嵽����ͷ�ϣ��м�����ý����������һ����ʿHassen���֣�ɱ������ȡ��Crystal of Nobility 
+　　一群怪物抢走了Horgan的宝物Crystal of Life。攻击那些半兽人的营地，杀光他们并在Korgan尸体上取回水晶还给Horgan。他会给你一个护身符并告诉你进入地下城的方法。一个人站在圆形石板上，另一人佩戴护身符打开大门。在Lev13和Lev14的中央房间Gartol’s Lair和Digmar’s Lair中，你会见到两个武士Gartol和Digmar，杀之分别得到两人的剑。到Lev16的Hall of Death，把两柄剑插到骷髅头上，中间的骷髅将开启，最后一个武士Hassen出现，杀死他并取得Crystal of Nobility 
 
-����C. 
+　　C. 
 
-����Lev13��ڸ���һ��������cool����ʿEraldus˵���������ӱ����ڵ��³����Ȼ�������Լ���ȥ���������������д�������µ�֩�룬��������ȥ��ʲô�����ѵ���ϲ��֩�룿������Ϊ�ر�����������һ�������õĽ�������ʵ��һ���������������ӱ�����Lev13�����������Lev16ȡ��Կ�ײ��ܽ��롣���׼��һЩ�ⶾҩˮ���ֱ𵹵�Lev16�ĳ����Ȼ��Crystal of Nobility�ͳ����ˣ�����ȫû��Ҫȥ��Eraldus�����ӣ���Ȼ��Ϊһλ��ʿ���㻹��Ӧ������ŵ�ԡ��� 
+　　Lev13入口附近一个穿着蛮cool的武士Eraldus说，他的妻子被困在地下城里，虽然他打算自己进去救她，无奈里面有大量他最害怕的蜘蛛，请你替他去（什么话，难道我喜欢蜘蛛？），作为回报，他会送你一柄“极好的剑”（其实很一般啦）。他的妻子被关在Lev13，但你必须在Lev16取得钥匙才能进入。你得准备一些解毒药水，分别倒到Lev16的池子里，然后Crystal of Nobility就出现了！你完全没必要去救Eraldus的妻子，当然作为一位绅士，你还是应该履行诺言。　 
 
-����Land of Orma �� 
+　　Land of Orma 　 
 
-����-Crystal of Compassion�������� 
+　　-Crystal of Compassion（天蓝） 
 
-����A. 
+　　A. 
 
-�����ڴ��У��������Langolin��һλ���ˣ���˵Ҫ�����ɷ�ֻ����Crystal of Wisdom����ƿҩˮPoison of Immortality��������������Draak�����¡�����Lev17-Lev19����ÿ�㶼�����ҵ�һ��Fountain of Immortality��������õ�һƿPoison of Youth����5�����䣩��һƿPoison of Immortality����Lev16һ��ʬ�����ҵ�һ����,�����¶��Langolin����ʵ����,��˵��ȡ��ˮ���ķ���.�����ص�Boss��û��������Langolin��ɱ�������ܽ����ˮ���ķ��䡣ʹ��Crystalof Wisdom�ڵ����ϣ�ȡ��Crystal of Compassion.�ص�����ʱ,Langolin��һȺ���»��ڵ�����. 
+　　在村中，你会遇见Langolin和一位妇人，他说要救她丈夫，只有用Crystal of Wisdom和三瓶药水Poison of Immortality。别理他，他是Draak的手下。进入Lev17-Lev19，你每层都可以找到一个Fountain of Immortality，在里面得到一瓶Poison of Youth（减5点年龄）和一瓶Poison of Immortality。在Lev16一个尸体上找到一封信,里面揭露了Langolin的真实身份,并说了取得水晶的方法.见到关底Boss，没错，就是Langolin，杀死他才能进入放水晶的房间。使用Crystalof Wisdom在底座上，取得Crystal of Compassion.回到地面时,Langolin的一群手下还在等你呢. 
 
-����B. 
+　　B. 
 
-������ڴ���һ����Kolos�ĺõ�Spectre������ͬ�С�����Lev17��������һЩ�����ſڳ��ָ��㽨�顣�ҵ�ͼ��ݣ��������ľ��棬�����Atenus��̸����֪���Ƴ���һ��ҩˮVial of Spirit����ʹ���ᵽʬ�崦����ͬ����Magic Poison��������Lev19ɱ��Medusa��ȡ����Ҫ��ҩˮ��ȥ�����������һֱ��Atenus��̸��������һƿҩ�������ٻ���һ��Fire Golem�������㡣ɱ������ͬ�����Եõ�ҩˮ���� Lev20ȡ��ˮ������Kolos�����ߡ��ҵ�Kolos�Ĺײģ�ʹ�ô�Atenus���õ���Vial of Spiritʹ֮������ɱ������ȡ��Crystal ofCompassion 
+　　入口处，一个叫Kolos的好的Spectre会与你同行。进入Lev17，他会在一些房间门口出现给你建议。找到图书馆，别理他的警告，进入和Atenus交谈，得知他制成了一种药水Vial of Spirit可以使灵魂会到尸体处。他同意用Magic Poison交换。到Lev19杀死Medusa，取得需要的药水拿去交换。如果你一直与Atenus交谈或随便给他一瓶药，他会召唤出一个Fire Golem并攻击你。杀死他们同样可以得到药水。到 Lev20取得水晶，但Kolos会拿走。找到Kolos的棺材，使用从Atenus处得到的Vial of Spirit使之现身，杀死他并取回Crystal ofCompassion 
 
-����C. 
+　　C. 
 
-������ڸ���������ҵ���ʦRamal������ѧ��Melchoir����������ȳ�Ramal�Ľ��Jasmine��Jasmine��Lev17��������һ��ħ��ʦʩ����ס�ˡ���Lev18���ּ���Melchoir������������ʦ�Ѿ���׽ס�ˡ����������Կ�״�Lev19Ramal�η����ţ���Ramal������Ʒ��ȥ��Jasmine���õ�Horn of Roland��ħ��ʦ���֣�ɱ������ûʲô��˵�ġ���Roland��Ĺ��ʹ��Horn of Roland����������ɱ�������õ�����ͷ������Lev20��ֻ�д����Ǹ�ͷ�����ܿ�����ը���塣�㿪���ǲ����¿��أ���������ˮ����Χ��ը������˼���ȡ��Crystal ofCompassion��Ȼ���ĸ��޴�ġ����Ͽ��ܰɣ�Ӧ����ϧ������ 
+　　入口附近，你会找到牧师Ramal和他的学生Melchoir，他们请你救出Ramal的姐姐Jasmine。Jasmine在Lev17，但她被一个魔法师施法困住了。到Lev18，又见到Melchoir，他和他的老师已经被捉住了。用他给你的钥匙打开Lev19Ramal牢房的门，将Ramal给的物品拿去给Jasmine，得到Horn of Roland。魔法师出现，杀死他，没什么可说的。到Roland的墓地使用Horn of Roland，唤醒他并杀死他，得到他的头盔。到Lev20，只有戴上那个头盔才能看到爆炸陷阱。躲开它们并拉下开关，可以消除水晶周围的炸弹。如此即可取得Crystal ofCompassion，然后，四个巨大的……赶快跑吧，应该珍惜生命。 
 
--Crystal of Integrity���̣� 
+-Crystal of Integrity（绿） 
 
-����A. 
+　　A. 
 
-����������³ǵ������the Damned Guardian����,һ������һ�㵫��������ǿ��Spectre����������ű�������.ɱ����,��ʬ�����ҵ�theKey of Damned.������³�,��Lev21-Lev23�ֱ���һ�������ķ���,��Կ�״�,������������ȡ������Cross of Crime������˵��������Mark���ֱ��Punishment, Pardonʲô�ģ������õ��ĵ�ȷ��Cross��.��Lev24,������Cross����the Damned,��������Ըɱ������ȡ��Crystal of Integrity. 
+　　这个地下城的入口由the Damned Guardian守卫,一个防御一般但攻击力超强的Spectre他不让你打扰被诅咒者.杀死他,在尸体上找到theKey of Damned.进入地下城,在Lev21-Lev23分别有一个上锁的房间,用钥匙打开,在针刺陷阱后面取得三个Cross of Crime（另有说法是三个Mark，分别叫Punishment, Pardon什么的，但我拿到的的确是Cross）.到Lev24,将三个Cross交给the Damned,并如他所愿杀死他，取得Crystal of Integrity. 
 
-����B. 
+　　B. 
 
-����Lev21-Lev23������յķ���Offering Rooms�зֱ������仨Flowersof Shade,ͨ��ǰ��Ĵ��͵����ȡ��.���������ϵ��³ǵ����theGate of Death����,�ֱ��������Բ��ʯ��̳��,���ǽ�����׸�������������,Flowers of Life,���ֱ����������Circle of Life��.�������ǲ��ֱ����Lev20������С��������,�������������,Crystal of Integrity ȡ��! 
+　　Lev21-Lev23三个封闭的房间Offering Rooms中分别有三朵花Flowersof Shade,通过前面的传送点进入取得.带到地面上地下城的入口theGate of Death附近,分别放在三个圆形石祭坛上,它们将变成献给金字塔的礼物,Flowers of Life,并分别出现在三个Circle of Life里.回收它们并分别放在Lev20的三个小金字塔内,大金字塔将开启,Crystal of Integrity 取得! 
 
-����C. 
+　　C. 
 
-����Gaetan�ĸ�ͷ��һȺGoblin�����ˣ�ȥӪ��ɱ����ЩС�����ʬ����ȡ��Gaetan��s Axe����aetan��������㵱��ֵ�����ε��ˣ�������The Shield of Demons������Demons��Thousand Moonsս����ʧ��ǰ���µ���������֮һ��������ڵ��³������Lev21���ߵ��м��Road of Reasons������õ����ж����򿪿��ز������ܹ��Զ㿪��Щ��ը��ȥȡ��ʯthe Gem����ʱ��һ���߻���֡���Lev22����Ҫ�㿪���ǻ���ͬ��ȡ�õڶ���Gem��Ҳͬ�����߳��֡�Lev23�����ɱ����ֻWorm��Ȼ�������ߡ���Lev24��������Gems������֧���ϣ�������ȫ��Demon��sװ������ȡ��Crystal of Integrity �� 
+　　Gaetan的斧头被一群Goblin抢走了，去营地杀死那些小怪物，从尸体上取回Gaetan’s Axe还给aetan，他会把你当作值得信任的人，并给你The Shield of Demons，这是Demons在Thousand Moons战役中失败前留下的三件武器之一，其余的在地下城里。进入Lev21，走到中间的Road of Reasons，你最好单独行动，打开开关并尽快跑过以躲开那些爆炸，去取宝石the Gem。这时候一堆蛇会出现。在Lev22，你要躲开的是火球并同样取得第二个Gem，也同样有蛇出现。Lev23，你得杀死那只Worm，然后又是蛇。在Lev24，把所有Gems安放在支柱上，并穿戴全套Demon’s装备即可取得Crystal of Integrity 　 
 
-����ȡ������ˮ����Draak�����Գ�������һȺSpectreǰ�������Draak�Լ����ᶯ�֣�������Spectre�Ѿ����Ѳ��ˡ� �� 
+　　取得六颗水晶后，Draak会亲自出马带领一群Spectre前来阻击，Draak自己不会动手，但几个Spectre已经很难缠了。 　 
 
-����-Land of Serkesh �� 
+　　-Land of Serkesh 　 
 
-����-Crystal of Strength���ң� 
+　　-Crystal of Strength（灰） 
 
-����A. 
+　　A. 
 
-����Lev25��ڴ�,һ��Druid Ubus������ʦ��Aeron����.����ʦ���Ѿ�������³�ȥ��ֹа���Druid��������.��Lev25һ��������,������ҵ���λ������Druid Aeron.��˵а���Druid������һЩ����Statues of Arkhang��ס�˹���,�����һ���ƻ�ˮ��.��ֻ�ɹ��ػٵ�һ��������������.������Holy Bow��δ��ɵ��������ȥ��.��Lev26-Lev28,���ֿ����ҵ���������,��סShift��Զ�������ٵ�����.��Lev28,�㻹�ø���ЩDruid��սһ��.ǽ�ߵ���������㲻������,�����ǲ���������.�ص�Lev25,���������Ѿ��ָ�,Crystal ofStrength����ȡ����.�뿪���³�,UbusҪ��ΪAeron�����������ṥ����,ɱ�������Եõ�ħ����Poison Cloud. 
+　　Lev25入口处,一个Druid Ubus正替他师傅Aeron担心.他的师傅已经进入地下城去阻止邪恶的Druid几个月了.在Lev25一个房间中,你可以找到那位垂死的Druid Aeron.他说邪恶的Druid建造了一些雕像Statues of Arkhang挡住了光线,并想进一步破坏水晶.他只成功地毁掉一尊雕像就受了重伤.他留下Holy Bow和未完成的任务就死去了.在Lev26-Lev28,你又可以找到三个雕像,按住Shift用远程武器毁掉它们.在Lev28,你还得跟那些Druid大战一场.墙边的守卫如果你不碰他们,他们是不会醒来的.回到Lev25,四条光线已经恢复,Crystal ofStrength可以取得了.离开地下城,Ubus要你为Aeron的死负责，他会攻击你,杀死他可以得到魔法书Poison Cloud. 
 
-����B. 
+　　B. 
 
-������Lev25����Ӧ�ÿ����ҵ�һ�Ѵ��ӣ��������Ӫ����ɱ�����󣬲����ǰѴ��ӻ���ʯͷ���õ�һֻ����Sceptre��ͬ����Lev25�������ͨ�����ͽ���һ�����䣬����һ���˽������Ѫ����ɱ�������ٵ�Lev28���ҵ���Ѫ���ĳ�����Sceptre����Luxorious����Ϊ�ر������ᡭ������ɱ�㡣û��ϵ��ɱ�����Ϳ��Եõ�Crystal of Strength 
+　　在Lev25，你应该可以找到一把大锤子，到地面的营地里杀光老鼠，并用那把锤子击碎石头，拿到一只手杖Sceptre。同样在Lev25，你可以通过传送进入一个房间，里面一个人将变成吸血鬼。杀掉他。再到Lev28，找到吸血鬼的巢，把Sceptre交给Luxorious，作为回报，他会……打算杀你。没关系，杀死他就可以得到Crystal of Strength 
 
-����C. 
+　　C. 
 
-����Ҳ����������ץ��������ˡ���ɮ������õ�һ�����ᣬ������³ǡ�����ÿ�㶼���Եõ�һ��ˮ������ǰ�������Ǽٵģ���Lev28һ��ʬ�����ҵ�һ���ż����Ķ���õ�����540�������뷿��ĵ��������룬���ڣ����Crystal of Strength�����ˣ��������MissionAccomplished �� 
--Draak��s Lair 
+　　也许是最令人抓狂的任务了。从僧侣那里得到一个卷轴，进入地下城。你在每层都可以得到一颗水晶，但前三个都是假的！在Lev28一具尸体上找到一份信件，阅读后得到数字540。在中央房间的雕像上输入，终于，真的Crystal of Strength出现了！最后任务，MissionAccomplished 　 
+-Draak’s Lair 
 
-����ͨ��Lev29��Lev30���㣬�㽫����Draak�������ߡ��������ɼ�����Ѩ��ɣ������ķ�����֩�룬֮��ֻ���ô��͵����ƶ����������һ����С��Ѩ�м�ı������ҵ�Njolaer�����������ɷֱ��30��40�Ĵ�������Draak��λ������һ���޴�Ѩ��ʯ�ƹ��ź��档�������������㡣����ȥ�������Ȱ��߿�ˮ�������ڵ��³���ڴ����߸������ϣ�Ȼ���Sebastian��̸�������ٻ�Kaliba����ʹ��TimeOrb���֡���ֻ��Я��Time Orb���п���սʤDraak������������������һ������ʱ���ֻ�ԡ��������Time Orbֻ��ʹ��һ�Σ����ʧ���˻�����Sebastian���ħ����������Draak������������һ֧Կ�׺�������֮Դthe Astral Hand����Կ�׿��Կ�����������ı��⣬�ж�ʮ�����ҵ��ֽ�Sebastian���֣������㣬Ҫ�Ͻ��������theAstral Hand�ر�Monolith�����������˶�Ҫ���ʯͷ�ˡ������������񡭡�Uma����ָֻ���ƽ������Ϊʲô�Ҳ���the Astral Hand�Լ�������أ��벻ͨ���� �� 
+　　通过Lev29和Lev30两层，你将进入Draak的最后防线。这里是由几个洞穴组成，大量的飞龙和蜘蛛，之间只能用传送点来移动。你可以在一个较小洞穴中间的宝箱中找到Njolaer，力量和灵巧分别加30和40的大铁锤！Draak的位置是在一个巨大洞穴的石制拱门后面。他会变成龙攻击你。别急着去惹他，先把七颗水晶安放在地下城入口处的七个底座上，然后和Sebastian交谈，他会召唤Kaliba，并使　TimeOrb出现。你只有携带Time Orb才有可能战胜Draak，否则当他的生命降到一半左右时，又会浴火重生。Time Orb只能使用一次，如果失败了还得找Sebastian填充魔力。可怜的Draak，他死后留下一支钥匙和他力量之源the Astral Hand。用钥匙可以开启宝座后面的宝库，有二十万左右的现金！Sebastian出现，告诉你，要赶紧会城镇，用theAstral Hand关闭Monolith，否则所有人都要变成石头了。这是最后的任务……Uma大地又恢复了平静……为什么我不用the Astral Hand自己变成龙呢？想不通…… 　 
 
-����������֧����Ʒ���б���Ҳ���������ð� 
+　　下面是支线物品的列表，也许对你有用吧 
 
-����Shield of Light 
+　　Shield of Light 
 
-����Broken Vase 
+　　Broken Vase 
 
-����The Cursed Sword��ǧ����Լ�װ����������ԣ����������䣬ֻ�ܻ�20000Ԫ��Irma�Ƴ��� 
+　　The Cursed Sword（千万别自己装备，会减属性，并且受诅咒，只能花20000元请Irma移除） 
 
-����Medallion of Melchior 
+　　Medallion of Melchior 
 
-����Path Book 
+　　Path Book 
 
-����Bard��s Music Score 
+　　Bard’s Music Score 
 
-����Sacred Scroll 
+　　Sacred Scroll 
 
-����Claw of Sargon 
+　　Claw of Sargon 
 
-����The Royal Diadem 
+　　The Royal Diadem 
 
-����Storm Flower 
+　　Storm Flower 
 
-����Dragon Scale 
+　　Dragon Scale 
 
-����Celestial Harp 
+　　Celestial Harp 
 
-����Buzbal the Farious 
+　　Buzbal the Farious 
 
-����Nosferatu Vampire��һ���ᴫ������Magic Bomb����Ѫ����ɱ�����Ϳ����ˣ� 
+　　Nosferatu Vampire（一个会传送术和Magic Bomb的吸血鬼，杀死他就可以了） 
 
-����Horn of Unicorn 
+　　Horn of Unicorn 
 
-����Holy Grial 
+　　Holy Grial 
 
-����Magic Anvil 
+　　Magic Anvil 
 
-����Stone of Soul 
+　　Stone of Soul 
 
-����Evil Garth��Ҳ��ɱ���Ϳ����ˣ� �� 
+　　Evil Garth（也是杀掉就可以了） 　 
 
-������Draak��������ǣ�����Ϸ��ѡ����������Video Clipѡ����������������Ϸ������the Dark Stone Shining���൱��coolŶ������Ϸ�г���������ʫ�����������һ�����顣 
+　　打倒Draak的最后奖赏是，在游戏主选单中增加了Video Clip选项，就是真人演绎的游戏主题曲the Dark Stone Shining，相当的cool哦，和游戏中城镇里吟游诗人相比又另有一番风情。 
 
 
 

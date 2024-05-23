@@ -1,6 +1,6 @@
-Heavy Gear II £¨ÖØ½ğÊô II£©
+Heavy Gear II ï¼ˆé‡é‡‘å± IIï¼‰
 
-ÔÚÓÎÏ·ÖĞ°´ÏÂ~¼üÈ»ºóÊäÈë£º
-set camti£½ÎŞµĞ
-set mission£½Íê³ÉÈÎÎñ
+åœ¨æ¸¸æˆä¸­æŒ‰ä¸‹~é”®ç„¶åè¾“å…¥ï¼š
+set camtiï¼æ— æ•Œ
+set missionï¼å®Œæˆä»»åŠ¡
 

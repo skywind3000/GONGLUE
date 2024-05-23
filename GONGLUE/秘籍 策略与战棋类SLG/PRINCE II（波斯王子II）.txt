@@ -1,20 +1,20 @@
-PRINCE II£¨²¨Ë¹Íõ×ÓII£©
+PRINCE IIï¼ˆæ³¢æ–¯çŽ‹å­IIï¼‰
 
-Æô¶¯ÓÎÏ·Ê±¼üÈëPRINCE MAKINIT2½øÈëÓÎÏ·ºó£¬¿ÉÊ¹ÓÃÒÔÏÂÃÜ¼¼¡£
-£«£ºÔö¼ÓÊ±¼ä
-¡ª£º¼õÉÙÊ±¼ä
-K£º°ÑÆÁÄ»ÉÏµÐÈËÈ«²¿KILL
-R£º¸´»î
-F1£ºÏÔÊ¾Íõ×ÓÎ»ÖÃ£¬µ«ËÙ¶È¼õÂý£¬ÔÙ°´Ò»´Î»Ö¸´
-F3£ºÍæ¼ÒON/OFF
-F6£ºÏÔÊ¾Î»ÖÃ³ß
-SHIFT+T£ºÔö¼ÓÄÜÁ¿£¬×î¶à12¸ñ
-SHIFT+K£º¼õÉÙÄÜÁ¿
-SHIFT+R£ºÏÔÊ¾ROOM NUMER
-SHIFT+W£ºÐ§¹ûÈçÉÏ
-SHIFT+I£ºÉÏÏÂµßµ¹
-SHIFT+B£ºÖ»ÏÔÊ¾Íõ×Ó
-ALT+N£ºÁ¢¼´¹ý¹Ø
-ALT+D£ºÖÆ×÷µµ°¸
+å¯åŠ¨æ¸¸æˆæ—¶é”®å…¥PRINCE MAKINIT2è¿›å…¥æ¸¸æˆåŽï¼Œå¯ä½¿ç”¨ä»¥ä¸‹å¯†æŠ€ã€‚
+ï¼‹ï¼šå¢žåŠ æ—¶é—´
+â€”ï¼šå‡å°‘æ—¶é—´
+Kï¼šæŠŠå±å¹•ä¸Šæ•Œäººå…¨éƒ¨KILL
+Rï¼šå¤æ´»
+F1ï¼šæ˜¾ç¤ºçŽ‹å­ä½ç½®ï¼Œä½†é€Ÿåº¦å‡æ…¢ï¼Œå†æŒ‰ä¸€æ¬¡æ¢å¤
+F3ï¼šçŽ©å®¶ON/OFF
+F6ï¼šæ˜¾ç¤ºä½ç½®å°º
+SHIFT+Tï¼šå¢žåŠ èƒ½é‡ï¼Œæœ€å¤š12æ ¼
+SHIFT+Kï¼šå‡å°‘èƒ½é‡
+SHIFT+Rï¼šæ˜¾ç¤ºROOM NUMER
+SHIFT+Wï¼šæ•ˆæžœå¦‚ä¸Š
+SHIFT+Iï¼šä¸Šä¸‹é¢ å€’
+SHIFT+Bï¼šåªæ˜¾ç¤ºçŽ‹å­
+ALT+Nï¼šç«‹å³è¿‡å…³
+ALT+Dï¼šåˆ¶ä½œæ¡£æ¡ˆ
 
 

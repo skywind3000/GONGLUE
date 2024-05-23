@@ -1,6 +1,6 @@
-Gruntz �����ࣩ
+Gruntz （呼噜）
 
-���а��¡�Enter�����������������룬Ȼ���¡�Enter��ȷ�ϣ�
-mptraitor���ѹ���ģʽ
-mpriorio����ɵ�ǰ�ؿ�
+在中按下“Enter”键后输入以下密码，然后按下“Enter”确认：
+mptraitor＝叛国者模式
+mpriorio＝完成当前关卡
 

@@ -1,8 +1,8 @@
-Õ½¸«40K£º×îÖÕ½â·Å
+æˆ˜æ–§40Kï¼šæœ€ç»ˆè§£æ”¾
 
-1 ÔÚ·Ö¿ªÑ¡ÔñÆÁÄ»×´Ì¬ÏÂ£¬°´×¡[CTRL]¼ü²¢ÊäÈëPaladin¾ÍÄÜÑ¡ÓÃÎäÊ¿£¨Knight Paladin£©ÁË¡£ 
-2 ÔÚÕ½¶·ÖÐ£¬°´ÏÂ[CTRL]²¢ÊäÈëÒÔÏÂÃØ¼¼£º
-EYEOFTERROR£º¿´µ½ËùÓÐµÄµÐÈË 
-HERETIC£ºÍê³ÉÈÎÎñ 
-CLEANSINGFIRE£º¹¥»÷¸ÅÂÊÔö¼ÓÒ»±¶
-WHITEDWARF£º ÔÚ»ðÁ¦·¶Î§ÄÚ²»»áÊÜµ½ÉËº¦
+1 åœ¨åˆ†å¼€é€‰æ‹©å±å¹•çŠ¶æ€ä¸‹ï¼ŒæŒ‰ä½[CTRL]é”®å¹¶è¾“å…¥Paladinå°±èƒ½é€‰ç”¨æ­¦å£«ï¼ˆKnight Paladinï¼‰äº†ã€‚ 
+2 åœ¨æˆ˜æ–—ä¸­ï¼ŒæŒ‰ä¸‹[CTRL]å¹¶è¾“å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š
+EYEOFTERRORï¼šçœ‹åˆ°æ‰€æœ‰çš„æ•Œäºº 
+HERETICï¼šå®Œæˆä»»åŠ¡ 
+CLEANSINGFIREï¼šæ”»å‡»æ¦‚çŽ‡å¢žåŠ ä¸€å€
+WHITEDWARFï¼š åœ¨ç«åŠ›èŒƒå›´å†…ä¸ä¼šå—åˆ°ä¼¤å®³

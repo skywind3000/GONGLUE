@@ -1,34 +1,34 @@
-Ðé»Ã¾º¼¼³¡
+è™šå¹»ç«žæŠ€åœº
 
-´ò¿ª¿ØÖÆÌ¨,ÊäÈë"iamtheone" »Ø³µ,È»ºó°´TAB,ÊäÈëÒÔÏÂ×÷±×´úÂë: 
+æ‰“å¼€æŽ§åˆ¶å°,è¾“å…¥"iamtheone" å›žè½¦,ç„¶åŽæŒ‰TAB,è¾“å…¥ä»¥ä¸‹ä½œå¼Šä»£ç : 
 
-¡¡¡¡ALLAMMO - µ¯Ò©ºÍÇ¹Ö§È«Âú 
-¡¡¡¡GOD - ÉÏµÛÄ£Ê½ 
-¡¡¡¡FLY - ·ÉÐÐÄ£Ê½ 
-¡¡¡¡WALK - ¹Ø±Õ·ÉÐÐ»ò´©Ç½Ä£Ê½ 
-¡¡¡¡GHOST - ´©Ç½Ä£Ê½ 
-¡¡¡¡KILLALL - É±ËÀËùÓÐµÐÈË 
+ã€€ã€€ALLAMMO - å¼¹è¯å’Œæžªæ”¯å…¨æ»¡ 
+ã€€ã€€GOD - ä¸Šå¸æ¨¡å¼ 
+ã€€ã€€FLY - é£žè¡Œæ¨¡å¼ 
+ã€€ã€€WALK - å…³é—­é£žè¡Œæˆ–ç©¿å¢™æ¨¡å¼ 
+ã€€ã€€GHOST - ç©¿å¢™æ¨¡å¼ 
+ã€€ã€€KILLALL - æ€æ­»æ‰€æœ‰æ•Œäºº 
 
-¡¡¡¡PLAYERSONLY - ¶³½áÊ±¼ä 
-¡¡¡¡OPEN MAPNAME - Ìø¹Ø,±ÈÈçOPEN DIG.ÔòÌøµ½DIG¹Ø 
-¡¡¡¡BEHINDVIEW 1 - µÚÈýÈË³ÆÊÓ½Ç 
-¡¡¡¡BEHINDVIEW 0 - µÚÒ»ÈË³ÆÊÓ½Ç. 
+ã€€ã€€PLAYERSONLY - å†»ç»“æ—¶é—´ 
+ã€€ã€€OPEN MAPNAME - è·³å…³,æ¯”å¦‚OPEN DIG.åˆ™è·³åˆ°DIGå…³ 
+ã€€ã€€BEHINDVIEW 1 - ç¬¬ä¸‰äººç§°è§†è§’ 
+ã€€ã€€BEHINDVIEW 0 - ç¬¬ä¸€äººç§°è§†è§’. 
 
-¡¡¡¡SUMMON : ¼ÓÈëÈÎºÎÄãÏëÒªµÄµ¥Î». ÄÜ¹»Ê¹ÓÃµÄÓÐ: 
+ã€€ã€€SUMMON : åŠ å…¥ä»»ä½•ä½ æƒ³è¦çš„å•ä½. èƒ½å¤Ÿä½¿ç”¨çš„æœ‰: 
 
-¡¡¡¡SUMMON CANNON 
-¡¡¡¡SUMMON EIGHTBALL 
-¡¡¡¡SUMMON FLAKCANNON 
-¡¡¡¡SUMMON NALI 
-¡¡¡¡SUMMON SKAARJWARRIOR 
-¡¡¡¡SUMMON QUAD SHOT 
+ã€€ã€€SUMMON CANNON 
+ã€€ã€€SUMMON EIGHTBALL 
+ã€€ã€€SUMMON FLAKCANNON 
+ã€€ã€€SUMMON NALI 
+ã€€ã€€SUMMON SKAARJWARRIOR 
+ã€€ã€€SUMMON QUAD SHOT 
 
-¡¡¡¡¸½¼ÓµÄSkin: 
+ã€€ã€€é™„åŠ çš„Skin: 
 
-¡¡¡¡±à¼­ÄãµÄuser.ini¼ÓÈëÒÔÏÂ×Ö·û 
+ã€€ã€€ç¼–è¾‘ä½ çš„user.iniåŠ å…¥ä»¥ä¸‹å­—ç¬¦ 
 
-¡¡¡¡[Botpack.Ladder] 
-¡¡¡¡HasBeatenGame=True 
+ã€€ã€€[Botpack.Ladder] 
+ã€€ã€€HasBeatenGame=True 
 
-¡¡¡¡¿´¿´Äã±ä³ÉÊ²Ã´Ñù×ÓÁË? 
+ã€€ã€€çœ‹çœ‹ä½ å˜æˆä»€ä¹ˆæ ·å­äº†? 
 

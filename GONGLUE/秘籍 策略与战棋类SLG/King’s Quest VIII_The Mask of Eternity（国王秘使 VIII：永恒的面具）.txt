@@ -1,17 +1,17 @@
-King��s Quest VIII_The Mask of Eternity��������ʹ VIII���������ߣ�
+King’s Quest VIII_The Mask of Eternity（国王秘使 VIII：永恒的面具）
 
-����Ϸ�Ŀ��ƻ���ͬʱ����"CTRL"+"SHIFT"+"7"����ῴ��һ����ʾ��Ҫ������PASSWORD��
-�������ع�������ֻ�Ǹ���Ц���ѣ�ֱ���������µ��ַ����Ϳɵõ���Ӧ���ܼ����ܣ�
-NoConCollide������ģʽ����ǽģʽ��
-ConCollide���رտ���ģʽ
-teleport����ͼ����ȫ��¶��Ȼ���������ͼ�ϵ��һ���ص�����Ǿͻᱻ���͵�����ȥ
-Debug����Ϸ��ײ
-Bump��ʹ������ǰ�ƶ�һ��Ȼ��ǽ
-Give���õ���Ʒ��ֻҪ������Ӧ����Ʒ���ֺ������Ϳ��Եõ�Ҫ�������ĸ���Ʒ��
-���磺Give Dagger 2 ��������������Ϸ��Ʒ�б�������Ҫע�ⲻҪ̫̰���ˣ��������
-������Ϸ�޷�������ȥ
+在游戏的控制画面同时按下"CTRL"+"SHIFT"+"7"键后会看见一个提示符要求输入PASSWORD，
+不过不必管它，这只是个玩笑而已，直接输入以下的字符串就可得到相应的密技功能：
+NoConCollide：快速模式、穿墙模式等
+ConCollide：关闭快速模式
+teleport：地图会完全显露，然后在世界地图上点击一个地点后主角就会被传送到那里去
+Debug：游戏碰撞
+Bump：使主角向前移动一点然后穿墙
+Give：得到物品。只要输入相应的物品名字和数量就可以得到要求数量的该物品。
+例如：Give Dagger 2 以下是完整的游戏物品列表，不过要注意不要太贪心了，否则可能
+导致游戏无法进行下去
 
-������Ʒ
+武器物品
 item0= Dagger
 item1= SmallAx
 item2= BroadSword
@@ -42,7 +42,7 @@ item26= Lava
 item27= Fists
 item28= Icycle
 
-������Ʒ
+防具物品
 item29= LeatherGloves
 item30= LeatherArmor
 item31= LeatherBoots
@@ -56,7 +56,7 @@ item38= Helmet
 item39= TempleArmor
 item40= GodArmor
 
-������ħ����Ʒ
+生命和魔法物品
 item41= Mushroom
 item42= SacredWater
 item43= Crystal
@@ -66,7 +66,7 @@ item46= Invisible
 item47= Invulnerable
 item48= Strength
 
-����
+道具
 item49= RingOfDeadHero
 item50= Ashes
 item51= Candle
@@ -147,26 +147,26 @@ item125= Orcbow
 item126= Spear
 item127= IceShard
 item128= IceLever
-Lucreto��Ȩ����Ʒ
+Lucreto的权利物品
 item129= LucretoFire
 
-���ǲ�����Ʒ�͵��߿�ʼ��Ϸ
+主角不到物品和道具开始游戏
 item130= NoRanged
 item131= NoArmor
 item132= BirthdaySuit
 item133= Logo1
 item134= Logo2
 
-god����ǹ���룬��Ϸ�еĹ����޷����˺����ǣ�������Ȼ�˺�����ˮ���ߴ�׹�����Ȼ��
-�Ե�����������
-ungod ��������ģʽ�ص�����״̬
-ruth������ڲʵ�����ͬ��
-welch-piel��ͬ��
-oscar��ͬ��
-rocket��ͬ��
-testCast����ʱ����ͣ
+god：刀枪不入，游戏中的怪物无法再伤害主角，不过自然伤害如溺水、高处坠落等依然可
+以导致主角死亡
+ungod ：从以上模式回到正常状态
+ruth：复活节彩蛋（下同）
+welch-piel：同上
+oscar：同上
+rocket：同上
+testCast：长时间暂停
 
-�����ܼ����ܻ�����������˼���Լ���һ�Ծ�֪���ˡ�
+以下密技功能基本如字面意思，自己试一试就知道了。
 Mask
 console
 Run

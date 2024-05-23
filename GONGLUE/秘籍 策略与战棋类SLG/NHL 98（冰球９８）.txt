@@ -1,19 +1,19 @@
-NHL 98£¨±ùÇò£¹£¸£©
+NHL 98ï¼ˆå†°çƒï¼™ï¼˜ï¼‰
 
-awaygoal: ¸ø¶¨Ä¿±ê
-check: ×Ô¶¯¼ì²é¶ÔÊÖÒÔ¼°ºÍ±ğÈËÍ¨ĞÅ
-flash: Õ¾Á¢ÉãÓ°
-grab: ºÍcheck¹¦ÄÜÏàËÆ
-homegoal: ¸ø¶¨Ä¿±ê
-injury: ÉËº¦
-mantis: ¸øÄãÎäÆ÷
-nhlkids: ×Ô¶¯¿ØÖÆ
-penalty: ·£¿î
-spots: ¿ªµÆ
-victory: ¿ªÊ¼±ÈÊÔ
-zambo: °Ñzamboni·ÅÔÚ±ùÉÏ
-ÒÔÏÂÃÜÂëÒªÔÚcredits²Ëµ¥´¦ÓÚ¼ÓÁÁ×´Ì¬Ê±ÊäÈë,Èç¹ûÕıÈ·»áÓĞÒ»¸öÌáÊ¾µÄÉùÒô
-eaeao: EA Blades¶Ó¿ÉÓÃ
-stanley: ¿´¹ı¹ØµçÓ°
-ultimatejudge: ÔÊĞíÍ¨¹ıInternet½øĞĞÓÎÏ·
+awaygoal: ç»™å®šç›®æ ‡
+check: è‡ªåŠ¨æ£€æŸ¥å¯¹æ‰‹ä»¥åŠå’Œåˆ«äººé€šä¿¡
+flash: ç«™ç«‹æ‘„å½±
+grab: å’ŒcheckåŠŸèƒ½ç›¸ä¼¼
+homegoal: ç»™å®šç›®æ ‡
+injury: ä¼¤å®³
+mantis: ç»™ä½ æ­¦å™¨
+nhlkids: è‡ªåŠ¨æ§åˆ¶
+penalty: ç½šæ¬¾
+spots: å¼€ç¯
+victory: å¼€å§‹æ¯”è¯•
+zambo: æŠŠzamboniæ”¾åœ¨å†°ä¸Š
+ä»¥ä¸‹å¯†ç è¦åœ¨creditsèœå•å¤„äºåŠ äº®çŠ¶æ€æ—¶è¾“å…¥,å¦‚æœæ­£ç¡®ä¼šæœ‰ä¸€ä¸ªæç¤ºçš„å£°éŸ³
+eaeao: EA Bladesé˜Ÿå¯ç”¨
+stanley: çœ‹è¿‡å…³ç”µå½±
+ultimatejudge: å…è®¸é€šè¿‡Internetè¿›è¡Œæ¸¸æˆ
 

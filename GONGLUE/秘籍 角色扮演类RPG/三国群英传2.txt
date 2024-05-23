@@ -1,93 +1,93 @@
-����ȺӢ��2
+三国群英传2
 
-�ܼ���ʹ�÷��������[����ݔ���ܴa��ݔ��ɹ�֮��ͿɆ����ܼ�ģʽ(�ɹ�����˵�һ)�������_�ĵط�ݔ�����_�İ��I���в�ͬ��Ч�����ܴa������Ո�����±���
+密技的使用法就是在遊戲中輸入密碼，輸入成功之後就可啟動密技模式(成功後會咚的一聲)，在正確的地方輸入正確的按鍵即有不同的效果，密碼及功能請參考下表。
 
-���� 
+密码 
 
-DALL �����ܼ�ģʽ 
-�ڴ�؈D 
-F1 �r�g��ͣ 
-F2 �M����� 
-F3 ���еĳǼ�10000�� 
-F4 ���гǃȵ��A����a�M 
-F5 �����䌢��һ��(������) 
-F6 �ҷ����е��䌢��һ�� 
-�ڿ��䌢�Y�ϕr 
-U �䌢��һ�� 
-����r 
-F8 ����ֱ���a�M 
-F9 ����r�g���� 
-F10 ����Y�� 
-R### �ҷ�ʹ�õ�###̖�䌢�� 
-L### ����ʹ�õ�###̖�䌢�� 
-���� 
-ALT-ENTER ҕ����ȫΞĻ�ГQ 
-* ץ�D 
+DALL 啟動密技模式 
+在大地圖 
+F1 時間暫停 
+F2 進入內政 
+F3 所有的城加10000金 
+F4 所有城內的預備兵補滿 
+F5 所有武將升一級(含敵方) 
+F6 我方所有的武將升一級 
+在看武將資料時 
+U 武將升一級 
+作戰時 
+F8 氣力直接補滿 
+F9 作戰時間不動 
+F10 作戰結束 
+R### 我方使用第###號武將技 
+L### 敵方使用第###號武將技 
+其它 
+ALT-ENTER 視窗或全螢幕切換 
+* 抓圖 
 
-UNIFY ֱ�ӽyһ 
-AUTOON ����r�����Ԅ�չʾ 
-AUTOOFF ����r�P�]�Ԅ�չʾ �ܼ���ʹ�÷�����ڈ�������ʽSANGO.EXE������Ӳ�ͬ�ą����Ϳ��Ԇ��Ӳ�ͬ��ģʽ*��Ո��������������υ�������ͬ�rʹ�ö��������[���M���а������I���в�ͬ��Ч�����䅢�����±������녢���ķ������@��
+UNIFY 直接統一 
+AUTOON 作戰時啟動自動展示 
+AUTOOFF 作戰時關閉自動展示 密技的使用法必須在執行主程式SANGO.EXE的後面加不同的參數就可以啟動不同的模式*，請依照您的需求加上參數，可同時使用多個，在遊戲進行中按功能鍵即有不同的效果，其參數如下表，加入參數的方法在這。
 
-���� ���� 
+參數 功能 
 
--DM �����ܼ�ģʽ 
-���ͼ���� 
-F1 ��؈D������ֹͣ���ӣ�ͣ�ڮ��r���·ݲ��ӣ� 
-F2 ֱ���M��һ�������һ�̣���]��ʹ��F1�Ĺ��ܕr������M����� 
-F3 �ǃ�����10000�� 
-F4 �ǃȵ��A����a�M 
-F5 ���е��䌢�ȼ���һ�� 
-������ 
-F8 �䌢���Ě���R�ϼ��M 
-F9 ����TIME=999 
-F10 ����TIME=0 
-����
-ALT-ENTER ҕ����ȫΞĻ�ГQ 
-* ץ�D 
+-DM 啟動密技模式 
+大地图画面 
+F1 大地圖的日期停止增加（停在當時的月份不動） 
+F2 直接進入一年的最後一刻，如沒有使用F1的功能時，便會進入內政 
+F3 城內增加10000金 
+F4 城內的預備兵補滿 
+F5 所有的武將等級加一級 
+作戰畫面 
+F8 武將技的氣會馬上集滿 
+F9 作戰TIME=999 
+F10 作戰TIME=0 
+其他
+ALT-ENTER 視窗或全螢幕切換 
+* 抓圖 
 
--AIOFF ����r��܊ֹͣ���� 
--AUTO ��X�Ԅ��� 
--BATTLE��# ֱ���M����Yģʽ�������鄢�䣨#��һ�����ִ�����ͬ�Ĉ����� 
--DEBUGALL ���ӳ�ʽ���eģʽ����������Ɣ��� 
-���ͼ���� 
-F12 �R�Ͻyһȫ�� 
-2 ��ͣ�[�� 
-������ 
-F1 F2 F3 ʹ�Ô����䌢�� 
-F5 F6 F7 ʹ���ҷ��䌢�� 
-F4 ��׃���ҕ�ʹ�õ��䌢�� 
-A S D Z X C ׃�Q����ҕ�� 
-���� 
-ALT-ENTER ҕ����ȫΞĻ�ГQ 
-* ץ�D 
+-AIOFF 作戰時敵軍停止動作 
+-AUTO 電腦自動玩 
+-BATTLE　# 直接進入戰鬥模式，君主為劉備（#為一個數字代表不同的場景） 
+-DEBUGALL 啟動程式除錯模式，可任意控制敵方 
+大地图画面 
+F12 馬上統一全國 
+2 暫停遊戲 
+作戰畫面 
+F1 F2 F3 使用敵方武將技 
+F5 F6 F7 使用我方武將技 
+F4 改變敵我會使用的武將技 
+A S D Z X C 變換畫面視角 
+其它 
+ALT-ENTER 視窗或全螢幕切換 
+* 抓圖 
 
--FIXSPEED ����������̎�� 
--INFO �@ʾ�[���һЩӍϢ 
--MAPMODE ֱ���M���؈Dģʽ�У������鄢�� 
--SPEED # �ӿ��[���ٶ�(#��һ������) 
+-FIXSPEED 畫面做穩速處理 
+-INFO 顯示遊戲的一些訊息 
+-MAPMODE 直接進入大地圖模式中，君主為劉備 
+-SPEED # 加快遊戲速度(#是一個數字) 
 
-�]���޸��[���b���������F������ȺӢ���ݏ�С�D��������ݩ�·����Ŀ���е�SANGO.EXE������Ӆ�����Ҫ�؄eע����ǣ��p̖ǰ��Ҫ��һ���ո� ��Ȼ���횈��нݏ�С�D�M������ȺӢ���вſɆ����ܼ�������Ϸ�����������ַ����ɵõ���Ӧ���ؼ��� 
+註：修改遊戲安裝完成後會出現的三國群英傳捷徑小圖，將其內容─路徑─目標中的SANGO.EXE的後面加參數（要特別注意的是，減號前面要有一個空格） ，然後必須執行捷徑小圖進入三國群英傳中才可啟動密技。在游戏中输入以下字符，可得到相应的秘技： 
 
-Ctrl + Shift + Q + W ���������κ�һ�أ��ٰ�W�����¿�ʼ 
-Ctrl + F11 ����Console ģʽ������֮��ĸ���ڻ������½���ʾ�� 
-bionicwoman ��ǿ��Ծ��������������� 
-invul �����˺� 
-loc ��ʾ��ҵ�λ�� 
-gore 2 ��ǿ Blood �ĵȼ� 
-woo �����ӵ� 
-tnext ����춸ò��еĸ�����Ҫ�ص� 
-WIN �ۿ���ֵ�ӰƬ��
-����Ϸ�����а�ס [M] �����������룬�ٰ��س������ɡ�
-CHUMP �޵� 
-DANGEROUS �������� 
-TUFF ASS ǿ������ 
-SUPER CHUMP �޵в�ӵ�кܿ���ٶ� 
-DANGEROUS CHUMP �޵в�ӵ�����޵����� 
-stormy ���� 
-way mo money +5000Ǯ 
-slick ��ɱ 
-done ʤ������ 
-yoyo δ֪ 
-clearsky δ֪ 
-flurry ѩ��
+Ctrl + Shift + Q + W 可以跳到任何一关，再按W可重新开始 
+Ctrl + F11 进入Console 模式，输入之字母会于画面左下角显示： 
+bionicwoman 加强跳跃力，但会减低跑速 
+invul 不受伤害 
+loc 显示玩家的位置 
+gore 2 加强 Blood 的等级 
+woo 无限子弹 
+tnext 穿梭於该层中的各个重要地点 
+WIN 观看结局电影片段
+在游戏进行中按住 [M] 键并输入密码，再按回车键即可。
+CHUMP 无敌 
+DANGEROUS 无限武器 
+TUFF ASS 强力武器 
+SUPER CHUMP 无敌并拥有很快的速度 
+DANGEROUS CHUMP 无敌并拥有无限的武器 
+stormy 雨天 
+way mo money +5000钱 
+slick 自杀 
+done 胜利过关 
+yoyo 未知 
+clearsky 未知 
+flurry 雪天
 

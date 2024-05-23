@@ -1,47 +1,47 @@
-Blood II£¨Ñª¼À II£©
+Blood IIï¼ˆè¡€ç¥­ IIï¼‰
 
-°´TááÊäÈë£º
+æŒ‰Tå¾Œè¾“å…¥ï¼š
 
-MPGOD =ÎÞµÐ
-MPKFA =µÃµ½ËùÓÐÎäÆ÷
-MPAMMO =×Óµ¯È«Âú
-MPARMOR =»¤¼×È«Âú
-MPCLIP =´©Ç½Ä£Ê½
-MPPOS = ò«Ê¾Î»ÖÃ
-MPHEALTHY =ÉúÃüÖµÈ«Âú
-MPWHEREAMI =ÏÔÊ¾×ù±ê
-MPBEEFCAKE =ÔöÇ¿Á¦Á¿
-MPKILLEMALL =É±ËÀËùÓÐ¹ÖÎï
-MPSPEEDUP #=Ôö¼ÓÒÆ¶¯ËÙ¶È (#= 1-5 )
-MPSTRONGER # =ÔöÇ¿Á¦Á¿ (#=1-5)
-MPCALEB =×ª»»½ÇÉ«Îª Caleb
-MPOPHELIA =×ª»»½ÇÉ«Îª Ophelia
-MPISHMAEL =×ª»»½ÇÉ«Îª Ishmael
-MPGABBY =×ª»»½ÇÉ«Îª Gabriella
-MPGOSHOPPING =µÃµ½ËùÓÐÎïÆ·
-MPNICENURSE =Ôö¼Ó 25 µãÉúÃüÖµ
-MPREALLYNICENURSE =Ôö¼Ó 300 µãÉúÃüÖµ
-MPWARD =Ôö¼Ó 25 µã×°¼×Öµ
-MPNEWCROWARD =Ôö¼Ó 100 µã»¤¼×
-MPTAKEOFFSHOES =ÒþÐÎ
-MPHERKERMUR =É±ÉËÁ¦Ôö¼ÓÈý±¶
-MPCARBONFIBER =ÔöÇ¿ÐÄÁéÁ¦Á¿
-MPCAMERA = µ÷ÕûÉãÓ°»ú
-MPLIGHTSCAPE = µ÷Õû¹âÔ´
-MPSUBMACHINEGUN =SubmachinegunÎäÆ÷
-MPFLAREGUN =FlaregunÎäÆ÷
-MPSHOTGUN =ShotgunÎäÆ÷
-MPSNIPERRIFLE =Sniper RifleÎäÆ÷
-MPHOWITZER =HowitzerÎäÆ÷
-MPNAPALMCANNON =Napalm CannonÎäÆ÷
-MPSINGULARITY =Singularity GeneratorÎäÆ÷
-MPASSAULTRIFLE =Assault RifleÎäÆ÷
-MPBUGBUSTER =Bug busterÎäÆ÷
-MPMINIGUN =MinigunÎäÆ÷
-MPLASERRIFLE =Cobalco Laser RifleÎäÆ÷
-MPTESLACANNON =Tesla CannonÎäÆ÷
-MPVOODOO =Voodoo DollÎäÆ÷
-MPTHEORB =The OrbÎäÆ÷
-MPLIFELEECH =Life LeechÎäÆ÷
+MPGOD =æ— æ•Œ
+MPKFA =å¾—åˆ°æ‰€æœ‰æ­¦å™¨
+MPAMMO =å­å¼¹å…¨æ»¡
+MPARMOR =æŠ¤ç”²å…¨æ»¡
+MPCLIP =ç©¿å¢™æ¨¡å¼
+MPPOS = é¢¢ç¤ºä½ç½®
+MPHEALTHY =ç”Ÿå‘½å€¼å…¨æ»¡
+MPWHEREAMI =æ˜¾ç¤ºåº§æ ‡
+MPBEEFCAKE =å¢žå¼ºåŠ›é‡
+MPKILLEMALL =æ€æ­»æ‰€æœ‰æ€ªç‰©
+MPSPEEDUP #=å¢žåŠ ç§»åŠ¨é€Ÿåº¦ (#= 1-5 )
+MPSTRONGER # =å¢žå¼ºåŠ›é‡ (#=1-5)
+MPCALEB =è½¬æ¢è§’è‰²ä¸º Caleb
+MPOPHELIA =è½¬æ¢è§’è‰²ä¸º Ophelia
+MPISHMAEL =è½¬æ¢è§’è‰²ä¸º Ishmael
+MPGABBY =è½¬æ¢è§’è‰²ä¸º Gabriella
+MPGOSHOPPING =å¾—åˆ°æ‰€æœ‰ç‰©å“
+MPNICENURSE =å¢žåŠ  25 ç‚¹ç”Ÿå‘½å€¼
+MPREALLYNICENURSE =å¢žåŠ  300 ç‚¹ç”Ÿå‘½å€¼
+MPWARD =å¢žåŠ  25 ç‚¹è£…ç”²å€¼
+MPNEWCROWARD =å¢žåŠ  100 ç‚¹æŠ¤ç”²
+MPTAKEOFFSHOES =éšå½¢
+MPHERKERMUR =æ€ä¼¤åŠ›å¢žåŠ ä¸‰å€
+MPCARBONFIBER =å¢žå¼ºå¿ƒçµåŠ›é‡
+MPCAMERA = è°ƒæ•´æ‘„å½±æœº
+MPLIGHTSCAPE = è°ƒæ•´å…‰æº
+MPSUBMACHINEGUN =Submachinegunæ­¦å™¨
+MPFLAREGUN =Flaregunæ­¦å™¨
+MPSHOTGUN =Shotgunæ­¦å™¨
+MPSNIPERRIFLE =Sniper Rifleæ­¦å™¨
+MPHOWITZER =Howitzeræ­¦å™¨
+MPNAPALMCANNON =Napalm Cannonæ­¦å™¨
+MPSINGULARITY =Singularity Generatoræ­¦å™¨
+MPASSAULTRIFLE =Assault Rifleæ­¦å™¨
+MPBUGBUSTER =Bug busteræ­¦å™¨
+MPMINIGUN =Minigunæ­¦å™¨
+MPLASERRIFLE =Cobalco Laser Rifleæ­¦å™¨
+MPTESLACANNON =Tesla Cannonæ­¦å™¨
+MPVOODOO =Voodoo Dollæ­¦å™¨
+MPTHEORB =The Orbæ­¦å™¨
+MPLIFELEECH =Life Leechæ­¦å™¨
 MPBEANSOFCOOLNESS = Gives a nice selection of weapons
 

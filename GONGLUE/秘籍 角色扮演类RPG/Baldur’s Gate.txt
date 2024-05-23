@@ -1,14 +1,14 @@
-Baldur¡¯s Gate
+Baldurâ€™s Gate
 
-±à¼­ÔÚÓÎÏ·ËùÔÚÄ¿Â¼µÄÎÄ¼şbaldur.ini£¬ÔÚGame OptionsÌõÄ¿ÄÚÔö¼ÓÒ»ĞĞ¡°Cheats=1¡±¡£
-´æÅÌºóÔËĞĞÓÎÏ·£¬ÔÚÓÎÏ·ÖĞÊäÈëCtrl-Tab£¬À´´ò¿ª/¹Ø±Õ¿ØÖÆÌ¨¡£ÔÚ¿ØÖÆÌ¨ÊäÈëÒÔÏÂ´úÂë,
-»Ø³µºó¼´¿É¼¤»îÆÛÆ­ÃØ¼¼£º
-Cheats:CriticalItems()£ºµÃµ½ÓÎÏ·ÖĞÈ«²¿¹Ø¼üÎïÆ·
-Cheats:DrizztDefends()£º²úÉúÒ»¸öÓÑºÃµÄDrizzt 
-Cheats:DrizztAttacks()£º²úÉúÒ»¸öµĞ¶ÔµÄDrizzt 
-Cheats:Midas()£º»ñµÃ500»Æ½ğ
-Cheats:CowKill()£ºÈç¹ûÄã¸½½üÓĞCOW£¬¾Í»áµÃµ½Ò»¸öCow KillÄ§·¨ 
-Cheats:TheGreatGonzo()£ºÕÙ»½10¸öKiller ChickensÎªÄã×÷Õ½ 
-Cheats:ExploreArea()£ºÀàËÆÓëµÃµ½Ç§ÀïÑÛÄ§·¨ 
-CLUAConsole:SetCurrentXP("[number]")£ºÉèÖÃ¾­ÑéÖµ£¨Èç£ºSetCurrentXP("30000")£© 
+ç¼–è¾‘åœ¨æ¸¸æˆæ‰€åœ¨ç›®å½•çš„æ–‡ä»¶baldur.iniï¼Œåœ¨Game Optionsæ¡ç›®å†…å¢åŠ ä¸€è¡Œâ€œCheats=1â€ã€‚
+å­˜ç›˜åè¿è¡Œæ¸¸æˆï¼Œåœ¨æ¸¸æˆä¸­è¾“å…¥Ctrl-Tabï¼Œæ¥æ‰“å¼€/å…³é—­æ§åˆ¶å°ã€‚åœ¨æ§åˆ¶å°è¾“å…¥ä»¥ä¸‹ä»£ç ,
+å›è½¦åå³å¯æ¿€æ´»æ¬ºéª—ç§˜æŠ€ï¼š
+Cheats:CriticalItems()ï¼šå¾—åˆ°æ¸¸æˆä¸­å…¨éƒ¨å…³é”®ç‰©å“
+Cheats:DrizztDefends()ï¼šäº§ç”Ÿä¸€ä¸ªå‹å¥½çš„Drizzt 
+Cheats:DrizztAttacks()ï¼šäº§ç”Ÿä¸€ä¸ªæ•Œå¯¹çš„Drizzt 
+Cheats:Midas()ï¼šè·å¾—500é»„é‡‘
+Cheats:CowKill()ï¼šå¦‚æœä½ é™„è¿‘æœ‰COWï¼Œå°±ä¼šå¾—åˆ°ä¸€ä¸ªCow Killé­”æ³• 
+Cheats:TheGreatGonzo()ï¼šå¬å”¤10ä¸ªKiller Chickensä¸ºä½ ä½œæˆ˜ 
+Cheats:ExploreArea()ï¼šç±»ä¼¼ä¸å¾—åˆ°åƒé‡Œçœ¼é­”æ³• 
+CLUAConsole:SetCurrentXP("[number]")ï¼šè®¾ç½®ç»éªŒå€¼ï¼ˆå¦‚ï¼šSetCurrentXP("30000")ï¼‰ 
 

@@ -1,15 +1,15 @@
-101st Airborne��101�ս�ʦ��
+101st Airborne（101空降师）
 
-AirNormandy ���¿ս�ʿ����ŵ����  
- AngryManDinners     ��ʿ��ʳ�� 
- Iknow ��ʾ���е¾���װ���ͽ������ڲ� 
- TraitorTraitor ����ʿ��Ͷ�� 
- PrisonPod �õ����н���ɡ 
- Weasel  ��ʹ�õ�ͼ������ʿ��  
- YouGoSquishNow ɱ����ͼ�����е¾� 
- weasel ��ͼ��ʿ���ɹ�������ʹ�� 
- helllive ɱ����ͼ�ϵĵо� 
- ihaveyounow �ǵ�ͼ�ϵĵо�Ͷ��  
- beef ɱ��ĸţ 
- Abe��s Oddysee(�ĵ�����) ����Ϸ���˵���ֱ�ӿ������й���Ƭ��
+AirNormandy 重新空降士兵到诺曼底  
+ AngryManDinners     给士兵食物 
+ Iknow 显示所有德军、装备和建筑物内部 
+ TraitorTraitor 所有士兵投降 
+ PrisonPod 拿掉所有降落伞 
+ Weasel  可使用地图上所有士兵  
+ YouGoSquishNow 杀掉地图上所有德军 
+ weasel 地图的士兵可供你任意使用 
+ helllive 杀掉地图上的敌军 
+ ihaveyounow 是地图上的敌军投降  
+ beef 杀掉母牛 
+ Abe’s Oddysee(荒诞王国) 在游戏主菜单，直接看完所有过场片段
 

@@ -1,21 +1,21 @@
 Touring Car Championship
 
-cmcatdog: ÏÂÓêµÄÃ¨ºÍ¹·
-cmchun: kart³µÄ£Ê½
-cmcopter: ·É»úÊÓ½Ç
-cmdisco: discoÄ£Ê½(½öÓÃÓÚ3dfx)
-cmfollow TV: µçÓ°Ä£Ê½
-cmgarage: ĞÂ³µ
-cmhandy: ´óÊÖÄ£Ê½
-cmlograv: µÍÖØÁ¦Ä£Ê½
-cmmayhem: ÈÃÆäËü³µ·¢·è
-cmmicro: ¸©ÊÓ
-cmnohits: ´©Ô½Æû³µ,Ê¹Äã²»»á×²³µ
-cmrainup: ÏÂÓê
-cmstars: ±³¾°ÎªÒ¹Íí
-cmtoon: ¿¨Í¨Ä£Ê½
-flexmobile: ¶¯ºóÂÖÇı,Ê¹Æû³µÄÜ¸üºÃµØÌùµØ¶øĞĞ
-tank: °´À®°ÈÏòµĞÈË¹¥»÷
-xboostme: ĞéÄâÄ£Ê½
+cmcatdog: ä¸‹é›¨çš„çŒ«å’Œç‹—
+cmchun: kartè½¦æ¨¡å¼
+cmcopter: é£æœºè§†è§’
+cmdisco: discoæ¨¡å¼(ä»…ç”¨äº3dfx)
+cmfollow TV: ç”µå½±æ¨¡å¼
+cmgarage: æ–°è½¦
+cmhandy: å¤§æ‰‹æ¨¡å¼
+cmlograv: ä½é‡åŠ›æ¨¡å¼
+cmmayhem: è®©å…¶å®ƒè½¦å‘ç–¯
+cmmicro: ä¿¯è§†
+cmnohits: ç©¿è¶Šæ±½è½¦,ä½¿ä½ ä¸ä¼šæ’è½¦
+cmrainup: ä¸‹é›¨
+cmstars: èƒŒæ™¯ä¸ºå¤œæ™š
+cmtoon: å¡é€šæ¨¡å¼
+flexmobile: åŠ¨åè½®é©±,ä½¿æ±½è½¦èƒ½æ›´å¥½åœ°è´´åœ°è€Œè¡Œ
+tank: æŒ‰å–‡å­å‘æ•Œäººæ”»å‡»
+xboostme: è™šæ‹Ÿæ¨¡å¼
 
 

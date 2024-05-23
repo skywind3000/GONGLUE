@@ -1,9 +1,9 @@
-Mass Destruction£¨Ãð¾ø£©
+Mass Destructionï¼ˆç­ç»ï¼‰
 
-ÔÚÍêÈ«°æÖÐ£¬ÄÜÊ¹ÓÃÒÔÏÂµÄÃÜÂë£º
-ÔÚÖ÷Ìâ»­ÃæÊ±£º
-GOLEV# Ìøµ½¼¶Êý #£¨01-24£©
-ÔÚÓÎÏ·ÖÐ£º
-AMMO ÎäÆ÷È«Âú¡£
+åœ¨å®Œå…¨ç‰ˆä¸­ï¼Œèƒ½ä½¿ç”¨ä»¥ä¸‹çš„å¯†ç ï¼š
+åœ¨ä¸»é¢˜ç”»é¢æ—¶ï¼š
+GOLEV# è·³åˆ°çº§æ•° #ï¼ˆ01-24ï¼‰
+åœ¨æ¸¸æˆä¸­ï¼š
+AMMO æ­¦å™¨å…¨æ»¡ã€‚
 
 

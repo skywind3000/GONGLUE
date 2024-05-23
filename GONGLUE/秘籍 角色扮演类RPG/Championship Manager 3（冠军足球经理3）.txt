@@ -1,12 +1,12 @@
-Championship Manager 3£¨¹Ú¾ü×ãÇò¾­Àí3£©
+Championship Manager 3ï¼ˆå† å†›è¶³çƒç»ç†3ï¼‰
 
-¿ØÖÆ¹ú¼Ò¶Ó
+æ§åˆ¶å›½å®¶é˜Ÿ
 
-ÒÔÓ¢¸ñÀ¼ÎªÀı£¬¿ªÊ¼ĞÂÓÎÏ·Ñ¡Ôñ¾ãÀÖ²¿¶ÓÊ±£¬»òÔÚÓÎÏ·ÖĞÑ¡ÔñAdd ManagerºóÑ¡Ôñ¾ãÀÖ²¿¶ÓÊ±£¬ÈÎÒâÑ¡ÔñÒ»¼Ò¾ãÀÖ²¿£¬ÔÙÑ¡ÔñÈÎÒâÒ»Ãû±¾ÍÁÇòÔ±(ÔÚ±¾ÀıÖĞÒ²¾ÍÊÇÓ¢¸ñÀ¼¼®µÄÇòÔ±)²é¿´ËûµÄÏêÏ¸×ÊÁÏ£¬ÕâÊ±ËûµÄ¹ú¼®ÏÔÊ¾England,µ¥»÷England£¬¾Í³öÏÖÓ¢¸ñÀ¼¹ú¼Ò¶Ó£¬ÔÙÑ¡ÔñTake Control£¬¾Í¿ÉÒÔ¿ØÖÆÓ¢¸ñÀ¼¹ú¼Ò¶ÓÁË¡£ÆäËû¹ú¼ÒÓë´ËÏàÍ¬¡£
+ä»¥è‹±æ ¼å…°ä¸ºä¾‹ï¼Œå¼€å§‹æ–°æ¸¸æˆé€‰æ‹©ä¿±ä¹éƒ¨é˜Ÿæ—¶ï¼Œæˆ–åœ¨æ¸¸æˆä¸­é€‰æ‹©Add Manageråé€‰æ‹©ä¿±ä¹éƒ¨é˜Ÿæ—¶ï¼Œä»»æ„é€‰æ‹©ä¸€å®¶ä¿±ä¹éƒ¨ï¼Œå†é€‰æ‹©ä»»æ„ä¸€åæœ¬åœŸçƒå‘˜(åœ¨æœ¬ä¾‹ä¸­ä¹Ÿå°±æ˜¯è‹±æ ¼å…°ç±çš„çƒå‘˜)æŸ¥çœ‹ä»–çš„è¯¦ç»†èµ„æ–™ï¼Œè¿™æ—¶ä»–çš„å›½ç±æ˜¾ç¤ºEngland,å•å‡»Englandï¼Œå°±å‡ºç°è‹±æ ¼å…°å›½å®¶é˜Ÿï¼Œå†é€‰æ‹©Take Controlï¼Œå°±å¯ä»¥æ§åˆ¶è‹±æ ¼å…°å›½å®¶é˜Ÿäº†ã€‚å…¶ä»–å›½å®¶ä¸æ­¤ç›¸åŒã€‚
 
-×îºÃµÄÇòÔ±
+æœ€å¥½çš„çƒå‘˜
 
-¼Ç×¡ËûÃÇµÄÃû×Ö°É£¬ÔÚÏÖÔÚ»òÔÚ½«À´£¬ËûÃÇ»áÊÇÈ«ÊÀ½ç×îºÃµÄÇòÔ±
+è®°ä½ä»–ä»¬çš„åå­—å§ï¼Œåœ¨ç°åœ¨æˆ–åœ¨å°†æ¥ï¼Œä»–ä»¬ä¼šæ˜¯å…¨ä¸–ç•Œæœ€å¥½çš„çƒå‘˜
 Vance Warner
 David Woozley
 Dean Chandler
@@ -23,13 +23,13 @@ Pablo Aimar
 
 Free Players
 
-First, when you find a player you want, start a second team who have enough money to buy him (Arsenal, or Man Utd are good bets) then, with the team you want to buy him for, place an offer of ¡ê0 for him.
+First, when you find a player you want, start a second team who have enough money to buy him (Arsenal, or Man Utd are good bets) then, with the team you want to buy him for, place an offer of ï¿¡0 for him.
 Then, with the second team, place an offer of the amount the club want for him.
-Having done this, go to adjust offer with the same team, and near the top left corner will be a little arrow click it and your team name should be there, click that, and hey presto, you have control of whether to accept the first offer or not. But don¡¯t forget to withdraw the second offer of the right amount
+Having done this, go to adjust offer with the same team, and near the top left corner will be a little arrow click it and your team name should be there, click that, and hey presto, you have control of whether to accept the first offer or not. But donâ€™t forget to withdraw the second offer of the right amount
 
 Players for free
 
-Go to the player you want to buy. Put an offer in for twice as much as his value,they will accept, you go to ¡¯adjust offer¡¯, put your offer down to free and press cancel.
+Go to the player you want to buy. Put an offer in for twice as much as his value,they will accept, you go to â€™adjust offerâ€™, put your offer down to free and press cancel.
 
 Free Transfers For Every Team
 
@@ -44,18 +44,18 @@ Free Transfers For Every Team
 9. Withdraw the transfer offer from the 2nd team
 10. The transfer will now be complete if the player and team can agree personal terms
 
-Ç°·æ·è¿ñ½øÇò
+å‰é”‹ç–¯ç‹‚è¿›çƒ
 
-ÈÃÄãµÄÇ°·æ(Striker)¶¢×¡(Mark)¶Ô·½µÄÊØÃÅÔ±£¬ÕâÕĞ·Ç³£ÓĞĞ§£¬ÄãµÄÇ°·æ½øÇòÊı»á´ó´óÔö¼ÓµÄ
+è®©ä½ çš„å‰é”‹(Striker)ç›¯ä½(Mark)å¯¹æ–¹çš„å®ˆé—¨å‘˜ï¼Œè¿™æ‹›éå¸¸æœ‰æ•ˆï¼Œä½ çš„å‰é”‹è¿›çƒæ•°ä¼šå¤§å¤§å¢åŠ çš„
 
-ÎŞÏŞ×Ê½ğ
+æ— é™èµ„é‡‘
 
-ÒÔJIMMY RULES×÷ÎªÃû×Ö£¬Äã¾ÍÓĞÎŞÏŞ×Ê½ğÁË
+ä»¥JIMMY RULESä½œä¸ºåå­—ï¼Œä½ å°±æœ‰æ— é™èµ„é‡‘äº†
 
-ºÃµÄÈü¼¾
+å¥½çš„èµ›å­£
 
-ÔÚtactics²Ëµ¥ÊäÈëCHAMPION
+åœ¨tacticsèœå•è¾“å…¥CHAMPION
 
-ÇáËÉÈ¡µÃÊ¤Àû
+è½»æ¾å–å¾—èƒœåˆ©
 
 First chose the team you are playing against (has to be in the nation you selected earlier) Then take control of that team as another manager. During the game move all the players from the team you want to lose up to attack then your players should have no problem scoring.

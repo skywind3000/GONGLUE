@@ -1,13 +1,13 @@
 Excessive Speed
 
-ÔÚÖ÷²Ëµ¥ÖĞÊäÈëÒÔÏÂ´úÂë£º
-alltracks:È«²¿ÈüµÀ
-allcars£ºÈ«²¿Æû³µ
-addmissile£ºÖØ×°µ¼µ¯
-addturbo£º¼ÓTURBO
-addlife£º¼ÓÃü
-addshield:¼Ó·À»¤¶Ü
-addearthquake£ºµØÕğ
-addenergy£º¼ÓÄÜÁ¿
-addmine£º¼Ó¿óÎï
-addghost£ºÓÄÁé³µ
+åœ¨ä¸»èœå•ä¸­è¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+alltracks:å…¨éƒ¨èµ›é“
+allcarsï¼šå…¨éƒ¨æ±½è½¦
+addmissileï¼šé‡è£…å¯¼å¼¹
+addturboï¼šåŠ TURBO
+addlifeï¼šåŠ å‘½
+addshield:åŠ é˜²æŠ¤ç›¾
+addearthquakeï¼šåœ°éœ‡
+addenergyï¼šåŠ èƒ½é‡
+addmineï¼šåŠ çŸ¿ç‰©
+addghostï¼šå¹½çµè½¦

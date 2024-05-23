@@ -1,9 +1,9 @@
-Forsaken ���¶�ɱ�֣�
+Forsaken （孤独杀手）
 
-����һ�˵��ɼ��������ַ�������Ӧ����
-bubbles������ģʽ
-thefullmonty���������ز˵�
-iamzeus���޵�ģʽ��ӵ�д��������͵�ҩ
-lumberjack�����뵼���л�ģʽ
-jimbeam�������ǹ�л�ģʽ
+在任一菜单可键入下列字符开启相应功能
+bubbles：作弊模式
+thefullmonty：开启跳关菜单
+iamzeus：无敌模式并拥有大量武器和弹药
+lumberjack：进入导弹切换模式
+jimbeam：进入光枪切换模式
 

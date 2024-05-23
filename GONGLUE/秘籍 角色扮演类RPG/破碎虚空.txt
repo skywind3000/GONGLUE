@@ -1,77 +1,77 @@
-ÆÆËéĞé¿Õ
+ç ´ç¢è™šç©º
 
-ÔÚÕ½¶·»­Ãæ°´Ctrl+F12¼ü³öÏÖÃÜÂëÊÓ´°,ÊäÈë: 
+åœ¨æˆ˜æ–—ç”»é¢æŒ‰Ctrl+F12é”®å‡ºç°å¯†ç è§†çª—,è¾“å…¥: 
 
-¸ßµä¾²: 
+é«˜å…¸é™: 
 
-sonic = Ììô¥Ö®Òô 
-timeless = °Ë·½ÔÆ¶¯ 
-mind = ĞÄ¿ñÒäÂÒ 
-jadebust = ÓñÊ¯¾ã·Ù 
-perish = »ÙÌìÃğµØ 
-lightning = À×öªÍò¾û 
-damnation = Ê®ÃæÂñ·ü 
-music = ²×º£Ğ¥Éù 
+sonic = å¤©ç±ä¹‹éŸ³ 
+timeless = å…«æ–¹äº‘åŠ¨ 
+mind = å¿ƒç‹‚å¿†ä¹± 
+jadebust = ç‰çŸ³ä¿±ç„š 
+perish = æ¯å¤©ç­åœ° 
+lightning = é›·éœ†ä¸‡é’§ 
+damnation = åé¢åŸ‹ä¼ 
+music = æ²§æµ·å•¸å£° 
 
-°×Á«çå: 
+ç™½è²ç: 
 
-antigue = ÃÔÇéÑÛ 
-cloudm = ÈöÔÆÊÖ 
-magic = ¹éÔªÊõ 
-paisonm = ¶¾Ïß¼× 
-mantis = ½ğË¿ó«òë 
-knot = ÃÔ»êµû 
-mosquito = ÄÏÊñÎÃ 
-egret = ÏÉº×Éñà¹ 
-golden = °ÙÑÛ½ğÃ¢ 
-horse = ÉñÂí±¼À× 
-assail = ÁïÖ®´ó¼ª 
+antigue = è¿·æƒ…çœ¼ 
+cloudm = æ’’äº‘æ‰‹ 
+magic = å½’å…ƒæœ¯ 
+paisonm = æ¯’çº¿ç”² 
+mantis = é‡‘ä¸è³è‚ 
+knot = è¿·é­‚è¶ 
+mosquito = å—èœ€èšŠ 
+egret = ä»™é¹¤ç¥å–™ 
+golden = ç™¾çœ¼é‡‘èŠ’ 
+horse = ç¥é©¬å¥”é›· 
+assail = æºœä¹‹å¤§å‰ 
 
-´«Ó¥: 
+ä¼ é¹°: 
 
-aaron = »ğÑæ·É»÷ 
-dragon = º®±ùÁúÏÑ 
+aaron = ç«ç„°é£å‡» 
+dragon = å¯’å†°é¾™æ¶ 
 
-Õ½ÉñÂ¼: 
+æˆ˜ç¥å½•: 
 
-revice = ÒõÑôÏà¼Ì 
-revert = ´óµØ¾«İÍ 
-aerial = ĞşÌìÒ»Æø 
-tiger = ĞşÎä°×»¢ 
-unharmed = Óö¼ÉÎŞËğ 
-gold = ½ğÓñÍò¼á 
-peerless = ÆÆËéĞé¿Õ 
-super = ³¤ÉúÎ´É¢ 
-stony = Ê÷¾²Ê¯¶¯ 
-thunderbolt = Ê÷¾²Ê¯¶¯ 
-thunder = ³àÀ×Èı»÷ 
-ground = ·üÍÁÇ§»¯ 
-defense = °×Îí»ÃÓ° 
-mount = µÀ¼û°ÙÉ½ 
-time = ÌìÊ±ÎŞÎ¥ 
-aircurrent = ·üÆøÖĞ½á 
-norn = æÚºÅÓĞÀ÷ 
-flux = µÀÔ¶Á÷Ğé 
-movement = ¶¯¾²Ö®»ú 
-ghost = ÌìµØ¹íÉñ 
-triple = ¾ÅÈıÖØ¸Õ 
-quickly = Ç¨±äÈÚ¹á 
-autumn = Çï·çÈçµ¶ 
-splash = Ì«ÒõÚ¤Ë® 
-message = Âö¶ÏÉñ¾÷ 
-rampart = ÇáÑÌ·ÉÂş 
-shore = ·¨¿ÕÁé°¶ 
-heaven = ¿ÕÓÃÖ®Éñ 
-flower = ÈÕÔÂ¾«»ª 
-sword = ÃÜÓê¿ñ½£ 
-taichi = ÌìµØÌ«¼« 
-mars = Õ½Éñ³õÏÖ 
+revice = é˜´é˜³ç›¸ç»§ 
+revert = å¤§åœ°ç²¾èƒ 
+aerial = ç„å¤©ä¸€æ°” 
+tiger = ç„æ­¦ç™½è™ 
+unharmed = é‡å¿Œæ— æŸ 
+gold = é‡‘ç‰ä¸‡åš 
+peerless = ç ´ç¢è™šç©º 
+super = é•¿ç”Ÿæœªæ•£ 
+stony = æ ‘é™çŸ³åŠ¨ 
+thunderbolt = æ ‘é™çŸ³åŠ¨ 
+thunder = èµ¤é›·ä¸‰å‡» 
+ground = ä¼åœŸåƒåŒ– 
+defense = ç™½é›¾å¹»å½± 
+mount = é“è§ç™¾å±± 
+time = å¤©æ—¶æ— è¿ 
+aircurrent = ä¼æ°”ä¸­ç»“ 
+norn = å­šå·æœ‰å‰ 
+flux = é“è¿œæµè™š 
+movement = åŠ¨é™ä¹‹æœº 
+ghost = å¤©åœ°é¬¼ç¥ 
+triple = ä¹ä¸‰é‡åˆš 
+quickly = è¿å˜èè´¯ 
+autumn = ç§‹é£å¦‚åˆ€ 
+splash = å¤ªé˜´å†¥æ°´ 
+message = è„‰æ–­ç¥è¯€ 
+rampart = è½»çƒŸé£æ¼« 
+shore = æ³•ç©ºçµå²¸ 
+heaven = ç©ºç”¨ä¹‹ç¥ 
+flower = æ—¥æœˆç²¾å 
+sword = å¯†é›¨ç‹‚å‰‘ 
+taichi = å¤©åœ°å¤ªæ 
+mars = æˆ˜ç¥åˆç° 
 
-MONEY # = Ôö¼Ó½ğÇ®(#=1~9999) 
+MONEY # = å¢åŠ é‡‘é’±(#=1~9999) 
 
-ÔÚÆ½Ê±·ÇÕ½¶·»­Ãæ: 
+åœ¨å¹³æ—¶éæˆ˜æ–—ç”»é¢: 
 
-DIPPER = ¿ÉÈÎÒâÒÆ¶¯ 
-VISITANT = ÒşĞÎ(²»»áÓĞÖĞÍ¾µÄÕ½¶·) 
-HIDE = ±ÜµĞ
+DIPPER = å¯ä»»æ„ç§»åŠ¨ 
+VISITANT = éšå½¢(ä¸ä¼šæœ‰ä¸­é€”çš„æˆ˜æ–—) 
+HIDE = é¿æ•Œ
 

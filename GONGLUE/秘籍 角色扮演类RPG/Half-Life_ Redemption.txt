@@ -1,16 +1,16 @@
 Half-Life_ Redemption
 
-Ê¹ÓÃÃüÁîÐÐ¡°-dev -toconsole¡±Æô¶¯ÓÎÏ·£¬Èç¹ûÃ»ÓÐ³öÏÖ³È»ÆÉ«
-ÎÄ×Ö£¬ÔÙÊäÈë¡°~¡±¡£ÔÚÓÎÏ·ÖÐÉîÈë¡°¡±ºÍ¡°sv_cheats 1¡±½øÈë
-×÷±×Ä£Ê½¡£ÏÖÔÚÊäÈë¡°~¡±ºÍÒÔÏÂ´úÂë£º
-/god£ºÉÏµÛÄ£Ê½
-/noclip£ºNo Clipping 
-/notarget£º²»Ïê£¿£¿
-impulse 101£ºÎäÆ÷¡¢µ¯Ò©È«Âú
-/map (map name)£ºµØÍ¼Ñ¡Ôñ
-/thirdperson£ºµÚÈýÕß½Ç¶È
-sv_gravity ####£ºµ÷ÕûÖØÁ¦£¬·¶Î§´Ó-999µ½999999 
-/give (item name)£ºµÃµ½ÎïÆ· 
+ä½¿ç”¨å‘½ä»¤è¡Œâ€œ-dev -toconsoleâ€å¯åŠ¨æ¸¸æˆï¼Œå¦‚æžœæ²¡æœ‰å‡ºçŽ°æ©™é»„è‰²
+æ–‡å­—ï¼Œå†è¾“å…¥â€œ~â€ã€‚åœ¨æ¸¸æˆä¸­æ·±å…¥â€œâ€å’Œâ€œsv_cheats 1â€è¿›å…¥
+ä½œå¼Šæ¨¡å¼ã€‚çŽ°åœ¨è¾“å…¥â€œ~â€å’Œä»¥ä¸‹ä»£ç ï¼š
+/godï¼šä¸Šå¸æ¨¡å¼
+/noclipï¼šNo Clipping 
+/notargetï¼šä¸è¯¦ï¼Ÿï¼Ÿ
+impulse 101ï¼šæ­¦å™¨ã€å¼¹è¯å…¨æ»¡
+/map (map name)ï¼šåœ°å›¾é€‰æ‹©
+/thirdpersonï¼šç¬¬ä¸‰è€…è§’åº¦
+sv_gravity ####ï¼šè°ƒæ•´é‡åŠ›ï¼ŒèŒƒå›´ä»Ž-999åˆ°999999 
+/give (item name)ï¼šå¾—åˆ°ç‰©å“ 
  
  
 

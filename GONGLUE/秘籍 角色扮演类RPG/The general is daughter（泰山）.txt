@@ -1,12 +1,12 @@
-The general is daughter£¨Ì©É½£©
+The general is daughterï¼ˆæ³°å±±ï¼‰
 
-ÃÜÂë:
-stlevel Ìø¹ıµ±Ç°¹Ø 
-ststage Ñ¡¹Ø 
-stanimals É±ËÀËùÓĞ¿ÕÏĞµÄ¶¯Îï 
-stsave ´¢´æÓÎÏ· 
-stload ¶ÁÈ¡ÓÎÏ· 
-sttarzan ±ä³ÉÌ©É½ 
-stjane ±ä³É¼ò 
-stcolour ·¢ÁÁ 
+å¯†ç :
+stlevel è·³è¿‡å½“å‰å…³ 
+ststage é€‰å…³ 
+stanimals æ€æ­»æ‰€æœ‰ç©ºé—²çš„åŠ¨ç‰© 
+stsave å‚¨å­˜æ¸¸æˆ 
+stload è¯»å–æ¸¸æˆ 
+sttarzan å˜æˆæ³°å±± 
+stjane å˜æˆç®€ 
+stcolour å‘äº® 
 

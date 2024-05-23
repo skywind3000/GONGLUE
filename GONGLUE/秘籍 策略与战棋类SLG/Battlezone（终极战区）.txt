@@ -1,11 +1,11 @@
-Battlezone£¨ÖÕ¼«Õ½Çø£©
+Battlezoneï¼ˆç»ˆæžæˆ˜åŒºï¼‰
 
-Ò»¡¢ÔÚÓÎÏ·¹ý³ÌÖÐ°´×¡CtrlºÍAlt¼üÈëÒÔÏÂÃüÁî£º
-bzbody ¡ª¡ª ²»ËÀÖ®Éí
-bztnt ¡ª¡ª µ¯Ò©ÎÞÏÞ
-bzfree ¡ª¡ª Ãâ·Ñ½¨ÔìÈÎºÎµ¥Î»
-bzradar ¡ª¡ª ³¬¼¶À×´ï
-bzview ¡ª¡ª ¿É¿ªÆôÎÀÐÇÄ£Ê½
-¶þ¡¢Ìø¹Ø
-ÔÚÈÎÎñ¼ò±¨Ê±¼üÈëpoweroflove£¬È»ºó°´×¡Ctrl¼üÕâÊ±ÐÇÇòÉ¨ÃèÍ¼»á±ä³ÉÑ¡¹ØµÄ²Ëµ¥£¡
+ä¸€ã€åœ¨æ¸¸æˆè¿‡ç¨‹ä¸­æŒ‰ä½Ctrlå’ŒAlté”®å…¥ä»¥ä¸‹å‘½ä»¤ï¼š
+bzbody â€”â€” ä¸æ­»ä¹‹èº«
+bztnt â€”â€” å¼¹è¯æ— é™
+bzfree â€”â€” å…è´¹å»ºé€ ä»»ä½•å•ä½
+bzradar â€”â€” è¶…çº§é›·è¾¾
+bzview â€”â€” å¯å¼€å¯å«æ˜Ÿæ¨¡å¼
+äºŒã€è·³å…³
+åœ¨ä»»åŠ¡ç®€æŠ¥æ—¶é”®å…¥powerofloveï¼Œç„¶åŽæŒ‰ä½Ctrlé”®è¿™æ—¶æ˜Ÿçƒæ‰«æå›¾ä¼šå˜æˆé€‰å…³çš„èœå•ï¼
 

@@ -1,11 +1,11 @@
-������
+法老王
 
-����Ϸ�İ�װ·�����ҵ�Pharaoh_Model_Normal.txt�ļ���ȥ��ֻ�����ԣ���д�ֱ��򿪣���Ϳ����������Ҫ�Ķ��������˴��̡���ע����ļ������ԸĻ�ֻ����
+在游戏的安装路径下找到Pharaoh_Model_Normal.txt文件，去掉只读属性，用写字本打开，你就可随意改你想要的东西，完了存盘。（注意把文件的属性改回只读）
 
 Homeless Help Out
-����Ϸ�У����£�[Ctrl]+[Alt]+[Shift]+C�����룺"help homeless"������ٺ�..�Լ�����
+在游戏中，按下：[Ctrl]+[Alt]+[Shift]+C后，输入："help homeless"，结果嘿嘿..自己看吧
 
 
-ֱ�ӻ�ʤ��
-����Ϸ�У����£�[Ctrl]+[Alt]+[Shift]+C Ȼ�����롰Pharaohs Tomb���ͻ�ֱ��ȡ��ʤ����������һ�ء�
+直接获胜：
+在游戏中，按下：[Ctrl]+[Alt]+[Shift]+C 然后输入“Pharaohs Tomb”就会直接取得胜利而进入下一关。
 

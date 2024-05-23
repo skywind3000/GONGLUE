@@ -1,14 +1,14 @@
-�Ǽ��Ժ�����Ӣ����
+星际迷航：精英部队
 
-����Ϸ�а��¡�~�������롰sv_cheats 1���㿪��������ģʽ���ٴΰ��¡�~�������������µ����룺 
-god �޵�ģʽ 
-noclip ��ǽģʽ 
-give x �õ�ָ������Ʒ 
-undying ����������ֵ��Ϊ999 
-cg_thirdperson 1 �����˳��ӽ� 
-notarget ����ģʽ 
-map x ֱ�ӽ���ָ���ؿ� 
-��Ʒ�嵥����� give x �ؼ����� 
+在游戏中按下“~”后输入“sv_cheats 1”便开启了作弊模式，再次按下“~”后便可输入以下的密码： 
+god 无敌模式 
+noclip 穿墙模式 
+give x 得到指定的物品 
+undying 盔甲与生命值均为999 
+cg_thirdperson 1 第三人称视角 
+notarget 隐形模式 
+map x 直接进入指定关卡 
+物品清单（配合 give x 秘籍）： 
 Phaser 
 Compression Rifle 
 Scavenger Rifle 
@@ -18,7 +18,7 @@ Health
 Ammo 
 All 
 Tetryon Disruptor 
-��ͼ�ؿ��б������ map x �ؼ����� 
+地图关卡列表（配合 map x 秘籍）： 
 borg1 
 borg2 
 holodeck 

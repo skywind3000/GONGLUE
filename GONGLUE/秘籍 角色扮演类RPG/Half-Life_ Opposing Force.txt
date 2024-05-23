@@ -1,12 +1,12 @@
 Half-Life_ Opposing Force
 
-�á�hl.exe -dev -console -game gearbox���İ취�������Ϳ���ʹ���������
-IMPULSE 101 ----�õ����������͵�ҩ
-/GOD ----�ϵ�ģʽ
-/NOCLIP ----��ǽ/����
-/MAP xxxx - ����ͼ�ĵص�xxxx
-/GIVE xxxx - ����Ʒxxxx
-/GIVE WEAPON_X - �õ�����X������X���ڣ�
+用“hl.exe -dev -console -game gearbox”的办法启动，就可以使用以下命令：
+IMPULSE 101 ----得到所以武器和弹药
+/GOD ----上帝模式
+/NOCLIP ----穿墙/飞行
+/MAP xxxx - 到地图的地点xxxx
+/GIVE xxxx - 给物品xxxx
+/GIVE WEAPON_X - 得到武器X，其中X等于：
 GRAPPLE/KNIFE/PIPEWRENCH/EAGLE/SNIPERRIFLE/
 M249/DISPLACER/SHOCKRIFLE/SPORELAUNCHER 
 

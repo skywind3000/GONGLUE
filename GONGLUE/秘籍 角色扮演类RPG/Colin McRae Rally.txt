@@ -1,20 +1,20 @@
 Colin McRae Rally
 
-Òþ²ØÃØ¼¼£º
-1.ÓÃFREEWAY×÷ÎªÄãµÄÃû×Ö¼´¿ÉÊ¹ÓÃÈ«²¿ÈüµÀ
-2.ÓÃLOTTOWIN×÷ÎªÄãµÄÃû×Ö¼´¿ÉÊ¹ÓÃBonus Cars
-3.ÓÃSPECIALED×÷ÎªÄãµÄÃû×Ö¼´¿É¶¨ÖÆÖØ²¥
-4.ÓÃBIGGUNS×÷ÎªÄãµÄÃû×Ö¼´¿É»ñµÃ¼Ó±¶¶¯Á¦
-5.ÓÃHIPPO×÷ÎªÄãµÄÃû×Ö¼´¿ÉÊ¹ÓÃ¸ÅÄî³µ
-6.ÓÃWHITEOUT×÷ÎªÄãµÄÃû×Ö¼´¿É½µµÍÄÜ¼û¶È
-7.ÓÃÒÔÏÂÃû×Ö×÷ÎªÄãµÄÓÃ»§Ãû¼´¿ÉÊ¹ÓÃÏàÓ¦Òþ²ØÈüµÀ 
+éšè—ç§˜æŠ€ï¼š
+1.ç”¨FREEWAYä½œä¸ºä½ çš„åå­—å³å¯ä½¿ç”¨å…¨éƒ¨èµ›é“
+2.ç”¨LOTTOWINä½œä¸ºä½ çš„åå­—å³å¯ä½¿ç”¨Bonus Cars
+3.ç”¨SPECIALEDä½œä¸ºä½ çš„åå­—å³å¯å®šåˆ¶é‡æ’­
+4.ç”¨BIGGUNSä½œä¸ºä½ çš„åå­—å³å¯èŽ·å¾—åŠ å€åŠ¨åŠ›
+5.ç”¨HIPPOä½œä¸ºä½ çš„åå­—å³å¯ä½¿ç”¨æ¦‚å¿µè½¦
+6.ç”¨WHITEOUTä½œä¸ºä½ çš„åå­—å³å¯é™ä½Žèƒ½è§åº¦
+7.ç”¨ä»¥ä¸‹åå­—ä½œä¸ºä½ çš„ç”¨æˆ·åå³å¯ä½¿ç”¨ç›¸åº”éšè—èµ›é“ 
 No.1: INTHECLOUDS 
 No.2: QUARRYVILLE 
 No.3: TROLLEYPARK 
 No.4: WILDAYWORLD 
-8.ÓÃWHITEOUT×÷ÎªÄãµÄÃû×Ö¼´¿É½øÈëJellyÄ£Ê½
-9.ÓÃBORROWERS×÷ÎªÄãµÄÃû×Ö¼´¿ÉÊ¹ÓÃÐ¡ÐÍ³µ
-10.ÓÃBEEFCAKE×÷ÎªÄãµÄÃû×Ö¼´¿ÉÊ¹ÓÃToyota Celica GT4
-11.ÓÃALLWHEELS×÷ÎªÄãµÄÃû×Ö¼´¿ÉÊ¹ÓÃËÄÂÖÇý¶¯
-12.ÓÃDELOREAN×÷ÎªÄãµÄÃû×Ö¼´¿É½øÈëHovercraftÄ£Ê½
+8.ç”¨WHITEOUTä½œä¸ºä½ çš„åå­—å³å¯è¿›å…¥Jellyæ¨¡å¼
+9.ç”¨BORROWERSä½œä¸ºä½ çš„åå­—å³å¯ä½¿ç”¨å°åž‹è½¦
+10.ç”¨BEEFCAKEä½œä¸ºä½ çš„åå­—å³å¯ä½¿ç”¨Toyota Celica GT4
+11.ç”¨ALLWHEELSä½œä¸ºä½ çš„åå­—å³å¯ä½¿ç”¨å››è½®é©±åŠ¨
+12.ç”¨DELOREANä½œä¸ºä½ çš„åå­—å³å¯è¿›å…¥Hovercraftæ¨¡å¼
 

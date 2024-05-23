@@ -1,34 +1,34 @@
-Crusader_Noremorese(��Ѫʮ�־��򡪡��������)
+Crusader_Noremorese(铁血十字军Ⅱ——永不后悔)
 
-�ǵ��ڰ���ǰ��һ�����Ϸ�������缲�������Ǿ��ǡ��޻ڵ�ʮ�־�սʿ��(��Crusader:No remorese��)������������л��Ὣ���޻ڵ�ս��������ȥ�ˡ�����սʿSilencer�����³�ɱ��ս���С�������Ѫʮ�־���������ڡ�(�� Crusader:Noremorese��) 
+记得在半年前，一款动作游戏曾让我如疾如醉，那就是《无悔的十字军战士》(《Crusader:No remorese》)：如今，我终于有机会将这无悔的战斗继续下去了。复仇战士Silencer将重新冲杀在战场中——《铁血十字军Ⅱ：永不后悔》(《 Crusader:Noremorese》) 
 
-���ʵ���� 
+精彩的情节 
 
-������Σ�������WEC��֯��������أ������״ݻ�����Origin��˾������ȫ�µ�ʮ���������»����˸�������������AI����ǿ���㽫��Եģ��Ǹ��ӽ�թ�ĵ��ˣ�����ͬ���������ݵ����ֺ͸߳�������(����Ρ�����)��ϲ����ս�����ѣ��ϰ�! 
+　　这次，将进入WEC组织的月球基地，并彻底摧毁它，Origin公司制作了全新的十个任务重新绘制了各个场景，并将AI大大加强，你将面对的，是更加狡诈的敌人，他们同样具有敏捷的身手和高超的能力(如变形、隐身)，喜欢挑战的朋友，上吧! 
 
-������Ч�� 
+华丽的效果 
 
-������Ϸ�����ˢ����б��45��3D�ӽǣ�����SVGA ���棬��Ļ��ÿһ����Ʒ���̻���ϸ����΢���ڹ���ʱ�������˵�Ӱ������Ч����16λ�����������������Ǻܡ�ˬ���ĸо��� 
+　　游戏延用了Ⅰ代的斜向45°3D视角，配以SVGA 画面，屏幕上每一个物品都刻画得细致入微。在过场时彩了真人电影，而音效则是16位环绕立体声，绝对是很“爽”的感觉。 
 
-���Ĳ��� 
+灵活的操纵 
 
-����Ϊ�˰�������ɼ�޵�������Ϸ���ر��ṩ�˶��19�����������Բ�ͬ��ɱ��Ч�����е�����ʹ�˷��飬���������ۻ����ڲ��������൱�ĵ���Ӧ�֣�ʹ�����ͼ��̼��ɽ���21�ֶ��������������ǰ�˵ȵ��Ѳ������¡��ǲ�����������̫��ǲ�ס?��Ҫ������Ϸ��ֻ�谴�°����������ɵõ����ڲ��ݣ���Ʒ���ܣ�ʹ�÷����ȷ�����꾡˵�����ǲ��ǵ�����Ϸ̫����!��Ҫ�����ؼ��ڴ�! 
-����Loosecannon16:enablecheat 
-����Crtl+F10:getallthings 
-����F10:neverdie 
-����Ctrl+V:version 
+　　为了帮助你完成艰巨的任务，游戏中特别提供了多达19种武器，配以不同的杀伤效果，有的甚至使人粉碎，冰冻或是熔化。在操作上是相当的得心应手，使用鼠标和键盘即可进行21种动作，滚动射击、前扑等等已不是难事。是不是提心命令太多记不住?不要紧，游戏中只需按下帮助键，即可得到关于操纵，物品性能，使用方法等方面的详尽说明。是不是担心游戏太难了!不要紧，秘技在此! 
+　　Loosecannon16:enablecheat 
+　　Crtl+F10:getallthings 
+　　F10:neverdie 
+　　Ctrl+V:version 
 
-��Ѫʮ�־� 
+铁血十字军 
 
-��������Ϸ����ɼ���jsssical16(ע���������������16)��Ȼ���»س���������Ϸ�п�ʹ�������ؼ��� 
-����Ctrl+F10�������޵��ؼ��� 
-����F10�ɲ������װ���������� 
-����H��ʹHACKERMOVE�򿪡� 
-����Ctrl+V����ʾ��Ϸ�汾�� 
-����Ctrl+L����ʾ���ꡣ 
+　　在游戏中你可键入jsssical16(注意后面两个是数字16)，然后按下回车键，则游戏中可使用下列秘技： 
+　　Ctrl+F10可启动无敌秘技。 
+　　F10可补充各种装备及武器。 
+　　H可使HACKERMOVE打开。 
+　　Ctrl+V可显示游戏版本。 
+　　Ctrl+L可显示坐标。 
 
-������Ϸ��DOS������ʱҲ��ʹ�����в����� 
-����-debugDEBUGMODE�� 
-����-skillx�趨����Ϊx�� 
-����-warpxֱ�����x�ء� 
+另外游戏在DOS下启动时也可使用下列参数： 
+　　-debugDEBUGMODE。 
+　　-skillx设定技能为x。 
+　　-warpx直接玩第x关。 
 

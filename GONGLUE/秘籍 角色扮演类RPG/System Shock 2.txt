@@ -1,7 +1,7 @@
 System Shock 2
 
-ÔÚÓÎÏ·ÖĞÍ¬Ê±°´ÏÂ¡°SHIFT¡±ºÍ¡°£»¡±£¨·ÖºÅ£©£¬È»ºóÊäÈëÒÔÏÂ´úÂë£º
-summon_obj [item],ÆäÖĞµÄITEM¿ÉÒÔÊÇ£º
+åœ¨æ¸¸æˆä¸­åŒæ—¶æŒ‰ä¸‹â€œSHIFTâ€å’Œâ€œï¼›â€ï¼ˆåˆ†å·ï¼‰ï¼Œç„¶åè¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+summon_obj [item],å…¶ä¸­çš„ITEMå¯ä»¥æ˜¯ï¼š
 medical kit/psi amp /wrench/pistol/shotgun/
 assault rifle/laser/pistol/ap clip/he clip/
 standard clip/pellet shot box/rifled slug box/
@@ -11,12 +11,12 @@ hack soft v3/repair soft v3/research soft v3/
 modify soft v3/EMP Rifle/Electro Shock/Gren Launcher/
 Stasis Field Generator/Fusion Cannon/Crystal Shard/
 Viral Prolif/Worm Launcher...
-Ò²¿ÉÒÔÊäÈëÒÔÏÂ´úÂë£º
-bow to the avatar! :ÉÏµÛÄ£Ê½
-psi_full:¼ÓÂúÍæ¼ÒµÄPSIÖµ
-show_version£ºÔÚÓÎÏ·Ä£Ê½ÖĞÏÔÊ¾°æ±¾
-wpn_setting_toggle£ºÔÚÎäÆ÷ÉèÖÃÖ®¼ä×ª»»
-clear_teleport£ºÇå³ıÈÎºÎ´æÔÚµÄÔ¶³Ì¶Ë¿Ú¼ÇÂ¼Õß
-quicksave£ºÔÚµ±Ç°×ÓÄ¿Â¼´æÅÌ
-quickload:´Óµ±Ç°×ÓÄ¿Â¼¼ÓÔØ
+ä¹Ÿå¯ä»¥è¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+bow to the avatar! :ä¸Šå¸æ¨¡å¼
+psi_full:åŠ æ»¡ç©å®¶çš„PSIå€¼
+show_versionï¼šåœ¨æ¸¸æˆæ¨¡å¼ä¸­æ˜¾ç¤ºç‰ˆæœ¬
+wpn_setting_toggleï¼šåœ¨æ­¦å™¨è®¾ç½®ä¹‹é—´è½¬æ¢
+clear_teleportï¼šæ¸…é™¤ä»»ä½•å­˜åœ¨çš„è¿œç¨‹ç«¯å£è®°å½•è€…
+quicksaveï¼šåœ¨å½“å‰å­ç›®å½•å­˜ç›˜
+quickload:ä»å½“å‰å­ç›®å½•åŠ è½½
 

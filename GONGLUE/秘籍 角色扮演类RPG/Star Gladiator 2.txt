@@ -1,15 +1,15 @@
 Star Gladiator 2
 
-ѡ���ɫ��
-Kaede��
-�ڽ�ɫѡ��ʱ��ѡ��Rain��Ȼ�������£��£�
-�����ϡ�
-Rai-On��
-�ڽ�ɫѡ��ʱ��ѡ��Byakko��Ȼ�������ϣ�
-�£������ң����ϡ�
+选择角色：
+Kaede：
+在角色选择时，选中Rain，然后输入下，下，
+左，左，上。
+Rai-On：
+在角色选择时，选中Byakko，然后输入上，
+下，左，左，右，左，上。
 
-Evil Gamof��
-�ڽ�ɫѡ��ʱ��ѡ��Gamof��Ȼ��סStart��
-�ٰ���A�� 
+Evil Gamof：
+在角色选择时，选中Gamof，然后按住Start，
+再按下A。 
 
 

@@ -1,23 +1,23 @@
-Expendable£¨±øÈË£©
+Expendableï¼ˆå…µäººï¼‰
 
-ÔÚÓÎÏ·Ê±ÊäÈë£ºad astra
-½«»á»ñµÃÎŞÏŞÉúÃü
+åœ¨æ¸¸æˆæ—¶è¾“å…¥ï¼šad astra
+å°†ä¼šè·å¾—æ— é™ç”Ÿå‘½
 
-ÔÚÓÎÏ·µÄ¿ì½İ·½Ê½ÖĞ¼ÓÈëÒÔÏÂÃüÁî£º
--mumford£½Hodspodkins Ä£Ê½
--whostayedlate£½Rockhard Ä£Ê½
--whostayedlateagain£½EasterEgg Ä£Ê½
+åœ¨æ¸¸æˆçš„å¿«æ·æ–¹å¼ä¸­åŠ å…¥ä»¥ä¸‹å‘½ä»¤ï¼š
+-mumfordï¼Hodspodkins æ¨¡å¼
+-whostayedlateï¼Rockhard æ¨¡å¼
+-whostayedlateagainï¼EasterEgg æ¨¡å¼
 
-Àı×Ó£º
+ä¾‹å­ï¼š
 "C:\Expend\go.exe" -whostayedlate 
 
-ÔÚÓÎÏ·ÖĞÏÈ°´ÏÂĞ¡¼üÅÌÉÏµÄ - ÔÙÊäÈëÏÂÁĞÃÜÂë£º
-bod£½´ò¿ª×÷±×Ä£Ê½
-mrbenn£½Ìø¹Ø
-zippy£½ÎŞµĞ
-bucketofchicken£½ºóÊÓ
-babapapa£½¼Ó·Ö
-crystaltips£½¼ÓÃü
-dunky£½½øÈë¸ß·Ö°ñ
-albertofrog£½ÊÖÁñµ¯ÍşÁ¦ÌáÉı
-bing£½¹Ø±Õ×÷±×Ä£Ê½
+åœ¨æ¸¸æˆä¸­å…ˆæŒ‰ä¸‹å°é”®ç›˜ä¸Šçš„ - å†è¾“å…¥ä¸‹åˆ—å¯†ç ï¼š
+bodï¼æ‰“å¼€ä½œå¼Šæ¨¡å¼
+mrbennï¼è·³å…³
+zippyï¼æ— æ•Œ
+bucketofchickenï¼åè§†
+babapapaï¼åŠ åˆ†
+crystaltipsï¼åŠ å‘½
+dunkyï¼è¿›å…¥é«˜åˆ†æ¦œ
+albertofrogï¼æ‰‹æ¦´å¼¹å¨åŠ›æå‡
+bingï¼å…³é—­ä½œå¼Šæ¨¡å¼

@@ -1,20 +1,20 @@
-Red Line£¨ºìÏßì­³µ£©
+Red Lineï¼ˆçº¢çº¿é£™è½¦ï¼‰
 
-ÔÚÓÎÏ·ÖÐ£¬Í¬Ê±°´ÏÂ"G + O + D"¼üºóÊäÈëÒÔÏÂ×Ö·û´®ÒÔ»ñµÃÏàÓ¦µÄ
-ÃÜ¼¼¹¦ÄÜ£º
+åœ¨æ¸¸æˆä¸­ï¼ŒåŒæ—¶æŒ‰ä¸‹"G + O + D"é”®åŽè¾“å…¥ä»¥ä¸‹å­—ç¬¦ä¸²ä»¥èŽ·å¾—ç›¸åº”çš„
+å¯†æŠ€åŠŸèƒ½ï¼š
 
-IMMORTAL£½¿ªÆôÉÏµÛÄ£Ê½
-MORTAL£½¹Ø±ÕÉÏµÛÄ£Ê½
-RETICLE£½µ±Íê³ÉÒ»¸öÄ¿±êºÍ¿ÌÏß±äºì
-CAMERA£½µ±ÓÃ½ÅÊ±±ä³ÉµÚÈýÈË³ÆÊÓ½Ç
-ALLAMMO£½ËùÓÐ²½ÐÐÎäÆ÷»ñµÃ×î´óµ¯Ò©Êý
-TARGETS£½²½ÐÐÎäÆ÷Ä¿±ê
-DMDAMAGE£½²½ÐÐÊ±Ôì³ÉÁ½±¶µÄÉËº¦
-RADAR£½²½ÐÐÀ×´ï
-CW£½ËùÓÐ³µÁ¾ÎäÆ÷
-CA£½×î´ó³µÁ¾ÎäÆ÷µ¯Ò©
-STONEAGE£½³µ×ÓÖÐ±¼ÅÜµÄÈË
-CAROFF£½Ã»ÓÐ³µÁ¾¼¸ºÎÑ§Ô­Àí
-CARREVERSE£½³µÁ¾¼¸ºÎÑ§Ô­Àí±³×ª
-WHEELSOFF£½Ë¨ÀÎ³µÁ¾ÂÖ×Ó 
+IMMORTALï¼å¼€å¯ä¸Šå¸æ¨¡å¼
+MORTALï¼å…³é—­ä¸Šå¸æ¨¡å¼
+RETICLEï¼å½“å®Œæˆä¸€ä¸ªç›®æ ‡å’Œåˆ»çº¿å˜çº¢
+CAMERAï¼å½“ç”¨è„šæ—¶å˜æˆç¬¬ä¸‰äººç§°è§†è§’
+ALLAMMOï¼æ‰€æœ‰æ­¥è¡Œæ­¦å™¨èŽ·å¾—æœ€å¤§å¼¹è¯æ•°
+TARGETSï¼æ­¥è¡Œæ­¦å™¨ç›®æ ‡
+DMDAMAGEï¼æ­¥è¡Œæ—¶é€ æˆä¸¤å€çš„ä¼¤å®³
+RADARï¼æ­¥è¡Œé›·è¾¾
+CWï¼æ‰€æœ‰è½¦è¾†æ­¦å™¨
+CAï¼æœ€å¤§è½¦è¾†æ­¦å™¨å¼¹è¯
+STONEAGEï¼è½¦å­ä¸­å¥”è·‘çš„äºº
+CAROFFï¼æ²¡æœ‰è½¦è¾†å‡ ä½•å­¦åŽŸç†
+CARREVERSEï¼è½¦è¾†å‡ ä½•å­¦åŽŸç†èƒŒè½¬
+WHEELSOFFï¼æ “ç‰¢è½¦è¾†è½®å­ 
 

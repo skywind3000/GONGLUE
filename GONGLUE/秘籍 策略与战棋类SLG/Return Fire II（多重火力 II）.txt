@@ -1,17 +1,17 @@
-Return Fire II£¨¶àÖØ»ðÁ¦ II£©
+Return Fire IIï¼ˆå¤šé‡ç«åŠ› IIï¼‰
 
-ßx“ñµØˆD®‹Ãæ•r, ÒÀ×óÉÏ,ÓÒÉÏ,×óÏÂ, ÓÒÏÂ´ÎÐòücßx®‹ÃæÓÒÉÏµÄÐÕÃû™ÚµÄËÄ‚€¼ýî^¼´¿Éßx“ñµØˆD
+é¸æ“‡åœ°åœ–ç•«é¢æ™‚, ä¾å·¦ä¸Š,å³ä¸Š,å·¦ä¸‹, å³ä¸‹æ¬¡åºé»žé¸ç•«é¢å³ä¸Šçš„å§“åæ¬„çš„å››å€‹ç®­é ­å³å¯é¸æ“‡åœ°åœ–
 
-ÔÚ»ùµØÖÐ°´ ~ æIááÔÙÝ”Èë FUBAR! =ÉñïLÊ½¼ªÆÕÜ‡
+åœ¨åŸºåœ°ä¸­æŒ‰ ~ éµå¾Œå†è¼¸å…¥ FUBAR! =ç¥žé¢¨å¼å‰æ™®è»Š
 
-ß[‘òßMÐÐÖÐ°´ ~ æIááÔÙÝ”ÈëÒÔÏÂÃÜ¼¼
+éŠæˆ²é€²è¡Œä¸­æŒ‰ ~ éµå¾Œå†è¼¸å…¥ä»¥ä¸‹å¯†æŠ€
 
-AMMO! = —ËŽŸoÏÞ
-EASTER! = ³h—ËéÆ¬×ƒ³É²Êµ°
-FUEL! =È¼ÁÏŸoÏÞ
-GOD! =Ÿo”³
-GUN! =™CêP˜Œ
-SAM! = ·À¿Õïw—
-TURRETS! =™C˜Œ³hÌ¨
-VEHICLES! =½»Í¨¹¤¾ßŸoÏÞ
+AMMO! = å½ˆè—¥ç„¡é™
+EASTER! = ç ²å½ˆç¢Žç‰‡è®Šæˆå½©è›‹
+FUEL! =ç‡ƒæ–™ç„¡é™
+GOD! =ç„¡æ•µ
+GUN! =æ©Ÿé—œæ§
+SAM! = é˜²ç©ºé£›å½ˆ
+TURRETS! =æ©Ÿæ§ç ²å°
+VEHICLES! =äº¤é€šå·¥å…·ç„¡é™
 

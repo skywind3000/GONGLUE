@@ -1,17 +1,17 @@
-NHL¡¯99£¨99Äê±ùÉÏÇú¹÷Çò£©
+NHLâ€™99ï¼ˆ99å¹´å†°ä¸Šæ›²æ£çƒï¼‰
 
-ÔÚÓÎÏ·ÖÐÊäÈë
+åœ¨æ¸¸æˆä¸­è¾“å…¥
 
-MANTIS =ÇòÔ±±ä³É³¤ÍÈ³¤ÊÖ
-NHLKIDS =ÇòÔ±±ä³ÉÐ¡º¢Éí²Ä
-HOMEGOAL =Ö÷¶ÓµÃµ½Ò»·Ö
-AWAYGOAL =¿Í¶ÓµÃµ½Ò»·Ö
-PENALTY =µÃµ½Ò»¸ö·¸¹æ
-INJURY =ÇòÔ±ÊÜÉË
-ZAMBO = ÔÚÇò³¡ÉÏ·Å zamboni
-VICTORY =Ê©·ÅÑÌÑÌ»ð±íÑÝ
-FLASH =³¡±ßÉÁÉÁ¹âµÆ
-SPOTS =´ò¿ªÍ¶ÉäµÆ
-CHECK =×Ô¶¯¼ì²é¶Ô·½ÇòÔ±
-GRAB = ´Ì¶ÔÊÖÉíÌå 
+MANTIS =çƒå‘˜å˜æˆé•¿è…¿é•¿æ‰‹
+NHLKIDS =çƒå‘˜å˜æˆå°å­©èº«æ
+HOMEGOAL =ä¸»é˜Ÿå¾—åˆ°ä¸€åˆ†
+AWAYGOAL =å®¢é˜Ÿå¾—åˆ°ä¸€åˆ†
+PENALTY =å¾—åˆ°ä¸€ä¸ªçŠ¯è§„
+INJURY =çƒå‘˜å—ä¼¤
+ZAMBO = åœ¨çƒåœºä¸Šæ”¾ zamboni
+VICTORY =æ–½æ”¾çƒŸçƒŸç«è¡¨æ¼”
+FLASH =åœºè¾¹é—ªé—ªå…‰ç¯
+SPOTS =æ‰“å¼€æŠ•å°„ç¯
+CHECK =è‡ªåŠ¨æ£€æŸ¥å¯¹æ–¹çƒå‘˜
+GRAB = åˆºå¯¹æ‰‹èº«ä½“ 
 

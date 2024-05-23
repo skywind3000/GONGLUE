@@ -1,8 +1,8 @@
-Ä§·¨Ê¦´«Ææ
+é­”æ³•å¸ˆä¼ å¥‡
 
-ÔÚÓÎÏ·ÖÐ°´Ctrl¼°BackSpace¼üÀ´Æô¶¯ÃØ¼¼: 
-¡¡¡¡Jackpot = È¡µÃ200½ð,Ë®¾§¼°Æ¡¾Æ 
-¡¡¡¡Marathon = È¡µÃ1000ÐÐ¶¯µã 
-¡¡¡¡Puff = È¡µÃ1ÌõÁú 
-¡¡¡¡Hocuspocus = ·¨ÊõÖªÊ¶È«Âú,1000¸ömana·¨Á¦Öµ 
+åœ¨æ¸¸æˆä¸­æŒ‰CtrlåŠBackSpaceé”®æ¥å¯åŠ¨ç§˜æŠ€: 
+ã€€ã€€Jackpot = å–å¾—200é‡‘,æ°´æ™¶åŠå•¤é…’ 
+ã€€ã€€Marathon = å–å¾—1000è¡ŒåŠ¨ç‚¹ 
+ã€€ã€€Puff = å–å¾—1æ¡é¾™ 
+ã€€ã€€Hocuspocus = æ³•æœ¯çŸ¥è¯†å…¨æ»¡,1000ä¸ªmanaæ³•åŠ›å€¼ 
 

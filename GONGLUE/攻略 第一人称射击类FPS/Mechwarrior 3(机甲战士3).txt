@@ -1,190 +1,190 @@
-Mechwarrior 3(����սʿ3)
+Mechwarrior 3(机甲战士3)
 
-ת���Ի���ռ� 
+转载自幻想空间 
 
-����Сʱ�����и����룬ϣ����һ���ܹ���ʻʮ�׸ߵĻ����˳۳�ɳ�������죬�ҵ���������ʵ���ˣ���Ȼ����ָ����MICROPROSE��˾��������Ʒ����սʿ3�������Ҳ���й����������룬��������ҽ������սʿ�ļ�ʻ�֣���ʼ�λð��ս���ɣ� 
+　　小时候，我有个梦想，希望有一天能够驾驶十米高的机器人驰骋沙场，今天，我的梦想终于实现了！当然，我指的是MICROPROSE公司的最新作品机甲战士3。如果你也曾有过这样的梦想，那请跟着我进入机甲战士的驾驶仓，开始梦幻般的战斗吧！ 
 
-����OP ZONE 1 MISSION 1 
+　　OP ZONE 1 MISSION 1 
 
-������Ҫ���� 
-�����ƻ��о��������� op:Able 
-����ը��������̨ 
+　　主要任务： 
+　　破坏敌军控制中心 op:Able 
+　　炸毁所有炮台 
 
-������Ҫ���� 
-����ȫ�ߵо����Ժ���������ر�ָ������Ҫ�����Ϊȫ�ߵо����� 
+　　次要任务： 
+　　全歼敌军（以后各关如无特别指出，次要任务均为全歼敌军。） 
 
-������һ���ж����������е���ţ�����Ҫ���ų�棬����Ϥһ����Ϸ���档��Ļ���Ͻ����״��ʾ����սʿ�Ŀ��ӷ�Χ�����Լ�����λ��Ϊ���ģ����з���ʾΪ��ɫ������ͨ�� E��������һ�з�Ŀ�ꡣͬ����ʾΪ��ɫ������ͨ��W���������״��·���ʾ�����ж�Ŀ�ĵصĹ���������Ŀ�ĵؼ��ͨ��N���л�����������һ���ɺ졢�ơ�������ɫ����ɵ������ۣ������������ɫ�׶Σ�����սʿ��ֹͣ�ж�����������Ȼɢ���⣬������ʹ��ɢ��װ��˲��ɢ�ȣ�F������������Դ����ʾ���������·�����Ļ���Ͻ�Ϊ����սʿʹ�õ���������ҩ��װ������������������ͨ����[���͡�]���л���ͬ��������ͨ��ctrl+[��ctrl+] �л���һ�������Ĺ���ģʽ��ΪGROUP FIRE(ȫ�����䣩��LINK FIRE(ѭ�����䣩��SINGLE FIRE(��һ���䣩ͨ����|���л���һ��ʹ��LINK FIRE����������ʾ����սʿ���ܶ�ʱ�٣����װ����JUMPJET(������������һ�������������ۡ������½Ƿֱ���ʾ����˫����ǰ�����������ʾ��ʽ��3�֣���ͨ��D���У��з���ͬ�˾���ctrl+d�л�����һ��ʹ��ƽ��ͼ��ʾ��װ���������ɫ�仯Ϊ���̡��ơ��졣 
+　　第一次行动，心情真有点紧张！但不要急着冲锋，先熟悉一下游戏介面。屏幕左上角是雷达，显示机甲战士的可视范围（以自己所在位置为中心），敌方显示为红色，可以通过 E键锁定单一敌方目标。同盟显示为蓝色，可以通过W键锁定。雷达下方显示距离行动目的地的公里数，各目的地间可通过N键切换。接下来是一条由红、黄、绿三种色所组成的热量槽，当热量到达红色阶段，机器战士会停止行动。而除了自然散热外，还可以使用散热装置瞬间散热（F键），它的能源槽显示在热量槽下方。屏幕右上角为机甲战士使用的武器、弹药及装备。各组间的武器可以通过“[”和“]”切换，同组间的武器通过ctrl+[和ctrl+] 切换，一组武器的攻击模式分为GROUP FIRE(全部发射）、LINK FIRE(循环发射）、SINGLE FIRE(单一发射）通过“|”切换，一般使用LINK FIRE。接下来显示机甲战士的跑动时速，如果装配了JUMPJET(喷射器）则会多一条喷射器能量槽。左右下角分别显示敌我双方当前受损情况，显示形式有3种，可通过D键切（敌方，同盟均以ctrl+d切换），一般使用平面图显示，装甲受损的颜色变化为：绿—黄—红。 
 
-����ARE YOU READY?GO!��̤������壬����2�ܲ�Ҫ����APC����������һǹһ�ܡ�ע��������ǿ�ĵ��˾�����ʹ�ü��⣬Ҳ������M.GUN,���õ����Ƚ������У�˵���䣬��һ��Owemsɵ������ӭ�������������ֻ���ü��⣬�������ֵ����ɣ�����ǰ�����ɵ�������̨�󣬵���op:Able,ը�ٿ�������¥�������ǽ���������ɵ�һ���������ը���߽��������̨��very easy! 
+　　ARE YOU READY?GO!“踏”过渔村，就有2架不要命的APC向你冲过来，一枪一架。注意打机动性强的敌人尽可能使用激光，也可以用M.GUN,而用导弹比较难命中！说话间，又一架Owems傻呼呼地迎面而来，看来它只会用激光，送它几吨导弹吧！继续前进，干掉几座炮台后，到达op:Able,炸毁控制中心楼顶的卫星接收器，完成第一个任务。最后，炸掉边界的两座炮台，very easy! 
 
-����OP ZONE1 MISSION 2 
+　　OP ZONE1 MISSION 2 
 
-������Ҫ���� 
-����ռ��о���Ӫop:Able 
-����ը�ٵо���������̨ op:Baker 
+　　主要任务： 
+　　占领敌军军营op:Able 
+　　炸毁敌军导弹发射台 op:Baker 
 
-����������ж���ʼ������ʹ��MFB�ˣ�MFB��������ÿ����������,�ս�ս��Ʒ������ÿ��MFB,ֻ���ղ�300�ֵ�����װ����2�ܻ���սʿ�����������ȡ��Щս��Ʒ������Ϊ����Ժ�����Ĺؼ����������Ҳ��ᣬ������˵�������ռ�ս��Ʒ�⣬MFB��ҪΪ����սʿ������һ��������׼������Щ׼����������MECH LAB����ɡ�����MECH LAB�󣬻��������ѡ�����ʾ����սʿ״��һ����,���˿��������������սʿ��ȫ�������⣬������ѡ��ͬ�Ļ��ֽ����´����񡣶�������װ��һ���У���߻���ʾ����սʿ��ǰ��װ�����ұ����ǿ�����ʣ��ֱ���������ҩ���豸���������С�Ҫǿ��һ�����ÿ�����ʣ�����һ������������ռ�ռ䡢����㣬ÿ�ܻ���սʿҲ���Լ��ĸ������ޡ�����װ������һ��Ҫ�ﵽһ��ƽ�⣬�������͵�ҩƽ�⣬װ��������ƽ�⡣һ������£�ÿ�ܻ���Ӧ������֧���͵�Զ�̼����PPCS����һ��������������������֧����������Ҳ��������֧��ǹ����ҩ����Ϊ������300ö��400öΪ�ã���ǹ�ӵ���Ȼ��Խ��Խ�ã�װ�����棬ɢ�����ܹ���Ӧ������18�������򼤹����������ۿۣ���Ȼ,���ѡ�����弤�⣬�Ͳ������������⣬�����ܾ�����������С�˵㣩����Ҫװ��������������Ҫװ�������ϲ������á����⣬���Ҫ������׼ȷ������Ŀ�꣬��ö��һ��IV FCS ����׷��ϵͳ�������������ˣ�ÿ��������ȡ�õ�ս��Ʒ��������˻زֿ⣬����Ϊ����������MFB�������������⣬������������Ҫ�����ã�������ս����Ϊ�㼰ʱ����������û�д������ƣ������谴M��,֪ͨMFB�����ض�����ԴȦ���С���MFB������ԴȦ�������������ſ�����ֻҪվ����ԴȦ�ϣ�����s�ػ��������ˡ�ע����ǣ�ֻ��������Ļ���սʿ�ǿ��������ģ����ͬ�˿��ǿ�úܣ���Ҳ��Ը�ޣ� 
+　　从这次行动开始，可以使用MFB了，MFB的作用是每次完成任务后,收缴战利品，由于每架MFB,只能收藏300吨的武器装备和2架机甲战士，所以如何舍取这些战利品，将成为完成以后任务的关键。这里暂且不提，后面再说。除了收集战利品外，MFB还要为机甲战士进行下一次任务作准备。这些准备工作都在MECH LAB中完成。进入MECH LAB后，会出现三个选项，在显示机甲战士状况一栏中,除了可以清楚看到机甲战士的全部资料外，还可以选择不同的机种进行下次任务。而在武器装备一栏中，左边会显示机甲战士当前的装备，右边则是库存物资，分别按武器、弹药、设备、护甲排列。要强调一点的是每种物资，都有一定的重量、所占空间、分配点，每架机甲战士也有自己的各项上限。所以装配起来一定要达到一个平衡，既武器和弹药平衡，装备和武器平衡。一般情况下，每架机都应该有两支重型的远程激光或PPCS，和一种主力武器，可以是三支导弹发射器也可以是两支机枪。弹药我认为导弹以300枚到400枚为好，机枪子弹当然是越多越好！装备方面，散热器总共不应少于是18个，否则激光威力会大打折扣（当然,如果选用脉冲激光，就不存在热量问题，但我总觉得它的威力小了点）。如要装喷射器，则最少要装三个以上才有作用。另外，如果要导弹更准确地命中目标，最好多加一个IV FCS 导弹追踪系统。啊！差点记忘了，每次任务所取得的战利品，如果不运回仓库，将作为丢弃处理！MFB除了以上作用外，还有最最最主要的作用，就是在战场上为你及时修理。修理没有次数限制，但必需按M键,通知MFB到达特定的能源圈才行。当MFB到达能源圈，并以三角形排开后，你只要站到能源圈上，并按s关机，就行了。注意的是，只有你操作的机甲战士是可以修理的，你的同盟可是酷得很，死也不愿修！ 
 
-�����ðɣ������ֿ�ʼ�ˣ�һ�����������Ǽ�ɵ������Owems��2��APC���������겻ɢ�ļһ��������һ�Ρ����Ź�·�������űߣ�һ��Strider�������㣬������װ��SRM6 ���ԣ�һ�����ܽ�ս��ע�⣬�Ը��κ��ͺŵĻ���սʿ����һ����ֻҪ��ը����һֻ�ţ�������������λ���������Σ�������һ�ѷ�����������Strider���Ȳ�Ҫ���ţ������ߵľ�Ӫ��op:Able)վһվ��ռ���Ӫ����󣬻ع�ͷ������������3��BULLDOG��ը�˵�������̨(op:Baker)��ok! 
+　　好吧！任务又开始了！一上来，又是那架傻呼呼的Owems和2架APC，真是阴魂不散的家伙！再送它们一次。沿着公路，来到桥边，一架Strider正等着你，它可是装了SRM6 所以，一定不能近战！注意，对付任何型号的机甲战士都是一样，只要你炸毁它一只脚，无论它其它部位受损情况如何，它都是一堆废铁！清理了Strider后，先不要过桥，到西边的军营（op:Able)站一站，占领军营。最后，回过头来，过桥消灭3辆BULLDOG，炸了导弹发射台(op:Baker)，ok! 
 
-����OP ZONE 1 MISSION 3 
+　　OP ZONE 1 MISSION 3 
 
-������Ҫ����
-�����ƻ�����о������豸 op:Able 
-�����ƻ�����о������豸 op:Baker 
-��������MFB��op: Charlie 
+　　主要任务：
+　　破坏西面敌军工厂设备 op:Able 
+　　破坏东面敌军工厂设备 op:Baker 
+　　护送MFB至op: Charlie 
 
-�������������������ĥ�������ڲ���Ӧ�ý���Ϥ�ˡ�һ������һ��Firefly������ϰ�ˣ������¸ɵ������Ȳ�Ҫ��ɽ�£���ɽ���ϣ��ü�������ɽ��Ϲ��APC��BULLDOGS����ɽ���״����ʾһ��Strider�����㿿����Ѹ�ٽ�������ӡ��ڹ�����op:Able)�Ժ�ǰ��ĺӶ԰�������һ����������̨�����ù������ڻ�ըը�����ǡ�����ը�ٹ����豸������Ҫע�ⲻҪ�����˷ѵ�ҩ��ֻҪը��3�����������Ľ������֧���������ˡ�����ǰ����������һ��Bushwacker���ڹ��ӣ�һ�����������ɹ����ӣ���������ʱ����LRM��ը����һֻ�ţ���ɺ󣬹�����ͬ������ը�ٹ�����op:Baker),�ϵ�op:Chalie��ը��������̨��֪ͨMFBǰ����ϡ� 
+　　经过上两次任务的磨练，对于操作应该较熟悉了。一来又有一架Firefly陪你练习了，三两下干掉它后，先不要下山坡，在山坡上，用激光清理山下瞎逛APC和BULLDOGS。下山后，雷达会显示一架Strider正向你靠近，迅速解决它过河。在工厂（op:Able)旁和前面的河对岸，各有一座导弹发射台，利用工厂作掩护炸炸掉它们。接着炸毁工厂设备，这里要注意不要乱射浪费弹药，只要炸毁3座耸立起来的建筑物的支撑柱就行了。继续前进，会遇到一架Bushwacker正在过河，一定不能让它成功过河，趁它过河时，用LRM狂炸它的一只脚，完成后，过河用同样方法炸毁工厂（op:Baker),赶到op:Chalie，炸掉两座炮台，通知MFB前往会合。 
 
-����OP ZONE 1 MISSION 4 
+　　OP ZONE 1 MISSION 4 
 
-������Ҫ����
-�����ƻ��о���������op:Able 
-�����ƻ�����վop:Baker 
-����ը�ټ��ⷢ��̨ op:Charlie 
+　　主要任务：
+　　破坏敌军工厂建筑op:Able 
+　　破坏发电站op:Baker 
+　　炸毁激光发射台 op:Charlie 
 
-��������Ǳ����������һ���ж�����Ȼ��һ���Ѷȡ�һ��ʼ���ͻ�����һ��Black Hawk��12֧����Զ�̼��⣩������Ϊɢ�ȵ����⣬�������ܷ��Ӽ����ȫ��������ֻҪ����������һ��Firefly��ϣ������������ǲ������⡣���Ӻ����з���ҵ������ʱ������� Dominic Paine���ʻһ��Shadow Catǰ��֧Ԯ������һ���op:Able����Դ��־�ĳ���ը�١�������Χ���㻹�ᷢ�ֵо��ķ���վ��һͬը�١���������ȫ����о����ⷢ��̨��op:Charlie)ǰ�����ںӱߣ�һ��Owems��һ��Strider�������ֿ��������ø�Paine һ������չʾShadow Cat��ǿ���������������Ĳ��������Ļ��ᡣȫ�����Ǻ�Ҫ���ţ�ǧ��Ҫ���ţ��԰��Ǽ�Orion��LB 10X AC�����ڽ����뽫�������Ƭ�����������ⷢ��̨��Orionһͬը�١�������һ������ 
+　　这次是本地区的最后一次行动，当然有一点难度。一开始，就会遇到一架Black Hawk（12支中型远程激光），但因为散热的问题，它不可能发挥激光的全部威力，只要不让它和另一架Firefly会合，各个击败它们不成问题。过河后进入敌方工业区，这时你的盟友 Dominic Paine会架驶一架Shadow Cat前来支援。和他一起把op:Able有能源标志的厂房炸毁。望望周围，你还会发现敌军的发电站，一同炸毁。接下来，全速向敌军激光发射台（op:Charlie)前进。在河边，一架Owems和一架Strider正做最后抵抗。这正好给Paine 一个向你展示Shadow Cat的强大威力和他熟练的操作技术的机会。全歼它们后不要过桥，千万不要过桥！对岸那架Orion的LB 10X AC可以在近距离将你射成碎片。隔岸将激光发射台和Orion一同炸毁。进入下一地区。 
 
-����OP ZONE 2 MISSION 1 
+　　OP ZONE 2 MISSION 1 
 
-������Ҫ����
-��������op:Able��ȫ���о� 
-��������MFB��op:Baker 
+　　主要任务：
+　　歼灭op:Able的全部敌军 
+　　护送MFB至op:Baker 
 
-����������ж���ʼ���㲻���ǹ¾���ս�ˡ��Ժ󻹻���ս��(������½�����롣���ڵ���ս�������ս��������������ͼ�����������ս�������ϣ����ȱ�����Ͼ�Ŀǰ��˵�� NPCʹ�ø���������׼ȷ��һ������ߡ����ԣ�Ӧ���㸺�������о�������NPC�������������NPC����ͨ�������F11��������Ҫ��NPC����Ŀ�꣬����Ŀ�꣬ԭ�ز�����������ǰ����Ҫ��һ��ǿ������NPC��ʻ�Ļ���սʿ�ǲ��������ģ��������ȫ���٣���һ�����񣬽�ֻ��ʹ����һ���ˡ�����ʻԱ�ǲ������ģ� 
+　　从这次行动开始，你不再是孤军作战了。以后还会有战友(下属）陆续加入。善于调动战友配合作战将会更快完成任务和减少伤亡。在战术运用上，首先必需承认就目前来说， NPC使用各种武器的准确性一定比你高。所以，应由你负责吸引敌军火力，NPC负责进攻。调动NPC必需通过命令（按F11），可以要求NPC保护目标，攻击目标，原地不动及紧随你前进。要再一次强调的是NPC驾驶的机甲战士是不能修理的，如果被完全击毁，下一次任务，将只能使用另一架了。（驾驶员是不会死的） 
 
-����������ж���ʼ���㽫���������Ŀ��顣һ��ʼ������Harasser,����Bulldog���ӷ����ӵ������Ѹ�ٽ�����ǣ�ǧ���������ǽӽ�MFB��ͬʱҲҪ��������������������һ��Strider��ϡ����˵о��ĵ�һ����������op:Able����ǰ������ɽ���ϻ�����һ�� Owems��easy job!����op:Ableǰ����ը��������̨����ʱ�״����ʾǰ�������ļ�Elemental��һ��Firefly����Ҫ���������ţ�Elementalֻ���õ����������������١�ֻҪ��ս��ȫ�ߵл��������⡣���������������󣬼���ǰ��op:Baker,ǰ�������ϻ����һ��Shadow Cat �����Ŵ���һ����������op:Baker�󣬻ῴ��������յ�׳�۳��棬������ĵо�ָ�ӹ�---Thor��װ��LB 10XAC��LRM15)�����ˣ���ס����Ҫ�ӽ�����ս���ˣ�����֮��֪ͨMFB,ǰ����ϡ� 
+　　从这次行动开始，你将遇到真正的考验。一开始，两辆Harasser,两辆Bulldog，从废虚蜂拥而至，迅速解决它们，千万不能让它们接近MFB，同时也要避免它们与从西面赶来的一架Strider会合。击退敌军的第一波进攻后，向op:Able火速前进，在山坡上会遇到一架 Owems，easy job!到达op:Able前，再炸掉两座炮台。这时雷达会显示前方出现四架Elemental和一架Firefly，不要给它们吓着，Elemental只会用导弹，而且威力很少。只要近战，全歼敌机不成问题。在这里稍作修理后，继续前往op:Baker,前方的桥上会出现一架Shadow Cat ，连桥带人一起轰掉。到达op:Baker后，会看到火箭升空的壮观场面，而这里的敌军指挥官---Thor（装备LB 10XAC和LRM15)出现了！记住，不要接近，且战且退，击毁之后，通知MFB,前往会合。 
 
-����OP ZONE 2 MISSION 2 
+　　OP ZONE 2 MISSION 2 
 
-������Ҫ����
-�����ƻ��о�װ��վop:Able 
-�����ƻ��о��ܲ�op:Baker 
-����ȫ�ߵо� 
+　　主要任务：
+　　破坏敌军装运站op:Able 
+　　破坏敌军总部op:Baker 
+　　全歼敌军 
 
-������Ҫ����
-����ը���ܲ���Ļ���������װ�������������������ܵ����ܲ���Ŀյأ� 
+　　次要任务：
+　　炸毁总部外的货车（必需装备三个以上喷射器才能到达总部外的空地） 
 
-���������ж��⻹�ǵ�һ�Ρ�һ��ʼ���״����ʾһ��Orion��������������������NPC Χ�������Ȳ�Ҫ������һ��Shadow Cat��������������ϻ�Զ��㹹��������в���ɵ����Ǻ�������������װ��վ��op:Able)������3��Bulldog��һ��Bushwacker���ţ��㸺��Bulldog,ͬ�鸺��Bushwacker����ɺ�����װ��վ��ը�����ܻ𳵡�����������ǰ���������ܲ��󣬻���������Elemental��һ��Firefly,ֻҪ��һ��������ը���ܲ�ֻ��ʱ�����⡣���װ�������������������ܲ���Ŀյأ�ը�����������������������������ɽ������ɽ���а�һ��Black Hawk�ɵ������Żῴ��ˮ�أ�С�ģ��ر߻���һ��Orion ɱ������������ʹ���ò��˻�ǹ��ok!ȫ�ߵо�����󣬵�����ݿڡ� 
+　　地下行动这还是第一次。一开始，雷达就显示一架Orion从隧道而来，立即调动NPC 围攻它，先不要惊动另一架Shadow Cat，如果让它们联合会对对你构成致命威胁，干掉它们后，沿着隧道到达装运站（op:Able)这里有3辆Bulldog和一架Bushwacker守着，你负责Bulldog,同伴负责Bushwacker，完成后，清理装运站，炸毁两架火车。沿隧道继续前进，到达总部后，会遇到三架Elemental和一架Firefly,只要遂一引出消灭，炸毁总部只是时间问题。如果装了喷射器，可以跳上总部外的空地，炸掉货车。这里，可以稍作修理，穿过山洞，在山洞中把一架Black Hawk干掉，接着会看见水池，小心！池边会有一架Orion 杀出，引它下来使它用不了机枪。ok!全歼敌军，最后，到达电梯口。 
 
-����OP ZONE 2 MISSION 3 
+　　OP ZONE 2 MISSION 3 
 
-������Ҫ����
-����ը�ٵо��������ؿ� op:Able 
-����ը�ٵо�������op:Baker 
-����ȫ�ߵо� 
+　　主要任务：
+　　炸毁敌军货物贮藏库 op:Able 
+　　炸毁敌军建筑物op:Baker 
+　　全歼敌军 
 
-�����ֻص������ˣ��ж���ʼ������������Firefly������BulldogΧ�������������ǵ�Ŀ�겻���㣬����MFB�����������ǵóѣ��ȿ��ٽ��Firefly,�ٴ��Bulldog�󣬰��ԱߵĻ������ؿ�Ҳը�ˡ�����ǰ��������һ��Strider�󵽴��űߣ��Ȳ�Ҫ���ӣ������ƶ���Ѱ������λ�ã��Ѷ԰���Puma��Delta��Cammaһһ���١���Ȼ�����������������潻��Ļ�����Ҳ�����ԡ���ҪС��Puma��PPC������ǰ��������3��ֱ�������ʹ�������NPC �ɣ����Ӻ󣬵���op:Bakerը�ٽ�����󣬻����һ��ǿ�С���Champion,��Ȼ���Ļ���ǿ��������׼ȷ�Ⱥܵ͡�����������ʲô���⡣��󣬵���op:Charlie 
+　　又回到地面了！行动开始，立刻有两架Firefly和三辆Bulldog围攻过来，但它们的目标不是你，而是MFB。怎能让它们得逞，先快速解决Firefly,再打掉Bulldog后，把旁边的货物贮藏库也炸了。继续前进，击掉一架Strider后到达桥边，先不要过河，不断移动，寻找有利位置，把对岸的Puma、Delta、Camma一一击毁。当然，如果你想和它们正面交锋的话，我也不反对。但要小心Puma的PPC。过河前，还会有3架直升机来客串，交给NPC 吧！过河后，到达op:Baker炸毁建筑物后，会出现一个强敌——Champion,虽然它的火力强劲，但是准确度很低。击败它不是什么问题。最后，到达op:Charlie 
 
-����OP ZONE 2 MISSION 4 
+　　OP ZONE 2 MISSION 4 
 
-������Ҫ���� 
-����ը��΢�ͼ����豸op:Able 
-����ը�ٵо�������op:Baker 
+　　主要任务： 
+　　炸毁微型激光设备op:Able 
+　　炸毁敌军兵工厂op:Baker 
 
-��������ж��еĵ��˴�װ����LB 10XAC������һ��Ҫ���úõ������ƣ�����͵������潻��˳������������£��ڳ�����һ��Owems���ţ���ͨ�������伸ö����󶼻�����, �������������һ��ƽ̨��ǧ��Ҫ��ȥ��ƽ̨������һ��Thor��ƽ̨�������Ǳ�һ��Thor �͸����ܵ�Owems������ܳ�����þӸ����µ����ƵĻ���ֻҪ�������ٴ��۾��ܸɵ����ǡ����Ž����м�Ĵ�¥���ѵ��е�΢�ͼ����ը�ˣ�����ǰ���������������Ҫ���Ž�ȥ��������һ��Pumaը��������ʱ������������������Epona Rhi�������������һ��Annihilator��װ��4֧LB 10XAC)��ս����Ӧ��������������Ҳװ��LB����װ������ã��������ų��ȥ��ƴ������û��ǣ�1��2��3����ͷ�����ܣ�Ȼ�������������ü���Զ��������Ľš���ɺ���ը�˱�������������ѳְ�Ļ��Ĭ������ʵ��Ҳ���Բ���Annihilator��������û���־�ը�˱��������������Ļ�����һ�ؾͲ��������ˡ� 
+　　这次行动中的敌人大都装备了LB 10XAC，所以一定要利用好地形优势，避免和敌人正面交火。顺着隧道深入地下，在出口有一架Owems守着，但通常它发射几枚火箭后都会逃跑, 出了遂道，会有一个平台，千万不要下去。平台左面有一架Thor，平台下面则是别一架Thor 和刚逃跑的Owems。如果能充分利用居高临下的优势的话，只要付出很少代价就能干掉它们。接着进入中间的大楼，把当中的微型激光给炸了，继续前进到达兵工厂，不要急着进去，先引出一架Puma炸掉。而这时，你会听到你的新下属Epona Rhi的求救声他正和一架Annihilator（装备4支LB 10XAC)作战，你应该如何做？如果你也装了LB，而装甲又完好，可以试着冲进去火拼。但最好还是，1，2，3调过头往回跑，然后，慢慢引它，用激光远距离打它的脚。完成后再炸了兵工厂。随便向刚殉职的伙伴默哀。其实你也可以不理Annihilator而在它还没出现就炸了兵工厂，但这样的话，下一关就不能用它了。 
 
-����OP ZONE 3 MISSION 1 
+　　OP ZONE 3 MISSION 1 
 
-������Ҫ����
-�����ƻ��о��ܲ�op:Able 
-��������MFB��op:Charlie 
+　　主要任务：
+　　破坏敌军总部op:Able 
+　　护送MFB至op:Charlie 
 
-���������ҷ����³�Ա���벢�ɻ���һ��Annihilator����������ж��Ѷȵ������࣡�뿪��㣬������һ��ѵ������ע���״��Ҫ��ͣ���ŵĻ����ˡ�����������Strider��һ��Avatar���ţ��Ȳ�Ҫ���ȥ��ԭ�غ�NPC�ų�һ�������������ǻ��������������������ú�LB 10XAC����������л������⣬ע�ⲻҪ��Avatar�ӻػ��غ������о���ϡ���ը��һ̨����̨�����ܲ��������ܲ���һ��Bushwacker��һ��Orion���ţ������� Bushwacker�ٸɵ�Orion����ס���ʻ����Annihilator������ǰ�壩�����ŵ�Ȼ��ը���ܲ�����ɺ󣬹��ţ�op:Baker)��op:Charlie������������һ��Vulture��һ��Mad cat���������ûʲô��˵����ɺ�֪ͨMFBǰ����ϡ� 
+　　由于我方有新成员加入并缴获了一架Annihilator，所以这次行动难度低了许多！离开起点，会来到一个训练场。注意雷达，不要射停放着的机器人。这里有两架Strider和一架Avatar守着，先不要冲过去，原地和NPC排成一个火力网，它们会主动向你进攻，充分利用好LB 10XAC的威力歼灭敌机。另外，注意不要让Avatar逃回基地和其它敌军会合。再炸了一台激光台后，向总部出发。总部有一架Bushwacker和一架Orion守着，先引出 Bushwacker再干掉Orion（记住你驾驶的是Annihilator，大胆往前冲）。接着当然是炸了总部。完成后，过桥（op:Baker)向op:Charlie出发，那里有一架Vulture和一架Mad cat，三打二，没什么好说！完成后，通知MFB前往会合。 
 
-����OP ZONE 3 MISSION 2 
+　　OP ZONE 3 MISSION 2 
 
-������Ҫ����
-��������о�op:Able 
+　　主要任务：
+　　歼灭敌军op:Able 
 
-��������ж�Ҳ�Ƚϼ򵥣���Ҫע�����һ��ʼ��Ҫ��op:Able������Ӧ����ȫ����ǰ��ĺӷɱ����Ӷ����Aln Mattila���������������ʻһ��Sunder����һ��Vulture��ս����ȥ����һ�ѡ�����һ����op:Able����������Ŀ�ĵظ���ʱ����һ��Madcat��һ�� Annihilatorӭ�����������ɽ�󣬻���һ��Shadow Cat������Ȳ�Ҫ��Madcat,�ü���Զ�����Annihilator�ȸɵ�����ʱ�������Shadow Cat����������Ϊʱ�����ˣ��Ĵ�����������˵�ˣ�ȫ�ߺ�������� 
+　　这次行动也比较简单，但要注意的是一开始不要向op:Able出发，应立既全速向前面的河飞奔，河对面的Aln Mattila（你的新下属）驾驶一架Sunder正和一架Vulture作战，过去帮她一把。接着一起向op:Able出发，到达目的地附近时，有一架Madcat和一架 Annihilator迎面而来。另外山后，还有一架Shadow Cat埋伏，先不要理Madcat,用激光远距离把Annihilator先干掉，这时，埋伏的Shadow Cat会冲出来，但为时已晚了，四打三，更不用说了！全歼后完成任务。 
 
-����OP ZONE 3 MISSION 3 
+　　OP ZONE 3 MISSION 3 
 
-������Ҫ����
-��������MFB��op:Able 
+　　主要任务：
+　　护送MFB至op:Able 
 
-��������������ҲӦ������һ��MFB�ˡ���Ȼ�����ʵ�ȡ��Ӧ���ݸ��˵�ϲ�ã�������˵��ֻ���ο�������������ֻ���°�֧���͵�Զ�̼��⣬����֧PPCS;������ֻ���� SRM15��SRM20��SRM6��Streak SRM6����֧��������������Ȼ�ٲ���LB 10XAC��֧�� Ultra AC 20��֧����˹��ǹ��֧����ҩ���棬���ڵ�ҩ���������ᣬ��Ȼ��Խ��Խ�ã��ر���LB 10XAC����ʵ���ж�����ռ�������ǻ��׻�ʿ�Ļ��ף�����ԼֻҪ��ʮ�־��Ѿ������ˡ���װ�����棬����ɢ������ö������ж�ʮ����������ʮ����������������������ˡ��������ʣ���Ҫ�Ի���սʿ����������������Ի��׻�ʿ��������Ϊȡ���׼������������ͬ������£�����ԭʼ�ٶ���Ϊ��׼�� 
+　　来到这里，差不多也应该整理一下MFB了。当然，物资的取舍应根据个人的喜好，这里我说的只供参考。激光武器我只留下八支大型的远程激光，和五支PPCS;导弹则只留下 SRM15，SRM20，SRM6，Streak SRM6各六支；其它武器，当然少不了LB 10XAC八支， Ultra AC 20五支，瓦斯步枪四支。弹药方面，由于弹药的重量很轻，当然是越多越好，特别是LB 10XAC。其实所有东西中占量最大的是机甲机士的护甲，但大约只要八十吨就已经够用了。而装备方面，各种散热器最好都保持有二十个，喷射器十个，其它则有五个库存就行了。除了物资，还要对机甲战士进行整理，这最好以机甲机士的重量作为取舍标准。而在重量相同的情况下，则以原始速度作为标准。 
 
-�������ˣ�����������Ϳ��Լ����ж��ˡ������鱨��εо��Ĺ���éͷֱָMFB�����ԣ�һ��ʼ��Ҫ���ý�MFB��������ȦMFB1���������ϣ�����Avatar������Strider�ֱ�����������ɱ�����������ֳ���һ������û�к��֮�ŵ�����£�����ֻ��һ�ѷ���������ǰ��ΪMFBɨ���ϰ������Ӻ󣬻���������Strider��һС��Elemental,���ڳ��� Annihilator�⣬û�˿�����в�㡣����op:Able��Ҫ����֪ͨMFBǰ�������Ŵ�·��������ǰ�ߣ�ȫ������׼��͵Ϯ��Avatar���ٻص�op:Able֪ͨMFBǰ���������˲�����˰��ݣ����������������ұߵ�ɽ���ϣ����״���ʾ��MFBʱ��ͬʱҲ����ʾ������ǰ��͵Ϯ��Owems���������ڲ��ǳ���ʧ���ˡ�MFB����op:Able,������ɡ���ע�⣬��MFB���ұ����ٽ��޷�������������ʽ���ʧ��ս���ϡ��� 
+　　好了，整理好内务就可以继续行动了。根据情报这次敌军的攻击茅头直指MFB，所以，一开始就要立该将MFB调往能量圈MFB1。不出所料，两架Avatar和两架Strider分别从正面和西面杀来，但它们又迟了一步，在没有后顾之优的情况下，它们只是一堆废铁，继续前进为MFB扫清障碍，过河后，会遇上两架Strider和一小队Elemental,现在除了 Annihilator外，没人可以威胁你。到达op:Able后不要立即通知MFB前来，沿着大路，继续往前走，全歼三架准备偷袭的Avatar，再回到op:Able通知MFB前来，但敌人不会如此罢休，所以你立该爬上右边的山坡上，当雷达显示出MFB时，同时也会显示出两架前往偷袭的Owems，敌人现在才是彻底失败了。MFB到达op:Able,任务完成。（注意，若MFB不幸被击毁将无法修理，你的物资将丢失在战场上。） 
 
-����OP ZONE 3 MISSION 4 
+　　OP ZONE 3 MISSION 4 
 
-������Ҫ����
-����ը�ٵо���ʩ�ʹ���op:Able 
-����ը�����Ĵ���op:Baker 
-����ը�ٽ������ʹ���op:Charlie 
+　　主要任务：
+　　炸毁敌军设施和大桥op:Able 
+　　炸毁中心大桥op:Baker 
+　　炸毁接收塔和大桥op:Charlie 
 
-��������ǰ�����ж�Ŀ�ĵؾ���ȽϽ����������ֱ��op:Able���ܵ�op:Baker�ؾ��ı���л�������һ��ʼ�ȹ���ֻ��һ��Madcat����̨���ŵ����Ĵ��ţ�����op:Able��������ĵ��˱Ƚ϶࣬Ӧ���ںӱ���NPCһ���ſ����һ����������Ȼ�������Blackhawk���٣����ţ��������Cauldorn��ע�������ǴӲ�ͬ������������Զ���Ҫ��㣬�����ǻ�û���ǰ��ɡ�ը�������Ŀ��������ά�ޣ�����ֱ��op:Charlie,ֻҪ�ȸɵ�һ�� Vulture��ʣ�µ�һ��OrionҲ�͹��������ˣ����ը�������������͸����Ĵ��ţ�������� 
+　　由于前两个行动目的地距离比较近，如果想来直攻op:Able会受到op:Baker守军的背后夹击，所以一开始先攻下只有一架Madcat和炮台守着的中心大桥，再向op:Able出发这里的敌人比较多，应先在河边与NPC一字排开组成一个火力网，然后过河引Blackhawk击毁，接着，轰掉两架Cauldorn，注意它们是从不同方向而来，所以动作要快点，在它们还没会合前完成。炸毁这里的目标后可稍作维修，接着直奔op:Charlie,只要先干掉一架 Vulture，剩下的一架Orion也就孤掌难鸣了！最后炸掉两座接收塔和附近的大桥，完成任务！ 
 
-����OP ZONE 3 MISSION 5 
+　　OP ZONE 3 MISSION 5 
 
-������Ҫ����
-����ը�ٳ��н�����op:Baker 
-����ը��ͨ������op:Charlie 
+　　主要任务：
+　　炸毁城市建筑物op:Baker 
+　　炸开通道大门op:Charlie 
 
-������Ҫ����
-����ը�ٵо��ֿ�op:Dog 
+　　次要任务：
+　　炸毁敌军仓库op:Dog 
 
-������ε��ж�������˵����һ�������Ŀ��飬��Ϊ����㲻��ռ�������ϵ����ƣ�ֱ���㽫���ú��ѿ���ֻ������ս���ſɾ���һ����һ����������Owems������ֻ����ǣ����� Annihilator���û�ӽ��������������ԣ�������Owems�������һ���õĿ�ʼ��Զ�������Annihilator�󣬲�Ҫ���˸ղ������Ϸ���ǹ��Vulture���ǲ����е㴭�������ˣ��Ǿ���ȥop:Dog��ֻ��һ��Puma������Bulldog���ţ�����������ɴ�Ҫ�����ֱ����ҵ��(op:Baker)�����������Bulldog����ڸ���������Pumaֻ��һ��װ��Ʒ��Ϊ�˼��ٲ���Ҫ�������������ü���ɣ�������ڣ�����Ŀ�꽨���︽�����㽫������������ǿ�У�һ��Annihilator��һ��Vulture����Ҫ��Ϊ����ռ�������ϵ����ƣ���Ϊ���ǳ���ߴ�Ĺ�����ʹ���Զ��������ͬ���������⣬�о�Ҳ���������뿪��λ������ⲩս�ǲ��ɱ����ˣ����ԣ�����NPCԭ�غ��������Ű�Ŀ������Annihilator���㵱Ȼ��Ҫ��һ�����ԴӲ��湥�����ĵط���һ��׼��������֪ͨNPC��ɣ�ʱ�����������˭�ȵ��£��⻹����˵���Ͼ�����֧LB 10XAC�����ƴ����һ���򵥵��£�VultureҲ����ٻ�����Ȼ�󣬴��Ų�������������Ͽ�����ͨ���ڳ����ɣ�Ͽ�����ߵ���̨�����һ�� Annihilator�ں����ڱε�����£��ֳ�����ѻ���Ŀ���ˡ�����ͨ��������� ��һ�����ˣ� 
+　　这次的行动对你来说将是一次真正的考验，因为这次你不再占有力量上的优势，直冲你将死得很难看，只有运用战术才可救你一命。一来就是三架Owems，但这只是配角，主角 Annihilator不久会从金字塔而来。所以，尽快解决Owems将会给你一个好的开始。远距离射掉Annihilator后，不要忘了刚才在塔上放冷枪的Vulture，是不是有点喘不过气了？那就先去op:Dog那只有一架Puma和两辆Bulldog守着，在那轻松完成次要任务后，直奔工业城(op:Baker)，城外的三辆Bulldog和入口附近的两架Puma只是一堆装饰品，为了减少不必要的伤亡，还是用激光吧！进入城内，到达目标建筑物附近，你将会遇到真正的强敌，一架Annihilator和一架Vulture，不要以为你又占了数量上的优势，因为这是城里，高大的工厂将使你的远程武器如同废铁，另外，敌军也不会轻易离开岗位，这次肉博战是不可避免了！所以，先让NPC原地候命，接着把目标锁定Annihilator，你当然是要找一个可以从侧面攻击它的地方，一切准备就绪，通知NPC冲吧！时间就是生命，谁先倒下，这还真难说！毕竟和四支LB 10XAC近距火拼不是一件简单的事（Vulture也会狐假虎威）然后，带着不完整的身躯向峡谷深处的通道口出发吧！峡谷两边的炮台和最后一架 Annihilator在毫无掩蔽的情况下，又成了你狙击的目标了。进入通道，你可以 松一口气了！ 
 
-����OP ZONE 3 MISSION 6 
+　　OP ZONE 3 MISSION 6 
 
-������Ҫ����
-�����ݻٵо�Ҫ��op:Able 
-����ը�ٵо������op:Baker 
+　　主要任务：
+　　摧毁敌军要塞op:Able 
+　　炸毁敌军宇航基地op:Baker 
 
-��������������������ҷ��ˣ����Ͽ�ȣ���о�Ҫ��������;������������Ū�ܵĻ����������op:able��Ҫ�����������Ȼ��ٴӶ������֧Ԯ��Avatar��Madcat��Ҫ����һС��Elemental�ͼ�����̨���ţ���������˵ֻ��С��һ������ɺ���op:Baker������;��ɽ�»���������Ҫ͵Ϯ���Couldon,���Բ������ļһ��������������Avator�����ţ�����һ�ܳ�������һ�ܸ���������ɣ�ը�ٻ��غ󣬻�����һ��Supernovac�������𣬳尡�� 
+　　力量的天秤又倾向我方了！冲过峡谷，向敌军要塞出发，途中清理掉到处弄窜的火箭车，到达op:able后不要立即进攻，先击毁从东面赶来支援的Avatar和Madcat，要塞有一小队Elemental和几座炮台守着，但对你来说只是小菜一碟！完成后向op:Baker出发中途的山坡会有两架想要偷袭你的Couldon,真自不量力的家伙！而基地中有两架Avator守卫着，先引一架出来，另一架给基地陪葬吧！炸毁基地后，还会有一架Supernovac出来复仇，冲啊！ 
 
-����OP ZONE 4 MISSION 1 
+　　OP ZONE 4 MISSION 1 
 
-������Ҫ���� 
-����ը�ٱ���ͨѶ��op:Able 
-����ը������ͨѶ��op:Charlie 
-����ը�ٶ���ͨѶ��op:Dog 
-����ը�ٵо������� op:Baker 
+　　主要任务： 
+　　炸毁北面通讯塔op:Able 
+　　炸毁南面通讯塔op:Charlie 
+　　炸毁东面通讯塔op:Dog 
+　　炸毁敌军供给火车 op:Baker 
 
-���� �������Ѿ�������Ϸ�����ˣ����ǰ�滹���û�и��㿼�飬����ν����������Ͼ��Ŀ��飬��Ϊ��Ķ��ֲ��ǵл����������޵�ʱ�䡪��7��20�룡�о��Ĺ������� 7��20�뽫���뿪ս�������ԣ��ж�ǰһ��Ҫ��ǵ��Σ�һ��ʼ���Ƚ��ж�Ŀ�ĵ��л�Ϊ op:Charile,��Ϊ�Ǹ�����һ����·���ǻ𳵵ıؾ�֮·������ʱ��ʼ�ˣ��о���Ȼ�����������ʱ�䣬����Cauldorn,һ��Shadowcat,һ��Bushwaker���������������˵�ˣ�ȫ�������ɡ���סֻ��ʱ�������Ķ��֣���ɺ����̶�������Ҫ��������ͨѶ�������ã����ᵽ��һ��Сɽ����������һ��Avatar,һ��Bushwaker��һ��Shadowcat��һ��Ҫ�ܿ����ǣ���Ȼ�ٲ��˰����¼��⣩,Ҳ���Խ���NPC�Ը����������⣬�㽫������5 ��30�����Ҵ���op:Charlie�����Ǵ�����������·�ĸߵأ�����Ҫ��ô����ȥ�����������һ���ػ�op:Baker��Thor��һ��Avatar��6��20�룬��ɽ��һ�����Բ��湥���𳵵�λ�ã���һ�ᣬ�𳵷ɳ۶�����LRM20��ʡ���˶��ٵģ�����Ҫ������۽��������ը�ٻ𳵺��ؾ�ҲӦɱ����ǰ�ˣ����ӻ�ȥ��NPC��ϰɣ�����ҲӦ��ȫ�ߵо��ˡ���;�Ѹղ�������ը�����桢�����ͨѶ��ը�ˣ���ɱ��op:Able����������Thor����ֻҪ��ǰ��ս��,NPC���˲������ｫ���ֶ������ѷ�����ը�������ͨѶ���󣬿���������񡣵���û���ɱ��op:Baker����ȥ�� 
+　　 到这里已经进入游戏后期了，如果前面还真的没有给你考验，那这次将会是最最严峻的考验，因为你的对手不是敌机，而是有限的时间——7分20秒！敌军的供给火车在 7分20秒将逃离开战场。所以，行动前一定要熟记地形，一开始，先将行动目的地切换为 op:Charile,因为那附近有一条铁路，是火车的必经之路。倒计时开始了！敌军当然不会给你充足的时间，两架Cauldorn,一架Shadowcat,一架Bushwaker正冲着你而来。别说了，全军出击吧。记住只有时间才是你的对手！完成后，立刻动身，不要理附近的通讯塔。不久，将会到达一个小山波，上面有一架Avatar,一架Bushwaker，一架Shadowcat，一定要避开它们（当然少不了挨几下激光）,也可以交给NPC对付，如无意外，你将可以在5 分30秒左右穿过op:Charlie到达那处可以望见铁路的高地，但不要那么快下去，否则会引来一架守护op:Baker的Thor和一架Avatar，6分20秒，下山找一个可以侧面攻击火车的位置，不一会，火车飞驰而过，LRM20是省不了多少的，但还要看你的眼界和运气，炸毁火车后，守军也应杀到眼前了，快逃回去和NPC会合吧！它们也应该全歼敌军了。沿途把刚才来不及炸的南面、东面的通讯塔炸了！再杀向op:Able，那有两架Thor，但只要先前的战斗,NPC损伤不大，这里将会又多了两堆废铁。炸了这里的通讯塔后，可以完成任务。但最好还是杀回op:Baker报仇去！ 
 
-����OP ZONE 4 MISSION 2 
+　　OP ZONE 4 MISSION 2 
 
-������Ҫ����
-����ը�ٴ�ׯop:Able 
-����ը�ټ�����op:Baker 
+　　主要任务：
+　　炸毁村庄op:Able 
+　　炸毁激光塔op:Baker 
 
-���� ÿ����ɼ�޵�����󣬶���������һ�£����Ҳ�����⡣����Ҫð���ж�����ҪС�ĸ�ð�ˣ�һ��ʼ������ը����̨��һ��Champion�������������ӣ��������ܹ���֧Ԯ��Madcat�����ҪѸ������������Ϊ���������һ��Annihilator��ȫ�����ˣ���������׼�������䣬�ֶ���һֻû�Ź��������ׯ���ȱ����ƻ����Ӷ���һ��Cham ��һ��Supermova��Ҫ����ά�Ͳ��ӣ������ô�ׯ���ڻ��ɵ����ǡ����û�����������ܵĻ�����ʱop:Bakerֻʣ��һ��Daish����Ȼ����Ultra ac5�����������Ͼ��в�����ô��֧���⣬ը��������������������� 
+　　 每次完成艰巨的任务后，都可以轻松一下，这次也不例外。但是要冒雨行动，可要小心感冒了！一开始，当你炸了炮台后，一架Champion会来送死。紧接，又是两架过来支援的Madcat，这可要迅速清理掉，因为，后面跟着一架Annihilator，全军后退，导弹激光准备，发射，又多了一只没脚鬼。到达村庄后，先别急着破坏，河对面一架Cham 和一架Supermova想要来当维和部队，正好用村庄作掩护干掉它们。如果没有让它们逃跑的话，这时op:Baker只剩下一架Daish，虽然它的Ultra ac5很厉害，但毕竟敌不过这么多支激光，炸毁两座激光塔后完成任务。 
 
-����OP ZONE 4 MISSION3 
+　　OP ZONE 4 MISSION3 
 
-������Ҫ����
-����ռ��о���������op:Able 
-����ռ�캽�ջ�op:Baker 
+　　主要任务：
+　　占领敌军供给中心op:Able 
+　　占领航空机op:Baker 
 
-���� ����ж���Ҫע��һ·�ϵ���̨�����ǿ��ǻ���PPCS�ġ��ɵ�����Orion����ţ�������������Ҳ�����Ƹ���Ȧ��½·���ӣ�����û�б�Ҫ����Ϊ����ж����ɻ����� Annihilator�����ԣ�����ǰ��ɣ����ź��Ȳ�Ҫֱ��op:Able���ع�ͷ�������� Orion������Vulture������֮�ǡ����ţ�ȫ���򹩸����ĳ���û����������Supermova �ͻ�ǰ��������ż�����ɹ�����ֱ��������Ȼ���㱧�š��ɻ����»����ľ��ģ�ûʲô��˵�ģ��尡������������������ɵ�һ������һ·��ɨ����̨���ӽ�op:Baker 800�׸�����һС��Elemental������������������֮������Annihilator�Ѿ���������ǰ�ˣ���ϲ����������һǰһ��������ں��ˣ���ֻ�첲���������£�˵�������ᵹ�ز����ǵ�����������ӣ����Ӳ���AC10��ȫ����������ƴ�ˣ��������һ��NPC������ Annihilator�ĵ����ˣ�����ж�ҲӦ�ý����ˡ� 
+　　 这次行动可要注意一路上的炮台，它们可是会射PPCS的。干掉两架Orion后过桥，如果你想减少伤也可以绕个大圈走陆路过河，但是没有必要，因为这次行动将缴获两架 Annihilator，所以，大胆往前冲吧！过桥后，先不要直奔op:Able，回过头清理两架 Orion和两架Vulture以免后顾之忧。接着，全军向供给中心出发没，那里有两Supermova 和火前车守卫，偶尔还飞过三架直升机，既然，你抱着“旧机换新机”的决心，没什么好说的，冲啊！解除这里的武力后，完成第一个任务。一路上扫除炮台，接近op:Baker 800米附近，一小队Elemental崩崩跳跳而来，清理之后，两架Annihilator已经出现在眼前了，可喜的是它们是一前一后，如果现在后退，少只胳膊是意料中事，说不定还会倒地不起！那倒不如趁它过河，发挥不了AC10的全部威力和它拼了！最后，随着一架NPC和两架 Annihilator的倒下了，这次行动也应该结束了。 
 
-����OP ZONE 4 MISSION4 
+　　OP ZONE 4 MISSION4 
 
-������Ҫ����
-����ռ��о�����op:Able 
+　　主要任务：
+　　占领敌军基地op:Able 
 
-������Ҫ����
-����ռ�����op:Baker 
+　　次要任务：
+　　占领货仓op:Baker 
 
-���� ��������˵��ͱ䣬��Ȼ����ѩ������ѩ�������������������ˡ�һ�����⵽��һ��Thor����Madcat����ElementalΧ�����������Annihilator�ֶӣ�˭��˭������ǰ���ѷ����ĵڶ���������һ��Thorһ��Madcat������Orionͳͳ�͵������󣬻������о����أ��ѻ����ϵ�һ��Orion��һ��Madcat�����⼸����̨�����꣬��ᷢ���Ѿ�����˴�Ҫ���񣬽���׼����������ڲ��������Ǵ����ŵ���ڣ����Ǵӻ��ر�������ȥ�������Ϳ������õ��Ƹߵ����ƣ������������Dalish�����˿��������������ڲ��������ĵ�һ������¯ը�٣�������ɡ� 
+　　 天气真是说变就变，居然下起雪来。这雪还真美啊！啊？不得了。一来就遭到了一架Thor两架Madcat三架Elemental围攻，但你可是Annihilator分队，谁怕谁！继续前进把发动的第二波进攻的一架Thor一架Madcat和两架Orion统统送到地狱后，会来到敌军基地，把基地上的一架Orion和一架Madcat及另外几座炮台清理完，你会发现已经完成了次要任务，接着准备进入基地内部，但不是从正门的入口，而是从基地背后爬进去，这样就可以利用地势高的优势，将里面的两架Dalish解决而丝毫无损。最后，跳进内部，把中心的一个能量炉炸毁，任务完成。 
 
-����OP ZONE 4 MISSION5 
+　　OP ZONE 4 MISSION5 
 
-������Ҫ����
-�����ֱ�ը��op:Able Baker Charlie Dog �������� 
-��������op:Echo�ĵ������ 
+　　主要任务：
+　　分别炸毁op:Able Baker Charlie Dog 的能量柱 
+　　到达op:Echo的电梯入口 
 
-���� ��ס������㽫����ƥ����������û��MFB֧Ԯ������½������񡣹۲��ͼ���Է���ֻ���������ſ���ͨ��op:Echo�����Ե����ڹ������ͬʱҲ��׼��ը�ٴ��ţ�׼�����ˣ���ɣ����������ǻرܲ��˵ģ�op:Able��op:Baker����һ��Sunder������Elemental ���ţ���ν�������ʾ��׼�۽�ĺû��ᣬǧ��Ҫ���������ҷ��ڵĻ��ᣬ������ܻᡰ���С����š��ɵ����Ǻ��Ȳ�Ҫը����������Ӧ���ȹ��ţ���������ؾ�Ҳȫ������Ȼ�󣬲�����ը����֧����������󣬵���op:Echo 
+　　 记住，这次你将单人匹马，并且在没有MFB支援的情况下进行任务。观察地图可以发现只有两条大桥可以通向op:Echo，所以敌人在攻击你的同时也将准备炸毁大桥，准备好了？冲吧！在这里你是回避不了的！op:Able和op:Baker各有一架Sunder和两架Elemental 守着，这次将是你显示精准眼界的好机会，千万不要让它们有乱发炮的机会，否则可能会“误中”大桥。干掉它们后先不要炸毁能量柱，应立既过桥，将那里的守军也全部消灭。然后，才慢慢炸毁五支能量柱。最后，到达op:Echo 
 
-����OP ZONE 4 MISSION6 
+　　OP ZONE 4 MISSION6 
 
-������Ҫ����
-����ȫ�ߵо� 
+　　主要任务：
+　　全歼敌军 
 
-���� ������������󣬱���Ϊ��һ��Annihilator���ս�����о��Ĳ��ಿ��ֻ��һ�� Madcatһ��Dalish������Supermove������һ�ߵ��ľ��棡 
+　　 终于来到了最后，本以为是一场Annihilator大会战，但敌军的残余部队只是一架 Madcat一架Dalish和两架Supermove，又是一边倒的局面！ 
 
-���� ���¼�ʻ�֣�ӭ�洵��һ�����硣���ѣ��ʹ˸���ˣ��´ΰɣ��´��л�����������һ���ʻ����սʿ�۳�ɳ����
+　　 走下驾驶仓，迎面吹来一阵凉风。朋友，就此告别了，下次吧！下次有机会让我们再一起驾驶机甲战士驰骋沙场。

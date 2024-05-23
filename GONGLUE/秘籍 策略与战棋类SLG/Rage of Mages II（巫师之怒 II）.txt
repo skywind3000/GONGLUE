@@ -1,6 +1,6 @@
-Rage of Mages II£¨Î×Ê¦Ö®Å­ II£©
+Rage of Mages IIï¼ˆå·«å¸ˆä¹‹æ€’ IIï¼‰
 
-ÔÚÓÎÏ·µØÍ¼ÖĞ°´ÏÂ¡°Enter¡±ÔÙÊäÈë¡°##Coward¡±¿ªÆô×÷±×Ä£Ê½:
+åœ¨æ¸¸æˆåœ°å›¾ä¸­æŒ‰ä¸‹â€œEnterâ€å†è¾“å…¥â€œ##Cowardâ€å¼€å¯ä½œå¼Šæ¨¡å¼:
 
 #create Gold
 #modify self +god

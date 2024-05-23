@@ -1,17 +1,17 @@
-Ultima IX_ Ascension£¨´´ÊÀ¼Í9£ºÉýÌÚ£©
+Ultima IX_ Ascensionï¼ˆåˆ›ä¸–çºª9ï¼šå‡è…¾ï¼‰
 
-ÔÚß[‘òÄ¿ä›ÖÐÕÒµ½ default.kmp ß@‚€™n
-Œ¢ÏÂÁÐÖ¸Áî¼Óµ½ [Cheat Commands] µ×ÏÂ
+åœ¨éŠæˆ²ç›®éŒ„ä¸­æ‰¾åˆ° default.kmp é€™å€‹æª”
+å°‡ä¸‹åˆ—æŒ‡ä»¤åŠ åˆ° [Cheat Commands] åº•ä¸‹
 
 alt+shift+i = toggle_avatar_invulnerable
 alt+shift+l = toggle_avatar_fly
 
-ÔÚß[‘òßMÐÐÖÐ¼´¿ÉÊ¹ÓÃÃÜ¼¼
+åœ¨éŠæˆ²é€²è¡Œä¸­å³å¯ä½¿ç”¨å¯†æŠ€
 
-alt+shift+i = Â}ÕßŸo”³
-alt+shift+l = Â}ÕßïwÐÐ
+alt+shift+i = è–è€…ç„¡æ•µ
+alt+shift+l = è–è€…é£›è¡Œ
 
-ÒÔÏÂÊÇÆäËûµÄÓÐÓÃÖ¸Áî
+ä»¥ä¸‹æ˜¯å…¶ä»–çš„æœ‰ç”¨æŒ‡ä»¤
 
 pass_one_hour
 unpass_one_hour
@@ -24,9 +24,9 @@ toggle_storms
 toggle_avatar_fast
 
 
-Ö»Òª°Ñ Game Disc movie ÏÂµÄ .dat ™nÈ«¸Ä³É
-.mpg , Äã¾Í¿ÉÒÔÓÃ“Ü·ÅÜ›ówí¿´ÁË. ²»ß^ß€ÊÇ„ñ
-Äã„eÏÈÍµ¿´,ÒÔÃâÆÆ‰ÄÄãµÄÍæÍêß[‘òµÄ›QÐÄÁË.
+åªè¦æŠŠ Game Disc movie ä¸‹çš„ .dat æª”å…¨æ”¹æˆ
+.mpg , ä½ å°±å¯ä»¥ç”¨æ’¥æ”¾è»Ÿé«”ä¾†çœ‹äº†. ä¸éŽé‚„æ˜¯å‹¸
+ä½ åˆ¥å…ˆå·çœ‹,ä»¥å…ç ´å£žä½ çš„çŽ©å®ŒéŠæˆ²çš„æ±ºå¿ƒäº†.
 
-ÒÀÓ°Æ¬í¿´,œQ»¯Íê°Ë¸ùºÚÑÒÖ®Öù,¾ÍÊÇ¸úÊØ×oÉñµÄ
-Œ¦›QÖ®ÈÕÁË¡£
+ä¾å½±ç‰‡ä¾†çœ‹,æ·¨åŒ–å®Œå…«æ ¹é»‘å²©ä¹‹æŸ±,å°±æ˜¯è·Ÿå®ˆè­·ç¥žçš„
+å°æ±ºä¹‹æ—¥äº†ã€‚

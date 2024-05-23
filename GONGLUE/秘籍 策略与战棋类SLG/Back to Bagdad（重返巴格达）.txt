@@ -1,9 +1,9 @@
-Back to Bagdad���ط��͸�
+Back to Bagdad（重返巴格达）
 
-�ѹʷ���Ա�����
-1.����������ģ�Control Center������ѡ����Ա��Pilot Selection����
-2.˫����Ҫ����ķ���Ա�����֡�
-3.˫�����������ŷ���Ա��Ƭ�з���Ա��Ƥ���ۡ�
-4.����OK������Ὡסһ�������Ӳ�̵Ʋ�������ȥ����OK���ص��������ġ�
-5.��������Ա״̬���ɡ��ѹʣ�deceased������Ϊ��������pining for the fjords������
+已故飞行员复活法：
+1.进入控制中心（Control Center）的挑选飞行员（Pilot Selection）。
+2.双击想要复活的飞行员的名字。
+3.双击画面中那张飞行员照片中飞行员的皮带扣。
+4.单击OK，画面会僵住一会儿。待硬盘灯不亮，再去单击OK，回到控制中心。
+5.这样飞行员状态会由“已故（deceased）”变为“待命（pining for the fjords）”。
 

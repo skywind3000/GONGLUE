@@ -1,14 +1,14 @@
-»ÃÏëÆæÏÀ´«
+å¹»æƒ³å¥‡ä¾ ä¼ 
 
-µ±Ö÷½ÇÉúÃüÖµ¿ìÍêÊ±£¬°´Q¼ü¿É²¹Ñª¡£
-¡¡¡¡Mig£­29Ö§µãÊ½Õ½»ú
-¡¡¡¡ÔÚÓÎÏ·½øÐÐÖÐ°´ÏÂT¼üºó½øÈëÍ¨Ñ¶¶Ô»°Ä£Ê½£¬½Ó×Å¾Í¿É¼üÈëÒÔÏÂÃØ¼¼£º
-¡¡¡¡you got what i need=ÎÞÏÞµ¯Ò©¡£
-¡¡¡¡food goes here=µ¯Ò©ÖØÐÂ×°Ìî¡£
-¡¡¡¡big gulp=²¹¸øÈ¼ÁÏ¡£
-¡¡¡¡youre here forever=ÎÞµÐ¡£
-¡¡¡¡damn that corner=²»»á×¹»ú¡£
-¡¡¡¡chiliburger=ÐÞ¸´Õ½»ú¡£
-¡¡¡¡spindive=²»»á±»»÷ÖÐ¡£
-¡¡¡¡upside down=×Ô¶¯¼ÝÊ»¡£
-¡¡¡¡paperairplane=±ä³ÉÖ½·É»ú¡£
+å½“ä¸»è§’ç”Ÿå‘½å€¼å¿«å®Œæ—¶ï¼ŒæŒ‰Qé”®å¯è¡¥è¡€ã€‚
+ã€€ã€€Migï¼29æ”¯ç‚¹å¼æˆ˜æœº
+ã€€ã€€åœ¨æ¸¸æˆè¿›è¡Œä¸­æŒ‰ä¸‹Té”®åŽè¿›å…¥é€šè®¯å¯¹è¯æ¨¡å¼ï¼ŒæŽ¥ç€å°±å¯é”®å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š
+ã€€ã€€you got what i need=æ— é™å¼¹è¯ã€‚
+ã€€ã€€food goes here=å¼¹è¯é‡æ–°è£…å¡«ã€‚
+ã€€ã€€big gulp=è¡¥ç»™ç‡ƒæ–™ã€‚
+ã€€ã€€youre here forever=æ— æ•Œã€‚
+ã€€ã€€damn that corner=ä¸ä¼šå æœºã€‚
+ã€€ã€€chiliburger=ä¿®å¤æˆ˜æœºã€‚
+ã€€ã€€spindive=ä¸ä¼šè¢«å‡»ä¸­ã€‚
+ã€€ã€€upside down=è‡ªåŠ¨é©¾é©¶ã€‚
+ã€€ã€€paperairplane=å˜æˆçº¸é£žæœºã€‚

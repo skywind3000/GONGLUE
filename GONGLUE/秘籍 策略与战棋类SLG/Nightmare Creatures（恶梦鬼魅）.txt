@@ -1,17 +1,17 @@
-Nightmare Creatures£¨¶ñÃÎ¹í÷È£©
+Nightmare Creaturesï¼ˆæ¶æ¢¦é¬¼é­…ï¼‰
 
-ÔÚ¿ªÊ¼²Ëµ¥ÖÐ¼üÈëÏÂÁÐ×Ö·ûÔÙ°´¡°ENTER¡±£¬»áÌý
-µ½Ò»¹ÖÉù£¬¿ªÆôÆÛÆ­²Ëµ¥£¬´ËÍâÏÈÊäÈëeverywhere
-everywhere£º½øÈëËùÓÐ¹Ø¿¨
- boulon£ºÎÞÏÞµ¯Ò©ºÍÎïÆ·
-bronko£ºÑ¡ÓÃ¹ÖÊÞ³öÕ½
-gu£º¿ªÆôËéÆ¬Ä£Ê½
-chico£º¼õÉÙÄ£Ê½
-david£ºÃ»ÓÐ±ØÉ±¼¼
-blur£º¿ªÆô¡°Play Blur¡±¹¦ÄÜ
-lovdik£º¿ªÆô¡°Team Greetings¡±¹¦ÄÜ
-bes£º½øÈë³ý´íÄ£Ê½
-moby£ºÑ¡Ôñ£Ã£ÄÒô¹ì
-alain guyet£º¿ªÆôÆÛÆ­²Ëµ¥ÖÐµÄËùÓÐÑ¡Ïî
+åœ¨å¼€å§‹èœå•ä¸­é”®å…¥ä¸‹åˆ—å­—ç¬¦å†æŒ‰â€œENTERâ€ï¼Œä¼šå¬
+åˆ°ä¸€æ€ªå£°ï¼Œå¼€å¯æ¬ºéª—èœå•ï¼Œæ­¤å¤–å…ˆè¾“å…¥everywhere
+everywhereï¼šè¿›å…¥æ‰€æœ‰å…³å¡
+ boulonï¼šæ— é™å¼¹è¯å’Œç‰©å“
+bronkoï¼šé€‰ç”¨æ€ªå…½å‡ºæˆ˜
+guï¼šå¼€å¯ç¢Žç‰‡æ¨¡å¼
+chicoï¼šå‡å°‘æ¨¡å¼
+davidï¼šæ²¡æœ‰å¿…æ€æŠ€
+blurï¼šå¼€å¯â€œPlay Blurâ€åŠŸèƒ½
+lovdikï¼šå¼€å¯â€œTeam Greetingsâ€åŠŸèƒ½
+besï¼šè¿›å…¥é™¤é”™æ¨¡å¼
+mobyï¼šé€‰æ‹©ï¼£ï¼¤éŸ³è½¨
+alain guyetï¼šå¼€å¯æ¬ºéª—èœå•ä¸­çš„æ‰€æœ‰é€‰é¡¹
 
 

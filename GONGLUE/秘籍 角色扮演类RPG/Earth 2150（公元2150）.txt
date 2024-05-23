@@ -1,21 +1,21 @@
-Earth 2150£¨¹«Ôª2150£©
+Earth 2150ï¼ˆå…¬å…ƒ2150ï¼‰
 
-°´»Ø³µ¼ü£¬È»ºóÊäÈë"I_wanna_cheat"£¬È»ºó°´×¡×ó±ßµÄ[SHIFT]¼üºÍÊı×Ö¼üÅÌµÄ[0]¼ü²»·Å£¬Í¬Ê±ÔÙ°´ÏÂ»Ø³µ¼ü¡£×îºó£¬ÔÙ°´´Î»Ø³µ£¬È»ºóÊäÈëÒÔÏÂÃÜÂë£¬ÊäÍêÃÜÂëºó»¹Òª°´´Î»Ø³µ¼ü¡£
+æŒ‰å›è½¦é”®ï¼Œç„¶åè¾“å…¥"I_wanna_cheat"ï¼Œç„¶åæŒ‰ä½å·¦è¾¹çš„[SHIFT]é”®å’Œæ•°å­—é”®ç›˜çš„[0]é”®ä¸æ”¾ï¼ŒåŒæ—¶å†æŒ‰ä¸‹å›è½¦é”®ã€‚æœ€åï¼Œå†æŒ‰æ¬¡å›è½¦ï¼Œç„¶åè¾“å…¥ä»¥ä¸‹å¯†ç ï¼Œè¾“å®Œå¯†ç åè¿˜è¦æŒ‰æ¬¡å›è½¦é”®ã€‚
 
-x-mas_pack = ĞŞÀí²¢ÖØĞÂ×°Ìîµ¯Ò©
-fireworks = µØÀ×
+x-mas_pack = ä¿®ç†å¹¶é‡æ–°è£…å¡«å¼¹è¯
+fireworks = åœ°é›·
 i_love_this_game # = Give # of CR 
 i_hate_limits # = Set Unit Limit to # CR 
 einstein 1 = Fast Explore On (0 for Off) 
 help_me_please!!! = 1 Fast Explore On - Player Only (0 for Off)
 the_hammer_of_thor = Kil All Enemies at Range of 8 
 massacre = Kills All Objects at Range of 8 
-see_you_next_life = É±ËÀ±»Ñ¡ÖĞµÄ²¿¶Ó
-hasta_la_vista_enemigos = ´İ»ÙËùÓĞ¿É¼ûµÄÄ¿±ê
+see_you_next_life = æ€æ­»è¢«é€‰ä¸­çš„éƒ¨é˜Ÿ
+hasta_la_vista_enemigos = æ‘§æ¯æ‰€æœ‰å¯è§çš„ç›®æ ‡
 bad_time_bad_place = Damage All Near Units
 eagle_eye = See All
-let_be_darkness = Îí
+let_be_darkness = é›¾
 no_one_hides = See All Units
-no_more_secrets = µØÍ¼È«¿ª
+no_more_secrets = åœ°å›¾å…¨å¼€
 armageddon = Meteor Shower
 

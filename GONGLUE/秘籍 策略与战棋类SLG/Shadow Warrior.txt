@@ -1,16 +1,16 @@
 Shadow Warrior
 
-��T����������ģʽ
-SWCHAN : �޵��л�
-SWGIMME : �õ�������Ʒ
-SWGHOST : ��ǽ�л�
-SWLOC : ��ʾ��Ϸ֡��
-SWMAP : ȫ��ͼ
-SWRES : �ֱ��ʸı�
-SWSTART : ��������һ��
-SWTREKxy: ����(0~xΪС��,1~yΪ���)
-SWTRIX : �򿪻��������
-QUIT : �뿪��Ϸ
-WINPACHINKO : �õ�pachinko gameʤ��,�������õ�һ����Ʒ
+按T键开启作弊模式
+SWCHAN : 无敌切换
+SWGIMME : 得到所有物品
+SWGHOST : 穿墙切换
+SWLOC : 显示游戏帧数
+SWMAP : 全地图
+SWRES : 分辨率改变
+SWSTART : 重新玩这一关
+SWTREKxy: 跳关(0~x为小关,1~y为大关)
+SWTRIX : 打开火箭发射器
+QUIT : 离开游戏
+WINPACHINKO : 得到pachinko game胜利,还可以拿到一个物品
 
 

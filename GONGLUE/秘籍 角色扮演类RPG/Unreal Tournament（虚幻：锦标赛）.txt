@@ -1,33 +1,33 @@
-Unreal Tournament����ã���������
+Unreal Tournament（虚幻：锦标赛）
 
-��Ϸ�а�`�򿪿���̨������"iamtheone"�������������ؼ���
+游戏中按`打开控制台，输入"iamtheone"后再输入以下秘技：
 
-god ���ϵ�ģʽ
-loaded ����������
-allammo ������������999����ҩ
-summon x�����õ�X��Ʒ
-FLY�������ɰ�
-WALK����ͣ�·ɺʹ�ǽģʽ
-GHOST������ǽģʽ
-KILLALL (enemy)����ɱ���㲻�뿴����ĳ����ˣ��磺nali, skaargwarrior, mercenary......
-PLAYERSONLY��������ʱ��
+god 　上帝模式
+loaded 　所有武器
+allammo 　所有武器加999发弹药
+summon x　　得到X物品
+FLY　　　飞吧
+WALK　　停下飞和穿墙模式
+GHOST　　穿墙模式
+KILLALL (enemy)　　杀掉你不想看到的某类敌人，如：nali, skaargwarrior, mercenary......
+PLAYERSONLY　　冰结时间
 
-OPEN # �л���ͼ��#
-�õ���Ʒ��
+OPEN # 切换地图到#
+得到物品：
 SUMMON CANNON 
 SUMMON EIGHTBALL 
 SUMMON FLAKCANNON 
 SUMMON NALI 
 SUMMON SKAARJWARRIOR 
 SUMMON QUAD SHOT 
-BEHINDVIEW 1�����������˳��ӽ�
-BEHINDVIEW 0��������һ�˳��ӽ�
+BEHINDVIEW 1　　　第三人称视角
+BEHINDVIEW 0　　　第一人称视角
 
-ʹ��BOSS����
+使用BOSS法：
 
-һ������£����ֻ������ɱ��������ʹ��BOSS(aka xan)��������һ��������ɱ������ܸ��ķ�������ҡ�
-����ϷĿ¼�´�User.ini�ļ�.
-�ҵ�[DefaultPlayer],�ı����²���:
+一般情况下，玩家只有在完成比赛后才能使用BOSS(aka xan)法，介绍一个不用完成比赛就能搞掂的方法给大家。
+在游戏目录下打开User.ini文件.
+找到[DefaultPlayer],改变以下参数:
 
 Name=Roach
 Class=BotPack.TBoss
@@ -36,7 +36,7 @@ skin=
 Face=
 Voice=BotPack.VoiceBoss
 
-Ȼ������������ڵײ�
+然后将下面的语句加在底部
 [Botpack.Ladder]
 HasBeatenGame=True
 

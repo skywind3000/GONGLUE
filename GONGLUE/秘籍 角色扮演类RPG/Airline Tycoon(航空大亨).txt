@@ -1,14 +1,14 @@
-Airline Tycoon(º½¿Õ´óºà)
+Airline Tycoon(èˆªç©ºå¤§äº¨)
 
-atmissall ËùÓĞÈÎÎñ
-donaldtrump ¶îÍâµÄÇ®
-expander ¸ü´óµÄ·É»ú³¡
-mentat ¼¤»îËùÓĞÖúÊÖ
-nodebts ²»¸ºÕ®
-showall ËùÓĞº½Ïß¿ÉÊÓ
-thinkpad ±Ê¼Ç±¾
-winning Íê³ÉÈÎÎñ
-missioncrowd Óµ¼·µÄ·É»ú³¡
-runningman ¼Ó¿ìÈËµÄËÙ¶È
-famous ¸üºÃµÄÃûÓş 
+atmissall æ‰€æœ‰ä»»åŠ¡
+donaldtrump é¢å¤–çš„é’±
+expander æ›´å¤§çš„é£æœºåœº
+mentat æ¿€æ´»æ‰€æœ‰åŠ©æ‰‹
+nodebts ä¸è´Ÿå€º
+showall æ‰€æœ‰èˆªçº¿å¯è§†
+thinkpad ç¬”è®°æœ¬
+winning å®Œæˆä»»åŠ¡
+missioncrowd æ‹¥æŒ¤çš„é£æœºåœº
+runningman åŠ å¿«äººçš„é€Ÿåº¦
+famous æ›´å¥½çš„åèª‰ 
 

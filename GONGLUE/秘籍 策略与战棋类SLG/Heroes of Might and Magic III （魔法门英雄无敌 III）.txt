@@ -1,22 +1,22 @@
-Heroes of Might and Magic III £¨Ä§·¨ÃÅÓ¢ĞÛÎŞµĞ III£©
+Heroes of Might and Magic III ï¼ˆé­”æ³•é—¨è‹±é›„æ— æ•Œ IIIï¼‰
 
-°´¡®tab¡¯¼ü£¬¼üÈëÒÔÏÂ×Ö·û´®£¬ÔÙ´ò»Ø³µ
-nwconlyamodel£½Á¢¿Ì½¨³ö³ÇÀïËùÓĞ½¨Öş 
-nwcsirrobin£½ÈÎÎñÁ¢¼´Ê§°Ü 
-nwctrojanrabbit£½ÈÎÎñÁ¢¼´Íê³É 
-nwcavertingoureyes£½Ó¢ĞÛ²¿¶ÓÀïµÄÃ¿¸ö¿ÕÎ»¶¼ÌîÉÏÎå¸öÌìÊ¹³¤ 
-nwcantioch£½Ó¢ĞÛ»ñµÃåó³µ¡¢Ò½ÁÆ³µºÍµ¯Ò©³µ 
-nwcigotbetter£½Ó¢ĞÛÉıÒ»¼¶ 
-nwccastleanthrax£½Ó¢ĞÛ»ñµÃ×î´óĞÒÔË 
-nwccoconuts£½Ó¢ĞÛĞĞ¶¯Á¦ÎŞÏŞ 
-nwcmuchrejoicing£½Ó¢ĞÛ»ñµÃ×î´óÊ¿Æø 
-nwcalreadygotone£½¹Û¿´ÍêÈ«´ò¿ªµÄ²Ø±¦Í¼ 
-nwcgeneraldirection£½´ò¿ªµØÍ¼ 
-nwcshrubbery£½¼Ó¸÷Ïî×ÊÔ´ 
-nwctim£½Ó¢ĞÛÑ§»áÈ«²¿Ä§·¨£¬ÇÒÄ§·¨µã(spell points)±ä³É999
-nwfleshwound£½ËÀÍöÆïÊ¿
-nwcphisherprice£½Ã÷ÁÁÑÕÉ«
+æŒ‰â€˜tabâ€™é”®ï¼Œé”®å…¥ä»¥ä¸‹å­—ç¬¦ä¸²ï¼Œå†æ‰“å›è½¦
+nwconlyamodelï¼ç«‹åˆ»å»ºå‡ºåŸé‡Œæ‰€æœ‰å»ºç­‘ 
+nwcsirrobinï¼ä»»åŠ¡ç«‹å³å¤±è´¥ 
+nwctrojanrabbitï¼ä»»åŠ¡ç«‹å³å®Œæˆ 
+nwcavertingoureyesï¼è‹±é›„éƒ¨é˜Ÿé‡Œçš„æ¯ä¸ªç©ºä½éƒ½å¡«ä¸Šäº”ä¸ªå¤©ä½¿é•¿ 
+nwcantiochï¼è‹±é›„è·å¾—å¼©è½¦ã€åŒ»ç–—è½¦å’Œå¼¹è¯è½¦ 
+nwcigotbetterï¼è‹±é›„å‡ä¸€çº§ 
+nwccastleanthraxï¼è‹±é›„è·å¾—æœ€å¤§å¹¸è¿ 
+nwccoconutsï¼è‹±é›„è¡ŒåŠ¨åŠ›æ— é™ 
+nwcmuchrejoicingï¼è‹±é›„è·å¾—æœ€å¤§å£«æ°” 
+nwcalreadygotoneï¼è§‚çœ‹å®Œå…¨æ‰“å¼€çš„è—å®å›¾ 
+nwcgeneraldirectionï¼æ‰“å¼€åœ°å›¾ 
+nwcshrubberyï¼åŠ å„é¡¹èµ„æº 
+nwctimï¼è‹±é›„å­¦ä¼šå…¨éƒ¨é­”æ³•ï¼Œä¸”é­”æ³•ç‚¹(spell points)å˜æˆ999
+nwfleshwoundï¼æ­»äº¡éª‘å£«
+nwcphisherpriceï¼æ˜äº®é¢œè‰²
 
-ÓÃÁËÃÜÂëºóµÈ¼¶Îªcheater£¬µÃ·ÖÎª1£¬ÅÅÔÚ×îºó¡£ 
+ç”¨äº†å¯†ç åç­‰çº§ä¸ºcheaterï¼Œå¾—åˆ†ä¸º1ï¼Œæ’åœ¨æœ€åã€‚ 
 
 

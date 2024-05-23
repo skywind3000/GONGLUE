@@ -1,5 +1,5 @@
-Battlecuicer 3000AD£¨ÐÇÕ½ 3000AD£©
+Battlecuicer 3000ADï¼ˆæ˜Ÿæˆ˜ 3000ADï¼‰
 
-ÔÚÓÎÏ·ÖÐ¿ÉÊäÈëÏÂÁÐÃØ¼¼£º
-CTRL+A ¼Ó¿ìÊ±¼ä
-CTRL+SHIFT+A ¼õÂýÊ±¼ä
+åœ¨æ¸¸æˆä¸­å¯è¾“å…¥ä¸‹åˆ—ç§˜æŠ€ï¼š
+CTRL+A åŠ å¿«æ—¶é—´
+CTRL+SHIFT+A å‡æ…¢æ—¶é—´

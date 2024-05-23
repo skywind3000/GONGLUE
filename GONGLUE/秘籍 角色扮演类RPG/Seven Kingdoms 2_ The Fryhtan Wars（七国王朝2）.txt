@@ -1,14 +1,14 @@
-Seven Kingdoms 2_ The Fryhtan Wars£¨Æß¹úÍõ³¯2£©
+Seven Kingdoms 2_ The Fryhtan Warsï¼ˆä¸ƒå›½ç‹æœ2ï¼‰
 
-Ctrl+B = ½¨ÖşÁ¢¿ÌÍê³É 
-¡¡¡¡Ctrl+C = Cash and life points (+1000 each) 
-¡¡¡¡Ctrl+M = ÏÔÊ¾µØÍ¼ 
-¡¡¡¡Ctrl+T = ¿Æ¼¼Éı¼¶ 
-¡¡¡¡Ctrl+U = Ó¢Ã÷¾ıÖ÷ 
-¡¡¡¡Ctrl+Z = ¿ìËÙ½¨ÖşÄ£Ê½ 
-¡¡¡¡Ctrl+\ = Ê³Îï+1000 
-¡¡¡¡Ctrl+/ = Add 1000 life points 
-¡¡¡¡Ctrl+; = ³ÇÊĞÈË¿Ú+10 
-¡¡¡¡Ctrl++ = Seat of power full pray point, tower of science full ¡¡¡¡¡¡¡¡¡¡¡¡ pray point, full spy skill 
-¡¡¡¡Ctrl+! = Increase fryhtan battling score by 10 
+Ctrl+B = å»ºç­‘ç«‹åˆ»å®Œæˆ 
+ã€€ã€€Ctrl+C = Cash and life points (+1000 each) 
+ã€€ã€€Ctrl+M = æ˜¾ç¤ºåœ°å›¾ 
+ã€€ã€€Ctrl+T = ç§‘æŠ€å‡çº§ 
+ã€€ã€€Ctrl+U = è‹±æ˜å›ä¸» 
+ã€€ã€€Ctrl+Z = å¿«é€Ÿå»ºç­‘æ¨¡å¼ 
+ã€€ã€€Ctrl+\ = é£Ÿç‰©+1000 
+ã€€ã€€Ctrl+/ = Add 1000 life points 
+ã€€ã€€Ctrl+; = åŸå¸‚äººå£+10 
+ã€€ã€€Ctrl++ = Seat of power full pray point, tower of science full ã€€ã€€ã€€ã€€ã€€ã€€ pray point, full spy skill 
+ã€€ã€€Ctrl+! = Increase fryhtan battling score by 10 
 

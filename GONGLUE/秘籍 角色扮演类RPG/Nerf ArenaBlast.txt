@@ -1,12 +1,12 @@
 Nerf ArenaBlast
 
-тзсно╥жпйДхК║╟~║╠ё╛╫свейДхКртоб╢ЗбКё╨
-god--ио╣шдёй╫
-allammo--кЫсп╣дг╧╤╪сп999©евс╣╞
-fly--╥иппдёй╫
-ghost--╢╘г╫йУ
-walk--╧ь╠у╥ипп╨м╢╘г╫йУ
-open [mapname]--╢Р©╙╣ьм╪ё╛╣ьм╪цШхГобё╨AR-Asteroid/
+Е°╗Ф╦╦Ф┬▐Д╦╜Х╬⌠Е┘╔Б─°~Б─²О╪▄Ф▌╔Г²─Х╬⌠Е┘╔Д╩╔Д╦▀Д╩ёГ═│О╪ 
+god--Д╦┼Е╦²Ф╗║Е╪▐
+allammo--Ф┴─Ф°┴Г └Ф·╙И┐╫Ф°┴999И╒≈Е╜░Е╪╧
+fly--Иё·Х║▄Ф╗║Е╪▐
+ghost--Г╘©Е╒≥Ф°╞
+walk--Е┘ЁИ≈╜Иё·Х║▄Е▓▄Г╘©Е╒≥Ф°╞
+open [mapname]--Ф┴⌠Е╪─Е°╟Е⌡╬О╪▄Е°╟Е⌡╬Е░█Е╕┌Д╦▀О╪ AR-Asteroid/
 AR-Barracuda/AR-Luna/AR-Orbital/AR-Sequoia/AR-Sky/
 AR-Tut/Autoplay/Entry/Nerf/Nerf-Plaza/PM-Amateur/
 PM-Asteroid/PM-Barracuda/PM-Champion/PM-Luna/PM-Sky/

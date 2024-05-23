@@ -1,14 +1,14 @@
 Interstate 82
 
-��Ϸ���û�ESC����Ȼ���������´��룬�ٴ��û�ESC����
-�����ؼ���
-KISS��ɱ����ǰĿ�공�� (SP Only) 
-LOVE��ɱ���״��ϵ�ȫ������(SP Only) 
-CUDDLE��������ղ���(SP Only) 
-HUGS��ʹ�Լ��˽�ղ���(SP Only) 
-CARESS����ҩȫ��
-IMLAME���Զ��������
-SYRUP AI Vehiclesֹͣ�������������(SP Only)
-MRFREEZE��ȫ��AI��ʱ��ֹͣ
-NUKEME����ɱ 
+游戏中敲击ESC键，然后输入以下代码，再次敲击ESC即可
+激活秘技：
+KISS：杀死当前目标车辆 (SP Only) 
+LOVE：杀死雷达上的全部敌人(SP Only) 
+CUDDLE：汽车金刚不坏(SP Only) 
+HUGS：使自己人金刚不坏(SP Only) 
+CARESS：弹药全满
+IMLAME：自动完成任务
+SYRUP AI Vehicles停止，但还可以射击(SP Only)
+MRFREEZE：全部AI的时间停止
+NUKEME：自杀 
 

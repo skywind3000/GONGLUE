@@ -1,6 +1,6 @@
-DEATHTRAP DUNGEON £¨µØ³ÇÆæ±ø£©
+DEATHTRAP DUNGEON ï¼ˆåœ°åŸŽå¥‡å…µï¼‰
 
-ÔÚÓÎÏ·ÖÐÍ¾¼üÈë:
-ELVIS =ÉúÃüÖµÎÞÏÞ
-HELP =ÓÎÏ·ÔÝÍ£
+åœ¨æ¸¸æˆä¸­é€”é”®å…¥:
+ELVIS =ç”Ÿå‘½å€¼æ— é™
+HELP =æ¸¸æˆæš‚åœ
 

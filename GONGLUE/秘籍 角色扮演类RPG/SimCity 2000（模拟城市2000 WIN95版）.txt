@@ -1,11 +1,11 @@
-SimCity 2000£¨Ä£Äâ³ÇÊÐ2000 WIN95°æ£©
+SimCity 2000ï¼ˆæ¨¡æ‹ŸåŸŽå¸‚2000 WIN95ç‰ˆï¼‰
 
-ÔÚÓÎÏ·ÖÐÊäÈëÒÔÏÂ´úÂë£º
-CASS-Gain£º»ñµÃ$250£¬µ«ÓÐ15%µÄ»ú»áÓöµ½ÔÖÄÑ 
-FUND-Gain£º»ñµÃ$10,000µÄ´û¿î£¬ÀûÏ¢ÊÇ25%
-GILMARTIN-ÎÊÄãÊÇ·ñÏëÔÚ³ÇÊÐÄÚÒªÒ»¸ö¾üÊÂ»ùµØ£¨µ«ÓÉµçÄÔ
-¾ö¶¨»ùµØÀàÐÍ¡¢Î»ÖÃºÍ´óÐ¡£©
-IMACHEAT-»ñµÃ$500,000ºÍ¿É»ñµÃËùÓÐµÄ½±½ð 
-NOAH-·¢ºéË®
-PRISCILLA-Debug²Ëµ¥ 
+åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+CASS-Gainï¼šèŽ·å¾—$250ï¼Œä½†æœ‰15%çš„æœºä¼šé‡åˆ°ç¾éš¾ 
+FUND-Gainï¼šèŽ·å¾—$10,000çš„è´·æ¬¾ï¼Œåˆ©æ¯æ˜¯25%
+GILMARTIN-é—®ä½ æ˜¯å¦æƒ³åœ¨åŸŽå¸‚å†…è¦ä¸€ä¸ªå†›äº‹åŸºåœ°ï¼ˆä½†ç”±ç”µè„‘
+å†³å®šåŸºåœ°ç±»åž‹ã€ä½ç½®å’Œå¤§å°ï¼‰
+IMACHEAT-èŽ·å¾—$500,000å’Œå¯èŽ·å¾—æ‰€æœ‰çš„å¥–é‡‘ 
+NOAH-å‘æ´ªæ°´
+PRISCILLA-Debugèœå• 
 

@@ -1,6 +1,6 @@
-���洫˵��Զ���µ���
+神奇传说：远征奥德赛
 
-exp =�Ӿ���ֵ 
-money =��Ǯ 
-coin =�����ֳ����� 
-skip =�Թ��ݾ�����
+exp =加经验值 
+money =加钱 
+coin =加游乐场代币 
+skip =迷宫捷径开关

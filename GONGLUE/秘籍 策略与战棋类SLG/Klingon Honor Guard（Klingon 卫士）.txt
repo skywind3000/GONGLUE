@@ -1,44 +1,44 @@
-Klingon Honor Guard£¨Klingon ÎÀÊ¿£©
+Klingon Honor Guardï¼ˆKlingon å«å£«ï¼‰
 
-°´ TAB ¼üááÔÙÊäÈëÃÜ¼¼
-allammo = µ¯Ò©È«Âú
-behindview1 = µÚÈıÈË³ÆÊÓ½Ç
-behindview0 =µÚÒ»ÈË³ÆÊÓ½Ç
-flush = ÖØ»æÍ¼ËØ
-fly = ·ÉĞĞÄ£Ê½
-ghost = ´©Ç½Ä£Ê½
-god = ÎŞµĞÄ£Ê½
-hideactors = Òş²ØËùÓĞ¹ÖÎï,ÎäÆ÷ºÍÎïÆ·
-showactors = ÏÔÊ¾ËùÓĞ¹ÖÎï,ÎäÆ÷ºÍÎïÆ·
-invisible0 = ¹Ø±ÕÒşĞÎÄ£Ê½
-invisible1 = ¿ªÆôÒşĞÎÄ£Ê½
-killall # = É±ËÀÌØ¶¨¹ÖÎï (#=¹ÖÎïÃû³Æ)
-killpawns = É±ËÀËùÓĞ¹ÖÎï
-open # = Ìø¹Ø (#=¹Ø¿¨Ãû³Æ)
-playersonly = ¼ÆÊ±Æ÷ÔİÍ£
-slomo # =Éè¶¨ÓÎÏ·Ê±Ğò (#=1 ÎªÕı³£)
-summon # = µÃµ½ÎäÆ÷,ÎïÆ·»ò¹ÖÎï (#=ÎäÆ÷,ÎïÆ·»ò¹ÖÎïÃû³Æ)
-suicide = ×ÔÉ±
-walk =ÓÉ·ÉĞĞ»ò´©Ç½Ä£Ê½ÖĞ»Ø¸´
+æŒ‰ TAB é”®å¾Œå†è¾“å…¥å¯†æŠ€
+allammo = å¼¹è¯å…¨æ»¡
+behindview1 = ç¬¬ä¸‰äººç§°è§†è§’
+behindview0 =ç¬¬ä¸€äººç§°è§†è§’
+flush = é‡ç»˜å›¾ç´ 
+fly = é£è¡Œæ¨¡å¼
+ghost = ç©¿å¢™æ¨¡å¼
+god = æ— æ•Œæ¨¡å¼
+hideactors = éšè—æ‰€æœ‰æ€ªç‰©,æ­¦å™¨å’Œç‰©å“
+showactors = æ˜¾ç¤ºæ‰€æœ‰æ€ªç‰©,æ­¦å™¨å’Œç‰©å“
+invisible0 = å…³é—­éšå½¢æ¨¡å¼
+invisible1 = å¼€å¯éšå½¢æ¨¡å¼
+killall # = æ€æ­»ç‰¹å®šæ€ªç‰© (#=æ€ªç‰©åç§°)
+killpawns = æ€æ­»æ‰€æœ‰æ€ªç‰©
+open # = è·³å…³ (#=å…³å¡åç§°)
+playersonly = è®¡æ—¶å™¨æš‚åœ
+slomo # =è®¾å®šæ¸¸æˆæ—¶åº (#=1 ä¸ºæ­£å¸¸)
+summon # = å¾—åˆ°æ­¦å™¨,ç‰©å“æˆ–æ€ªç‰© (#=æ­¦å™¨,ç‰©å“æˆ–æ€ªç‰©åç§°)
+suicide = è‡ªæ€
+walk =ç”±é£è¡Œæˆ–ç©¿å¢™æ¨¡å¼ä¸­å›å¤
 
-°´ ~¼üáá, ÊäÈë summon klingons. # ¿ÉµÃµ½ÒÔÏÂÎïÆ·
-Daktagh =ÎäÆ÷ 1
-Disruptorpistol =ÎäÆ÷ 2
-Disruptorrifle =ÎäÆ÷ 3
-Assaultdisruptor =ÎäÆ÷ 4
-Spinclaw =ÎäÆ÷ 5
-Grenadelauncher =ÎäÆ÷ 6
-Rocketlauncher =ÎäÆ÷ 7
-Sithhar =ÎäÆ÷ 8
-Particlecannon =ÎäÆ÷ 9
-Batleth =ÎäÆ÷ 10
-Cipherkey =Ô¿³× 
-Genetickey =Ô¿³× 
-Palmkey =Ô¿³× 
-Passcardkey =Ô¿³× 
-Retinalkey =Ô¿³× 
+æŒ‰ ~é”®å¾Œ, è¾“å…¥ summon klingons. # å¯å¾—åˆ°ä»¥ä¸‹ç‰©å“
+Daktagh =æ­¦å™¨ 1
+Disruptorpistol =æ­¦å™¨ 2
+Disruptorrifle =æ­¦å™¨ 3
+Assaultdisruptor =æ­¦å™¨ 4
+Spinclaw =æ­¦å™¨ 5
+Grenadelauncher =æ­¦å™¨ 6
+Rocketlauncher =æ­¦å™¨ 7
+Sithhar =æ­¦å™¨ 8
+Particlecannon =æ­¦å™¨ 9
+Batleth =æ­¦å™¨ 10
+Cipherkey =é’¥åŒ™ 
+Genetickey =é’¥åŒ™ 
+Palmkey =é’¥åŒ™ 
+Passcardkey =é’¥åŒ™ 
+Retinalkey =é’¥åŒ™ 
 
-ÆäËüÎïÆ·
+å…¶å®ƒç‰©å“
 Combatarmor
 Combatgoggles
 Communicator

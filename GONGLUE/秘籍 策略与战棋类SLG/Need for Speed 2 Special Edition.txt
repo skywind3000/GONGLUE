@@ -1,13 +1,13 @@
 Need for Speed 2 Special Edition
 
-1.ÔÚÖ÷Ñ¡µ¥ÊäÈëchase,µ±Äã³¬¹ýËûÃÇºó¶ÔÊÖ¾Í»á·¢·è
-2.Èç¹ûÄãÓÐ3dfx,ÔÚÖ÷Ñ¡µ¥ÊäÈëmad,ÓÎÏ·ÖÐµÄ»Ò³¾±äÎªÐ¡³æ.
-3.ÔÚÖ÷Ñ¡µ¥ÊäÈërain,ÏÂÓê
-4.ÔÚÖ÷Ñ¡µ¥ÊäÈëslip,ÈüµÀ±ä»¬
-5.ÔÚÖ÷Ñ¡µ¥ÊäÈëslot,½«½øÈëslotÄ£Ê½(±ØÐëÔÚarcade»òwildÄ£Ê½ÖÐ)
-6.ÔÚÓÎÏ·ÖÐ°´ÒÔÏÂÃÜÂë
-go18~51 - ¸÷ÖÖÆû³µ
-h - ¼ÓËÙ
-schoolzone - Ð£Ô°Æû³µ
-vip - ÖÐÐÍÆû³µ
+1.åœ¨ä¸»é€‰å•è¾“å…¥chase,å½“ä½ è¶…è¿‡ä»–ä»¬åŽå¯¹æ‰‹å°±ä¼šå‘ç–¯
+2.å¦‚æžœä½ æœ‰3dfx,åœ¨ä¸»é€‰å•è¾“å…¥mad,æ¸¸æˆä¸­çš„ç°å°˜å˜ä¸ºå°è™«.
+3.åœ¨ä¸»é€‰å•è¾“å…¥rain,ä¸‹é›¨
+4.åœ¨ä¸»é€‰å•è¾“å…¥slip,èµ›é“å˜æ»‘
+5.åœ¨ä¸»é€‰å•è¾“å…¥slot,å°†è¿›å…¥slotæ¨¡å¼(å¿…é¡»åœ¨arcadeæˆ–wildæ¨¡å¼ä¸­)
+6.åœ¨æ¸¸æˆä¸­æŒ‰ä»¥ä¸‹å¯†ç 
+go18~51 - å„ç§æ±½è½¦
+h - åŠ é€Ÿ
+schoolzone - æ ¡å›­æ±½è½¦
+vip - ä¸­åž‹æ±½è½¦
 

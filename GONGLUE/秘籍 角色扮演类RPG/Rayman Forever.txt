@@ -1,7 +1,7 @@
 Rayman Forever
 
-raylives£º99ÌõÃü
-raypoint£ºÄÜÁ¿È«Âú
-goldfist£º½ğÈ­Í·
-power£ºÈ«²¿Õı³£ÄÜÁ¿ 
+raylivesï¼š99æ¡å‘½
+raypointï¼šèƒ½é‡å…¨æ»¡
+goldfistï¼šé‡‘æ‹³å¤´
+powerï¼šå…¨éƒ¨æ­£å¸¸èƒ½é‡ 
 

@@ -1,51 +1,51 @@
-Hexen II £¨»ÙÃğÎ×Ê¦ II£©
+Hexen II ï¼ˆæ¯ç­å·«å¸ˆ IIï¼‰
 
-god =ÎŞµĞ
-noclip =´©Ç½
-give h ### =²¹Ñª(###=ÉúÃüÖµ) 
-give 2 =2ºÅÎäÆ÷
-give 3 =3ºÅÎäÆ÷ 
-give 4 =4ºÅÎäÆ÷
-notarget =µĞÈËÎŞ·¨Ê¶±ğÄã
-skill # =À§ÄÑ¶È(#=0-3)
-playerclass # =Ñ¡Ôñ½ÇÉ«(#=1-4)
-changelevel # =Ñ¡¹Ø(#=¹Ø¿¨Ãû³Æ)
-map #=Ñ¡¹Ø(#=¹Ø¿¨Ãû³Æ)
-restart =ÖØĞÂ¹Ø¿¨
-name # =¸ÄÃû×Ö
-impulse 9 =ÎäÆ÷/·¨Á¦È«Âú
-mpulse 13 =Éı¸ßÎï¼ş
-impulse 36 =¶³½áµĞÈË
-impulse 37 ½â¶³µĞÈË
-mpulse 39 =·ÉĞĞ
-impulse 40 =ÈËÎïÉı¼¶
-impulse 41 =Ôö¼Ó¾­ÑéÖµ
-impulse 43 =ÎäÆ÷/·¨Á¦/ÎïÆ·È«Âú
-impulse 44 =¶ªÆúÎïÆ·
-impulse 299 =ÎïÆ·È«Âú
-crosshair 1=Ê®×Ö×¼ĞÇ
-chase_active 0=Õı³£ÊÓ½Ç
-chase_active 1=Î²×·ÊÓ½Ç
-midi_play =ÒôÀÖ¿ªÊ¼
-midi_stop =ÒôÀÖÍ£Ö¹
-midi_pause =ÒôÀÖÔİÍ£
-midi_loop =ÒôÀÖÑ­»·
-echo =ÏÔÊ¾Ñ¶Ï¢
-screenshot =×¥Í¼
-timerefresh =Í¼Æ¬¸üĞÂÂÊ
-sv_friction # =Ä¦²ÁÁ¦(4)
-sv_gravity # =ÖØÁ¦ (800)
-sv_maxspeed # =¼«ËÙ (800)
-¹Ø¿¨Ãû³Æ:
+god =æ— æ•Œ
+noclip =ç©¿å¢™
+give h ### =è¡¥è¡€(###=ç”Ÿå‘½å€¼) 
+give 2 =2å·æ­¦å™¨
+give 3 =3å·æ­¦å™¨ 
+give 4 =4å·æ­¦å™¨
+notarget =æ•Œäººæ— æ³•è¯†åˆ«ä½ 
+skill # =å›°éš¾åº¦(#=0-3)
+playerclass # =é€‰æ‹©è§’è‰²(#=1-4)
+changelevel # =é€‰å…³(#=å…³å¡åç§°)
+map #=é€‰å…³(#=å…³å¡åç§°)
+restart =é‡æ–°å…³å¡
+name # =æ”¹åå­—
+impulse 9 =æ­¦å™¨/æ³•åŠ›å…¨æ»¡
+mpulse 13 =å‡é«˜ç‰©ä»¶
+impulse 36 =å†»ç»“æ•Œäºº
+impulse 37 è§£å†»æ•Œäºº
+mpulse 39 =é£è¡Œ
+impulse 40 =äººç‰©å‡çº§
+impulse 41 =å¢åŠ ç»éªŒå€¼
+impulse 43 =æ­¦å™¨/æ³•åŠ›/ç‰©å“å…¨æ»¡
+impulse 44 =ä¸¢å¼ƒç‰©å“
+impulse 299 =ç‰©å“å…¨æ»¡
+crosshair 1=åå­—å‡†æ˜Ÿ
+chase_active 0=æ­£å¸¸è§†è§’
+chase_active 1=å°¾è¿½è§†è§’
+midi_play =éŸ³ä¹å¼€å§‹
+midi_stop =éŸ³ä¹åœæ­¢
+midi_pause =éŸ³ä¹æš‚åœ
+midi_loop =éŸ³ä¹å¾ªç¯
+echo =æ˜¾ç¤ºè®¯æ¯
+screenshot =æŠ“å›¾
+timerefresh =å›¾ç‰‡æ›´æ–°ç‡
+sv_friction # =æ‘©æ“¦åŠ›(4)
+sv_gravity # =é‡åŠ› (800)
+sv_maxspeed # =æé€Ÿ (800)
+å…³å¡åç§°:
 demo1 =Blackmarsh
 demo2 =Barbican
 demo3 =The Mill
-village1 = King¡¯s Court
+village1 = Kingâ€™s Court
 village2 =Inner Courtyard
 village3 =Stables
 village4 =Palace Entrance
 village5 =The Forgotten Chapel
-rider1a =Famine¡¯s Domain
+rider1a =Famineâ€™s Domain
 meso2 =Plaza of the Sun
 meso1 =The Palace of Columns
 meso3 =Square of the Stream
@@ -61,7 +61,7 @@ egypt4 =Palace of the Pharaoh
 egypt5 =Pyramid of Anubis
 egypt6 =Temple of Light
 egypt7 =Shrine of Naos
-rider2c =Pestilence¡¯s Lair
+rider2c =Pestilenceâ€™s Lair
 romeric1 =The Hall of Heroes
 romeric2 =Gardens of Athena
 romeric3 =Forum of Zeus
@@ -72,8 +72,8 @@ romeric7 =Reflecting Pool
 cath =Cathedral
 tower =Tower of the Dark Mage
 castle4 =The Underhalls
-castle5 =Eidolon¡¯s Ordeal
-eidolon =Eidolon¡¯s Lair
+castle5 =Eidolonâ€™s Ordeal
+eidolon =Eidolonâ€™s Lair
 ravdm1 =Atrium of Immolation
 ravdm2 =Total Carnage
 ravdm3 =Reckless Abandon

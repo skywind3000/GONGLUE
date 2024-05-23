@@ -1,9 +1,9 @@
 Genocide_ Remixed Edition
 
-¼üÈëTAB£¬È»ºóÊäÈëÒÔÏÂ´úÂë£º
-god£ºÉÏµÛÄ£Ê½ God Mode 
-framesync Framesync¿ª/¹Ø 
-fps£ºÏÔÊ¾Ë¢ĞÂÂÊ
-give [item]£º»ñµÃÎïÆ·¡£ÆäÖĞITEM¿ÉÒÔÊÇ£ºrocketl/minigun/
+é”®å…¥TABï¼Œç„¶åè¾“å…¥ä»¥ä¸‹ä»£ç ï¼š
+godï¼šä¸Šå¸æ¨¡å¼ God Mode 
+framesync Framesyncå¼€/å…³ 
+fpsï¼šæ˜¾ç¤ºåˆ·æ–°ç‡
+give [item]ï¼šè·å¾—ç‰©å“ã€‚å…¶ä¸­ITEMå¯ä»¥æ˜¯ï¼šrocketl/minigun/
 nailgun/pulserifle/health/armor/ammo1/ammo2/ammo3 
 

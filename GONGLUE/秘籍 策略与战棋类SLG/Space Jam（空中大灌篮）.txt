@@ -1,19 +1,19 @@
-Space Jam£¨¿ÕÖĞ´ó¹àÀº£©
+Space Jamï¼ˆç©ºä¸­å¤§çŒç¯®ï¼‰
 
-ÒÔSJ¼Ó²ÎÊı(Ëù¼ÓµÄ²ÎÊı¼´ÎªÓÎÏ·ÃØ¼¼)µÄĞÎÊ½Æô¶¯ÓÎÏ·, ÀıÈçÓÃSJ little_toonsÀ´Æô¶¯ÓÎÏ·. Èç¹ûÏëÍ¬Ê±¼¤»î¶àÌõÃØ¼¼,Ö»ĞèÍ¬Ê±¼ÓÉÏ¶àÌõÃØ¼¼¼´¿É.
-ÀıÓÃ:SJlittle_toons little_monstars superjumpsÆô¶¯ÓÎÏ·.
-ÒÔÏÂÊÇÃØ¼¼µÄ¹¦ÄÜ:
-little_monstars Ê¹monstarsÊÕËõ
-big_monstars Ê¹monstars±ä´ó
-alwaysmakeshot ×ÜÊÇÍ¶Àº
-alwaysdunk Ã¿´ÎÍ¶Àº¶¼ÒÔ¿ÛÀºµÄĞÎÊ½
-fastgame ¼Ó¿ìÓÎÏ·ËÙ¶È
-turbofly µÃµ½¶îÍâµÄµ¯ÌøÍÆ½øÁ¦
-fadeaways Ìøµ½ÈÎºÎÄãËùÏëµÄ·½Ïò
-noshotclock Ã»ÓĞ½ø¹¥Ê±¼äÏŞÖÆ
-superpush ³¬¼¶ÍÆ½ø
-superjump ³¬¼¶ÌøÔ¾
-noai Ëæ»úÊ¹ÓÃÓÎÏ·ÄÚµÄÃØÃÜ³¡µØ
+ä»¥SJåŠ å‚æ•°(æ‰€åŠ çš„å‚æ•°å³ä¸ºæ¸¸æˆç§˜æŠ€)çš„å½¢å¼å¯åŠ¨æ¸¸æˆ, ä¾‹å¦‚ç”¨SJ little_toonsæ¥å¯åŠ¨æ¸¸æˆ. å¦‚æœæƒ³åŒæ—¶æ¿€æ´»å¤šæ¡ç§˜æŠ€,åªéœ€åŒæ—¶åŠ ä¸Šå¤šæ¡ç§˜æŠ€å³å¯.
+ä¾‹ç”¨:SJlittle_toons little_monstars superjumpså¯åŠ¨æ¸¸æˆ.
+ä»¥ä¸‹æ˜¯ç§˜æŠ€çš„åŠŸèƒ½:
+little_monstars ä½¿monstarsæ”¶ç¼©
+big_monstars ä½¿monstarså˜å¤§
+alwaysmakeshot æ€»æ˜¯æŠ•ç¯®
+alwaysdunk æ¯æ¬¡æŠ•ç¯®éƒ½ä»¥æ‰£ç¯®çš„å½¢å¼
+fastgame åŠ å¿«æ¸¸æˆé€Ÿåº¦
+turbofly å¾—åˆ°é¢å¤–çš„å¼¹è·³æ¨è¿›åŠ›
+fadeaways è·³åˆ°ä»»ä½•ä½ æ‰€æƒ³çš„æ–¹å‘
+noshotclock æ²¡æœ‰è¿›æ”»æ—¶é—´é™åˆ¶
+superpush è¶…çº§æ¨è¿›
+superjump è¶…çº§è·³è·ƒ
+noai éšæœºä½¿ç”¨æ¸¸æˆå†…çš„ç§˜å¯†åœºåœ°
 
 
 

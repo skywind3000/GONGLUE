@@ -1,368 +1,368 @@
-¡¶Ä§·¨ÃÅ¢÷¡·-ÈÎÎñÁÐ±í
+ã€Šé­”æ³•é—¨â…¦ã€‹-ä»»åŠ¡åˆ—è¡¨
 
-×ªÔØ×ÔÌ«ÑôÄñÓÎÏ·Íø
+è½¬è½½è‡ªå¤ªé˜³é¸Ÿæ¸¸æˆç½‘
 
-ÈÎÎñÁÐ±í£¨°´µØÇøÅÅÁÐ£© 
+ä»»åŠ¡åˆ—è¡¨ï¼ˆæŒ‰åœ°åŒºæŽ’åˆ—ï¼‰ 
 
-¡¡¡¡ÓÉÓÚ¡¶Ä§·¨ÃÅVII¡·ÖÐÒ»°ãÈÎÎñµÄÄÑ¶È½µµÍ£¬Ö»Òª×ÐÏ¸ËÑË÷ÃÔ¹¬¼´¿É·¢ÏÖÏà¹ØÈÎÎñÎïÆ·»òNPC£¬¹Ê´Ë²»Ò»Ò»¸ø³öÏêÏ¸µÄÈÎÎñ½â¾ö·½·¨£¬½öÔÚÎÄºóÌá¹©²¿·Ö½ÏÀ§ÄÑÈÎÎñÏà¹Ø×ÊÁÏ£¬ÒÔÃâ½µµÍÍæ¼ÒµÄÓÎÏ·ÀÖÈ¤¡£ÈÎÎñµÄÄÑ¶È·ÖÀà¹²·Ö£ººÜÈÝÒ×¡¢ÈÝÒ×¡¢ÖÐµÈ¡¢ÂÔÀ§ÄÑ¡¢À§ÄÑ¡¢¼«À§ÄÑÁù¼¶¡£ÆäÖÐºÜÈÝÒ×ºÍÈÝÒ×Á½¸ö¼¶±ðµÄÈÎÎñ¿ÉÒÔÒÔÓÎÏ·³õÆÚµÄ×´Ì¬Íê³É£¬ÖÐµÈºÍÂÔÀ§ÄÑµÄÈÎÎñÐèÒªÔÚÓÎÏ·ÖÐÆÚÍê³É£¬À§ÄÑµÄÈÎÎñÔòÓ¦¸ÃÔÚÓÎÏ·ºóÆÚ½øÐÐ£¬¶ø±ê×¢¼«À§ÄÑµÄÈÎÎñÔòÓ¦¸ÃÔÚµÈ¼¶µ½´ïÒ»¶¨³Ì¶ÈºóÔÙ¿¼ÂÇ¡£Ò»°ãËµÀ´£¬²»×÷±×µÄ»°£¬µÈ¼¶60ÒÔÏÂµÄ¶ÓÎéÍê³É×îºóÒ»ÀàÈÎÎñ¶¼»áÓÐ·çÏÕ¡£ 
+ã€€ã€€ç”±äºŽã€Šé­”æ³•é—¨VIIã€‹ä¸­ä¸€èˆ¬ä»»åŠ¡çš„éš¾åº¦é™ä½Žï¼Œåªè¦ä»”ç»†æœç´¢è¿·å®«å³å¯å‘çŽ°ç›¸å…³ä»»åŠ¡ç‰©å“æˆ–NPCï¼Œæ•…æ­¤ä¸ä¸€ä¸€ç»™å‡ºè¯¦ç»†çš„ä»»åŠ¡è§£å†³æ–¹æ³•ï¼Œä»…åœ¨æ–‡åŽæä¾›éƒ¨åˆ†è¾ƒå›°éš¾ä»»åŠ¡ç›¸å…³èµ„æ–™ï¼Œä»¥å…é™ä½ŽçŽ©å®¶çš„æ¸¸æˆä¹è¶£ã€‚ä»»åŠ¡çš„éš¾åº¦åˆ†ç±»å…±åˆ†ï¼šå¾ˆå®¹æ˜“ã€å®¹æ˜“ã€ä¸­ç­‰ã€ç•¥å›°éš¾ã€å›°éš¾ã€æžå›°éš¾å…­çº§ã€‚å…¶ä¸­å¾ˆå®¹æ˜“å’Œå®¹æ˜“ä¸¤ä¸ªçº§åˆ«çš„ä»»åŠ¡å¯ä»¥ä»¥æ¸¸æˆåˆæœŸçš„çŠ¶æ€å®Œæˆï¼Œä¸­ç­‰å’Œç•¥å›°éš¾çš„ä»»åŠ¡éœ€è¦åœ¨æ¸¸æˆä¸­æœŸå®Œæˆï¼Œå›°éš¾çš„ä»»åŠ¡åˆ™åº”è¯¥åœ¨æ¸¸æˆåŽæœŸè¿›è¡Œï¼Œè€Œæ ‡æ³¨æžå›°éš¾çš„ä»»åŠ¡åˆ™åº”è¯¥åœ¨ç­‰çº§åˆ°è¾¾ä¸€å®šç¨‹åº¦åŽå†è€ƒè™‘ã€‚ä¸€èˆ¬è¯´æ¥ï¼Œä¸ä½œå¼Šçš„è¯ï¼Œç­‰çº§60ä»¥ä¸‹çš„é˜Ÿä¼å®Œæˆæœ€åŽä¸€ç±»ä»»åŠ¡éƒ½ä¼šæœ‰é£Žé™©ã€‚ 
 
-¡¡¡¡Emerald Island 
+ã€€ã€€Emerald Island 
 
-¡¡¡¡1¡¢ÇåµÀ·ò´òÁÔÈü£¨Ö÷ÏßÈÎÎñ£© ¼«ÈÝÒ× 
+ã€€ã€€1ã€æ¸…é“å¤«æ‰“çŒŽèµ›ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰ æžå®¹æ˜“ 
 
-¡¡¡¡Íê³É£º 
+ã€€ã€€å®Œæˆï¼š 
 
-¡¡¡¡ÕÒµ½Ò»Æ¿ºìÉ«Ò©Ë®£¨red potion£©²¢½»¸øµºÉÏµÄ²ÃÅÐ 
+ã€€ã€€æ‰¾åˆ°ä¸€ç“¶çº¢è‰²è¯æ°´ï¼ˆred potionï¼‰å¹¶äº¤ç»™å²›ä¸Šçš„è£åˆ¤ 
 
-¡¡¡¡ÕÒµ½Ò»Ã¶º£±´£¨Seashell£©²¢½»¸øµºÉÏµÄ²ÃÅÐ 
+ã€€ã€€æ‰¾åˆ°ä¸€æžšæµ·è´ï¼ˆSeashellï¼‰å¹¶äº¤ç»™å²›ä¸Šçš„è£åˆ¤ 
 
-¡¡¡¡ÕÒµ½Ò»°Ñ³¤¹­£¨longbow£©²¢½»¸øµºÉÏµÄ²ÃÅÐ 
+ã€€ã€€æ‰¾åˆ°ä¸€æŠŠé•¿å¼“ï¼ˆlongbowï¼‰å¹¶äº¤ç»™å²›ä¸Šçš„è£åˆ¤ 
 
-¡¡¡¡ÕÒµ½Ò»¿éµØ°åËéÆ¬£¨Floor tile£©²¢½»¸øµºÉÏµÄ²ÃÅÐ 
+ã€€ã€€æ‰¾åˆ°ä¸€å—åœ°æ¿ç¢Žç‰‡ï¼ˆFloor tileï¼‰å¹¶äº¤ç»™å²›ä¸Šçš„è£åˆ¤ 
 
-¡¡¡¡ÕÒµ½Ò»¼þÀÖÆ÷£¨Musical instrument£©²¢½»¸øµºÉÏµÄ²ÃÅÐ 
+ã€€ã€€æ‰¾åˆ°ä¸€ä»¶ä¹å™¨ï¼ˆMusical instrumentï¼‰å¹¶äº¤ç»™å²›ä¸Šçš„è£åˆ¤ 
 
-¡¡¡¡ÕÒµ½Ò»¶¥ÓÐÇ®ÈËµÄÃ±×Ó£¨Wealthy hat£©²¢½»¸øµºÉÏµÄ²ÃÅÐ 
+ã€€ã€€æ‰¾åˆ°ä¸€é¡¶æœ‰é’±äººçš„å¸½å­ï¼ˆWealthy hatï¼‰å¹¶äº¤ç»™å²›ä¸Šçš„è£åˆ¤ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£ºÃ¿ÕÒ»ØÒ»¼þÎïÆ·£¬+500¾­ÑéÖµ£¬+2ÉùÍû£¨fame£©£»È«²¿Íê³Éºó£¬+1000¾­ÑéÖµ£¬+4ÉùÍû¡£ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šæ¯æ‰¾å›žä¸€ä»¶ç‰©å“ï¼Œ+500ç»éªŒå€¼ï¼Œ+2å£°æœ›ï¼ˆfameï¼‰ï¼›å…¨éƒ¨å®ŒæˆåŽï¼Œ+1000ç»éªŒå€¼ï¼Œ+4å£°æœ›ã€‚ 
 
-¡¡¡¡2¡¢Ñ°ÕÒÊ§×ÙµÄ²ÎÈüÕß£¨Ö§ÏßÈÎÎñ£©ÈÝÒ× 
+ã€€ã€€2ã€å¯»æ‰¾å¤±è¸ªçš„å‚èµ›è€…ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰å®¹æ˜“ 
 
-¡¡¡¡Íê³É£ºÔÚÁúÑ¨ÖÐÕÒµ½Ê§×ÙµÄ²ÎÈüÕßÁôÏÂµÄ¶ÜÅÆ²¢×÷ÎªÖ¤¾Ý´ø¸øLord Markham 
+ã€€ã€€å®Œæˆï¼šåœ¨é¾™ç©´ä¸­æ‰¾åˆ°å¤±è¸ªçš„å‚èµ›è€…ç•™ä¸‹çš„ç›¾ç‰Œå¹¶ä½œä¸ºè¯æ®å¸¦ç»™Lord Markham 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º+1000¾­ÑéÖµ£¬1000½ð×Ó£¬+4ÉùÍû ¡¡ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼š+1000ç»éªŒå€¼ï¼Œ1000é‡‘å­ï¼Œ+4å£°æœ› ã€€ 
 
-¡¡¡¡Harmondale 
+ã€€ã€€Harmondale 
 
-¡¡¡¡1¡¢ÇåÀíHarmondale³Ç±¤£¨Ö÷ÏßÈÎÎñ£©ÈÝÒ× 
+ã€€ã€€1ã€æ¸…ç†HarmondaleåŸŽå ¡ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å®¹æ˜“ 
 
-¡¡¡¡Íê³É£º½øÈë³Ç±¤£¬É±ËÀËùÓÐÉúÎï 
+ã€€ã€€å®Œæˆï¼šè¿›å…¥åŸŽå ¡ï¼Œæ€æ­»æ‰€æœ‰ç”Ÿç‰© 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º+5000¾­ÑéÖµ£¬+20ÉùÍû 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼š+5000ç»éªŒå€¼ï¼Œ+20å£°æœ› 
 
-¡¡¡¡2¡¢ÐÞ¸´³Ç±¤£¨Ö÷ÏßÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€2ã€ä¿®å¤åŸŽå ¡ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡ºÍStone CityµÄ°«ÈËÍõÌ¸»°ÕÒµ½ÐÞ¸´Harmondale³Ç±¤µÄ·½·¨ 
+ã€€ã€€å’ŒStone Cityçš„çŸ®äººçŽ‹è°ˆè¯æ‰¾åˆ°ä¿®å¤HarmondaleåŸŽå ¡çš„æ–¹æ³• 
 
-¡¡¡¡µÃµ½µÄ½±Àø£ºÃ»ÓÐ½±Àø 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šæ²¡æœ‰å¥–åŠ± 
 
-¡¡¡¡3¡¢Ñ°ÕÒÐÂµÄÖÙ²ÃÕß£¨Ö÷ÏßÈÎÎñ£©ÈÝÒ× 
+ã€€ã€€3ã€å¯»æ‰¾æ–°çš„ä»²è£è€…ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å®¹æ˜“ 
 
-¡¡¡¡Ñ°ÕÒÒ»¸öÐÂµÄÖÙ²ÃÕß×÷ÎªÒÑÈ¥ÊÀµÄJudge GreyµÄ¼ÌÈÎÈË¡£ÕâÊÇ¹âÃ÷ºÍºÚ°µÂ·ÏßµÄÑ¡Ôñµã£¬Èç¹ûÑ¡ÔñBracada DesertÉ³Ä®ÂÃµêÖÐµÄÈË×÷ÎªÖÙ²ÃÕß£¬Ôò½øÈë¹âÃ÷Â·Ïß£»Ñ¡ÔñDeyjaµÄÄÇÎ»Ò°ÐÄ²ª²ªµÄÈËÔò»á½øÈëºÚ°µÂ·Ïß¡£ 
+ã€€ã€€å¯»æ‰¾ä¸€ä¸ªæ–°çš„ä»²è£è€…ä½œä¸ºå·²åŽ»ä¸–çš„Judge Greyçš„ç»§ä»»äººã€‚è¿™æ˜¯å…‰æ˜Žå’Œé»‘æš—è·¯çº¿çš„é€‰æ‹©ç‚¹ï¼Œå¦‚æžœé€‰æ‹©Bracada Desertæ²™æ¼ æ—…åº—ä¸­çš„äººä½œä¸ºä»²è£è€…ï¼Œåˆ™è¿›å…¥å…‰æ˜Žè·¯çº¿ï¼›é€‰æ‹©Deyjaçš„é‚£ä½é‡Žå¿ƒå‹ƒå‹ƒçš„äººåˆ™ä¼šè¿›å…¥é»‘æš—è·¯çº¿ã€‚ 
 
-¡¡¡¡4¡¢´ÓBracada DesertÖÐÑëµÄ´ó´«ËÍµã½øÈëCeleste£¬²¢ÓëLambent³Ç±¤ÖÐµÄGavin MagnusÌ¸»°£¨¹âÃ÷Â·ÏßÖ÷ÏßÈÎÎñ£©ÈÝÒ× 
+ã€€ã€€4ã€ä»ŽBracada Desertä¸­å¤®çš„å¤§ä¼ é€ç‚¹è¿›å…¥Celesteï¼Œå¹¶ä¸ŽLambentåŸŽå ¡ä¸­çš„Gavin Magnusè°ˆè¯ï¼ˆå…‰æ˜Žè·¯çº¿ä¸»çº¿ä»»åŠ¡ï¼‰å®¹æ˜“ 
 
-¡¡¡¡5¡¢´ÓHall of the Pit½øÈëPit²¢ÓëGloaming³Ç±¤ÖÐµÄArchibaldÌ¸»°£¨ºÚ°µÂ·ÏßÖ÷ÏßÈÎÎñ£©ÈÝÒ× 
+ã€€ã€€5ã€ä»ŽHall of the Pitè¿›å…¥Pitå¹¶ä¸ŽGloamingåŸŽå ¡ä¸­çš„Archibaldè°ˆè¯ï¼ˆé»‘æš—è·¯çº¿ä¸»çº¿ä»»åŠ¡ï¼‰å®¹æ˜“ 
 
-¡¡¡¡6¡¢DavrikµÄ½äÖ¸£¨Ö§ÏßÈÎÎñ£©Ò»°ã 
+ã€€ã€€6ã€Davrikçš„æˆ’æŒ‡ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡´ÓErathia¶«±±·½µÄµÁÔô¶´Ñ¨£¨Bandit Caves£©ÖÐ¶á»ØDavrikµÄÇ©×Ö½äÖ¸£¨Signet ring£©²¢»¹¸øËû 
+ã€€ã€€ä»ŽErathiaä¸œåŒ—æ–¹çš„ç›—è´¼æ´žç©´ï¼ˆBandit Cavesï¼‰ä¸­å¤ºå›žDavrikçš„ç­¾å­—æˆ’æŒ‡ï¼ˆSignet ringï¼‰å¹¶è¿˜ç»™ä»– 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º+5000¾­ÑéÖµ£¬5000½ð×Ó£¬+20ÉùÍû 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼š+5000ç»éªŒå€¼ï¼Œ5000é‡‘å­ï¼Œ+20å£°æœ› 
 
-¡¡¡¡7¡¢²éÕÒDarron¸ç¸çµÄÃüÔË£¨Ö§ÏßÈÎÎñ£©ÈÝÒ× 
+ã€€ã€€7ã€æŸ¥æ‰¾Darronå“¥å“¥çš„å‘½è¿ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰å®¹æ˜“ 
 
-¡¡¡¡Íê³É£º½øÈë°×É«ÇÍ±Ú¶´Ñ¨£¨White Cliff Caves£©ÕÒ»ØÒ»¸±ArcoMageÖ½ÅÆ£¬È»ºó´ø×ÅÖ½ÅÆ»Øµ½Darron´¦¡£ 
+ã€€ã€€å®Œæˆï¼šè¿›å…¥ç™½è‰²å³­å£æ´žç©´ï¼ˆWhite Cliff Cavesï¼‰æ‰¾å›žä¸€å‰¯ArcoMageçº¸ç‰Œï¼Œç„¶åŽå¸¦ç€çº¸ç‰Œå›žåˆ°Darronå¤„ã€‚ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º+2000¾­ÑéÖµ£¬750½ð£¬+8ÉùÍû£¬µÃµ½ArcoMageÖ½ÅÆ£¨¿ÉÒÔ¿ªÊ¼ÔÚ¸÷µØ½øÐÐArcoMageÖ½ÅÆ±ÈÈü£© 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼š+2000ç»éªŒå€¼ï¼Œ750é‡‘ï¼Œ+8å£°æœ›ï¼Œå¾—åˆ°ArcoMageçº¸ç‰Œï¼ˆå¯ä»¥å¼€å§‹åœ¨å„åœ°è¿›è¡ŒArcoMageçº¸ç‰Œæ¯”èµ›ï¼‰ 
 
-¡¡¡¡8¡¢¹âÃ÷ÌáµÆ£¨Ö§ÏßÈÎÎñ£©ÂÔÀ§ÄÑ 
+ã€€ã€€8ã€å…‰æ˜Žæç¯ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓBarrow DownsµÄÍ¨µÀÖÐÕÒ»Ø¹âÃ÷ÌáµÆ£¨Lantern of Light£© 
+ã€€ã€€å®Œæˆï¼šä»ŽBarrow Downsçš„é€šé“ä¸­æ‰¾å›žå…‰æ˜Žæç¯ï¼ˆLantern of Lightï¼‰ 
 
-¡¡¡¡9¡¢¹­¼ý´óÊ¦ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©ÂÔÀ§ÄÑ 
+ã€€ã€€9ã€å¼“ç®­å¤§å¸ˆä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÕÒ»ØÍêÃÀÖ®¹­£¨Perfect Bow£©È»ºó½»¸øLawrence Mark¡£Õâ°Ñ¹­²ØÔÚAvleeµÄÌ©Ì¹³Ç±¤£¨Titan¡¯s Stronghold£©ÖÐ£¬³Ç±¤ÀïÓÐ´óÁ¿µÄÌ©Ì¹ºÍÁú£¬µÈ¼¶½ÏµÍµÄÍæ¼ÒÖ»ÓÐÊ©Õ¹ÒþÐÎÊõÈ¥Íµ³öÕâ°Ñ¹­¡£ 
+ã€€ã€€å®Œæˆï¼šæ‰¾å›žå®Œç¾Žä¹‹å¼“ï¼ˆPerfect Bowï¼‰ç„¶åŽäº¤ç»™Lawrence Markã€‚è¿™æŠŠå¼“è—åœ¨Avleeçš„æ³°å¦åŸŽå ¡ï¼ˆTitanâ€™s Strongholdï¼‰ä¸­ï¼ŒåŸŽå ¡é‡Œæœ‰å¤§é‡çš„æ³°å¦å’Œé¾™ï¼Œç­‰çº§è¾ƒä½Žçš„çŽ©å®¶åªæœ‰æ–½å±•éšå½¢æœ¯åŽ»å·å‡ºè¿™æŠŠå¼“ã€‚ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÄ§Õ½Ê¿×ªÎª¹­¼ý´óÊ¦£¨Master Archer£©£¬ÆäËûÈË»ñµÃÈÙÓþ¹­¼ý´óÊ¦³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„é­”æˆ˜å£«è½¬ä¸ºå¼“ç®­å¤§å¸ˆï¼ˆMaster Archerï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å¼“ç®­å¤§å¸ˆç§°å· 
 
-¡¡¡¡10¡¢Ñ§µÀÕßÈÎÎñ£¨×ªÖ°ÈÎÎñ£©ÂÔÀ§ÄÑ 
+ã€€ã€€10ã€å­¦é“è€…ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÔÚBarrow DownµÄÍ¨µÀÖÐÕÒµ½Ê§×ÙµÄÚ¤Ïëµã£¨lost meditation spot£© 
+ã€€ã€€å®Œæˆï¼šåœ¨Barrow Downçš„é€šé“ä¸­æ‰¾åˆ°å¤±è¸ªçš„å†¥æƒ³ç‚¹ï¼ˆlost meditation spotï¼‰ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÉ®ÂÂ×ªÖ°³ÆÎªÑ§µÀÕß£¨Initiate£©£¬ÆäËûÈË»ñµÃÈÙÓþÑ§µÀÕß³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„åƒ§ä¾£è½¬èŒç§°ä¸ºå­¦é“è€…ï¼ˆInitiateï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å­¦é“è€…ç§°å· 
 
-¡¡¡¡11¡¢´óÊ¦ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©ÂÔÀ§ÄÑ 
+ã€€ã€€11ã€å¤§å¸ˆä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÉ±ËÀÎ»ÓÚAvlee°ÍÖ®ÉñÃí£¨temple of Baa£©ÖÐµÄ¸ß¼¶°ÍÖ®Éñ¸¸£¨High Priest of Baa£©È»ºóÏòHume±¨¸æ¡£ 
+ã€€ã€€å®Œæˆï¼šæ€æ­»ä½äºŽAvleeå·´ä¹‹ç¥žåº™ï¼ˆtemple of Baaï¼‰ä¸­çš„é«˜çº§å·´ä¹‹ç¥žçˆ¶ï¼ˆHigh Priest of Baaï¼‰ç„¶åŽå‘HumeæŠ¥å‘Šã€‚ 
 
-¡¡¡¡×¢Òâ£ºÄãÒ»¶¨Òª°ÑÃàÑòÅû·ç£¨cloak of sheep£©´ø»ØÈ¥¡£ 
+ã€€ã€€æ³¨æ„ï¼šä½ ä¸€å®šè¦æŠŠç»µç¾ŠæŠ«é£Žï¼ˆcloak of sheepï¼‰å¸¦å›žåŽ»ã€‚ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÑ§µÀÕß×ªÎª´óÊ¦£¨Master£©£¬ÆäËûÈË»ñµÃÈÙÓþ´óÊ¦³ÆºÅ ¡¡ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å­¦é“è€…è½¬ä¸ºå¤§å¸ˆï¼ˆMasterï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å¤§å¸ˆç§°å· ã€€ 
 
-¡¡¡¡Barrow Downs 
+ã€€ã€€Barrow Downs 
 
-¡¡¡¡1¡¢½â¾È°«ÈË£¨Ö÷ÏßÈÎÎñ£©ÂÔÀ§ÄÑ 
+ã€€ã€€1ã€è§£æ•‘çŸ®äººï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£º½â¾ÈºìÉ«°«ÈË¿óÖÐ±»Ê¯»¯µÄ°«ÈË£¨¹²ÓÐ7¸ö£©¡£ºìÉ«°«ÈË¿óÎ»ÓÚBracada DesertµÄ¶«±±½Ç 
+ã€€ã€€å®Œæˆï¼šè§£æ•‘çº¢è‰²çŸ®äººçŸ¿ä¸­è¢«çŸ³åŒ–çš„çŸ®äººï¼ˆå…±æœ‰7ä¸ªï¼‰ã€‚çº¢è‰²çŸ®äººçŸ¿ä½äºŽBracada Desertçš„ä¸œåŒ—è§’ 
 
-¡¡¡¡2¡¢ÇåÀíStone CityµÄµØÏÂÍ¨µÀ£¨Ö§ÏßÈÎÎñ£©Ò»°ã 
+ã€€ã€€2ã€æ¸…ç†Stone Cityçš„åœ°ä¸‹é€šé“ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£ºÉ±ËÀStone CityµØÏÂÍ¨µÀÖÐµÄËùÓÐÑ¨¾ÓÊÞ£¨Troglodyte£©¼´¿É ¡¡ 
+ã€€ã€€å®Œæˆï¼šæ€æ­»Stone Cityåœ°ä¸‹é€šé“ä¸­çš„æ‰€æœ‰ç©´å±…å…½ï¼ˆTroglodyteï¼‰å³å¯ ã€€ 
 
-¡¡¡¡Bracada Desert 
+ã€€ã€€Bracada Desert 
 
-¡¡¡¡1¡¢¼¾½ÚÅû¼ç£¨Ö§ÏßÈÎÎñ£©Ò»°ã 
+ã€€ã€€1ã€å­£èŠ‚æŠ«è‚©ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡´ÓThe Hall of the PitÖÐÈ¡»Ø¼¾½ÚÅû¼ç£¨the Season¡¯s Stole£©È»ºó°ÑËü»¹¸øBracada DesertµÄGary Zimm¼´¿É¡£ 
+ã€€ã€€ä»ŽThe Hall of the Pitä¸­å–å›žå­£èŠ‚æŠ«è‚©ï¼ˆthe Seasonâ€™s Stoleï¼‰ç„¶åŽæŠŠå®ƒè¿˜ç»™Bracada Desertçš„Gary Zimmå³å¯ã€‚ 
 
-¡¡¡¡2¡¢Î×Ê¦ÈÎÎñ£¨×ªÖ°ÈÎÎñ£©Ò»°ã 
+ã€€ã€€2ã€å·«å¸ˆä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£ºÊÕ¼¯Æë6¸öÔªËØÈËµÄ²¿¼þ£¬È»ºóÏòÎ×Ê¦Ñ§Ð£µÄThomas Grey±¨¸æ 
+ã€€ã€€å®Œæˆï¼šæ”¶é›†é½6ä¸ªå…ƒç´ äººçš„éƒ¨ä»¶ï¼Œç„¶åŽå‘å·«å¸ˆå­¦æ ¡çš„Thomas GreyæŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÄ§·¨Ê¦×ªÖ°ÎªÎ×Ê¦£¨Wizard£©£¬ÆäËûÈË»ñµÃÈÙÓþÎ×Ê¦³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„é­”æ³•å¸ˆè½¬èŒä¸ºå·«å¸ˆï¼ˆWizardï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å·«å¸ˆç§°å· 
 
-¡¡¡¡3¡¢´ó·¨Ê¦ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©À§ÄÑ 
+ã€€ã€€3ã€å¤§æ³•å¸ˆä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓPitÖÐÈ¡»ØÉñÖ®¸ÉÉæ£¨Divine Intervention£©Ä§·¨Êé£¬È»ºó½»¸øÎ×Ê¦Ñ§Ð£µÄThomas Grey 
+ã€€ã€€å®Œæˆï¼šä»ŽPitä¸­å–å›žç¥žä¹‹å¹²æ¶‰ï¼ˆDivine Interventionï¼‰é­”æ³•ä¹¦ï¼Œç„¶åŽäº¤ç»™å·«å¸ˆå­¦æ ¡çš„Thomas Grey 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÎ×Ê¦×ªÖ°Îª´ó·¨Ê¦£¨Archmage£©£¬ÆäËûÈË»ñµÃÈÙÓþ´ó·¨Ê¦³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å·«å¸ˆè½¬èŒä¸ºå¤§æ³•å¸ˆï¼ˆArchmageï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å¤§æ³•å¸ˆç§°å· 
 
-¡¡¡¡4¡¢Í»»÷¶Ó³¤ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©ÈÝÒ× 
+ã€€ã€€4ã€çªå‡»é˜Ÿé•¿ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰å®¹æ˜“ 
 
-¡¡¡¡Íê³É£ºÆ½Ï¢Tulerean ForestÖÐµÄÊ÷ÁÖ¡£ÐèÒªµ½Tulerean ForestºÍ×îÀÏµÄÊ÷£¨the oldest tree£©Ì¸»°£¬È»ºóÍê³ÉËü¸øÄãµÄÈÎÎñºó£¬ÏòLysander Sweet±¨¸æ¡£ 
+ã€€ã€€å®Œæˆï¼šå¹³æ¯Tulerean Forestä¸­çš„æ ‘æž—ã€‚éœ€è¦åˆ°Tulerean Forestå’Œæœ€è€çš„æ ‘ï¼ˆthe oldest treeï¼‰è°ˆè¯ï¼Œç„¶åŽå®Œæˆå®ƒç»™ä½ çš„ä»»åŠ¡åŽï¼Œå‘Lysander SweetæŠ¥å‘Šã€‚ 
 
-¡¡¡¡»ñµÃµÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÁÔÈË×ªÖ°ÎªÍ»»÷¶Ó³¤£¨Ranger Lord£©£¬ÆäËûÈË»ñµÃÈÙÓþÍ»»÷¶Ó³¤³ÆºÅ 
+ã€€ã€€èŽ·å¾—çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„çŒŽäººè½¬èŒä¸ºçªå‡»é˜Ÿé•¿ï¼ˆRanger Lordï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰çªå‡»é˜Ÿé•¿ç§°å· 
 
-¡¡¡¡5¡¢¹Ú¾üÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©À§ÄÑ 
+ã€€ã€€5ã€å† å†›ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³ÉÓ®µÃÎå³¡ÆïÊ¿£¨knight£©¼¶ÒÔÉÏµÄ¾º¼¼³¡±ÈÎä¡£ 
+ã€€ã€€å®Œæˆèµ¢å¾—äº”åœºéª‘å£«ï¼ˆknightï¼‰çº§ä»¥ä¸Šçš„ç«žæŠ€åœºæ¯”æ­¦ã€‚ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÎäÊ¿×ªÖ°Îª¹Ú¾ü£¨Champion£©£¬ÆäËûÈË»ñµÃÈÙÓþ¹Ú¾ü³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„æ­¦å£«è½¬èŒä¸ºå† å†›ï¼ˆChampionï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å† å†›ç§°å· 
 
-¡¡¡¡Erathia 
+ã€€ã€€Erathia 
 
-¡¡¡¡1¡¢Acromage±ÈÈü£¨Ö§ÏßÈÎÎñ£©Ò»°ã 
+ã€€ã€€1ã€Acromageæ¯”èµ›ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Ó®µÃËùÓÐ13¼ÒÂÃ¹ÝÖÐµÄAcromageÓÎÏ·£¬È»ºóÏòGina Barnes±¨¸æ 
+ã€€ã€€èµ¢å¾—æ‰€æœ‰13å®¶æ—…é¦†ä¸­çš„Acromageæ¸¸æˆï¼Œç„¶åŽå‘Gina BarnesæŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¼¸¼þÉñÆ÷ºÍÒ»Ð©½ðÇ® 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šå‡ ä»¶ç¥žå™¨å’Œä¸€äº›é‡‘é’± 
 
-¡¡¡¡2¡¢ÃÜÐÅ´«ËÍ£¨Ö§ÏßÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€2ã€å¯†ä¿¡ä¼ é€ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡°ÑÃÜÐÅ´ø¸øTataliaµÄÁìÖ÷Markham¡£È»ºó°ÑÄÁÊ¦µÄÓðÃ«±Ê£¨Parson¡¯s Quill£©´ø»ØÀ´¸øNorbert Thrush 
+ã€€ã€€æŠŠå¯†ä¿¡å¸¦ç»™Tataliaçš„é¢†ä¸»Markhamã€‚ç„¶åŽæŠŠç‰§å¸ˆçš„ç¾½æ¯›ç¬”ï¼ˆParsonâ€™s Quillï¼‰å¸¦å›žæ¥ç»™Norbert Thrush 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º+5000 xp£¬2000½ð×Ó£¬+20ÉùÍû 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼š+5000 xpï¼Œ2000é‡‘å­ï¼Œ+20å£°æœ› 
 
-¡¡¡¡3¡¢½â¾È¼äµý£¨Ö÷ÏßÈÎÎñ£©ÂÔÀ§ÄÑ 
+ã€€ã€€3ã€è§£æ•‘é—´è°ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓTularean ForestµÄTularean CavesÖÐ½â¾È³öLoren Steel²¢´øËû·µ»Øµ½¿­ÉªÁÕÅ®Íõ´¦£¨Queen Catherine£© 
+ã€€ã€€å®Œæˆï¼šä»ŽTularean Forestçš„Tularean Cavesä¸­è§£æ•‘å‡ºLoren Steelå¹¶å¸¦ä»–è¿”å›žåˆ°å‡¯ç‘Ÿç³å¥³çŽ‹å¤„ï¼ˆQueen Catherineï¼‰ 
 
-¡¡¡¡4¡¢¼ÙµÄ¾üÊÂ¼Æ»®Êé£¨Ö÷ÏßÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€4ã€å‡çš„å†›äº‹è®¡åˆ’ä¹¦ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡°Ñ¼ÙµÄRiverstride¾üÊÂ¼Æ»®Êé½»¸øÎ»ÓÚTularean ForestÖÐNavan³Ç±¤µÄEldrich Parson 
+ã€€ã€€æŠŠå‡çš„Riverstrideå†›äº‹è®¡åˆ’ä¹¦äº¤ç»™ä½äºŽTularean Forestä¸­NavanåŸŽå ¡çš„Eldrich Parson 
 
-¡¡¡¡5¡¢ÎäÊ¿ÈÎÎñ£¨×ªÖ°ÈÎÎñ£©ÂÔÀ§ÄÑ 
+ã€€ã€€5ã€æ­¦å£«ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£º½«Î»ÓÚBarrow DownÎ÷±±µÄHaunted MassionÖÐËùÓÐµÄ²»ËÀÉúÎïÈ«²¿ÏûÃð 
+ã€€ã€€å®Œæˆï¼šå°†ä½äºŽBarrow Downè¥¿åŒ—çš„Haunted Massionä¸­æ‰€æœ‰çš„ä¸æ­»ç”Ÿç‰©å…¨éƒ¨æ¶ˆç­ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£ºËùÓÐÆïÊ¿×ªÖ°ÎªÎäÊ¿£¨Cavalier£©£¬ÆäËûÈË×ªÖ°ÎªÈÙÓþÎäÊ¿ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šæ‰€æœ‰éª‘å£«è½¬èŒä¸ºæ­¦å£«ï¼ˆCavalierï¼‰ï¼Œå…¶ä»–äººè½¬èŒä¸ºè£èª‰æ­¦å£« 
 
-¡¡¡¡6¡¢ºÚÆïÊ¿ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©ÂÔÀ§ÄÑ 
+ã€€ã€€6ã€é»‘éª‘å£«ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÂÓ¶áTularean ForestµÄNavan³Ç±¤£¨Castle Nava£©ÖÐµÄ¾«Áé×å²Æ±¦È»ºóÏòFrederick Org±¨¸æ 
+ã€€ã€€å®Œæˆï¼šæŽ å¤ºTularean Forestçš„NavanåŸŽå ¡ï¼ˆCastle Navaï¼‰ä¸­çš„ç²¾çµæ—è´¢å®ç„¶åŽå‘Frederick OrgæŠ¥å‘Š 
 
-¡¡¡¡»ñµÃµÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÎäÊ¿×ªÖ°ÎªºÚÆïÊ¿£¨Black Knight£©£¬ÆäËûÈË»ñµÃÈÙÓþºÚÆïÊ¿³ÆºÅ 
+ã€€ã€€èŽ·å¾—çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„æ­¦å£«è½¬èŒä¸ºé»‘éª‘å£«ï¼ˆBlack Knightï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰é»‘éª‘å£«ç§°å· 
 
-¡¡¡¡7¡¢Ê®×Ö¾üÈÎÎñ£¨×ªÖ°ÈÎÎñ£©Ò»°ã 
+ã€€ã€€7ã€åå­—å†›ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£ºÉ±ËÀÎ»ÓÚTatalia±±·½É½¶´ÖÐµÄÀ¶ÁúWromthrax the Heartless£¬È»ºóÏòËæÐÐµÄ²éÀíË¹¾ôÊ¿£¨Sir Charles Quixote£©±¨¸æ 
+ã€€ã€€å®Œæˆï¼šæ€æ­»ä½äºŽTataliaåŒ—æ–¹å±±æ´žä¸­çš„è“é¾™Wromthrax the Heartlessï¼Œç„¶åŽå‘éšè¡Œçš„æŸ¥ç†æ–¯çˆµå£«ï¼ˆSir Charles Quixoteï¼‰æŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÓÎÏÀ×ªÖ°ÎªÊ®×Ö¾ü£¨Crusader£©£¬ÆäËûÈË»ñµÃÈÙÓþÊ®×Ö¾ü³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„æ¸¸ä¾ è½¬èŒä¸ºåå­—å†›ï¼ˆCrusaderï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰åå­—å†›ç§°å· 
 
-¡¡¡¡8¡¢Ó¢ÐÛÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©Ò»°ã 
+ã€€ã€€8ã€è‹±é›„ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£º´ÓDeyjaµÄWilliam Setag¡¯s Tower£¨Î÷·½µÄÒ»×ùËþ£©¾È³öAlice HeargraveÈ»ºóÏòSir Charles Quixote±¨¸æ 
+ã€€ã€€å®Œæˆï¼šä»ŽDeyjaçš„William Setagâ€™s Towerï¼ˆè¥¿æ–¹çš„ä¸€åº§å¡”ï¼‰æ•‘å‡ºAlice Heargraveç„¶åŽå‘Sir Charles QuixoteæŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÊ®×Ö¾ü×ªÖ°ÎªÓ¢ÐÛ£¬ÆäËûÈË»ñµÃÈÙÓþÓ¢ÐÛ³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„åå­—å†›è½¬èŒä¸ºè‹±é›„ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰è‹±é›„ç§°å· 
 
-¡¡¡¡9¡¢Á÷Ã¥ÈÎÎñ£¨×ªÖ°ÈÎÎñ£©Ò»°ã 
+ã€€ã€€9ã€æµæ°“ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£º´ÓErathiaµÄÏÂË®µÀ½øÈë£¬ÕÒBill Lasker½Óµ½ÈÎÎñºó£¬µ½Î»ÓÚTataliaµÄMarkhamÁìÖ÷µÄ³Ç±¤ÖÐÍµÈ¡Ò»¸ö»¨Æ¿£¨Vase£©£¬È»ºóÏòBill Lasker±¨¸æ 
+ã€€ã€€å®Œæˆï¼šä»ŽErathiaçš„ä¸‹æ°´é“è¿›å…¥ï¼Œæ‰¾Bill LaskeræŽ¥åˆ°ä»»åŠ¡åŽï¼Œåˆ°ä½äºŽTataliaçš„Markhamé¢†ä¸»çš„åŸŽå ¡ä¸­å·å–ä¸€ä¸ªèŠ±ç“¶ï¼ˆVaseï¼‰ï¼Œç„¶åŽå‘Bill LaskeræŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄµÁÔô×ªÖ°ÎªÁ÷Ã¥£¨Rogue£©£¬ÆäËûÈË×ªÖ°ÎªÈÙÓþÁ÷Ã¥ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„ç›—è´¼è½¬èŒä¸ºæµæ°“ï¼ˆRogueï¼‰ï¼Œå…¶ä»–äººè½¬èŒä¸ºè£èª‰æµæ°“ 
 
-¡¡¡¡10¡¢¼äµýÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©À§ÄÑ 
+ã€€ã€€10ã€é—´è°ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÒÆµôÎ»ÓÚDeyjaµÄ6ºÅÁËÍûËþ¶¥µÄÆ½ºâÎï¡£Ö»ÐèÒª´¥¶¯Ëþ¶¥ÄÏ·½Ð¡ÎÝÖÐµÄ¿ª¹Ø¼´¿É£¬È»ºóÏòBill Lasker±¨¸æ 
+ã€€ã€€å®Œæˆï¼šç§»æŽ‰ä½äºŽDeyjaçš„6å·äº†æœ›å¡”é¡¶çš„å¹³è¡¡ç‰©ã€‚åªéœ€è¦è§¦åŠ¨å¡”é¡¶å—æ–¹å°å±‹ä¸­çš„å¼€å…³å³å¯ï¼Œç„¶åŽå‘Bill LaskeræŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÁ÷Ã¥×ªÖ°Îª¼äµý£¨Spy£©£¬ÆäËûÈË»ñµÃÈÙÓþ¼äµý³ÆºÅ ¡¡ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„æµæ°“è½¬èŒä¸ºé—´è°ï¼ˆSpyï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰é—´è°ç§°å· ã€€ 
 
-¡¡¡¡Tularen Forest 
+ã€€ã€€Tularen Forest 
 
-¡¡¡¡1¡¢Èý¸öµñÏó£¨Ö§ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€1ã€ä¸‰ä¸ªé›•è±¡ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÕÒ»ØÈý¸öµñÏó²¢°ÑËûÃÇ·ÅÖÃÔÚBracada Desert, TataliaºÍAvleeµÄÉñíèÖÐ 
+ã€€ã€€å®Œæˆï¼šæ‰¾å›žä¸‰ä¸ªé›•è±¡å¹¶æŠŠä»–ä»¬æ”¾ç½®åœ¨Bracada Desert, Tataliaå’ŒAvleeçš„ç¥žé¾›ä¸­ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º´óÁ¿µÄ¾­ÑéÖµºÍÉùÍûµÄÌáÉý£¬»ñµÃ50000½ð×Ó 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šå¤§é‡çš„ç»éªŒå€¼å’Œå£°æœ›çš„æå‡ï¼ŒèŽ·å¾—50000é‡‘å­ 
 
-¡¡¡¡2¡¢ÃÜÐÅ´«ËÍ£¨Ö§ÏßÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€2ã€å¯†ä¿¡ä¼ é€ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡°ÑÃÜÐÅ´ø¸øAvleeµÄÏÉÅ®¹úÍõ£¨Faerie King£©¡£ËûµÄ¾ÓËùÔÚHall Under the Hill£¬AvleeµÄÎ÷±±·½ 
+ã€€ã€€æŠŠå¯†ä¿¡å¸¦ç»™Avleeçš„ä»™å¥³å›½çŽ‹ï¼ˆFaerie Kingï¼‰ã€‚ä»–çš„å±…æ‰€åœ¨Hall Under the Hillï¼ŒAvleeçš„è¥¿åŒ—æ–¹ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º+2000¾­ÑéÖµ£¬+8ÉùÍû 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼š+2000ç»éªŒå€¼ï¼Œ+8å£°æœ› 
 
-¡¡¡¡3¡¢É­ÁÖÖ®ÐÄ£¨Ö§ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€3ã€æ£®æž—ä¹‹å¿ƒï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºµ½TataliaµÄ¹ÍÓ¶±øÓª£¨Mercenary Guild£©ÖÐÈ¡»ØÉ­ÁÖÖ®ÐÄ£¨Heart of Forest£©£¬È»ºó½»¸ø×îÀÏµÄÊ÷£¨the Oldest Tree£© 
+ã€€ã€€å®Œæˆï¼šåˆ°Tataliaçš„é›‡ä½£å…µè¥ï¼ˆMercenary Guildï¼‰ä¸­å–å›žæ£®æž—ä¹‹å¿ƒï¼ˆHeart of Forestï¼‰ï¼Œç„¶åŽäº¤ç»™æœ€è€çš„æ ‘ï¼ˆthe Oldest Treeï¼‰ 
 
-¡¡¡¡3¡¢¼ÙµÄ¼äµý£¨Ö÷ÏßÈÎÎñ£©¼«ÈÝÒ× °Ñ¼ÙµÄLoren imposter´ø¸øErathiaµÄ¿­ÉªÁÕÅ®Íõ£¨Queen Catherine£©¡£Ëý×¡ÔÚGryphonheart³Ç±¤ÖÐ 
+ã€€ã€€3ã€å‡çš„é—´è°ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ æŠŠå‡çš„Loren imposterå¸¦ç»™Erathiaçš„å‡¯ç‘Ÿç³å¥³çŽ‹ï¼ˆQueen Catherineï¼‰ã€‚å¥¹ä½åœ¨GryphonheartåŸŽå ¡ä¸­ 
 
-¡¡¡¡4¡¢¾üÊÂ¼Æ»®Êé£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€4ã€å†›äº‹è®¡åˆ’ä¹¦ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡´ÓFort RiverstrideÖÐ¶áÈ¡¾üÊÂ¼Æ»®Êé²¢»¹¸øTularean ForestµÄ¾«ÁéÍõEldrich Parson 
+ã€€ã€€ä»ŽFort Riverstrideä¸­å¤ºå–å†›äº‹è®¡åˆ’ä¹¦å¹¶è¿˜ç»™Tularean Forestçš„ç²¾çµçŽ‹Eldrich Parson 
 
-¡¡¡¡5¡¢ÁÔÈËÈÎÎñ£¨×ªÖ°ÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€5ã€çŒŽäººä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡Íê³É£ºÓëÏÉÅ®¹úÍõ£¨Faerie King£©Ì¸»°¼´¿É 
+ã€€ã€€å®Œæˆï¼šä¸Žä»™å¥³å›½çŽ‹ï¼ˆFaerie Kingï¼‰è°ˆè¯å³å¯ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÍ»»÷¶ÓÔ±×ªÖ°ÎªÁÔÈË£¨Hunter£©£¬ÆäËûÈË»ñµÃÈÙÓþÁÔÈË³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„çªå‡»é˜Ÿå‘˜è½¬èŒä¸ºçŒŽäººï¼ˆHunterï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰çŒŽäººç§°å· 
 
-¡¡¡¡6¡¢´óµÂÂ³ÒÀÈÎÎñ£¨×ªÖ°ÈÎÎñ£©Ò»°ã 
+ã€€ã€€6ã€å¤§å¾·é²ä¾ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£º·ÃÎÊÎ»ÓÚTatalia£¬Evenmorn IslandsºÍAvleeµÄÈý¸öÊ¯È¦£¨stonehenge£© 
+ã€€ã€€å®Œæˆï¼šè®¿é—®ä½äºŽTataliaï¼ŒEvenmorn Islandså’ŒAvleeçš„ä¸‰ä¸ªçŸ³åœˆï¼ˆstonehengeï¼‰ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄµÂÂ³ÒÀ×ªÖ°Îª´óµÂÂ³ÒÀ£¨Great Druid£©£¬ÆäËûÈË»ñµÃÈÙÓþ´óµÂÂ³ÒÀ³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å¾·é²ä¾è½¬èŒä¸ºå¤§å¾·é²ä¾ï¼ˆGreat Druidï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å¤§å¾·é²ä¾ç§°å· 
 
-¡¡¡¡7¡¢Ê¥µÂÂ³ÒÀÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬¹âÃ÷Ïµ£©À§ÄÑ 
+ã€€ã€€7ã€åœ£å¾·é²ä¾ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œå…‰æ˜Žç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÔÚ´ÓStone CityÍ¨ÍùNighonµÄÃÔ¹¬ÖÐÕÒµ½°«ÈËÍõ£¨Dwarf King£©µÄÒÅ¹Ç²¢½«Æä°²·Åµ½barrow downsµÄÍ¨µÀÖÐ¡£Õâ¸öÍ¨µÀÓëÑ§µÀÕßµÄ×ªÖ°ÈÎÎñÎ»ÓÚÍ¬Ò»µØ·½ 
+ã€€ã€€å®Œæˆï¼šåœ¨ä»ŽStone Cityé€šå¾€Nighonçš„è¿·å®«ä¸­æ‰¾åˆ°çŸ®äººçŽ‹ï¼ˆDwarf Kingï¼‰çš„é—éª¨å¹¶å°†å…¶å®‰æ”¾åˆ°barrow downsçš„é€šé“ä¸­ã€‚è¿™ä¸ªé€šé“ä¸Žå­¦é“è€…çš„è½¬èŒä»»åŠ¡ä½äºŽåŒä¸€åœ°æ–¹ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄ´óµÂÂ³ÒÀ×ªÖ°ÎªÊ¥µÂÂ³ÒÀ£¨Archdruid£©£¬ÆäËûÈËµÃµ½ÈÙÓþÊ¥µÂÂ³ÒÀ³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å¤§å¾·é²ä¾è½¬èŒä¸ºåœ£å¾·é²ä¾ï¼ˆArchdruidï¼‰ï¼Œå…¶ä»–äººå¾—åˆ°è£èª‰åœ£å¾·é²ä¾ç§°å· 
 
-¡¡¡¡8¡¢ÉÍ½ðÁÔÈË£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©Ò»°ã 
+ã€€ã€€8ã€èµé‡‘çŒŽäººï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£º´ÓÊÐÕòÖÐÐÄµÄÐüÉÍÖÐÓ®È¡10000½ð×ÓÈ»ºóÏòEbednezer Sower±¨¸æ 
+ã€€ã€€å®Œæˆï¼šä»Žå¸‚é•‡ä¸­å¿ƒçš„æ‚¬èµä¸­èµ¢å–10000é‡‘å­ç„¶åŽå‘Ebednezer SoweræŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐÁÔÈË×ªÖ°ÎªÉÍ½ðÁÔÈË£¬ÆäËûÈË»ñµÃÈÙÓþÉÍ½ðÁÔÈË³ÆºÅ ¡¡ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çŒŽäººè½¬èŒä¸ºèµé‡‘çŒŽäººï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰èµé‡‘çŒŽäººç§°å· ã€€ 
 
-¡¡¡¡Tatalia 
+ã€€ã€€Tatalia 
 
-¡¡¡¡1¡¢ÄÁÊ¦µÄÓðÃ«±Ê£¨Ö§ÏßÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€1ã€ç‰§å¸ˆçš„ç¾½æ¯›ç¬”ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡Íê³É£º°ÑÄÁÊ¦µÄÓðÃ«±Ê£¨Parson¡¯s Quill£©»¹¸øErathiaµÄNorbert Thrush 
+ã€€ã€€å®Œæˆï¼šæŠŠç‰§å¸ˆçš„ç¾½æ¯›ç¬”ï¼ˆParsonâ€™s Quillï¼‰è¿˜ç»™Erathiaçš„Norbert Thrush 
 
-¡¡¡¡2¡¢Èý·ù»­Ïñ£¨Ö§ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€2ã€ä¸‰å¹…ç”»åƒï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÕÒ»ØÈý·ù»­Ïñ£¨paintings£©²¢»¹¸øTataliaµÄFerdinand Visconti ¡¡ 
+ã€€ã€€å®Œæˆï¼šæ‰¾å›žä¸‰å¹…ç”»åƒï¼ˆpaintingsï¼‰å¹¶è¿˜ç»™Tataliaçš„Ferdinand Visconti ã€€ 
 
-¡¡¡¡Avlee 
+ã€€ã€€Avlee 
 
-¡¡¡¡1¡¢ÏÉÅ®Ö®µÑ£¨Ö§ÏßÈÎÎñ£©¼«ÈÝÒ× 
+ã€€ã€€1ã€ä»™å¥³ä¹‹ç¬›ï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ 
 
-¡¡¡¡Íê³É£º°ÑÏÉÅ®Ö®µÑ£¨Faerie Pipes£©»¹¸øTularean ForestµÄJohann Kerrid 
+ã€€ã€€å®Œæˆï¼šæŠŠä»™å¥³ä¹‹ç¬›ï¼ˆFaerie Pipesï¼‰è¿˜ç»™Tularean Forestçš„Johann Kerrid 
 
-¡¡¡¡2¡¢Ä§Õ½Ê¿ÈÎÎñ£¨×ªÖ°ÈÎÎñ£©Ò»°ã 
+ã€€ã€€2ã€é­”æˆ˜å£«ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£ºÏÈµ½Snick´¦½ÓÊÜÈÎÎñ£¬È¡µÃÉþË÷£¬È»ºóÇ°ÍùºìÉ«°«ÈË¿ó¿Ó£¬ÏÂ¿ó¿Ó¶þ²ãµ÷²éÄÇ²¿¿¿Ç½µÄÆæ¹Ö»úÆ÷£¬µ÷²éºóÔÚÒ»Ð¡Ê±ÄÚ³·³ö£¬ÏòSnick±¨¸æ 
+ã€€ã€€å®Œæˆï¼šå…ˆåˆ°Snickå¤„æŽ¥å—ä»»åŠ¡ï¼Œå–å¾—ç»³ç´¢ï¼Œç„¶åŽå‰å¾€çº¢è‰²çŸ®äººçŸ¿å‘ï¼Œä¸‹çŸ¿å‘äºŒå±‚è°ƒæŸ¥é‚£éƒ¨é å¢™çš„å¥‡æ€ªæœºå™¨ï¼Œè°ƒæŸ¥åŽåœ¨ä¸€å°æ—¶å†…æ’¤å‡ºï¼Œå‘SnickæŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐ¹­¼ýÊÖ×ªÖ°ÎªÄ§Õ½Ê¿£¨Warrior Mage£©£¬ÆäËûÈË»ñµÃÈÙÓþÄ§Õ½Ê¿³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰å¼“ç®­æ‰‹è½¬èŒä¸ºé­”æˆ˜å£«ï¼ˆWarrior Mageï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰é­”æˆ˜å£«ç§°å· 
 
-¡¡¡¡3¡¢¾Ñ»÷ÊÖÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©ÂÔÀ§ÄÑ 
+ã€€ã€€3ã€ç‹™å‡»æ‰‹ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰ç•¥å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÕÒ»ØÍêÃÀÖ®¹­£¨Perfect Bow£©È»ºó½»¸øSteagal Snick¡£Õâ°Ñ¹­²ØÔÚAvleeµÄÌ©Ì¹³Ç±¤£¨Titan¡¯s Stronghold£©ÖÐ£¬³Ç±¤ÀïÓÐ´óÁ¿µÄÌ©Ì¹ºÍÁú£¬µÈ¼¶½ÏµÍµÄÍæ¼ÒÖ»ÓÐÊ©Õ¹ÒþÐÎÊõÈ¥Íµ³öÕâ°Ñ¹­¡£ 
+ã€€ã€€å®Œæˆï¼šæ‰¾å›žå®Œç¾Žä¹‹å¼“ï¼ˆPerfect Bowï¼‰ç„¶åŽäº¤ç»™Steagal Snickã€‚è¿™æŠŠå¼“è—åœ¨Avleeçš„æ³°å¦åŸŽå ¡ï¼ˆTitanâ€™s Strongholdï¼‰ä¸­ï¼ŒåŸŽå ¡é‡Œæœ‰å¤§é‡çš„æ³°å¦å’Œé¾™ï¼Œç­‰çº§è¾ƒä½Žçš„çŽ©å®¶åªæœ‰æ–½å±•éšå½¢æœ¯åŽ»å·å‡ºè¿™æŠŠå¼“ã€‚ 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÄ§Õ½Ê¿×ªÖ°Îª¾Ñ»÷ÊÖ£¨Snipper£©£¬ÆäËûÈË»ñµÃÈÙÓþ¾Ñ»÷ÊÖ³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„é­”æˆ˜å£«è½¬èŒä¸ºç‹™å‡»æ‰‹ï¼ˆSnipperï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰ç‹™å‡»æ‰‹ç§°å· 
 
-¡¡¡¡Mount Nighon 
+ã€€ã€€Mount Nighon 
 
-¡¡¡¡1¡¢Haldar¡¯s remains£¨Ö§ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€1ã€Haldarâ€™s remainsï¼ˆæ”¯çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓNighonµÄÃÔ¹¬Àï£¨The Maze in Nighon£©ÕÒ»ØHaldarµÄÒÅ¹Ç²¢»¹¸øNighonµÄMazim Dusk 
+ã€€ã€€å®Œæˆï¼šä»ŽNighonçš„è¿·å®«é‡Œï¼ˆThe Maze in Nighonï¼‰æ‰¾å›žHaldarçš„é—éª¨å¹¶è¿˜ç»™Nighonçš„Mazim Dusk 
 
-¡¡¡¡2¡¢ÊõÊ¿ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©¼«À§ÄÑ 
+ã€€ã€€2ã€æœ¯å£«ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰æžå›°éš¾ 
 
-¡¡¡¡Íê³É£º´Ó¾ÞÈË´óÂ½£¨Land of the Giants£©µÄÁúÑ¨£¨Dragon Cave£©ÖÐÈ¡»ØÁúµ°£¨dragon egg£©È»ºó½»¸øTor Anwyn 
+ã€€ã€€å®Œæˆï¼šä»Žå·¨äººå¤§é™†ï¼ˆLand of the Giantsï¼‰çš„é¾™ç©´ï¼ˆDragon Caveï¼‰ä¸­å–å›žé¾™è›‹ï¼ˆdragon eggï¼‰ç„¶åŽäº¤ç»™Tor Anwyn 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄ´óµÂÂ³ÒÀ×ªÖ°ÎªÊõÊ¿£¬ÆäËûÈË»ñµÃÈÙÓþÊõÊ¿³ÆºÅ ¡¡ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å¤§å¾·é²ä¾è½¬èŒä¸ºæœ¯å£«ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰æœ¯å£«ç§°å· ã€€ 
 
-¡¡¡¡Deyja 
+ã€€ã€€Deyja 
 
-¡¡¡¡1¡¢Éñ¸¸£¨×ªÖ°ÈÎÎñ£©Ò»°ã 
+ã€€ã€€1ã€ç¥žçˆ¶ï¼ˆè½¬èŒä»»åŠ¡ï¼‰ä¸€èˆ¬ 
 
-¡¡¡¡Íê³É£º´ÓTataliaµÄº£µÁ¶´Ñ¨£¨Tidewater Caverns£©ÕÒµ½Ê§ÂäµÄº£µÁµØÍ¼£¨the Lost Pirate Map£©È»ºó½»¸øDaedalus Falk 
+ã€€ã€€å®Œæˆï¼šä»ŽTataliaçš„æµ·ç›—æ´žç©´ï¼ˆTidewater Cavernsï¼‰æ‰¾åˆ°å¤±è½çš„æµ·ç›—åœ°å›¾ï¼ˆthe Lost Pirate Mapï¼‰ç„¶åŽäº¤ç»™Daedalus Falk 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÄÁÊ¦×ªÖ°ÎªÉñ¸¸£¬ÆäËûÈË»ñµÃÈÙÓþÉñ¸¸³ÆºÅ¡£Í¬Ê±Í¨ÍùEvenmorn IsleµÄ´¬Ö»¿ªÍ¨ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„ç‰§å¸ˆè½¬èŒä¸ºç¥žçˆ¶ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰ç¥žçˆ¶ç§°å·ã€‚åŒæ—¶é€šå¾€Evenmorn Isleçš„èˆ¹åªå¼€é€š 
 
-¡¡¡¡2¡¢ºÚ°µÉñ¸¸£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©À§ÄÑ 
+ã€€ã€€2ã€é»‘æš—ç¥žçˆ¶ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º³ó»¯evermorn islandÉÏÌ«ÑôÉñÃí£¨temple of the sun£©ÖÐµÄ¼ÀÌ³ 
+ã€€ã€€å®Œæˆï¼šä¸‘åŒ–evermorn islandä¸Šå¤ªé˜³ç¥žåº™ï¼ˆtemple of the sunï¼‰ä¸­çš„ç¥­å› 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÉñ¸¸×ªÖ°ÎªºÚ°µÉñ¸¸£¬ÆäËûÈË»ñµÃÈÙÓþºÚ°µÉñ¸¸³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„ç¥žçˆ¶è½¬èŒä¸ºé»‘æš—ç¥žçˆ¶ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰é»‘æš—ç¥žçˆ¶ç§°å· 
 
-¡¡¡¡3¡¢¶ñ¹÷£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©À§ÄÑ 
+ã€€ã€€3ã€æ¶æ£ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓGryphonheart³Ç±¤£¨Castle Gryphonheart£©ÖÐ°ó¼ÜAlice HargreavesÈ»ºó°ÑËýËÍ»ØDeyjaµÄWilliam¡¯s Tower 
+ã€€ã€€å®Œæˆï¼šä»ŽGryphonheartåŸŽå ¡ï¼ˆCastle Gryphonheartï¼‰ä¸­ç»‘æž¶Alice Hargreavesç„¶åŽæŠŠå¥¹é€å›žDeyjaçš„Williamâ€™s Tower 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÊ®×Ö¾ü×ªÖ°Îª¶ñ¹÷£¨Villain£©£¬ÆäËûÈË»ñµÃÈÙÓþ¶ñ¹÷³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„åå­—å†›è½¬èŒä¸ºæ¶æ£ï¼ˆVillainï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰æ¶æ£ç§°å· 
 
-¡¡¡¡4¡¢°µÉ±Õß£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©À§ÄÑ 
+ã€€ã€€4ã€æš—æ€è€…ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºµ½CelesteµÄÌì¿ÕÍ¥Ôº£¨Celestial Court£©ÖÐ°µÉ±Lady Eleanor Carmine£¬È»ºó´ø×ÅÖ¤¾ÝÏòSeknit Undershadow±¨¸æ ¡¡ 
+ã€€ã€€å®Œæˆï¼šåˆ°Celesteçš„å¤©ç©ºåº­é™¢ï¼ˆCelestial Courtï¼‰ä¸­æš—æ€Lady Eleanor Carmineï¼Œç„¶åŽå¸¦ç€è¯æ®å‘Seknit UndershadowæŠ¥å‘Š ã€€ 
 
-¡¡¡¡The Pit£¨ºÚ°µÂ·Ïß²ÅÓÐ£© 
+ã€€ã€€The Pitï¼ˆé»‘æš—è·¯çº¿æ‰æœ‰ï¼‰ 
 
-¡¡¡¡1¡¢ËÇÑøÇø£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€1ã€é¥²å…»åŒºï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÍ¨¹ýËÇÑøÇø£¨Breeding Zone£©È»ºóÏòPitµÄArchibald±¨¸æ 
+ã€€ã€€å®Œæˆï¼šé€šè¿‡é¥²å…»åŒºï¼ˆBreeding Zoneï¼‰ç„¶åŽå‘Pitçš„ArchibaldæŠ¥å‘Š 
 
-¡¡¡¡2¡¢Áé»êÖ®Ì³£¨Ö÷ÏßÈÎÎñ£©¼«À§ÄÑ 
+ã€€ã€€2ã€çµé­‚ä¹‹å›ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓÌúÈ­É½£¨Thunderfist Mountain£©È¡»ØÁé»êÖ®Ì³£¨Case of Soul Jars£©²¢½»¸øPitµÄMaximus 
+ã€€ã€€å®Œæˆï¼šä»Žé“æ‹³å±±ï¼ˆThunderfist Mountainï¼‰å–å›žçµé­‚ä¹‹å›ï¼ˆCase of Soul Jarsï¼‰å¹¶äº¤ç»™Pitçš„Maximus 
 
-¡¡¡¡3¡¢¼ÀÌ³ËéÆ¬£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€3ã€ç¥­å›ç¢Žç‰‡ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓCelesteµÄ¹âÃ÷ÉñÃíºÍPitµÄºÚ°µÉñÃíÖÐÈ¡»Ø¼ÀÌ³Ô¿³×µÄËéÆ¬£¨altar piece£©²¢½»¸øPitµÄKastore 
+ã€€ã€€å®Œæˆï¼šä»ŽCelesteçš„å…‰æ˜Žç¥žåº™å’ŒPitçš„é»‘æš—ç¥žåº™ä¸­å–å›žç¥­å›é’¥åŒ™çš„ç¢Žç‰‡ï¼ˆaltar pieceï¼‰å¹¶äº¤ç»™Pitçš„Kastore 
 
-¡¡¡¡4¡¢¶£µ±ÊµÑéÊÒ£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€4ã€å®å½“å®žéªŒå®¤ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º´Ý»Ù¶£µ±ÊµÑéÊÒ£¨Clanker¡¯s Laboratory£©ÖÐµÄÄ§·¨·ÀÓùÈ»ºóÏòPitµÄDark Shade±¨¸æ 
+ã€€ã€€å®Œæˆï¼šæ‘§æ¯å®å½“å®žéªŒå®¤ï¼ˆClankerâ€™s Laboratoryï¼‰ä¸­çš„é­”æ³•é˜²å¾¡ç„¶åŽå‘Pitçš„Dark ShadeæŠ¥å‘Š 
 
-¡¡¡¡5¡¢6¡¢7¼¸¸öÈÎÎñÓë¹âÃ÷Â·ÏßÀàËÆ£¬¾Í²»ÏêÊöÁË¡£ 
+ã€€ã€€5ã€6ã€7å‡ ä¸ªä»»åŠ¡ä¸Žå…‰æ˜Žè·¯çº¿ç±»ä¼¼ï¼Œå°±ä¸è¯¦è¿°äº†ã€‚ 
 
-¡¡¡¡8¡¢ÈÌÕßÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©À§ÄÑ 
+ã€€ã€€8ã€å¿è€…ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÆÆÒëBracada DesertÖÐÎ×Ê¦Ñ§Ð££¨School of Sorcery£©ÖÐµÄÃÜÂë£¬ÕÒµ½The Tomb of Anshwar Nog¡¯NogothµÄÎ»ÖÃ¡£½øÈë·ØÄ¹ºóÄÃµ½Ö¤¾ÝÈ»ºóÏòStephan Sand±¨¸æ 
+ã€€ã€€å®Œæˆï¼šç ´è¯‘Bracada Desertä¸­å·«å¸ˆå­¦æ ¡ï¼ˆSchool of Sorceryï¼‰ä¸­çš„å¯†ç ï¼Œæ‰¾åˆ°The Tomb of Anshwar Nogâ€™Nogothçš„ä½ç½®ã€‚è¿›å…¥åŸå¢“åŽæ‹¿åˆ°è¯æ®ç„¶åŽå‘Stephan SandæŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÑ§µÀÕß×ªÖ°ÎªÈÌÕß£¨Ninja£©£¬ÆäËûÈË»ñµÃÈÙÓþÈÌÕß³ÆºÅ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å­¦é“è€…è½¬èŒä¸ºå¿è€…ï¼ˆNinjaï¼‰ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å¿è€…ç§°å· 
 
-¡¡¡¡9¡¢ºÚ°µ·¨Ê¦ÈÎÎñ£¨×ªÖ°ÈÎÎñ£¬ºÚ°µÏµ£©À§ÄÑ 
+ã€€ã€€9ã€é»‘æš—æ³•å¸ˆä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼Œé»‘æš—ç³»ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º´ÓCelesteµÄÊÔÁ¶Ö®µØ£¨the Proving Grounds£©ÖÐÈ¡»ØºÚ°µ·¨Ê¦Ö®Ì³£¨the Lich Jars£©£¬È»ºóÏòHalfgild Mynac±¨¸æ 
+ã€€ã€€å®Œæˆï¼šä»ŽCelesteçš„è¯•ç‚¼ä¹‹åœ°ï¼ˆthe Proving Groundsï¼‰ä¸­å–å›žé»‘æš—æ³•å¸ˆä¹‹å›ï¼ˆthe Lich Jarsï¼‰ï¼Œç„¶åŽå‘Halfgild MynacæŠ¥å‘Š 
 
-¡¡¡¡µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÎ×Ê¦×ªÖ°ÎªºÚ°µ·¨Ê¦£¬ÆäËûÈË»ñµÃÈÙÓþºÚ°µ·¨Ê¦³ÆºÅ ¡¡ 
+ã€€ã€€å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„å·«å¸ˆè½¬èŒä¸ºé»‘æš—æ³•å¸ˆï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰é»‘æš—æ³•å¸ˆç§°å· ã€€ 
 
-¡¡¡¡City of Celeste£¨¹âÃ÷Â·Ïß²ÅÓÐ£© 
+ã€€ã€€City of Celesteï¼ˆå…‰æ˜Žè·¯çº¿æ‰æœ‰ï¼‰ 
 
-¡¡¡¡1¡¢ÃÔÎíÖ®Ìü£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€1ã€è¿·é›¾ä¹‹åŽ…ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÔÚ²»ÉËº¦ÈÎºÎÉúÎïµÄÇé¿öÏÂÍ¨¹ýÃÔÎíÖ®Ìü£¨Halls of Mist£©ÃÔ¹¬È»ºóÏòCelesteµÄGavin Magnus±¨¸æ 
+ã€€ã€€å®Œæˆï¼šåœ¨ä¸ä¼¤å®³ä»»ä½•ç”Ÿç‰©çš„æƒ…å†µä¸‹é€šè¿‡è¿·é›¾ä¹‹åŽ…ï¼ˆHalls of Mistï¼‰è¿·å®«ç„¶åŽå‘Celesteçš„Gavin MagnusæŠ¥å‘Š 
 
-¡¡¡¡2¡¢µØÏÂ¾Æ½Ñ£¨Ö÷ÏßÈÎÎñ£©¼«ÈÝÒ×£¨»òÕßÀ§ÄÑ£© 
+ã€€ã€€2ã€åœ°ä¸‹é…’çª–ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå®¹æ˜“ï¼ˆæˆ–è€…å›°éš¾ï¼‰ 
 
-¡¡¡¡Íê³É£ºµ÷²éTataliaµÄµØÏÂ¾Æ½Ñ£¨Wine Cellars£©È»ºóÏòCelesteµÄCrag Hack±¨¸æ 
+ã€€ã€€å®Œæˆï¼šè°ƒæŸ¥Tataliaçš„åœ°ä¸‹é…’çª–ï¼ˆWine Cellarsï¼‰ç„¶åŽå‘Celesteçš„Crag HackæŠ¥å‘Š 
 
-¡¡¡¡3¡¢¼ÀÌ³ËéÆ¬£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€3ã€ç¥­å›ç¢Žç‰‡ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡´ÓCelesteµÄ¹âÃ÷ÉñÃíºÍPitµÄºÚ°µÉñÃíÖÐÈ¡»Ø¼ÀÌ³Ô¿³×µÄËéÆ¬£¨altar piece£©²¢½»¸øCelesteµÄResurectra 
+ã€€ã€€ä»ŽCelesteçš„å…‰æ˜Žç¥žåº™å’ŒPitçš„é»‘æš—ç¥žåº™ä¸­å–å›žç¥­å›é’¥åŒ™çš„ç¢Žç‰‡ï¼ˆaltar pieceï¼‰å¹¶äº¤ç»™Celesteçš„Resurectra 
 
-¡¡¡¡4¡¢Áé»êÖ®Ì³£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€4ã€çµé­‚ä¹‹å›ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÈ¡»ØÁé»êÖ®Ì³£¨Case of Soul Jars£©²¢½»¸øCelesteµÄSir Caneghem 
+ã€€ã€€å®Œæˆï¼šå–å›žçµé­‚ä¹‹å›ï¼ˆCase of Soul Jarsï¼‰å¹¶äº¤ç»™Celesteçš„Sir Caneghem 
 
-¡¡¡¡5¡¢¿ØÖÆ·½¿é£¨Ö÷ÏßÈÎÎñ£©À§ÄÑ 
+ã€€ã€€5ã€æŽ§åˆ¶æ–¹å—ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£ºÉ±ËÀ²ØÔÚPitÖÐÒ»¼äÐ¡ÎÝÀïµÄTolbertiÈ»ºó°ÑËûµÄ¿ØÖÆ·½¿é£¨control cube£©½»¸øCelesteµÄRobert the Wise 
+ã€€ã€€å®Œæˆï¼šæ€æ­»è—åœ¨Pitä¸­ä¸€é—´å°å±‹é‡Œçš„Tolbertiç„¶åŽæŠŠä»–çš„æŽ§åˆ¶æ–¹å—ï¼ˆcontrol cubeï¼‰äº¤ç»™Celesteçš„Robert the Wise 
 
-¡¡¡¡6¡¢ÏûÃð¶ñÄ§£¨Ö÷ÏßÈÎÎñ£©¼«À§ÄÑ 
+ã€€ã€€6ã€æ¶ˆç­æ¶é­”ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå›°éš¾ 
 
-¡¡¡¡Íê³É£ºµ½¾ÞÈË´óÂ½£¨the land of the Giants£©µÄÍâÐÇÈË»ùµØÖÐ£¨Colony Zod£©É±ËÀXenofex£¬È»ºóÏòÔÚCelesteÖÐLambent³Ç±¤ÀïµÄResurectra±¨¸æ 
+ã€€ã€€å®Œæˆï¼šåˆ°å·¨äººå¤§é™†ï¼ˆthe land of the Giantsï¼‰çš„å¤–æ˜ŸäººåŸºåœ°ä¸­ï¼ˆColony Zodï¼‰æ€æ­»Xenofexï¼Œç„¶åŽå‘åœ¨Celesteä¸­LambentåŸŽå ¡é‡Œçš„ResurectraæŠ¥å‘Š 
 
-¡¡¡¡7¡¢¼ÓËÙÆ÷£¨Ö÷ÏßÈÎÎñ£©¼«À§ÄÑ 
+ã€€ã€€7ã€åŠ é€Ÿå™¨ï¼ˆä¸»çº¿ä»»åŠ¡ï¼‰æžå›°éš¾ 
 
-¡¡¡¡Íê³É£ºµ½AvleeÎ÷·½º£ÑóÖÐµÄLincolnÖÐ¶á»ØÕñµ´¼ÓËÙÍÆ½øÆ÷£¨Oscillation Overthruster£©²¢»¹¸øCelesteµÄResurectra£¨×¢£ºÖÕ¼«ÈÎÎñ£© 
+ã€€ã€€å®Œæˆï¼šåˆ°Avleeè¥¿æ–¹æµ·æ´‹ä¸­çš„Lincolnä¸­å¤ºå›žæŒ¯è¡åŠ é€ŸæŽ¨è¿›å™¨ï¼ˆOscillation Overthrusterï¼‰å¹¶è¿˜ç»™Celesteçš„Resurectraï¼ˆæ³¨ï¼šç»ˆæžä»»åŠ¡ï¼‰ 
 
-¡¡¡¡8¡¢¹âÃ÷Éñ¸¸ÈÎÎñ£¨×ªÖ°ÈÎÎñ£©À§ÄÑ 
+ã€€ã€€8ã€å…‰æ˜Žç¥žçˆ¶ä»»åŠ¡ï¼ˆè½¬èŒä»»åŠ¡ï¼‰å›°éš¾ 
 
-¡¡¡¡Íê³É£º¾»»¯evermorn islandÉÏÔÂÁÁÉñÃí£¨temple of the moon£©ÖÐµÄ¼ÀÌ³ µÃµ½µÄ½±Àø£º¶ÓÎéÖÐËùÓÐµÄÉñ¸¸×ªÖ°Îª¹âÃ÷Éñ¸¸£¬ÆäËûÈË»ñµÃÈÙÓþ¹âÃ÷Éñ¸¸³ÆºÅ 
+ã€€ã€€å®Œæˆï¼šå‡€åŒ–evermorn islandä¸Šæœˆäº®ç¥žåº™ï¼ˆtemple of the moonï¼‰ä¸­çš„ç¥­å› å¾—åˆ°çš„å¥–åŠ±ï¼šé˜Ÿä¼ä¸­æ‰€æœ‰çš„ç¥žçˆ¶è½¬èŒä¸ºå…‰æ˜Žç¥žçˆ¶ï¼Œå…¶ä»–äººèŽ·å¾—è£èª‰å…‰æ˜Žç¥žçˆ¶ç§°å· 
 

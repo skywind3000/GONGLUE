@@ -1,12 +1,12 @@
-º½¿Õ´óÏí
+èˆªç©ºå¤§äº«
 
-atmissall = ËùÓĞÈÎÎñ
-donaldtrump = ¶îÍâµÄ½ğÇ®
-expander = ¸ü´óµÄ·É»ú³¡
-mentat = ËùÓĞÖúÊÖ¼¤»î
-nodebts = Ã»ÓĞÕ®Îñ
-showall = ËùÓĞ·ÉĞĞ¿É¼û
-thinkpad = ¼ÇÊÂ±¾
-winning = Íê³ÉÈÎÎñ
-missioncrowd = »ú³¡ºÜ¶àÈË
-runningman = ÈËÃÇ×ßµÃ¸ü¿ì
+atmissall = æ‰€æœ‰ä»»åŠ¡
+donaldtrump = é¢å¤–çš„é‡‘é’±
+expander = æ›´å¤§çš„é£æœºåœº
+mentat = æ‰€æœ‰åŠ©æ‰‹æ¿€æ´»
+nodebts = æ²¡æœ‰å€ºåŠ¡
+showall = æ‰€æœ‰é£è¡Œå¯è§
+thinkpad = è®°äº‹æœ¬
+winning = å®Œæˆä»»åŠ¡
+missioncrowd = æœºåœºå¾ˆå¤šäºº
+runningman = äººä»¬èµ°å¾—æ›´å¿«

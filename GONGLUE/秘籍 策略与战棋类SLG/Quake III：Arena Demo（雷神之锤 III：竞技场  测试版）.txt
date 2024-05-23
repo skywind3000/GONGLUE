@@ -1,7 +1,7 @@
-Quake III£ºArena Demo£¨À×ÉñÖ®´¸ III£º¾º¼¼³¡  ²âÊÔ°æ£©
+Quake IIIï¼šArena Demoï¼ˆé›·ç¥žä¹‹é”¤ IIIï¼šç«žæŠ€åœº  æµ‹è¯•ç‰ˆï¼‰
 
-god£½ÉÏµÛÄ£Ê½
-noclip£½²»¼ä¶ÏÓÎÏ·
-screenshot£½½ØÍ¼
+godï¼ä¸Šå¸æ¨¡å¼
+noclipï¼ä¸é—´æ–­æ¸¸æˆ
+screenshotï¼æˆªå›¾
 
 

@@ -1,49 +1,49 @@
 Midtown Madness
 
-ÔÚÖ÷»­ÃæÖĞ¿ªÆôĞÂµÄ Player µµ°¸£¬´òÈëÒÔÏÂµÄÃû×ÖÀ´Æô¶¯ÃØ¼¼¡Ã 
+åœ¨ä¸»ç”»é¢ä¸­å¼€å¯æ–°çš„ Player æ¡£æ¡ˆï¼Œæ‰“å…¥ä»¥ä¸‹çš„åå­—æ¥å¯åŠ¨ç§˜æŠ€âˆ¶ 
 
-Showme Cops¡ÃÔÚµØÍ¼ÉÏÏÔÊ¾¸÷¾¯³µÎ»ÖÃ 
-Big Bus Party¡ÃÂ·ÉÏµÄ³µÁ¾È«¶¼ÊÇ°ÍÊ¿ 
-Tiny Car¡ÃÂ·ÉÏµÄ³µÁ¾È«¶¼ÊÇĞ¡ĞÍÆû³µ 
-Jet Planes¡ÃÂ·ÉÏµÄ³µÁ¾È«¶¼ÊÇ·É»ú 
-amizdA eoJ¡ÃÂ·ÉÏµÄ³µÁ¾È«¶¼µ¹×ªÍ·¼İÊ» 
-Warp Eleven¡ÃËùÓĞµçÄÔ³µÁ¾ÒÔ10±¶ËÙ¶ÈĞĞ×ß 
+Showme Copsâˆ¶åœ¨åœ°å›¾ä¸Šæ˜¾ç¤ºå„è­¦è½¦ä½ç½® 
+Big Bus Partyâˆ¶è·¯ä¸Šçš„è½¦è¾†å…¨éƒ½æ˜¯å·´å£« 
+Tiny Carâˆ¶è·¯ä¸Šçš„è½¦è¾†å…¨éƒ½æ˜¯å°å‹æ±½è½¦ 
+Jet Planesâˆ¶è·¯ä¸Šçš„è½¦è¾†å…¨éƒ½æ˜¯é£æœº 
+amizdA eoJâˆ¶è·¯ä¸Šçš„è½¦è¾†å…¨éƒ½å€’è½¬å¤´é©¾é©¶ 
+Warp Elevenâˆ¶æ‰€æœ‰ç”µè„‘è½¦è¾†ä»¥10å€é€Ÿåº¦è¡Œèµ° 
 
-ÓëÉÏÃæµÄÊ¹ÓÃ·½·¨Ò»Ñù£¬µ«Ö»ÄÜÔÚµ¥ÈËÄ£Ê½µÄ Cruise Mode ÖĞÊ¹ÓÃ¡Ã 
+ä¸ä¸Šé¢çš„ä½¿ç”¨æ–¹æ³•ä¸€æ ·ï¼Œä½†åªèƒ½åœ¨å•äººæ¨¡å¼çš„ Cruise Mode ä¸­ä½¿ç”¨âˆ¶ 
 
-Ãû³Æ Ñ¡ÔñÆû³µ Ğ§ÓÃ 
-vasedans Cadillac ¼İÊ» Generic Car 
-vasedanl Bullet ¼İÊ» Generic Light Car 
-vacompact VW Bug ¼İÊ»ÍÃĞÎµÄĞ¡ĞÍÆû³µ 
-vavan Ford F350 ¼İÊ» Van 
-vapickup Ford F350 ¼İÊ» Pickup Truck 
-vadelivery Ford F350 ¼İÊ» Delivery Truck 
-vadiesels City Bus ¼İÊ» The Diesel 
-vabus City Bus ¼İÊ»ÌùÉÏ New Paint Job µÄ°ÍÊ¿ 
-vaboeing_small City Bus ¼İÊ» Mini-jet 
-valimo Mustang GT ¼İÊ»Ëæ»úµÄ´óĞÍºÀ»ª½Î³µ 
-valimoangel Mustang GT ¼İÊ»°×É«µÄ´óĞÍºÀ»ª½Î³µ 
-valimoblack Mustang GT ¼İÊ»ºÚÉ«µÄ´óĞÍºÀ»ª½Î³µ 
-vataxi Cadillac ¼İÊ»»ÆÉ«µÄÊ¿ 
-vataxicheck Cadillac ¼İÊ»ÂÌÉ«²»¹æÔòµÄµÄÊ¿ 
+åç§° é€‰æ‹©æ±½è½¦ æ•ˆç”¨ 
+vasedans Cadillac é©¾é©¶ Generic Car 
+vasedanl Bullet é©¾é©¶ Generic Light Car 
+vacompact VW Bug é©¾é©¶å…”å½¢çš„å°å‹æ±½è½¦ 
+vavan Ford F350 é©¾é©¶ Van 
+vapickup Ford F350 é©¾é©¶ Pickup Truck 
+vadelivery Ford F350 é©¾é©¶ Delivery Truck 
+vadiesels City Bus é©¾é©¶ The Diesel 
+vabus City Bus é©¾é©¶è´´ä¸Š New Paint Job çš„å·´å£« 
+vaboeing_small City Bus é©¾é©¶ Mini-jet 
+valimo Mustang GT é©¾é©¶éšæœºçš„å¤§å‹è±ªåè½¿è½¦ 
+valimoangel Mustang GT é©¾é©¶ç™½è‰²çš„å¤§å‹è±ªåè½¿è½¦ 
+valimoblack Mustang GT é©¾é©¶é»‘è‰²çš„å¤§å‹è±ªåè½¿è½¦ 
+vataxi Cadillac é©¾é©¶é»„è‰²çš„å£« 
+vataxicheck Cadillac é©¾é©¶ç»¿è‰²ä¸è§„åˆ™çš„çš„å£« 
 
-ÔÚµ¥ÈËÄ£Ê½½øĞĞÊ±£¬Í¬Ê±°´ÏÂ Ctrl¡¢Alt¡¢Shift¡¢F7 »á³öÏÖÒ»¸öÏ»ÈÃÄú´òÈëÃØ¼¼Âë¡Ã 
+åœ¨å•äººæ¨¡å¼è¿›è¡Œæ—¶ï¼ŒåŒæ—¶æŒ‰ä¸‹ Ctrlã€Altã€Shiftã€F7 ä¼šå‡ºç°ä¸€ä¸ªåŒ£è®©æ‚¨æ‰“å…¥ç§˜æŠ€ç âˆ¶ 
 
-/nodamage¡ÃÓÀ²»Ëğ»µÄ£Ê½ 
-/damage¡Ã»Ø¸´Ëğ»µÄ£Ê½ 
-/dizzy¡ÃĞı×ªµÄÌì¿Õ 
-/fuzz¡ÃÆô¶¯¾¯²ìÀ×´ï 
-/bridge¡ÃÇÅÁºÉı½µ¼Ó¿ì 
-/ufo¡Ã°Ñ·É»ú»»×öUFO 
-/swap¡Ã°Ñ»ğ³µ»»×öÒ»ÁĞ737 
-/slide¡ÃÖÜÔâµÄ³µÁ¾ÓëÂ·ÃæÃ»ÓĞÄ¦²ÁÁ¦ 
-/puck¡ÃÍæ¼ÒµÄ³µÁ¾ÓëÂ·ÃæÃ»ÓĞÄ¦²ÁÁ¦ 
-¡¡¡¡/grav¡ÃµØĞÄÎüÁ¦¼õ°ë 
-/postal¡Ã°´À®°È»á·¢ÉäÓÊÏä 
-/talkfast¡ÃÆÀÊöËÙ¶È¼Ó¿ì 
-/talkslow¡ÃÆÀÊöËÙ¶È¼õÂı 
-/big¡ÃÂ·ÈË±ä´ó 
-/tiny¡ÃÂ·ÈË±äĞ¡ 
-/nosmoke¡Ã³µÁ¾²»»á³öÑÌ 
-/smoke¡Ã³µÁ¾»á³öÑÌ 
+/nodamageâˆ¶æ°¸ä¸æŸåæ¨¡å¼ 
+/damageâˆ¶å›å¤æŸåæ¨¡å¼ 
+/dizzyâˆ¶æ—‹è½¬çš„å¤©ç©º 
+/fuzzâˆ¶å¯åŠ¨è­¦å¯Ÿé›·è¾¾ 
+/bridgeâˆ¶æ¡¥æ¢å‡é™åŠ å¿« 
+/ufoâˆ¶æŠŠé£æœºæ¢åšUFO 
+/swapâˆ¶æŠŠç«è½¦æ¢åšä¸€åˆ—737 
+/slideâˆ¶å‘¨é­çš„è½¦è¾†ä¸è·¯é¢æ²¡æœ‰æ‘©æ“¦åŠ› 
+/puckâˆ¶ç©å®¶çš„è½¦è¾†ä¸è·¯é¢æ²¡æœ‰æ‘©æ“¦åŠ› 
+ã€€ã€€/gravâˆ¶åœ°å¿ƒå¸åŠ›å‡åŠ 
+/postalâˆ¶æŒ‰å–‡å­ä¼šå‘å°„é‚®ç®± 
+/talkfastâˆ¶è¯„è¿°é€Ÿåº¦åŠ å¿« 
+/talkslowâˆ¶è¯„è¿°é€Ÿåº¦å‡æ…¢ 
+/bigâˆ¶è·¯äººå˜å¤§ 
+/tinyâˆ¶è·¯äººå˜å° 
+/nosmokeâˆ¶è½¦è¾†ä¸ä¼šå‡ºçƒŸ 
+/smokeâˆ¶è½¦è¾†ä¼šå‡ºçƒŸ 
 

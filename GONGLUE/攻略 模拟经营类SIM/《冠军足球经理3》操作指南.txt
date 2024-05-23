@@ -2,312 +2,312 @@ Untitled Document
 
 
 
-���ھ�������3������ָ��  
+《冠军足球经理3》操作指南  
 
-        ��Ϸ���˵�
-        StartNewGame����ʼ����Ϸ����Ҫѡ����ӡ���ҹ������������������롣ѡ�����ʱ������Ϸ���Filter��ť��������ѡ��Χ��
-        QuickStartGame�����ٽ�����Ϸ������ֱ��ѡ��������Ϊ����ṩ������������ʡȥѡ��"��ʼ����Ϸ"ʱ�ϳ��ĳ�ʼ��ʱ�䡣
-        RestoreSavedGame����ȡ�浵������������Ҫ���롣
-        DeleteSavedGame��ɾ���浵��
-        NetworkPlay��������Ϸ��
-        GameSetting����Ϸ�趨��
-        HallOfFame�����а�
-        GameCredits��������Ա������
-        WebSites�����վ�㡣
+        游戏主菜单
+        StartNewGame：开始新游戏，需要选择球队、玩家国籍并输入姓名和密码。选择国籍时点击右上方的Filter按钮可以扩大选择范围。
+        QuickStartGame：快速进入游戏，可以直接选择制作者为玩家提供的联赛档案以省去选择"开始新游戏"时较长的初始化时间。
+        RestoreSavedGame：读取存档，若有密码需要输入。
+        DeleteSavedGame：删除存档。
+        NetworkPlay：网络游戏。
+        GameSetting：游戏设定。
+        HallOfFame：排行榜。
+        GameCredits：制作人员名单。
+        WebSites：相关站点。
 
-        �������
-        ����������Ϸ����ᷢ�ֻ��汻��Ϊ���������֣���ߵĿ�����˳����������Ϸ�ġ�����Ҫ����ѡ��ұߵĴ����������ʾ��Ϸ�е��������ݼ�һЩ��������ѡ� 
-        ����������߾�Ϊ��λ�����һ���н��ܡ���ACMilanΪ����
-������ߵĿ������г������Ϸ���ʾ����Ϸʱ���ǰ���ͷ�⣬�������ֱ�Ϊ��
-һ��ContinueGame���������������󼴿ɵ���˴���ʹ��Ϸ�������С�
-�����˴�Ϊ����ڿ�ʼ��Ϸʱ������������������������ѡ�
-        1��MilanSquad��������ұߵĴ����л����Milanһ�߶������ϸ���ϼ�ʮ������ѡ�
-        (1)Squad�����������ȫ����Ա����������ҿ���ͨ��SortBy�еĸ������Զ���Ա���������ͨ��Filter�еĸ���λ�ö���Ա����ɸѡ(����ѡ����϶�����Ա 
-        )�������Ϸ���һ����дΪ��ӵ�ǰ�����е�λ�ü��油������д�������������ĳһ��Ա����֮�ϼ���ʹ�任Ϊ��д��������ʾ��λ�á�����ĳһ��Ա��������ҿ��Բ鿴����Ա��Profile(һ�����)��Injuries&Bans(���˼�ͣ���������Contract(ǩԼ���������ת�����͡���ͬ����ʱ�䡢��н��������ʩ�ȣ���T 
-        ransfer(ת�����������ת��ѡ�ϣ��Ч������ӵȣ���History(��Ա��ʷ�����������Ϸ������Ϸ�����������ť���������Ϸ��İ�ť��û������Ա����ǰ����ѡ��鿴Milan���߶��顢����е�������Ӽ�����Ҷӣ����������Ϊѡ��鿴�����е�������Ա�����Ϸ��İ�ť��û������Ա����ǰΪPrint����ӡ���ɽ����ϴ�ӡ�򱣴������������������ΪAction�����п���ѡ��RelegateToReserves 
-        (������Աת�����)��SetTransferStatus�����Ըı���ת��Ѳ��ھ����������Ƴ��ۺ������ת���г��У���OfferNewContract(ǩ���º�ͬ�����Ըı�ת�����͡���ͬ����ʱ�估��н)��ReleaseOnAFree(�����ͬ����Ҫ�����൱��ķ���)��
-(2)Transfers����������ͨ��Season��View�е�PlayerIn��PlayerOut�鿴����Ҿ�Ӫ���������Աת����ת�������������
-(3)NextMatch���������Բ鿴��һ�����������ڡ��ص㡢����Ԥ���ȱ�Ҫ��Ϣ��
-(4)Fixtures���������Բ鿴��ǰ����ǰ���������еı������ţ���������Arr ange�а���HomeFriendly(ѡ��������������ʱ�䡢ѡ����Ӻ�ͨ��InviteClu 
-        b��������)��AwayFriendly(ѡ��ͳ���������ʱ�䡢ѡ����Ӻ�ͨ��InviteC lub��������)��Tour(ѡ����ҽ��з��ʱ���)��Tournament(Ϊ�������������趨���Ƿ�ʹ�ý���Ȼ�������ѡ����Ӻ�ͨ��InviteClub��������)�������������Ҳ�и��Ե����̰��ţ�����������ʱ���⵽�Է���л��(Unavailable)�����ϵ��������¾�����ͨ���Ȱ���Cancel�ٵ�������ճ̽���ɾ����
-(5)Finances&Info������������View�в鿴GeneralInfo(һ������������������ơ�����ϯ���������ֲ���ϯ�����������õ�)��Finances(������֧�Ĵ�����)��Income(������Ʊ��ת��Ȩ��������Ա�ȸ��������������)��Expenditu 
-        re(������Ա���ʡ�����ά����������Ա�ȸ������֧������)��
-(6)Tactics�����������ϸ������Ӽ���Ա��ս���򷨣��������¡�
-        ����ͨ��Formation�е�SetToDefault����ѡ��ʮ���ֻ��������е�һ�֣�ͨ��Tea mInstructions���Ե�����ӵĻ���ս��(�����Խ�ս�����������Ա����û������ǰ�浵)��
-        PassingΪ���򣬿���ѡ����Short(�̴�)��Direct(ֱ��)��Long(����)��Mixe d(����)��TacklingΪ���ϣ�����ѡ��Easy(���)��Hard(����)��Normal(����)��
-        PressingΪѹ�ȣ�����ѡ���Ƿ����ѹ��ʽ�򷨣�
-        OffsideTrapΪ��Խλ������ѡ���Ƿ���Խλ��
-        CounterAttackΪ����������ѡ���Ƿ���÷��ط���ս����
-        MenBehindBallΪ�����򣬿���ѡ���Ƿ��Է�����
-        FreeKicks(L)(���������)��FreeKicks(R)(�Ҳ�������)��Corners(L)(������)��Corners(R)(�Ҳ����)��Penalties(����)������ָ��һ��Ա������ 
+        操作详解
+        　　进入游戏后，你会发现画面被分为了两个部分，左边的控制栏顺序排列着游戏的　　主要功能选项，右边的窗口则可以显示游戏中的所有数据及一些附属功能选项。 
+        　　下面笔者就为诸位玩家逐一进行介绍。以ACMilan为例。
+　　左边的控制栏中除了最上方显示的游戏时间和前后箭头外，其余各项分别为：
+一、ContinueGame：处理完各项事务后即可点击此处以使游戏继续进行。
+二、此处为玩家在开始游戏时输入的姓名，点击后会出现如下选项：
+        1．MilanSquad：点击后右边的窗口中会出现Milan一线队伍的详细资料及十个附属选项。
+        (1)Squad：点击后会出现全体球员的名单，玩家可以通过SortBy中的各种属性对球员进行排序或通过Filter中的各种位置对球员进行筛选(可以选择加上二线球员 
+        )。名单上方的一排缩写为球队当前阵型中的位置及替补，将缩写名称用鼠标移至某一球员姓名之上即可使其换为缩写名称所表示的位置。单击某一球员姓名后，玩家可以查看该球员的Profile(一般情况)、Injuries&Bans(受伤及停赛情况）、Contract(签约情况，包括转会类型、合同到期时间、周薪及奖励措施等）、T 
+        ransfer(转会情况，包括转会费、希望效力的球队等）、History(球员历史）。窗口左上方和右上方还有两个按钮，其中左上方的按钮在没单击球员姓名前可以选择查看Milan二线队伍、意甲中的所有球队及意国家队，单击后则变为选择查看本队中的所有球员；右上方的按钮在没单击球员姓名前为Print（打印，可将资料打印或保存起来），单击后则变为Action，从中可以选择RelegateToReserves 
+        (将此球员转入二队)、SetTransferStatus（可以改变其转会费并在决定租出或挂牌出售后将其放在转会市场中）、OfferNewContract(签定新合同，可以改变转会类型、合同到期时间及周薪)及ReleaseOnAFree(解除合同，但要付出相当多的罚金)。
+(2)Transfers：点击后可以通过Season及View中的PlayerIn、PlayerOut查看从玩家经营球队以来球员转进、转出的所有情况。
+(3)NextMatch：点击后可以查看下一场比赛的日期、地点、天气预报等必要信息。
+(4)Fixtures：点击后可以查看当前及以前所有赛季中的比赛安排，还可以在Arr ange中安排HomeFriendly(选择主场友谊赛的时间、选择球队后通过InviteClu 
+        b发出邀请)、AwayFriendly(选择客场友谊赛的时间、选择球队后通过InviteC lub发出邀请)、Tour(选择国家进行访问比赛)及Tournament(为锦标赛起名、设定如是否使用金球等基本规则、选择球队后通过InviteClub发出邀请)。由于其它球队也有各自的赛程安排，所以邀请有时会遭到对方的谢绝(Unavailable)。以上的四项赛事均可以通过先按下Cancel再点击比赛日程进行删除。
+(5)Finances&Info：点击后可以在View中查看GeneralInfo(一般情况，如主场地名称、观众席数量、俱乐部主席及教练组配置等)、Finances(财政收支的大概情况)、Income(包括门票、转播权及卖出球员等各方面的收入详情)、Expenditu 
+        re(包括球员工资、场地维护及购买球员等个方面的支出详情)。
+(6)Tactics：这里可以详细调整球队及球员的战术打法，具体如下。
+        　　通过Formation中的SetToDefault可以选择十六种基本阵型中的一种，通过Tea mInstructions可以调整球队的基本战术(还可以将战术保存起来以备后用或调用以前存档)：
+        Passing为传球，可以选择多打Short(短传)、Direct(直传)、Long(长传)或Mixe d(均衡)；Tackling为抢断，可以选择Easy(柔和)、Hard(凶猛)或Normal(适中)；
+        Pressing为压迫，可以选择是否采用压迫式打法；
+        OffsideTrap为造越位，可以选择是否造越位；
+        CounterAttack为反击，可以选择是否采用防守反击战术；
+        MenBehindBall为身后球，可以选择是否打对方身后；
+        FreeKicks(L)(左侧任意球)、FreeKicks(R)(右侧任意球)、Corners(L)(左侧角球)、Corners(R)(右侧角球)及Penalties(点球)均可以指定一球员主罚。 
         
-        ����ߵ���Ա�б���ͨ������Ҽ����ĳһ��Ա���Զ������ָ��(Ҳ����ͨ��ѡ��View�е����¸����������Ա�������ұ�һ���н��и���)��
-        Passing������ѡ����Short��Direct��Long��Mixed��Team(ע�����)��
-        Tackling������ѡ��Easy��Hard��Normal��Team��
-        Pressing������ѡ���Ƿ����ѹ��ʽ�򷨻�Team��
-        PassToΪ�����򣬿���ѡ����Ҫ����Left(���)��Right(�Ҳ�)��Centre(��· )��R/L/C(���߼��)��
-        SetPieces(A)Ϊǰ����λ�򣬿���ѡ��Back(���)��Forward(��ǰ)��Normal(ƽ��)��
-        SetPieces(D)Ϊ�󳡶�λ�򣬿���ѡ��Back��Forward��Normal��
-        FreeRole������ѡ��λ���Ƿ�̶���
-        ForwardRuns������ѡ���Ƿ�;��Ϯ��
-        RunWithBall������ѡ���Ƿ�����ܣ�
-        HoldUpBall������ѡ���Ƿ������
-        LongShots������ѡ���Ƿ�ʵʩԶ�䣻
-        Marking������ѡ��Zonal(�������)��None(��ʵʩ����)���Man��ѡ��Է����һ����Ϊ������Ŀ�ꡣ
-        ������Overview�п��Բ鿴��Ա�ڳ��ϵĻ���վλ����WithBall��WithoutBall�п��Բ鿴�Ҷӿ��������ֿ�����ʱ�Ҷ���Ա���򳡼��������е�վλ(������Ҽ������л�������)�����⼸��վλͼ������������ס��Ա���벢�ƶ������Ե����򽻻���Ա�ĳ���λ�ã���������Ҽ���ס��Ա���벢�ƶ������Ե�����Ա���ܶ����򡣽�����Ա�ĳ���λ��Ҳ��������������ס�����Ա�б��еĺ��벢�ƶ���굽��������������ɡ����LastMatch���Բ鿴��һ���������ҶӲ��õ�ս���Թ��ο������Edit���Զ����ϸ����޸Ľ���Undo(�ָ�)��Copy(���� 
-        )��Paste(ճ��)�ȡ�
-(7)Training�����������ϸ������ӵ�ѵ��������������¡�
-        ��������������ס��Ա�����������ƶ���NoTraining��General��Fitness��Shoot ing��Skill��Tactics��GK�Ͽ��Ը��ĸ���Ա��ѵ�����ݡ�������ϸ�����ٵ�� 
-        Edit���ɶ�ѵ����ϸ�ڽ��е���(����ϸ�ھ�һ��)��
-        Fitness������ѡ��Light(���ѵ��)��Medium(��ͨѵ��)��Intensive(��ǿѵ�� )��None(��������)��
-        Tactics������ѡ��Light��Medium��Intensive��None��
-        Shooting������ѡ��Light��Medium��Intensive��None��
-        Skills������ѡ��Light��Medium��Intensive��None��
-        Goalkeeping������ѡ��Light��Medium��Intensive��None��
-        NewPosition������ָ��(Specific)һ��λ���ɽ�������Ա����ѵ����
-        NewSide������ָ��һ�»�����ɽ�������Ա����ѵ����
-        �������Schedule���Խ�ѵ�����ű��������Ա����û������ǰ�浵�����Coaches����ָ��ĳһ�������Fitness��Tactics��Shooting��Skills��Goalkeeping�е�һ�����(Ҳ���Բ�ָ��)����ѵ�������Filter����ͨ�����еĸ���λ�ö���Ա����ɸѡ�����⣬������һ���������߻�Ϊ��ұ������������Դ����µ�ѵ�����ݵĿռ䣬������������Ҳ����Unused���ٵ��Edit��
-(8)LastMatch��������Բ鿴��һ���Ҷӱ�������ϸ������������¡�
-        MatchOverviewΪ�����ſ�����������˫���ĵ÷���Ա������ʱ��ȣ�
-        MatchStatsΪ����ͳ�ƣ���������˫����ShotsOnGoal(���Ŵ���)��OnTarge t(�������ŷ�Χ�ڵ����Ŵ���)��OffTarget(ƫ�����ŵ����Ŵ���)��Corners(�������)��FreeKicks(���������)��Throw-Ins(���������)��Fouls(������� 
-        )��Offsides(Խλ����)��PassesCompleted(����ɹ���)��TacklesWon(���ϳɹ���)��HeadersWon(�����ɹ���)��YellowCards(������)��RedCards(������ 
-        )��
-        ActionZonesΪ�������򣬰�������˫���ڸ��Ժ��м�ǰ���Ŀ����ʣ�
-        MatchReportΪ�������棺��������ϸ��д�˱����е���Ҫ�龰��
-        (�Է��������)Stats���Է���Ա�ļ���ͳ�ƣ�
-        PlayerRating������˫����Ա���ϱ��������ķ�����
-        MilanStats��Milan��Ա�ļ���ͳ�ơ�
-(9)1stA(��ʾ��������������������ͬ)�����������ϸ�鿴���(�������ѡ���������Ӧ)ս�����������¡�
-        TableΪ��������ͨ��View�е�Overall��HomeRecord��AwayRecord�ֱ���Բ鿴������������ӵ��������������ս���Ϳͳ�ս����
-        ResultsΪ������������Բ鿴�����������б����ıȷ֣�
-        FixturesΪ���̰��ţ����Բ鿴�������������ִεĶ��������
-        Schedule��Fixtures������ͬ��
-        TeamStatsΪ������ӵ�ս�������Դ�View��ѡ��ͬ�ǶȽ��й۲죻
-        PlayerStatsΪ��Ա������¼��Ҳ���Դ�View��ѡ��ͬ�ǶȽ��й۲죻
-        AwardsΪ�ý���������Բ鿴TeamoftheWeek(����������)��Manageroft heYear(�����Ѿ���)��PlayeroftheYear(��������Ա)��
-        ����HistoryΪ��ʷ���ϣ�����Winners(��������ʼ�����Ĺ��Ǿ��������)��Record s(������������һЩ���Գ�֮Ϊ��¼�Ķ�����������������Ա��)��Attendanc 
-        es(�����������е���������ߡ���͵ĳ��μ�ƽ����ߵĵص�)��Results(�����������бȷ������⼰�������ĳ���)��Sequences(��������������ʤ�����ܡ�������ʤ���������ܳ����������)��Teams(�����������л�����ߡ�������ࡢʧ����༰�������������)��Players(�����������н�����ࡢ����������ࡢ����������ࡢ������ߡ��õ�������Ѵ�������������ࡢ�����С��������Ա)��
-(10)History��������Բ鿴������ϸ����ʷ���ϣ�����ѡ����ղŵ��������������ֻ����������Competitions(�����˶��鴴��������õ����йھ�������ҽ�����������������ս��)��Transfers(����������ҽ�������ÿһ�����Ĺ������������Ա��������ۼ�������Ա�ܵĻ��Ѻ�����)��
-2��MilanReserves������Ա��Ϊ���ߵ��⣬����ܻ�����MilanSquad��ͬ��ֻ����ѡ����Ա�������Ϸ���Action�е�RelegateToReserves��Ϊ��Promote 
-        ToSeniors(������Ա��ε�һ�߶���)��
-3��ControlReserveTeam�����Կ��ƶ��߶����ѵ���ͱ�����ȷ�Ϻ󣬴����ΪControlSeniorTeamOnly(ֻ����һ�߶���)��
-4��BoardConfidence�����Բ鿴���ֲ��Ƿ����ҵľ�Ӫ������⡣
-5��ResignfromClub����ȥ������ְ�񣬴�ʱ�������Ϸ�б������ҵ��Ա��
-6��Mews����������Լ�ʱ�ز鿴����Ҿ�Ӫ�����������ش��¼����������������ˡ���Աת��ȵȡ����NextUnread���Բ鿴��һ��δ�������š�
-7��Player&StaffSearch��������Դ����Ա�ͽ���Ա��ת�����˲�ָ����̽������Ա��
-(1)ShortList�����Բ鿴�������Ϊ��ѡ��Ա������� (2)PlayerSearch�����Բ鿴��������ת����л�������ֲ���ͬ����������Ա��������Ա�������ͨ��View�е�General��Stats��Attributes��Other���Էֱ�鿴��Ա���ڹ��Ҽ���Ч������ӡ���Ա�ڱ����еı��֡���Ա��ָ������Ա���������������Filter�е�General���԰����¸������Ա��������ɸѡ��
-        Text������ѡ��Specified(����ؼ��ֲ���)��None��
-        NationalityΪ��Ա����������ѡ��Any(����)��Italy(����Ҿ�Ӫ�ľ��ֲ����ڵĹ��Ҷ�Ӧ)��Other(ָ�����Һ͵���)��
-        AgeΪ��Ա���䣬����ѡ��Any�����������е�һ����
-        LanguageΪ��Ա��ʹ���ԣ�����ѡ��Any��Italian(����Ҿ�Ӫ�ľ��ֲ����ڵĹ��Ҷ�Ӧ)��
-        BasedΪ��Ա���ڹ��ң�����ѡ��Any��Ita(����Ҿ�Ӫ�ľ��ֲ����ڵĹ��Ҷ�Ӧ )��Abroad(����)��Other(ָ�����Һ͵���)��
-        ValueΪ��Ա���ۣ�����ѡ��Any��˸���Χ�е�һ��(����������Ա)��
-        StatusΪ��Աת��������࣬����ѡ��Any��Listed(��ʽת��)��ForLoan(��� )��
-        ContractΪ��Ա��ǩ��ͬ�����������ѡ��Any��Expired(�ѵ��ڣ���������Ա) ��Expiring(δ����)��
-        PositionΪ��Ա����λ�ã�����ѡ��Any��GK��Def��Mid��Att��
-        SideΪ��Ա�ڳ��ϵĻ���򣬿���ѡ��Any��Left��Centre��Right��
-        InjuriesΪ��Ա�������������ѡ��Any��None��
-        Interested��;������
-        IncludeSquadΪ��ʾ�Ҷ���Ա���������ѡ��None��Yes(ȫ��)��Senior(ֻ��һ����Ա)��Reserve(ֻ�ж�����Ա)��
-        ���General�Ա�Attributes����ͨ��������Ա��ָ������ɸѡ��ѡ����Ա����Ϊ������Ա�������Ϸ���Action��ΪAddToShortlist(�����ѡ��Ա����)��Of 
-        ferTrial(��������)��ApproachToSign(׼��ǩԼ)�����ApproachToSign��Action��ΪRemoveFromShortlist(�Ӻ�ѡ��Ա������ɾ��)��WithdrawTran 
-        sferBid(��ֹǩԼ)������Ա�ĺ�ͬδ���ڣ������Ϸ���Action��ΪAddToSho rtlist��ApproachToBuy(׼�����򣬻�����ͨ��Exchangeѡ���Ҷӵ���ԱΪת��Է���Ա��Ѻһ����ת���)��ApproachToLoan(׼�����)�����Approach 
-        ToBuy��Action�������ChangeTransferBid(����ǩԼ����)һ�
-(3)StaffSearch������������PlayerSearch��ͬ��������Filter�п���ָ����Ҫ�����Ĺ�����Ա�Ĺ�������������������Ա����ҽ����̽����Ա�������
-(4)Scout#1-#7����������ͨ��Search�е�AssignScoutָ����̽��ĳһ���һ������������Filter(ѡ����PlayerSearch��ͬ)�е���������Ա�����źõ����񻹿��Դ洢����á� 
-        8��ManagerStats�����Բ鿴��Ұ��ݵľ���������ͬ���е����������������Ϸ��İ�ť���Դ���ѡ��ͬ���������������PeriodatCurrentClub(�Ѿ�Ӫʱ��)��OverallMatchRecord(������¼)��NumberofPlayersBought(������Ա������)��
-9��JobInformation�����ѡ����ǰ���ResignfromClub���Ӧ��������Բ鿴���ڼ������ϻ�û�о�������ӣ�ѡ����Щ��Ӻ������������۾�Ӫ���ˡ�
-10��Transfers�����Բ鿴ȫ����Աת�ᡢ��輰�¸ڵ������
-11��History�����Բ鿴�����Ϊ���ֲ���Ӫ�ߵ���ʷ��
-12��GoOnHoliday�����Խ���������Ķȼ٣�Ҫ����ʱ��Ҫ����������
-13��Retire�������˳���̳���˳�����AddManager��������ѡ����ֲ����о�Ӫ��
-����Competitions��������Բ鿴�����籭��С��������ͼ��������������µ���ϸ���ϣ���������ʱ�䡢�ص㡢����������ȷֵȵȡ�
-�ġ�Nations&Clubs��������Բ鿴����ǧ�Ƶ���ӵ���ϸ���ϣ��������������޵Ĺ��Ҷӡ���ʮһ�����¹��Ҷӡ�ȫ����Ҫ��������Ҫ���(��ϧû���ҹ����� 
-        )����Ҿ�Ӫ�ľ��ֲ����ڹ��ҵ�����ְҵ��ҵ������Լ�ȫ���һЩ��Ҫ��ӡ�
-�塢Find����������ؼ��ֲ����������Ҫ�Ĺ��Ҷӡ����ֲ�����Ա������Ա(����������������Ա����ҽ����̽��)��
-����GameOptions���������SaveGame(������Ϸ���ȵĴ洢)��AddManager(�����µľ���)��ManagerStatus(��ʾ��������ݵľ����ĸſ�)��GameSettings 
-        (������Ϸ�趨)��HallofFame(�鿴�������а�)��GameCredits��WebSites( �鿴������Ա���������վ��),��ȻRestartGame(���¿�ʼ��Ϸ)��ExitGame( 
-        �˳���Ϸ)Ҳ�Ǳز����ٵġ�����Ϊ��λ��ҽ���һЩGameSettings�е�һЩѡ�
-        CurrencyΪ��ͨ�������࣬����ѡ�������Ԫ��Ӣ�����ڵ�ʮ���ֻ��ң� WagesΪ���ʣ�����ѡ����weekly(��)��Monthly(��)��yearly(��)Ϊ��λ��ʾ��Ա�Ĺ��ʣ�
-        ScreenmodeΪ��ʾģʽ������ѡ��full(������ʾ)��windowed(������ʾ)��
-        BackgroundchangesΪ�������棬����ѡ��on(��)��off(��)��
-        SoundΪ��Ч������ѡ��on��off��
-        DatabaseΪ���ݿ⣬����ѡ��normal(����)��minimum(��С�����������Ϸ�ٶ� )��������Ҫ�ڿ�ʼ��Ϸʱ���ã�
-        MatchesstoredΪ��Ϊ���ϵı����ı�������������ѡ����ǧ��һ������򳡣�����Ҳ��Ҫ�ڿ�ʼ��Ϸʱ���ã�
-        AutosaveΪ�Զ��洢������ѡ��everyweek(ÿ��)��Everytwoweeks(ÿ����) ��Everymonth(ÿ��)��Everythreemonth(ÿ������)��Everysixmonth(ÿ������)��Everyyearÿ���never(�Ӳ�)��
-        SavecompressedΪѹ�������ļ�������ѡ��yes��no(��ѹ��Ϊ��ʮ���ף�ѹ��Ϊʮ���ף���������ʱ�䲻ͬ)��
-        FlashingtextΪ��ʾ��˸(��������ʱ�ڻ������·����ֵ�youhavenews)������ѡ��off��on��
-        BackgroundmatchΪ��ʾ�����������������ѡ��normal��Off��high(��ʾ��������)��
-        PrinttoΪ��ӡ���������ѡ�������Printer(��ӡ��)��File(��Ϊ�ı��ļ�)�� Both(���߼汸)��
+        在左边的球员列表中通过鼠标右键点击某一球员可以对其进行指导(也可以通过选定View中的以下各项后再在球员姓名的右边一栏中进行更改)：
+        Passing，可以选择多打Short、Direct、Long、Mixed或Team(注意配合)；
+        Tackling，可以选择Easy、Hard、Normal或Team；
+        Pressing，可以选择是否采用压迫式打法或Team；
+        PassTo为传球方向，可以选择主要传向Left(左侧)、Right(右侧)、Centre(中路 )或R/L/C(三者兼顾)；
+        SetPieces(A)为前场定位球，可以选择Back(向后)、Forward(向前)或Normal(平行)；
+        SetPieces(D)为后场定位球，可以选择Back、Forward或Normal；
+        FreeRole，可以选择位置是否固定；
+        ForwardRuns，可以选择是否长途奔袭；
+        RunWithBall，可以选择是否带球奔跑；
+        HoldUpBall，可以选择是否控制球；
+        LongShots，可以选择是否实施远射；
+        Marking，可以选择Zonal(区域防守)、None(不实施盯人)或从Man中选择对方球队一人作为盯防的目标。
+        　　在Overview中可以查看球员在场上的基本站位，在WithBall及WithoutBall中可以查看我队控制球或对手控制球时我队球员在球场几个区域中的站位(用鼠标右键可以切换球场区域)。在这几种站位图中用鼠标左键按住球员号码并移动鼠标可以调整或交换球员的场上位置，若用鼠标右键按住球员号码并移动鼠标可以调整球员的跑动方向。交换球员的场上位置也可以用鼠标左键按住左边球员列表中的号码并移动鼠标到其它号码上来完成。点击LastMatch可以查看上一场比赛中我队采用的战术以供参考。点击Edit可以对以上各种修改进行Undo(恢复)、Copy(复制 
+        )、Paste(粘贴)等。
+(7)Training：这里可以详细调整球队的训练情况，具体如下。
+        　　用鼠标左键按住球员姓名并将其移动到NoTraining、General、Fitness、Shoot ing、Skill、Tactics或GK上可以更改该球员的训练内容。点击以上各项后再点击 
+        Edit即可对训练的细节进行调整(各项细节均一样)：
+        Fitness：可以选择Light(轻度训练)、Medium(普通训练)、Intensive(加强训练 )或None(不练此项)；
+        Tactics：可以选择Light、Medium、Intensive或None；
+        Shooting：可以选择Light、Medium、Intensive或None；
+        Skills：可以选择Light、Medium、Intensive或None；
+        Goalkeeping：可以选择Light、Medium、Intensive或None；
+        NewPosition：可以指定(Specific)一新位置由教练对球员进行训练；
+        NewSide：可以指定一新活动区域由教练对球员进行训练；
+        　　点击Schedule可以将训练安排保存起来以备后用或调用以前存档。点击Coaches可以指定某一教练针对Fitness、Tactics、Shooting、Skills或Goalkeeping中的一项或几项(也可以不指定)进行训练。点击Filter可以通过其中的各种位置对球员进行筛选。另外，在下面一栏中制作者还为玩家保留了两个可以创建新的训练内容的空间，若想利用起来也需点击Unused后再点击Edit。
+(8)LastMatch：这里可以查看上一场我队比赛的详细情况，具体如下。
+        MatchOverview为比赛概况，包括比赛双方的得分球员及进球时间等；
+        MatchStats为技术统计，包括比赛双方的ShotsOnGoal(射门次数)、OnTarge t(处于球门范围内的射门次数)、OffTarget(偏离球门的射门次数)、Corners(角球次数)、FreeKicks(任意球次数)、Throw-Ins(界外球次数)、Fouls(犯规次数 
+        )、Offsides(越位次数)、PassesCompleted(传球成功率)、TacklesWon(抢断成功率)、HeadersWon(争顶成功率)、YellowCards(黄牌数)和RedCards(红牌数 
+        )；
+        ActionZones为控球区域，包括比赛双方在各自后、中及前场的控球率；
+        MatchReport为比赛报告：用文字详细描写了比赛中的重要情景；
+        (对方球队名称)Stats：对方队员的技术统计；
+        PlayerRating：根据双方球员场上表现所给的分数；
+        MilanStats：Milan队员的技术统计。
+(9)1stA(显示的序数词与队伍的排名相同)：这里可以详细查看意甲(与玩家所选择的联赛对应)战况，具体如下。
+        Table为排名表，通过View中的Overall、HomeRecord和AwayRecord分别可以查看联赛中所有球队的排名情况、主场战绩和客场战绩；
+        Results为比赛结果，可以查看本赛季中所有比赛的比分；
+        Fixtures为赛程安排，可以查看本赛季中所有轮次的对阵情况；
+        Schedule与Fixtures基本相同；
+        TeamStats为所有球队的战绩，可以从View中选择不同角度进行观察；
+        PlayerStats为球员参赛记录，也可以从View中选择不同角度进行观察；
+        Awards为得奖情况，可以查看TeamoftheWeek(本周最佳球队)、Manageroft heYear(年度最佳经理)和PlayeroftheYear(年度最佳球员)；
+        　　History为历史资料，包括Winners(自联赛开始以来的冠亚军争夺情况)、Record s(记载了联赛中一些可以称之为纪录的东西，如年龄最大的球员等)、Attendanc 
+        es(记载了联赛中的上座率最高、最低的场次及平均最高的地点)、Results(记载了联赛中比分最悬殊及进球最多的场次)、Sequences(记载了联赛中连胜、连败、连续不胜及连续不败场次最多的球队)、Teams(记载了联赛中积分最高、进球最多、失球最多及领红黄牌最多的球队)、Players(记载了联赛中进球最多、单场进球最多、助攻次数最多、评价最高、得到本轮最佳次数、领红黄牌最多、年纪最小及最大的球员)。
+(10)History：这里可以查看本队详细的历史资料，基本选项与刚才的联赛资料相近，只不过增加了Competitions(记载了队伍创建以来获得的所有冠军和自玩家接手以来所有赛季的战绩)及Transfers(记载了自玩家接手以来每一赛季的购买和卖出的球员的最高身价及买卖球员总的花费和所得)。
+2．MilanReserves：除球员均为二线的外，各项功能基本与MilanSquad相同，只不过选定球员后在右上方的Action中的RelegateToReserves变为了Promote 
+        ToSeniors(将此球员提拔到一线队伍)。
+3．ControlReserveTeam：可以控制二线队伍的训练和比赛。确认后，此项即变为ControlSeniorTeamOnly(只控制一线队伍)。
+4．BoardConfidence：可以查看俱乐部是否对玩家的经营情况满意。
+5．ResignfromClub：辞去经理的职务，此时玩家在游戏中便成了无业人员。
+6．Mews：在这里可以及时地查看自玩家经营以来发生的重大事件，包括比赛、受伤、球员转会等等。点击NextUnread可以查看下一条未读的新闻。
+7．Player&StaffSearch：这里可以达成球员和教练员的转会事宜并指派球探搜索球员。
+(1)ShortList：可以查看被玩家列为候选球员的情况； (2)PlayerSearch：可以查看所有列在转会表中或与其俱乐部合同期已满的球员及著名球员的情况，通过View中的General、Stats、Attributes和Other可以分别查看球员所在国家及所效力的球队、球员在比赛中的表现、球员的指数和球员的年龄等情况，点击Filter中的General可以按以下各项对球员名单进行筛选：
+        Text，可以选择Specified(输入关键字查找)或None；
+        Nationality为球员国籍，可以选择Any(任意)、Italy(与玩家经营的俱乐部所在的国家对应)或Other(指定国家和地区)；
+        Age为球员年龄，可以选择Any或五个年龄段中的一个；
+        Language为球员所使语言，可以选择Any或Italian(与玩家经营的俱乐部所在的国家对应)；
+        Based为球员所在国家，可以选择Any、Ita(与玩家经营的俱乐部所在的国家对应 )、Abroad(国外)或Other(指定国家和地区)；
+        Value为球员身价，可以选择Any或八个范围中的一个(包括自由球员)；
+        Status为球员转会情况分类，可以选择Any、Listed(正式转会)或ForLoan(租借 )；
+        Contract为球员所签合同的情况，可以选择Any、Expired(已到期，即自由球员) 或Expiring(未到期)；
+        Position为球员场上位置，可以选择Any、GK、Def、Mid或Att；
+        Side为球员在场上的活动区域，可以选择Any、Left、Centre或Right；
+        Injuries为球员受伤情况，可以选择Any或None；
+        Interested用途不明；
+        IncludeSquad为显示我队球员情况，可以选择None、Yes(全体)、Senior(只有一线球员)、Reserve(只有二线球员)。
+        点击General旁边Attributes可以通过更改球员的指数进行筛选。选定球员后，若为自由球员，则右上方的Action中为AddToShortlist(加入候选球员名单)、Of 
+        ferTrial(进行试用)和ApproachToSign(准备签约)，点击ApproachToSign后，Action中为RemoveFromShortlist(从候选球员名单中删除)和WithdrawTran 
+        sferBid(中止签约)；若球员的合同未到期，则右上方的Action中为AddToSho rtlist、ApproachToBuy(准备购买，还可以通过Exchange选择我队的球员为转会对方球员抵押一部分转会费)和ApproachToLoan(准备租借)，点击Approach 
+        ToBuy后，Action中则多了ChangeTransferBid(更改签约条件)一项。
+(3)StaffSearch：基本操作与PlayerSearch相同，不过在Filter中可以指定所要搜索的工作人员的工作，包括经理、教练员、队医、球探及队员兼教练。
+(4)Scout#1-#7：点击后可以通过Search中的AssignScout指派球探到某一国家或地区搜索符合Filter(选项与PlayerSearch相同)中的条件的球员。安排好的任务还可以存储或调用。 
+        8．ManagerStats：可以查看玩家扮演的经理在所有同行中的排名情况。点击左上方的按钮可以从中选择不同情况进行排名，如PeriodatCurrentClub(已经营时间)、OverallMatchRecord(比赛记录)、NumberofPlayersBought(购买球员的数量)。
+9．JobInformation：玩家选择了前面的ResignfromClub后就应点击这里以查看国内及国际上还没有经理的球队，选定这些球队后便可以与其讨论经营事宜。
+10．Transfers：可以查看全球球员转会、租借及下岗的情况。
+11．History：可以查看玩家作为俱乐部经营者的历史。
+12．GoOnHoliday：可以进行无意义的度假，要返回时需要按鼠标左键。
+13．Retire：彻底退出足坛，退出后点击AddManager即可重新选择俱乐部进行经营。
+三、Competitions：这里可以查看大到世界杯、小到本国最低级联赛的所有赛事的详细资料，包括比赛时间、地点、分组情况、比分等等。
+四、Nations&Clubs：这里可以查看数以千计的球队的详细资料，包括世界六大洲的国家队、二十一岁以下国家队、全球主要联赛的主要球队(可惜没有我国联赛 
+        )、玩家经营的俱乐部所在国家的所有职业和业余球队以及全球的一些次要球队。
+五、Find：可以输入关键字查找玩家所需要的国家队、俱乐部、球员及非球员(包括主教练、教练员、队医、球探等)。
+六、GameOptions：这里可以SaveGame(进行游戏进度的存储)、AddManager(加入新的经理)、ManagerStatus(显示玩家所扮演的经理的概况)、GameSettings 
+        (进行游戏设定)、HallofFame(查看经理排行榜)、GameCredits及WebSites( 查看制作人员名单及相关站点),当然RestartGame(重新开始游戏)及ExitGame( 
+        退出游戏)也是必不可少的。下面为诸位玩家介绍一些GameSettings中的一些选项：
+        Currency为流通货币种类，可以选择包括美元和英磅在内的十六种货币； Wages为工资，可以选择以weekly(周)、Monthly(月)或yearly(年)为单位显示球员的工资；
+        Screenmode为显示模式，可以选择full(满屏显示)或windowed(窗口显示)；
+        Backgroundchanges为背景更替，可以选择on(开)或off(关)；
+        Sound为音效，可以选择on或off；
+        Database为数据库，可以选择normal(正常)或minimum(最小，可以提高游戏速度 )，此项需要在开始游戏时设置；
+        Matchesstored为作为资料的比赛的保留数量，可以选择五千、一万或两万场，此项也需要在开始游戏时设置；
+        Autosave为自动存储，可以选择everyweek(每周)、Everytwoweeks(每两周) 、Everymonth(每月)、Everythreemonth(每三个月)、Everysixmonth(每六个月)、Everyyear每年或never(从不)；
+        Savecompressed为压缩存盘文件，可以选择yes或no(不压缩为五十余兆，压缩为十余兆，不过花费时间不同)；
+        Flashingtext为提示闪烁(如有新闻时在画面左下方出现的youhavenews)，可以选择off或on；
+        Backgroundmatch为显示背景比赛情况，可以选择normal、Off或high(显示大量比赛)；
+        Printto为打印输出，可以选择输出到Printer(打印机)、File(存为文本文件)或 Both(两者兼备)。
 
-���ʽ���
-        �����������Ϊ��λ��ҽ���һ�³�������Ա��profile�в���Ϊ������Աˮƽ�ߵ͵���ʮһ��ָ�꣺
-        Acc(Acceleration)����Ա�Ӿ�ֹ��ȫ���˶��ļ���������
-        Ada(Adaptability)����Ա�Գ��������������Ӧ������
-        Agg(Aggression)����Ա�Ľ�����ʶ��
-        Agi(Agility)����Ա�������ԣ�
-        Ant(Anticipation)����Ա����ǰ��·�ߵ�Ԥ��������
-        Bal(Balance)����Ա�ڼ���ƴ���е�ƽ��������
-        Bra(Bravery)����Ա�����Σ��ʱ��������
-        Cre(Creativity)����Ա�Ĵ���������ؼ��ԵĴ���
-        Cro(Crossing)����Ա���洫���������
-        Det(Determination)����Ա��ʤ�ľ��ģ�
-        Dri(Dribbling)����Ա������������
-        Fla(Flair)����Ա������֮��Ķ�����������
-        Han(Handling)����Ա(����Ա)���ֿ����������
-        Hea(Heading)����Ա��ͷ��������
-        Inf(Influence)����Ա��ȫ���е�Ӱ������
-        Jum(Jumping)����Ա����Ծ������
-        Mar(Marking)����Ա�Ķ���������
-        Off(OfftheBall)����ԱѰ�ҽϺù���λ�õ�������
-        Pac(Pace)����Ա��ȫ���ܵ��ٶȣ�
-        Pas(Passing)����Ա�����׼ȷ�ԣ�
-        Pos(Positioning)����ԱѰ�ҽϺ÷���λ�õ�������
-        Ref(Reflexes)����Ա(����Ա)�����������
-        Set(SetPieces)����Ա����λ���������
-        Sho(Shooting)����Ա���ŵ�������
-        Sta(Stamina)����Ա��������
-        Str(Strength)����Ա��������
-        Tac(Tackling)����Ա�������������
-        Tea(Teamwork)����Ա��ȫ����ϵ�������
-        Tec(Technique)����Ա�ļ���������
-        Ver(Versatility)����Ա���Լ�����Ϥ��λ�õ���Ӧ������
-        Wor(WorkRate)����Ա�Ա�����Ͷ��̶ȡ�
-����������Щָ����ԣ���ͬλ�õ���ԱӦ�в�ͬ��Ҫ���������������ԱӦ��Ba lance��Bravery��Handling��Positioning���нϸߵ���ֵ�������Ǻ��������ĺ���Ӧ��Anticipation��Bravery��Heading��Tackling��Teamwork��Strength 
-        ��Positioning���нϸߵ���ֵ��������Heading��Tackling������ķ������г�Ӧ��Bravery��Heading��Teamwork��Stamina��Strength��Tackling��Positioni 
-        ng���нϸߵ���ֵ��������Tackling��Positioning������Ľ������г�Ӧ��Acc eleration��Anticipation��Creativity��OfftheBall��Pace��Passing��Team 
-        work���нϸߵ���ֵ��������Passing�������ǰ��Ӧ��Acceleration��Anticip ation��Heading��OfftheBall��Pace��Shooting���нϸߵ���ֵ��������Shoo 
-        ting������Ϊһ��֮������Ӧ��Influence��Teamwork���нϸߵ���ֵ��������ȻҲ����̫С��
+名词解释
+        　　下面笔者为诸位玩家解释一下出现在球员的profile中并作为衡量球员水平高低的三十一项指标：
+        Acc(Acceleration)，球员从静止到全速运动的加速能力；
+        Ada(Adaptability)，球员对出国生活及比赛的适应能力；
+        Agg(Aggression)，球员的进攻意识；
+        Agi(Agility)，球员的灵敏性；
+        Ant(Anticipation)，球员对球前进路线的预见能力；
+        Bal(Balance)，球员在激烈拼抢中的平衡能力；
+        Bra(Bravery)，球员在面对危险时的勇气；
+        Cre(Creativity)，球员的创造力，如关键性的传球；
+        Cro(Crossing)，球员交叉传球的能力；
+        Det(Determination)，球员获胜的决心；
+        Dri(Dribbling)，球员的盘球能力；
+        Fla(Flair)，球员做意料之外的动作的能力；
+        Han(Handling)，球员(守门员)用手控球的能力；
+        Hea(Heading)，球员的头球能力；
+        Inf(Influence)，球员在全队中的影响力；
+        Jum(Jumping)，球员的跳跃能力；
+        Mar(Marking)，球员的盯人能力；
+        Off(OfftheBall)，球员寻找较好攻击位置的能力；
+        Pac(Pace)，球员的全速跑的速度；
+        Pas(Passing)，球员传球的准确性；
+        Pos(Positioning)，球员寻找较好防守位置的能力；
+        Ref(Reflexes)，球员(守门员)救球的能力；
+        Set(SetPieces)，球员罚定位球的能力；
+        Sho(Shooting)，球员射门的能力；
+        Sta(Stamina)，球员的体力；
+        Str(Strength)，球员的力量；
+        Tac(Tackling)，球员抢断球的能力；
+        Tea(Teamwork)，球员与全队配合的能力；
+        Tec(Technique)，球员的技术能力；
+        Ver(Versatility)，球员对自己不熟悉的位置的适应能力；
+        Wor(WorkRate)，球员对比赛的投入程度。
+　　对于这些指标而言，不同位置的球员应有不同的要求。其中优秀的守门员应在Ba lance、Bravery、Handling及Positioning上有较高的数值，尤其是后两项；优秀的后卫应在Anticipation、Bravery、Heading、Tackling、Teamwork、Strength 
+        及Positioning上有较高的数值，尤其是Heading和Tackling；优秀的防守型中场应在Bravery、Heading、Teamwork、Stamina、Strength、Tackling及Positioni 
+        ng上有较高的数值，尤其是Tackling和Positioning；优秀的进攻型中场应在Acc eleration、Anticipation、Creativity、OfftheBall、Pace、Passing及Team 
+        work上有较高的数值，尤其是Passing；优秀的前锋应在Acceleration、Anticip ation、Heading、OfftheBall、Pace及Shooting上有较高的数值，尤其是Shoo 
+        ting；而作为一队之长，则应在Influence及Teamwork上有较高的数值，年龄自然也不能太小。
 
         ----(2) 
-CM3��ȫ�ֲ�
-        ����ע������ר�׸���Щ����"������"�ǣ�
-����������������Ͽ����������ѷ�ӳ��CM3�����ĸ����ѡ���ȷ�����ڸտ�ʼ�Ӵ�ʱҲ��ȫӢ�Ĳ��Ҳ����Ǻ�"�Ѻ�"����Ϸ����е���Щ��"��"������ڵ�"�о�"��һ���£�����ץ����һЩ���磬���ǸϽ��ó����ģ�ϣ���ܶԣãͣ�����������������
-��һ������ƪ
-�����ڿ�ʼ����֮ǰ����Ҫ�Ƚ�һ��CM3����Ϸ�������⣬�Ǿ���--�������ò�˵��������Ϸ��������İܱʡ�����Ϸ�ж�ȡ����ʱ����ֱ���������޷����ܣ��ҵĻ�����P200MMX+64M������CM3���Ե÷ǳ�����������Ҫ���ǿ���Ӳ����գ�ۣ�����Ϊ�������ˡ�����������CM3ʱ����ͷ��Ҫ׼��һ���飬��Ȼ�ɵ�����Ļ������䶷�����ˣ�������Ц��һ�㶼�����ţ��������⣬��Ϸ�Ĵ浵�ļ�̫�� 
-        "��"����ʮ�ף������ݽ����Ĺ����У�������������������ļ������ʱ���200MB��������һ�㶼Ҫ������SAFECLEAN�ȴ�������������ɨ������ȻӲ�̷Ǹ��������ɡ����Է�Ȱ��λ�������Ļ����ڴ���32M���¡�Ӳ�̿ռ���ţ���ô���ö���԰���һ�����"CM3���ͣ����𿿽���"
-������Ϸ�����ῴ��ѡ�����������������ѡ�
-STARTNEWGAMES����������Ϸ����������ʽ��ʼ���Ľ�������ʱ�������һ������ϻ���ֶ�ȡ���ݵĽ����������ĵ㣬�����Ὺʼ��һ��"�ȴ�"��ʹ�ྭ������Լ5���ӣ�����������׼������������������ʹ����Ϊ������"���"�����𰴶�RESET���������ȴ�������
-QUICKSTARTGAME�������������ļ������ѿ����������������ֻ��ѡ��һ������������Ϸ�����Բ����Ƽ���
-RESTORESAVEDGAME��������Ϸ��������Ǻܱ�Ť��˵"LOADGAME"���ͽ�����
-NETWORKPLAY�������ս����û�и������������ô��ս��û���������CM3��һ�����㣬����������������ͬ����ս��CM3�ĵ绰�߼����������˶Կ��������⣬��ͬ�º�������������ս��ɭ�ǣ�����ֵ��һ�ԡ�
+CM3完全手册
+        　　注：本文专献给那些疯狂的"足球经理"们！
+　　　　最近在网上看到许多玩友反映对CM3上手颇感困难。的确，我在刚开始接触时也对全英文并且并不是很"友好"的游戏界面感到有些发"怵"。昏天黑地"研究"了一个月，总算抓着了一些脉络，于是赶紧敲出本文，希望能对ＣＭ３玩友们有所帮助。
+（一）入门篇
+　　在开始介绍之前，我要先讲一下CM3的游戏节奏问题，那就是--慢！不得不说，这是游戏设计上最大的败笔。在游戏中读取数据时，简直慢得让人无法忍受，我的机器是P200MMX+64M，跑起CM3来显得非常吃力，往往要不是看到硬盘在眨眼，还以为是死机了。所以现在玩CM3时，手头总要准备一本书，不然干瞪着屏幕，都快变斗鸡眼了（不开玩笑，一点都不夸张！）。另外，游戏的存档文件太大， 
+        "重"达数十兆，在数据交换的过程中，还会产生大量的垃圾文件，多的时侯竟有200MB，所以我一般都要定期用SAFECLEAN等磁盘清理软件大扫除，不然硬盘非给塞满不可。所以奉劝各位，如您的机器内存在32M以下、硬盘空间紧张，那么引用动物园里的一个警语："CM3凶猛，请勿靠近！"
+进入游戏后，您会看到选择界面上有这样几个选项：
+STARTNEWGAMES：启动新游戏。当您想正式开始您的教练生涯时，请点这一项，画面上会出现读取数据的进度条，耐心点，您将会开始第一次"等待"的痛苦经历，大约5分钟，请做好心理准备（下文如再有慢得使您认为是死机"情节"，请勿按动RESET键，继续等待！）。
+QUICKSTARTGAME：快速启动。心急的朋友可以试试这个，但您只能选择到一个联赛进行游戏，所以不予推荐。
+RESTORESAVEDGAME：看来游戏设计者真是很别扭，说"LOADGAME"不就结了吗？
+NETWORKPLAY：网络对战。有没有搞错，足球经理怎么对战？没错，这就是CM3的一大卖点，比起其他足球经理的同机对战。CM3的电话线及局域网多人对抗更有新意，和同事好友来个曼联大战阿森那，绝对值得一试。
 
-HALLSOFFAME�������á�������ĳɼ��ã��ͻᱻѡ�������ã��鿴һ�£��������ڵڼ�����������Ͽ���EIDOS���ῪͨCM3���϶�ս����ѷ�������ֻҪ�������õĴ浵�ʼĸ����ǣ����ܽ���ȫ���CM3������а���˵���д��أ�
-GAMECREDITS������Ⱥ������Ҳ�գ���ֵ��ע����ǣ�һ�������й�������Ҳ�μ�����Ϸ�Ĳ��Թ�������Ҳ��������Ϸ��̳�����Ӵ��������ź�����EIDOS��û��ʹ�����ṩ���й���Ա���ϣ������й����г���������ŷ����Ķ�Ա�⣬����Ķ�������
-WEBSITE���й�CM3��һЩ��վ������ȫ��Ӣ�ĵģ���Ҫ������Ȥ����ȥ��һ�ƣ������в��ٺö�����
-��������ѡ��"��ʼ����Ϸ"��֮�����ѡ���������֡����롢��������ӣ�Ҫע�������������Ӣ�������ѡ�����ΪӢ����ң���������FIRSTLANGUAGE��Ӣ����ڽ���������Ҫѡ������������Ҳ��ͬ��ע������Խ������⡣���⣬ѡ�����ҲҪ��ע�⿴�����������Ա�������Լ�����״����������Ժ�ķ�չ����Ҫ�����磬��Ʊ������һ�����ֲ���������Ҫ���룬һ��4���˵���������Ҫ��2���˵Ķ�׬�������ӡ�ѡ��֮�󰴻������Ͻǵ�"TAKECONTROL"���Ϳ��Խ����������ˡ�
-������ô������������Ѿ������˰ɣ���ô��һ�ξ��ϵ������һ�����ǽ���������CM3�����������������硣
-(��)��ɫƪ
-����ʲô��MANAGER�أ���ʵ������������"����"����˼����ŷ����ְҵ������ֲ��У��Ծ��ֲ��������й������˽�CHAIRMAN��������ϯ�����Ծ��ֲ���Ͷ���ߣ�Ҳ���Ƕ��»Ḻ�����������ž��ֲ��Ĳ��������´�Ȩ���������ǱȽ���Ϥ��ˮ�����ĸߵò��񣻶�MANAGER�Ҳ�������ǳ��������"������"���Ǿ��ֲ���һ������ճ�����Ĺ����ߣ�Ҳ�����������Ϸ�����ǣ������ݵľ����������ܲ��ܺ������ĸ���ɭ�������Ϳ�������Ϸ�еı����ˣ������£�������������Ӣ����ASSISTANTMANAGER������COACH������ʦ(��ҽ)PHYSIOLOGIST����̽ 
-        SCOUT�����ܻ��ж�Ա�����PLAYER/COACH����Щ�ֹ���ͬ������ͬ��������������Ľ����飬ѡ��ý�����������ӵ�ѵ���ͱ����Ǽ���ؼ��ģ����ԣ��Ƚ���һ�½���������ֵ��
-        adaptablity����Ӧ�ԡ���ָ�Ծ��ֲ���������Ӧ������
-        coachinggoalkeepers��ѵ������Ա��������������������������ϸߵĽ�����
-        coachingoutfieldedplayersѵ��������Ա���������������ɰ�����Ա������˲��лָ���
-        determination�������ġ���������û���ģ�����ѵ��������Ա�أ�
-        judgingplayerability���Զ�Ա�������жϡ����ʩ�����̽������Ҫ�����ж�����
-        judgingplayerpotential���ж���Ա��Ǳ�ʡ����������Ǻ���Ҫ�� 
-        levelofdispline�������������Ѷ�Ա��ѵ�����ؼ��ɵĺ�սʿ��
-        manmanagement�����¹���������Э�������˼ʹ�ϵ��
-        motivating�����������������˸��������Լ���ȫ�ӵ�ʿ����
-        physiotherapy��������������ҽ�ر���
-        tacticalknowledge��ս����������ѵ��Ӱ����������ָ��������ֱ�ӹ�ϵ������ѵ����
-        workingwithyoungster��ѵ��������Ա���������������������˽϶࣬�Ǿ�Ҫע�������������
-        coachingstyle���������perferredformation���ó������͡�perferreds tyle���ó���ս����other��������ע�⣡���ڵĽ������⼸������һ��Ҫ����һ�£�Ϊʲô���ö�˵�˰ɣ�
-˵���˽���������˵˵��Ա��������
-        Acceleration:���٣�
-        Adaptability:��Ӧ�������ֵ���ߣ����任ս��ʱ��Ա���ǻ᲻��Ӧ���ϣ�
-        Aggression:��ȡ�ġ����޽�ȡ������Ա��ѵ���ͱ����еı��ֿ��ǲ�һ���ģ�
-        ����ȡ�Ĺ����Ȼ���������ˣ�
-        Agility:����ԡ���Ҫָ�����ͷ�Ե������������ǰ����Ա�Ƚ���Ҫ��
-        Anticiplation:�ж������������˳Ϣ��䣬�ϸߵ�Ԥ�����ܰ�����Ա���õر�����
-        Balance:ƽ���ԡ������ֵ�ϸߣ�˵����Ա��Э�������ã����ԽϺõİ��ջ��ᣬ���ҿ��Լ��ٲ���Ҫ�����ˣ� 
-        Bravery:���͡�������������ʤ�������˵Ļ����ܸߣ�
-        Creatively:�����������ϼ��������ļ��˷���Ҫ��������������
-        Crossing:���С����߶�Ա�ر���
-        Determirination:���ġ��侲�ر�����������Ա��һ��֮������������ʣ�
-        Dribbing:�̴������߶�Ա��ǰ��������ֵ����Ҫ�ߣ�
-        Flair:���ߡ��ϵ���ͷ����ɲ��Ǻ��£�Ҫʱ��ע����Χ�������
-        Handling:���������Ž�����Ҫ����ֵ������Ҳ��ʾ������Ա���������������Ա�����ֻ���ǰ��ͣ��ס��ɾ��鷳�ˣ�
-        Heading:ͷ��ǰ�桢�к�������Ҫ������
-        Influence:Ӱ�������ӳ���Ҫ��,���Լ�������.
-        Jumping:����������ʱ�Ϳ�������ֵ�ˣ�
-        Marking:���ˡ������ͷ�����ǰ����������ǿ�����Կ����Է��Ľ�����
-        OffTheBall:������λ���й���Ա�������
-        Pace:�ٶȡ�����˵�ˣ����������������
-        Passing:����
-        Positioning:λ�øС�����ʱ�ɱ��򲻿��ˣ�
-        Reflexs:��Ӧ������
-        SetPieces:��λ�����������������򡢽���͵���
-        Shooting:����������
-        Stamina:����ֵ���ܷ񾭵��������ı����Ϳ���������ˣ�
-        Strength:ǿ׳�ȡ�����Կ��ı�Ǯ��ǿ׳����Ȼ�Ͳ��������ˣ�
-        Tackling:����������
-        Teamwork���Ŷ���������������Ǽ����˶����ӳ���Ҫ����Э��ȫ�ӵ��ж���
-        Technique:������ָ���Ƕ�Ա�Ļ�������
-        Versability:�ò��Ƴ�����λ�ã����ϵĶ����ֿ��ǿ���������ģ�
-        Workingrate:�ڷܡ���ѵ����Ӱ��Ƚϴ�
-        PreferredFoot:���ýš�either��Ȼ����õ��ˣ�
-        morale:ʿ����ֱ��Ӱ����ӵ�ս������
-        Condition:״�����������塢�����ȷ�����ۺ�״����һ��80���¾ͱ����ϳ��ˣ�
-        Form:���֡�ǰ������еĵ÷��������ӳ����Ա�����״̬��
-        ������Щ���ӵ���ֵ֮��������ǧ˿���Ƶ���ϵ�ģ����һ���Ӱ�죬��ϸ�������Ҳ������ȫ˵������⻹Ҫ������λ�Լ�ȥ��������
-        ����Ϸ�е�PLAYERANDSTAFFSEARCH�У�����Կ��趨������������ѡ������Ķ�Ա�ͽ��������ź������ݲ���Ͷ�������
-(��)ת��ƪ
-����ת����ְҵ����ı�־֮һ��Ҳ��CM3�е���ͷϷ���������������������Ϸ�����Դ˲���İ���ˡ�������ͬ����Ϸ��ͬ��CM3�е�ת�ᾭ���Ǿ��ֲ������ģ�������һ����������ƣ�һ������һ������2000���������ȥ�ɹ����ǣ�����ˮ�������������ֻ�в���100�򣬶��ٵ�һ���С���ֲ�����һ��Ǯ��������㡣��������ֲ��Ĳ���״��ֱ����صġ�
-��������˵˵��Ա�ĺ�ͬ��һ����˵������Ҫ����Ա����λ����ϣ��֮�ǻ�����ӵĶ�������Ȼ�󰴱�׼�����ʣ�ע�⣡��Ҫ���Ҷ�λ������һ����Ա�Դ��������⣬ʿ�����½��ú����������һ�Ҫ��ת�ᣬ����������������Լ����ͬ����ǰ3���£���Ա��������������ݲ�˹����������������ת�ᣬ��ʱ����������ǩ�˺�ͬ�ɾͿ����ˡ���ͬ������ÿ������ĩ��������һ����������Ա���֣�����Գ�������ᣬǩ�¼����õ��ϵ���Ա���ɲ��û�һ��Ǯ�ϣ�Ҫ˵�����ǣ����ֲ���������Ա���ʵ����޺�ÿ��ľ���һ�������Ǻ;��ֲ��Ĳ���״���йصģ����ֲ����������úã��������޾͸ߣ���֮����ή�͡�
-�����ܶ����Ѷ���ӦCM3������Ա�����ѣ���ȷ����ʱ��Ա�����˺ܳ�ʱ�䶼�����ʽ�����"���ή��"Ҳ�������á��Դˣ��Һͺܶ�����Ҳ�����������������Ҳû�кܺõİ취����ֻ��˵˵���˵ľ��顣һ����������ǣ������Ա��"֪���� 
-        "�����⣬һ����Ա��������ȶ���ÿ�������ĵ÷ֱȽϸߣ���ô���ܱ��۳��Ŀ����Ծ���Դ�һЩ���������Ա���ǹ��ţ���Ҳ������������ת�ᡣ���������ֶ�Ա���������е������������Ķ�Ա����������û���ƾͻ��������򣬶��Ҿ����Ǽ��Ҵ���������ս�����������������油��Ա��ʹ���۹���Ҳ�������˹��ʣ�������֮�����ȡ��͵����Լ��������ˡ���Ȼ���������˻������ٴ�������Ա���������ǣ���Ҳ��׬Ǯ�ĺ÷��ӣ���̫�����ˣ�ѧѧ���ֿ�˹��
-����������������ĸ���Ա����������Ա����ת�����롣���ȣ�Ҫ����������Ա���ڵĺ�ͬ״���������潲���ĺ�ͬ�����ڵ�"��˹��"��Ա����Ϊ����ģ�������������Ա��������Ѱ����Աѡ�����趨��ͬEXPRING����ɫ��Ҳ������̽ȥѰ�ң���Σ�ѡ����Щ�����ھ��ֲ�����LISTED����ԱҲ�ǱȽϻ���ģ���Ҫ��û�й��Ƴ��۵���Ա�����͵�׼����һ���ת���ʽ��������ͬһ������������еĶ�Ա�����͵�Ҫ"���Ѫ"�ˣ����������������Ҫ��������Ա���۸߳����������ӣ����п��ܰ����㶨����Ȼ����Ҫ���ֳִ�ѳ�Ʊ������һ�Ӿ���һǧ�������ҾͲ���ϻ��ˣ���Ҫ�������е����������޵ģ���ô��Ҫע��ת�����ּۻ��۵ļ����ˡ�һ����˵���м�ʱ��Ҫ̫�ߣ�����ǹ�����Ա���״νмۿ��Ե��ڶԷ��Ĺ��Ƽۣ�����δ���Ƶģ��Ͱ�ԭ���۽��򡣶Է���ܿ췢����Ӧ������������Ҫ������߼۸���ʱ�����ʵ���ۣ���˶����������Ҫ�ӷ���ֱ��ĥ�öԷ���ӦΪֹ���Է�����"����"֮����Ա��Ҫ������ǩ����ͬ��ע�������λ�����ʺͽ������޸ģ���Ӧ��ԱҪ�������Ϳ����ˣ�����������ǩ��Լ���ɰѺ�ͬ���������������Ҫ�ʵ����ӹ��ʺͽ��� 
-        ��������ʱ��������������������㶨���ֲ����棬����Աȴ������ǩԼ����ת���ƣ�����Ϊʲô�أ������ɺܶ����ؾ����ġ����磬�����ֲ��Ƿ�"����"��һ�������ϸߵ���Ա������ת������ᣬҪ�������Ǵ�һ���������ת���׼�������ǲ���ɹ��ģ��������⣬�������Ĺ��ʡ�����̫�ͣ���ԱҲ����ǩ��ͬ����Ա��ϲ��Ŀǰ��״����������һֱ���ŷ�Ĵ��������ڵ����������ɲ����ҿ���ߵĹ��ʺͽ�����������ǲ�������������ϵ���Щ�����Ȱ���ͱ��ٰ׷Ѿ��ˡ�
-������������ر�Ҫָ����һ�������Ԯ�����⣬������Ӣ��������������Ӣ�������ո�����������֪��Ӣ������������Ƿǳ��ϸ�ģ���ŷ�˳�Ա������ֻ����ȡ����Ӣ���͹����Ĺ�������֤֮�󣬲�����Ӣ����������Ȼ��Ҳ������ӢЧ���ķ�ŷ�������˶�Ա��������־�����̺���Ӣʱ�����Ƕ������ƶ����˳������˽⣬����������Ӣ���������������ר�̷��ع��ڵȴ�����֤�ġ����ԣ���Ҫ����Ӣ���ĸ�������"��ְ"���ֿ����˷�ŷ�˵���Ԯ��Ҫ���õ�����֤������Ҫע�����¼����ˣ���һ����Ա��ˮƽҪ�ߣ���������Ǹ����Ĺ��ţ���������ϵ���Ա��U-21���ҶӶ�û�������������ǳ�����������ɣ��ڶ�������֤����ʱ�����Ƶģ�������ʱ���͹�����������˶�Ա�����������"��Ӣ�Ĺ�������"�����Ƿ������ǩ����֤��Ҫ��������Щ��Ԯ���ֲ��ã�������֤�ֿ쵽�ڣ��ǸϽ����Ƴ��۰ɣ������������Ա��������������֤���ں���Զ���ǩ�����Ͳ��ò����ˡ�
+HALLSOFFAME：名人堂。如果您的成绩好，就会被选入名人堂，查看一下，你现在在第几？最近在网上看到EIDOS将会开通CM3网上对战的免费服务器，只要将名人堂的存档邮寄给他们，就能进入全球的CM3玩家排行榜，听说还有大奖呢！
+GAMECREDITS：制作群。不看也罢，但值得注意的是，一名来自中国的网友也参加了游戏的测试工作，我也在网上游戏论坛和他接触过，但遗憾的是EIDOS并没有使用他提供的中国球员资料，所以中国队中除了四名在欧踢球的队员外，其余的都。。。
+WEBSITE：有关CM3的一些网站，几乎全是英文的，您要是有兴趣可以去瞧一瞧，那里有不少好东东。
+　　建议选择"开始新游戏"，之后会有选择您的名字、密码、国籍和球队，要注意的是您如果想打英超，最好选择国籍为英语国家，这样您的FIRSTLANGUAGE是英语，便于教练工作，要选择其他联赛，也是同样注意好语言交流问题。另外，选择球队也要有注意看好这个球会的球员、教练以及财政状况，真对您以后的发展很重要，例如，门票收入是一个俱乐部财政的重要收入，一个4万人的体育场就要比2万人的多赚许多银子。选好之后按画面右上角的"TAKECONTROL"，就可以进入新赛季了。
+　　怎么样，讲到这里，已经上手了吧？那么第一课就上到这里，下一课我们将继续深入CM3，进入足球经理的世界。
+(二)角色篇
+　　什么是MANAGER呢？其实并不是字面上"经理"的意思。在欧美的职业足球俱乐部中，对俱乐部运作进行管理的人叫CHAIRMAN，就是主席，他对俱乐部的投资者，也就是董事会负责，手中掌握着俱乐部的财政、人事大权，例如我们比较熟悉的水晶宫的高得伯格；而MANAGER嘛，也就是我们常常翻译的"主教练"，是俱乐部的一线球队日常事物的管理者，也是我们这款游戏的主角，您扮演的就是这个人物，能不能和曼联的福格森齐名，就看您在游戏中的表现了！再往下，是助理教练，英文是ASSISTANTMANAGER，教练COACH，理疗师(队医)PHYSIOLOGIST，球探 
+        SCOUT，可能还有队员兼教练PLAYER/COACH。这些分工不同各不相同的人们组成了您的教练组，选择好教练，对您球队的训练和比赛是极其关键的，所以，先介绍一下教练的能力值：
+        adaptablity：适应性。是指对俱乐部环境的适应能力；
+        coachinggoalkeepers：训练守门员能力。中最好有两名此项能力较高的教练；
+        coachingoutfieldedplayers训练受伤球员的能力。此能力可帮助队员尽快从伤病中恢复。
+        determination：自信心。连教练都没信心，那他训练出来的员呢？
+        judgingplayerability：对队员能力的判断。因材施教嘛，球探更是需要此项判断力；
+        judgingplayerpotential：判断球员的潜质。这对造就新星很重要； 
+        levelofdispline：管理能力。把队员都训练成守纪律的好战士；
+        manmanagement：人事管理能力。协调队内人际关系；
+        motivating：号召力。教练的人格魅力可以激发全队的士气；
+        physiotherapy：治疗能力。队医必备。
+        tacticalknowledge：战术素养。对训练影响最大的能力指数！！！直接关系到各项训练；
+        workingwithyoungster：训练年青球员的能力。如您队中年青人较多，那就要注意这个能力啦；
+        coachingstyle：教练风格、perferredformation：擅长的阵型、perferreds tyle：擅长的战术、other：其他。注意！队内的教练们这几项能力一定要保持一致，为什么不用多说了吧？
+说完了教练，再来说说队员的能力：
+        Acceleration:加速；
+        Adaptability:适应力。这个值不高，您变换战法时球员可是会不适应的呦；
+        Aggression:进取心。有无进取精神，球员在训练和比赛中的表现可是不一样的，
+        但进取心过于迫会较容易受伤；
+        Agility:灵活性。主要指身体和头脑的灵活与否，这对中前场队员比较重要；
+        Anticiplation:判断力。球场上情况顺息万变，较高的预见力能帮助球员更好地比赛；
+        Balance:平衡性。这个数值较高，说明队员的协调能力好，可以较好的把握机会，并且可以减少不必要的受伤； 
+        Bravery:勇猛。两军相遇勇者胜，但受伤的机会会很高；
+        Creatively:创造力。场上技惊四座的即兴发挥要依靠此项能力；
+        Crossing:传中。边线队员必备；
+        Determirination:信心。冷静地比赛，射点球队员和一队之长所必需的素质；
+        Dribbing:盘带。边线队员和前锋这项数值必需要高；
+        Flair:视线。老低着头踢球可不是好事，要时刻注意周围的情况；
+        Handling:接球。评价门将最重要的数值，另外也表示其他队员接球的能力。守门员老脱手或是前锋停不住球可就麻烦了；
+        Heading:头球。前锋、中后卫的重要能力；
+        Influence:影响力。队长必要有,可以激励军心.
+        Jumping:弹跳。争顶时就看者项数值了；
+        Marking:盯人。后卫和防守型前卫盯人能力强，可以看死对方的进攻；
+        OffTheBall:无球跑位。中国球员的最弱项；
+        Pace:速度。不用说了，这是足球的生命；
+        Passing:传球。
+        Positioning:位置感。防守时可别看球不看人；
+        Reflexs:反应能力。
+        SetPieces:定位球能力。包括任意球、角球和点球；
+        Shooting:射门能力。
+        Stamina:耐力值。能否经得起连续的比赛就看这个能力了；
+        Strength:强壮度。身体对抗的本钱，强壮点自然就不易受伤了；
+        Tackling:抢断能力。
+        Teamwork：团队配合能力。足球是集体运动，队长更要善于协调全队的行动；
+        Technique:技术。指的是队员的基本功；
+        Versability:擅不善长其他位置；场上的多面手可是可遇不可求的；
+        Workingrate:勤奋。对训练的影响比较大；
+        PreferredFoot:惯用脚。either当然是最好的了；
+        morale:士气。直接影响球队的战斗力；
+        Condition:状况。包括身体、心理等方面的综合状况，一般80以下就别派上场了；
+        Form:表现。前面比赛中的得分情况，反映了球员最近的状态。
+        　　这些复杂的数值之间是有着千丝万缕的联系的，并且互相影响，详细的情况我也不能完全说清楚，这还要留给各位自己去钻研啦！
+        在游戏中的PLAYERANDSTAFFSEARCH中，你可以靠设定各项限制来挑选您终意的队员和教练，安排好了阵容才能投入比赛。
+(三)转会篇
+　　转会是职业足球的标志之一，也是CM3中的重头戏，相信玩过许多足球经理游戏的您对此并不陌生了。与其他同类游戏不同，CM3中的转会经费是俱乐部供给的，并且有一定数额的限制，一般大球会一年能有2000万镑的银子去采购球星，而象水晶宫这样的球会只有不到100万，而再低一层的小俱乐部可能一分钱都不会给你。这是与俱乐部的财政状况直接相关的。
+　　再来说说球员的合同，一般来说，你先要给球员定好位，是希望之星还是球队的顶梁柱，然后按标准发工资，注意！不要胡乱定位，这样一旦球员对待遇不满意，士气会下降得很厉害，并且会要求转会，这样很难再与其续约。合同期满前3个月，球员便成自由身，根据博斯曼法案，将可自由转会，这时被别的球队抢签了合同可就亏大了。但同样，在每个赛季末，都会有一批这样的球员出现，你可以趁这个机会，签下几个用得上的球员，可不用花一分钱呦！要说明的是，俱乐部允许的球员工资的上限和每年的经费一样，都是和俱乐部的财政状况有关的，俱乐部财政运作得好，工资上限就高，反之，则会降低。
+　　很多玩友都反应CM3中卖球员很困难，的确，有时球员挂牌了很长时间都无人问津，甚至"挥泪降价"也不起作用。对此，我和很多玩友也交换过意见，但至今也没有很好的办法，我只能说说个人的经验。一般来讲，这牵扯到队员的"知名度 
+        "的问题，一个球员如果发挥稳定，每场比赛的得分比较高，那么他能被售出的可能性就相对大一些，如果该球员又是国脚，这也将有助于他的转会。但往往这种队员正是您队中的主将，这样的队员经常是您还没挂牌就会有人来买，而且经常是几家大球会的争夺战，而你最想卖掉的替补球员即使降价挂牌也很少有人过问，所以这之中如何取舍就得您自己拿主意了。当然主力卖掉了还可以再从年青球员中培养新星，这也是赚钱的好法子，别太吝啬了，学学阿贾克斯。
+　　您如果看上了哪个球员，则可向该球员发出转会邀请。首先，要搞清楚这个队员现在的合同状况，象上面讲过的合同将到期的"博斯曼"球员是最为理想的，想找这样的球员，可以在寻找球员选项中设定合同EXPRING来物色，也可由球探去寻找；其次，选定哪些被所在俱乐部挂牌LISTED的球员也是比较划算的；而要买没有挂牌出售的球员，您就得准备好一大笔转会资金，如果又是同一个联赛的球队中的队员，您就得要"大出血"了，这种情况，往往你要付出比球员身价高出几倍的银子，才有可能把他搞定。当然，您要是手持大把钞票，信手一挥就是一千多万，那我就不多废话了，但要是您手中的银两是有限的，那么就要注意转会中讨价还价的技巧了。一般来说，叫价时不要太高，如果是挂牌球员，首次叫价可稍低于对方的挂牌价，如是未挂牌的，就按原身价叫买。对方会很快发出回应，但往往都是要求您提高价格，这时您可适当提价，如此多次往复，不要嫌烦，直到磨得对方答应为止。对方俱乐"放人"之后，球员会要求与您签订合同，注意给他定位，工资和奖金不用修改，答应球员要求的数额就可以了，如果您想和其签长约，可把合同期限向后延续，但要适当增加工资和奖金。 
+        　　但有时您会遇到这样的情况，搞定俱乐部方面，但球员却不和您签约，把转会搞黄，这是为什么呢？这是由很多因素决定的。比如，您俱乐部是否"大牌"，一般能力较高的球员都乐意转进大球会，要是让他们从一个超级球队转进甲级，多半是不会成功的；经济问题，您开给的工资、奖金太低，球员也不会签合同；队员很喜欢目前的状况，比如我一直想把欧文从利物浦挖到曼联来，可不管我开多高的工资和奖金，他死活就是不来，象出现以上的这些情况，劝您就别再白费劲了。
+　　本章最后特别要指出的一点就是外援的问题，尤其是英国的联赛，包括英格兰、苏格兰。众所周知，英国的移民管制是非常严格的，非欧盟成员国公民只有在取得了英国劳工部的工作许可证之后，才能在英国工作，当然这也包括在英效力的非欧盟足球运动员。当初范志毅和孙继海赴英时，我们对这项制度有了初步的了解，范、孙是在英国办好所有手续后，专程返回国内等待工作证的。所以，您要是在英国的各级联赛"任职"，又看上了非欧盟的外援，要想拿到工作证，您就要注意以下几点了：第一，球员的水平要高，并且最好是各国的国脚，如果您看上的球员连U-21国家队都没进过，那您还是趁早另请高名吧；第二，工作证是有时间限制的，当到期时，劳工部会重新审核队员的情况，根据"在英的工作表现"决定是否给予续签工作证，要是您的这些外援表现不好，而工作证又快到期，那赶紧挂牌出售吧；第三，如果球员表现正常，工作证到期后会自动续签，您就不用操心了。
 
-        ���ģ�ѵ��ƪ
-���������Ƿ�ӦCM3����һ�ѵ����ѵ�������İ�����ѵ���ƻ�������Ա��������������ȷʵ������ͷ��
-����CM3�е�ѵ��ָ���������������Ϸ��ȴ�Ϊ�򻯡����ȣ���ǰ����˵��֯��һ������Ľ����飬ע������ǵ����Ժͻ���ս��Ҫһ�¡�֮��һ��Ҫ"���ʩ��"��������ԱҪ����FITNESS��SKILL�����������Ա�����ܹ��׽Ϻã���ɰ����������ʵĹ���ת��TACTICS�ϣ����ڳ����Ա������ǰ����Ա��SKILL��TACT 
-        ICS���к���Ա��FITNESS��SKILL��ǰ���߶�Ա���ȻҪ��SHOOTING������֮��ѵ��Ҫ��ѵ����ѡ����Դ浵���������ƶ�����ѵ���������Ա����ʹ�á���ѵ���У��������������һЩVersability��ǿ�Ķ�Աѵ���ɳ��ϵĶ����֣���ʱ�������м����������ҡ���ǰ�ܺ�Ķ�Ա��������ű������кܴ������
-������ѵ����һ��Ҫ����ס"��"������̰��ϲ����ѵ������������������ֻ�����ٶ����������ѵ����ʹ��Աƣ�ͣ�����Ϊ����ֵ���ָܻ���ʿ�������Լ��������ˣ��������ǻ�ʹ��Ա�ĸ�������ֵ�½�������ǵò���ʧѽ��
-��������������ѵ�����¶�Ա�������½����⣬�����þ������ѵ��������������Ҹ��˲�̫ͬ��һЩ����������˵��ѵ������"�����һ��"�ķ��������������˺�һЩRPG��"�ȵ���"��������������ҽ���������ÿ�¼��һ�������¶�Ա��ѵ��״̬����ֵ�Ǻ�ɫ��ʾ�½�����ɫ��ʾ���䣬��ɫ��˵��ѵ����Ч����������������ʵ���������ѵ�����ݡ����һ����Ա������������ֵ����������ɼ������ڵ�ѵ�����䣬���һ����Ա��ѵ������Ч�����������½����Ǿ͸���ѵ�����������ڵļ�飬������Ե�ѵ��������CM3ѵ�����ص㡣
-�����һ�Ҫǿ�����ǣ�����Ϊ�����������ֵ�У�����Ҫ��Ҫ������ϵ��ֵ��һ��Ҫ����Ա����ʱ������ǵ��ٶȡ�������ǿ׳�͵������������ʣ���Щ����������ϵ�Ŷ�Ա�����еı��֣�Ҳ�����˶�Ա�ܲ������ܶȼ���������о���ػָ��������������õ�״̬��ʿ�������������˵Ļ��ᡣ��������һ�ܶ�����ʱ��������һȺ״ֻ̬��7��80�Ķ�Ա���������еظ��ܵ���һ�����Ҫ�ԡ����ԣ��������Աʱ��������15���µĶ�Ա������û��Ƿ����ɣ���ΪҲ�������ֻ���Ǹ��油��
+        （四）训练篇
+　　玩友们反应CM3的另一难点就是训练，苦心安排了训练计划，但球员能力不升反降，确实令人挠头。
+　　CM3中的训练指令和其他足球经理游戏相比大为简化。首先，如前文所说组织起一个优秀的教练组，注意教练们的语言和基本战术要一致。之后，一定要"因材施教"，年轻球员要多练FITNESS和SKILL，如果哪名队员的体能功底较好，则可把练身体素质的功夫转道TACTICS上；对于成年队员，则中前场球员练SKILL和TACT 
+        ICS，中后场球员练FITNESS和SKILL，前锋线队员嘛。自然要练SHOOTING啦。总之，训练要灵活，训练的选项可以存档，您可以制定多种训练方案，以便更换使用。在训练中，您还可以着意把一些Versability较强的队员训练成场上的多面手，到时，手中有几个能左能右、能前能后的队员，会给您排兵布阵有很大帮助。
+　　在训练中一定要把握住"量"，切勿贪大喜功把训练量开足马力，这样只能欲速而不达。过量的训练会使队员疲劳，表现为体力值不能恢复、士气低落以及容易受伤，更糟糕的是会使队员的各项能力值下降，这可是得不偿失呀！
+　　对于正常的训练量下队员能力的下降问题，可以用经常变更训练方案来解决。我个人不太同意一些玩友在网上说的训练方案"两天变一次"的方法，那样不成了和一些RPG中"踩地雷"的练功差不多了吗？我建议您可以每月检查一次您手下队员的训练状态，数值是红色表示下降，蓝色表示不变，黄色则说明训练见效、有所上升，根据实际情况决定训练内容。如果一个队员多数的能力数值在上升，则可继续现在的训练不变，如果一个队员的训练不见效果或是有所下降，那就更换训练方案。定期的检查，有针对性的训练，这是CM3训练的特点。
+　　我还要强调的是，我认为，在诸多能力值中，最重要的要属体力系数值，一定要在球员年轻时提高他们的速度、耐力、强壮和弹跳等身体素质，这些能力不但关系着队员比赛中的表现，也决定了队员能不能在密度极大的赛程中尽快地恢复体力，保持良好的状态和士气，并减少受伤的机会。尤其在意一周多赛的时候，您看着一群状态只有7、80的队员，您将深切地感受到这一点的重要性。所以，在买进球员时，耐力在15以下的队员，您最好还是放弃吧，因为也许他最多只能是个替补。
 
-        (��)����ƪ
-����ǰһ���ϼ�������������β��ܿ���CM3�ı������棬��ʵCM3����û�б������棬������ǰ��һ����CM3�Բ�ȡ������ֱ������ʽ����ӳ����ʵ�������ֱ����Ѿ���ΪCMϵ�е�һ�������Ա����ַ�����ʵ�ϣ��ݹ���ǰ����������Ϸ�����м�����Ϸ���������������أ�����һ�������Ƶ�С����׳�һ��׷���ű����Դ����������Ҫ�����ǵ��µ�AI��ֻ��Զ�䣬PM99���Ǻõģ�������"ǰ��"��ϵͳ������ʹ�ö�������������ȴ����˵ʵ�����滹����CMϵ�е�����ֱ���������У���ϸ�����ֱ������Ҹо�������UEFA��ҳ�Ϲۿ��ھ�����MINUTEBYMINUTE 
-        ����ֱ�������Ǻ�ϲ��CM�ķ��ģ���Ҫ����������ҿɾ�û�취�ˡ�
-�����������֮ǰ�������Ȱ��źó������ݡ����κ�ս��������˭��������˭���油����Ϥ�����������Ͳ�������׸���˰ɣ�ע�����µ���Щ��Ա����ǰ�ı�־���⽫��Ӱ�������Ա���ţ�
-        Lst:���Ƴ��ۣ�
-        Loa:���Ƴ��⣻
-        Inj:�˲��У���ɫΪ���ˣ������ϳ�����ɫΪ���ˣ�����ǿ�ϳ�������������������鲻Ҫ��������
-        Fut:Ϊδ�����ģ�����Ϊ�䶨λ��ǩ�º�ͬ����Ȼ��Ӱ��ѵ��������
-        Wnt:�������̽���У�һ��ܿ��������������Ҫ�������
-        Bid:�����У����ڰ���ת���������Ѿ����ף�
-        Req:Ҫ��ת�ᣬ�ڱ����ֲ����Ĳ����ģ� 
-        Sus:ͣ���У�
-        Yel:��һ�Ż���ͣ����
-        Bos:��ͬ�������ڣ����ݲ�˹��������Ϊ�����ˣ�
-        Unh:�ܲ����ˣ����ڱ����ֲ��ĸо���͸�ˣ�
-        In:�޲����ʸ���Ҫ��ָ������δע����Ա��
-        Ins:���Ҷ�Ч���С�
-        Fgn:��ŷ����Ԯ��
-        Wp:����֤���ڣ����ܲ�����
-����Ҫ�ú�˵һ˵�������κ�ս�������ȣ����ø����Ķ����������Ҷ�λ����ǿ�ӻ������ã��Ǵ��������Ƿ��ط���������λ�ٿ����Ľ��������õ���ɶ��ʽ����Ϊ����ϲ��ʲô���Σ�ѵ���оͽ̶�Ա��ʲô���Σ�Ȼ���ٰ������ƣ��ҽ��������ǹ��ؾصش�4-4-2��������Ľ�������ʹ��4-4-2���Σ��ҵľ��飬4-4- 
-        2��CM3�е�ȷ�Ǹ�����ƽ�����ʽ����Ȼ������4-4-2�����ж���ս���������ã������Ҿ�ϲ�����г���Ա����վλ���ֱ���һ��������ǿ��ǰ���ͺ�����������ǰ������ѹ����Ա����λ�����������Ҽ���ȷ��������ϲ��ʲô�������ξͿ����Լ�ѡ���ˡ�������Ķ���ʵ����ǿ����һ��Ҫʹ��ѹ��ʽ�򷨣�PRESSING 
-        ����Ҫ�Ƕ��ַ����������Ƕ��������Ľ�ɫ���Ǿ�Ҫѡ��������˷��أ�MARKIN G�������ɰѷ���ǿ�ȿ���HARD������������Ч�����ƶԷ��Ĺ��ơ�ս���ϸ��˶��и��˵�ϲ�ã�����������ܵ�ֻ���ұ��˵ľ��飬���õ�ս��ս�Ի�Ҫ�����Լ�ȥ�о�������ף�����ҵ�һ�����ĵĺ�ս����
-������ʼ����֮����Ҫʱ�̹�ע�����Ľ��̣��ر��ǹ۲��Ա��״̬�����Ӧ�������������г�ʱ��Ҫ��˭�ı��ֻ���5������������Ա����ҲҪ������ԥ�ذ��������������ֲ�Ķ�Ա��Ӱ��ȫ�ӵı��֡�
-�����Ͼ�������������Ϸ����ĵ����ݣ��úð��ջ��ᣬҪ֪������CM3��������ʤ�����ɲ�����ô�򵥵ġ�
+        (五)比赛篇
+　　前一阵老见到有玩友问如何才能看到CM3的比赛画面，其实CM3根本没有比赛画面，和两个前作一样，CM3仍采取了文字直播的形式来反映比赛实况，文字比赛已经成为CM系列的一个标致性表现手法。事实上，纵观以前的足球经理游戏，又有几个游戏画面能另人满意呢？不是一堆蚂蚁似的小人像白痴一样追赶着比人脑袋还大的足球，要不就是低下的AI、只会远射，PM99算是好的，但那种"前卫"的系统配置又使得多数的玩友望而却步。说实话，真还不如CM系列的文字直播来得贴切，详细的文字报告让我感觉就象在UEFA主页上观看冠军杯的MINUTEBYMINUTE 
+        文字直播，我是很喜欢CM的风格的，您要是有意见那我可就没办法了。
+　　进入比赛之前，您得先安排好出场阵容、阵形和战术。安排谁打主力、谁打替补，熟悉足球经理的您就不用我再赘述了吧？注意以下的这些队员名字前的标志，这将会影响你的人员安排：
+        Lst:挂牌出售；
+        Loa:挂牌出租；
+        Inj:伤病中，红色为重伤，不可上场，橙色为轻伤，可勉强上场，但无特殊情况，建议不要这样做；
+        Fut:为未来担心，尽快为其定位或签新合同，不然会影响训练比赛；
+        Wnt:被别队球探相中，一般很快会有人找上门来要求买进；
+        Bid:交易中，正在办理转会手续或已经办妥；
+        Req:要求转会，在本俱乐部待的不开心； 
+        Sus:停赛中；
+        Yel:差一张黄牌停赛；
+        Bos:合同即将到期，根据博斯曼法案成为自由人；
+        Unh:很不高兴，待在本俱乐部的感觉糟透了；
+        In:无参赛资格，主要是指三大杯中未注册球员；
+        Ins:国家队效力中。
+        Fgn:非欧盟外援；
+        Wp:工作证到期，不能参赛。
+　　要好好说一说的是阵形和战术。首先，您得给您的队伍做个自我定位，是强队还是弱旅，是打攻势足球还是防守反击；定好位再看您的教练们擅用的是啥阵式，因为他们喜欢什么阵形，训练中就教队员们什么阵形；然后再安排阵势，我建议您还是规规矩矩地打4-4-2，大多数的教练都是使用4-4-2阵形，我的经验，4-4- 
+        2在CM3中的确是个攻守平衡的阵式，当然，您打4-4-2，还有多种战术可以运用，比如我就喜欢让中场球员棱形站位，分别安排一个能力很强的前腰和后腰，两个边前卫向上压（队员的走位你可以用鼠标右键来确定）。您喜欢什么样的阵形就看您自己选择了。如果您的队伍实力较强，那一定要使用压迫式打法（PRESSING 
+        ），要是对手锋线上有罗那尔多这样的角色，那就要选择后卫盯人防守（MARKIN G），还可把防守强度开到HARD，这样可以有效地抑制对方的攻势。战术上各人都有各人的喜好，我在这里介绍的只是我本人的经验，更好的战术战略还要靠您自己去研究摸索，祝您能找到一个称心的好战术！
+　　开始比赛之后，您要时刻关注比赛的进程，特别是观察队员的状态，随机应变做出调整。中场时，要是谁的表现还是5，就算是守门员，您也要毫不犹豫地把他换下来，表现差的队员会影响全队的表现。
+　　毕竟比赛是足球游戏最核心的内容，好好把握机会，要知道，在CM3中做个常胜将军可不是那么简单的。
 
-        ����������ƪ
-�������Ǳ��ĵ����һ�����ˣ���Щ���ɶ���������CM3ʱ�����������ľ��飬ϣ����Ϊ���Ľ�����������������
-*��ʼ��Ϸʱ����Ҫѡ����������������ν��BACKGROUND����ֻ�ǿ��Կ�����Щ�����ı����������������Ϸ�����岻�󣬽��鲻Ҫѡ����Ϊ��CM3�У��κζ���Ķ�������Ӿ���Ϸ���Ѻܻ����Ľ��ࡣ��Ҫ�Ƕ�ѡ��������ͬʱ��ʼ��Ϸ���������ĵȴ����������еظ���"̰�������"����˼���ڴˣ��Ҹ��˽�����ѡ����������ͬʱ��ʼ�����Ӱ��Щ�ٶȣ���ȴ�������ã����������ӣ�Ҫ֪Ϊʲô���뿴���ģ���
-*�����ʱһ��Ҫ����������ֵ�߽ϵģ���ȱ���ã���Ȼ����������æ����죬����֮���׵�ѵ���ɹ���󶼻����Ǹ�"���ѵ�"�Ľ����������ˡ���Ȼ�ý��������Խ��Խ�ã�ע����Ա�����ˣ���̽�����پ�Ҫ�����Ƿ��Ǹ�"�ɹ�����"�ˣ�ͬ������Щˮƽ���µ���̽ǧ����룬���ǻ���������ÿ���A������ѵʱ����Щ"�˷���"����ҽ����Ҫ����������Ȼ�����������˱���Ӫ�ɾͲ������ˡ�
-*����ʿ��ֵ�͵���Ա��һ��Ҫ�����Ǵ��油�������ڱ��������Ȳ��а���ȡʤ��ʱ�������ϳ�������ʿ��ֵ��ָ��ýϿ졣
-*���������Աʱ��Ҫ���öԷ����ֲ��ĵ�ϸ��Ҫ֪�������һ��ѵ��ˮƽ�ܸߵ��������������ǵ���Աѵ���ð����ģ���֮������Ա��һ��ˮƽ���µ�����������ʱ������ֵ��һƬ��ɫ��������Ѫ�����⣬һЩ���ȥ����Ա�᲻ʱ����������ĺ�ͬ�ǹ��ʵ�Ҫ����ʱ���ǵ�Ҫ����������������֧���Ĺ������ޣ����������Ҫȥ�����ǣ����������ڽ�����Ӻ�����ƽ���͵ظ������ʵ�����һ�ǹ��ʣ���ʱ�Ķ�Ա�Ǻ����ǵġ� 
-        *����Ա�Ǹ����⣬��Ҳ������ȫû�취����ģ��ǵ���˵Ҫѡ�������������������������������ڹ�����˳�ĵ�ʱ�򻻸������������Ӣ�����۵����ִ�̣����и���ô������ǡ�������������ѡ��OPTION�е�ADDNEWMANAGER����������ִ������������������ûʲôǰ;�������Ա����ô������ѡ����һ�����е�һ������״��ΪRICH�ľ��ֲ������������TAKECONTROL��Ȼ�����������˳�س�Ϊ������ֲ����½�ͷ����˭��˭��ת����Ƕ��٣�����������֮�£���ô����˵����������µ�����֪����ô���˰ɣ��ã������������Ǽ�����Ա��ת����ÿ��200��(̫���˰ɣ�)���ڣ��Ҳ��������һ����أ��ѻ���������̨���������������֣�ŷ��ת��������ת���������������(��~*)�������׺���ֻҪ����RETIRED�͸㶨�ˣ������ʽ�״�����ٺ٣�����ʡ�����Ǽ������Ų��ߵİ׳���Ա�Ĺ�Ǯ����ת��������2000���Сŷ�ģ��ֽ��ֶ����1000�򣬼�ֱ̫��׬�ˡ���Ȼ��һЩ������CM�Կ϶�Ҫ�����ˣ�ʲô͵�������İ�Ϸ�����Ǻǣ��úúã��͵���û˵��^_*
+        （六）技巧篇
+　　这是本文的最后一部分了，这些技巧都是我在玩CM3时所积累下来的经验，希望能为您的教练生涯有所帮助。
+*开始游戏时，不要选择多个联赛，另外所谓的BACKGROUND联赛只是可以看到这些联赛的比赛情况，对您玩游戏的意义不大，建议不要选择，以为在CM3中，任何多余的东西都会加剧游戏本已很缓慢的节奏。您要是多选几个联赛同时开始游戏，那漫长的等待会让您深切地感受"贪多嚼不烂"的意思。在此，我个人建议您选择两个联赛同时开始，虽会影响些速度，但却另有妙用（先卖个关子，要知为什么，请看下文）。
+*请教练时一定要尽量请能力值高较的，宁缺勿烂！不然您几个教练忙活半天，但来之不易的训练成果最后都会让那个"二把刀"的教练给搅和了。当然好教练是请得越多越好，注意满员是六人；球探嘛，请多少就要看您是否是个"采购狂人"了，同样，那些水平低下的球探千万别请，他们会让您想起每年甲A海埂春训时的那些"人贩子"；队医至少要请两名，不然您在赛季中伤兵满营可就不好玩了。
+*对于士气值低的球员，一定要让他们打替补，可以在比赛中领先并有把握取胜的时候换他们上场，这样士气值会恢复得较快。
+*向外租借球员时，要看好对方俱乐部的底细，要知道，如果一个训练水平很高的球会把你租借给他们的球员训练得棒棒的，反之，当球员从一个水平低下的球队租满归队时，能力值的一片红色会另你吐血。另外，一些租出去的球员会不时地向你提出改合同涨工资的要求，有时他们的要求甚至超出了您能支付的工资上限，这种情况不要去理他们，等他们租期界满归队后，再心平气和地给他们适当地涨一涨工资，这时的队员是很理智的。 
+        *卖球员是个难题，但也不是完全没办法解决的，记得我说要选择两个联赛的吗？这样，您不但可以在工作不顺心的时候换个环境，比如从英超跳槽到意甲执教，还有个大好处，就是。。。请您首先选择OPTION中的ADDNEWMANAGER，例如您正执教曼联，想卖出几个没什么前途的青年队员，那么就请您选择另一联赛中的一个财政状况为RICH的俱乐部，随便编个名字TAKECONTROL，然后嘛，您就正言顺地成为这个俱乐部的新教头，买谁卖谁、转会费是多少，在您的掌握之下，怎么样，说到这里，聪明德的您该知道怎么做了吧？好，就买曼联的那几个球员，转会费嘛，每人200万(太黑了吧？)。黑？我不但卖，我还买呢，把霍利尔赶下台，我来控制利物浦，欧文转进曼联，转会费嘛。。。免费啦！(啊~*)结束交易后，您只要退休RETIRED就搞定了，看看资金状况，嘿嘿！不但省下了那几个赖着不走的白痴球员的工钱，还转来了身价2000万的小欧文，现金又多出了1000万，简直太好赚了。当然，一些真正的CM迷肯定要骂我了，什么偷鸡摸狗的把戏？！呵呵，好好好，就当我没说过^_*
 
-������
-�����ü����õð�צ�Ӷ��������ˣ�����"�ö���Ҫ��ҷ���"��CM3������ôһ���ö�����ϣ���ҵ���Щ����û�׸ɣ��ܶԹ��CM3����������������������ѻ����д裬����ѧϰ��������CM3��ʲô������߾�����룬��������ҳ����̳�Ϸ����߼�����ҳλ�ã�http://caodong.163.net
+结束语
+　　敲键盘敲得俺爪子都肿起来了：）但"好东西要大家分享"，CM3就是这么一个好东西！希望我的这些工作没白干，能对广大CM3爱好者有所帮助。广大玩友互相切磋，互相学习，大家如对CM3有什么问题或者经验感想，请来我主页的论坛上发表高见！主页位置：http://caodong.163.net
 
-��󷢱�������Ϣ��
-������һ���ǣ�CM3��V303�����Ѿ�����������������V302�汾��һЩBUG���������������µĸ�����ת���������ᷢ����Ա��V302�к�����һЩ�����������Ǹ��˵��ǣ��й���Ա������ֵ�õ�����������Ҳ�����Ҳ�������ڶ��й���CM�Զ�EI 
-        DOS�����ʼ�"�ַ���ը"�ĳɹ�������������"ʹ��"���ǣ�V303���ٶȱ���ԭ�汾��"����һ��¥"����ֱ�Ǳ䱾�����������EIDOSҲ���ò�����˼�ˣ��������ƺܿ콫���и��µĲ�����¯�����ص�����CM3���ٶ����⣬�ǲ�������أ���Ը�ɣ�
-�����ڶ�����΢�ߵ��⣬����һ������׼���Լ�������һ���й����Լ�����������Ϸ������������������ת�Ƶ����Ѷ���Ӧ�ú���Ϥ���ݳƣ������Ϸ��ɺ󣬽���ѷ������Ϲ���������ʹ�ã�����Ӯ��ΪĿ��(�ø���ѽ~)��������Ŀǰ�Ƶ�������ϣ���������ĵ����Լ��������Ը���֧�֣�����֧�ְ��������ϵġ������ϵġ������ϵĵȵȣ�ϣ������������������һ��֮����������Ҳ��������ҳ����̳�ϱ������Ĵ�����лл�ˣ����Ԥף�����Ϸ�ܹ�˳��������ҲԤף��ЩΪ�й�������й���Ϸ��ҵ���ķ��׵����Ǻ��ˣ�ϣ����һ�죬�������浽�й��������ġ���CM���õ���������Ϸ��
+最后发表两个消息。
+　　第一个是，CM3的V303补丁已经发布，补丁改正了V302版本的一些BUG，并且修正了最新的各联赛转会情况。你会发现球员比V302中好卖了一些，并且令我们高兴的是，中国球员的能力值得到大幅提升，我猜想这也许是有众多中国的CM迷对EI 
+        DOS进行邮件"轮番轰炸"的成果。但令广大玩友"痛心"的是，V303的速度比起原版本又"更上一层楼"，简直是变本加利，这回连EIDOS也觉得不好意思了，连连声称很快将会有更新的补丁出炉，会重点修正CM3的速度问题，是不是真的呢？但愿吧！
+　　第二个稍微走点题，俺的一个朋友准备自己出资做一个中国人自己的足球经理游戏，常在新浪网游民部落转悠的网友对他应该很熟悉。据称，这个游戏完成后，将免费放在网上供玩友下载使用，不以赢利为目的(好感人呀~)，但苦于目前势单力薄，希望能有热心的球迷加足球经理迷给予支持，这种支持包括技术上的、经济上的、资料上的等等，希望有能力的玩友助他一臂之力，有意者也请来我主页的论坛上报上您的大名，谢谢了！最后预祝这个游戏能够顺利出世，也预祝这些为中国足球和中国游戏事业热心奉献的人们好运！希望有一天，我们能玩到中国人制作的、比CM更好的足球经理游戏。
 
-        ����������������վ�ṩ 
+        以上内容由新浪网站提供 

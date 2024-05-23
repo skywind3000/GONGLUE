@@ -1,20 +1,20 @@
-Jazz Jackrabbit II£¨¹âËÙÍÃáÌ×Ó£©
+Jazz Jackrabbit IIï¼ˆå…‰é€Ÿå…”å´½å­ï¼‰
 
-ÓÎÏ·ÖÐÊäÈëÒÔÏÂÃÜÂë£¨µ¥ÈËÄ£Ê½£©
-jjgod£ºÉÏµÛÄ£Ê½
-jjinv£ºÎÞµÐ
-jjguns£ºµÃËùÓÐÎäÆ÷
-jjammo£ºµ¯Ò©È«Âú
-jjrush£º³¬¼¶³å´Ì
-jjfly£ºÓµÓÐ¡°Ö±Éý»ú¶ú¶ä¡±ÔÙ¼üÈëÒ»´ÎÓµÓÐÂÝÐü½°
-jjk£º×Ô±¬
-jjshield£ºÄÜÁ¿»¤¶Ü
-jjnext£ºÌø¹Ø
-jjlight£º½øÈëÈ«¹âËÙ¹Ø¿¨
-jjbird£º³öÏÖ°ïÊÖ
-jjcoins£º»ñµÃ½ð±Ò
-jjgems£º»ñµÃ±¦Ê¯
-jjending£º»ØÓÎÏ·Ö÷»­Ãæ
-jjq£º½áÊøÓÎÏ·
-jjmorph£º±äÉíÎª¡°spaz¡±£¬ÔÙ¼üÈëÒ»´Î±ä³ÉÄñÀàµÚÈý´Î±ä³ÉÇàÍÞ£¬µÚËÄ´Î±ä»Ø¹âÍÃ¡£
+æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å¯†ç ï¼ˆå•äººæ¨¡å¼ï¼‰
+jjgodï¼šä¸Šå¸æ¨¡å¼
+jjinvï¼šæ— æ•Œ
+jjgunsï¼šå¾—æ‰€æœ‰æ­¦å™¨
+jjammoï¼šå¼¹è¯å…¨æ»¡
+jjrushï¼šè¶…çº§å†²åˆº
+jjflyï¼šæ‹¥æœ‰â€œç›´å‡æœºè€³æœµâ€å†é”®å…¥ä¸€æ¬¡æ‹¥æœ‰èžºæ‚¬æ¡¨
+jjkï¼šè‡ªçˆ†
+jjshieldï¼šèƒ½é‡æŠ¤ç›¾
+jjnextï¼šè·³å…³
+jjlightï¼šè¿›å…¥å…¨å…‰é€Ÿå…³å¡
+jjbirdï¼šå‡ºçŽ°å¸®æ‰‹
+jjcoinsï¼šèŽ·å¾—é‡‘å¸
+jjgemsï¼šèŽ·å¾—å®çŸ³
+jjendingï¼šå›žæ¸¸æˆä¸»ç”»é¢
+jjqï¼šç»“æŸæ¸¸æˆ
+jjmorphï¼šå˜èº«ä¸ºâ€œspazâ€ï¼Œå†é”®å…¥ä¸€æ¬¡å˜æˆé¸Ÿç±»ç¬¬ä¸‰æ¬¡å˜æˆé’å¨ƒï¼Œç¬¬å››æ¬¡å˜å›žå…‰å…”ã€‚
 

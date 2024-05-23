@@ -1,11 +1,11 @@
-��Ӱ�ع���
+幻影特攻队
 
-ѡ�ж�Ա�󰴻س�������DOLEMITE�ٻس��Ϳ����޵С�
-ͬʱ���������ַ��ɿ����书�ܣ� 
-PAUL HANEY SEES ALL:��ʾ���ео� 
-AUTOWIN!:ֱ��ʤ�� 
-TOGGLE BOTTOMBAR:��Ļ�·���ʾ���� 
-��������SET_CAMPAIGNս������ֱ�ӽ������ս��
-ս������Angola_tutorial/Angola/Romania/Kola/
+选中队员后按回车，输入DOLEMITE再回车就可以无敌。
+同时输入以下字符可开启其功能： 
+PAUL HANEY SEES ALL:显示所有敌军 
+AUTOWIN!:直接胜利 
+TOGGLE BOTTOMBAR:屏幕下方显示开关 
+此外输入SET_CAMPAIGN战役名可直接进入各个战役
+战役名：Angola_tutorial/Angola/Romania/Kola/
 Caribbean/Kola_2/Ecuador/Peru/Angola_2
 

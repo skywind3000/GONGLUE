@@ -1,11 +1,11 @@
 GP 500
 
-ÔÚµ¥ÈËÓÎÏ·»­ÃæÊäÈëÃû×ÖµÄµØ·½ÊäÈëÒÔÏÂÃÜÂë£º 
+åœ¨å•äººæ¸¸æˆç”»é¢è¾“å…¥åå­—çš„åœ°æ–¹è¾“å…¥ä»¥ä¸‹å¯†ç ï¼š 
 
-!Scooter! = ÆïÌ¤°å³µ±ÈÈü 
-Ghostriders = Äã±ä³ÉÒ»¸öÓÄÁé 
-BeamTeam = ÐÂ³µ 
-RedJocks = ´©ÄÚÒÂ±ÈÈü 
+!Scooter! = éª‘è¸æ¿è½¦æ¯”èµ› 
+Ghostriders = ä½ å˜æˆä¸€ä¸ªå¹½çµ 
+BeamTeam = æ–°è½¦ 
+RedJocks = ç©¿å†…è¡£æ¯”èµ› 
 !Maate! = ??? 
 !Junior! = ??? 
 

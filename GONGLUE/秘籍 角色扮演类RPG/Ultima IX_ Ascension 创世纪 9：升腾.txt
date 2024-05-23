@@ -1,18 +1,18 @@
-Ultima IX_ Ascension ´´ÊÀ¼Í 9£ºÉıÌÚ
+Ultima IX_ Ascension åˆ›ä¸–çºª 9ï¼šå‡è…¾
 
-×¢Òâ£ºÒÔÏÂÃÜÂë¿ÉÄÜµ¼ÖÂËÀ»ú£¨ÓÎÏ·ÖÆ×÷ÕßËµµÄ£©
+æ³¨æ„ï¼šä»¥ä¸‹å¯†ç å¯èƒ½å¯¼è‡´æ­»æœºï¼ˆæ¸¸æˆåˆ¶ä½œè€…è¯´çš„ï¼‰
 
-ÔÚÓÎÏ·Ä¿Â¼ÖĞÕÒµ½ default.kmp Õâ¸öÎÄ¼ş£¬ÓĞĞ´×Ö°åÖ®ÀàµÄÎÄ±¾±à¼­¹¤¾ß´ò¿ªËü
+åœ¨æ¸¸æˆç›®å½•ä¸­æ‰¾åˆ° default.kmp è¿™ä¸ªæ–‡ä»¶ï¼Œæœ‰å†™å­—æ¿ä¹‹ç±»çš„æ–‡æœ¬ç¼–è¾‘å·¥å…·æ‰“å¼€å®ƒ
 
-½«ÏÂÁĞÖ¸Áî¼Óµ½ [Cheat Commands] µ×ÏÂ
+å°†ä¸‹åˆ—æŒ‡ä»¤åŠ åˆ° [Cheat Commands] åº•ä¸‹
 alt+shift+i = toggle_avatar_invulnerable
 alt+shift+l = toggle_avatar_fly
 
-ÔÚÓÎÏ·½øĞĞÖĞ¼´¿ÉÊ¹ÓÃÃØ¼¼
-alt+shift+i = Ê¥ÕßÎŞµĞ
-alt+shift+l = Ê¥Õß·ÉĞĞ
+åœ¨æ¸¸æˆè¿›è¡Œä¸­å³å¯ä½¿ç”¨ç§˜æŠ€
+alt+shift+i = åœ£è€…æ— æ•Œ
+alt+shift+l = åœ£è€…é£è¡Œ
 
-»¹¿ÉÒÔÔÚ [Cheat Commands] ºó¼ÓÉÏÒÔÏÂÃÜÂë£º
+è¿˜å¯ä»¥åœ¨ [Cheat Commands] ååŠ ä¸Šä»¥ä¸‹å¯†ç ï¼š
 pass_one_hour
 unpass_one_hour
 sunrise_sunset
@@ -23,29 +23,29 @@ toggle_wind
 toggle_storms
 toggle_avatar_fast
 
-·¨Êõ¹²ÓĞ°Ë¼¶,Ã¿¼¶ËÄÖÖ,¹²¼ÆÈıÊ®¶şÖÖ
-Ã¿ÖÖ·¨Êõ¶¼ĞèÒªÖÁÉÙÒ»ÀàµÄÒ©²Ä´îÅäÆä¾íÖá
-ÔÚÎåÃ¢ĞÇÕóÖ´ĞĞÊø¸¿ÒÇÊ½(bind spell)áá²ÅÄÜÊ¹ÓÃ
-Ò©²ÄÒ»¹²ÓĞ°ËÖÖ,ÓÉì¶±³°üÒÔ¼°´ü×ÓµÄ¿Õ¼ä·Ç³£ÓĞÏŞ
-Ê¹Íæ¼Òµ½ÓÎÏ·ÖĞááÆÚ³£³£ÓĞ´üÂúÎª»¼Ö®¿à
-ÔÚ´ËÌá¹©Ò»¸öÌØÊâ·½Ê½,Íæ¼ÒÖ»ÒªÃ¿ÖÖÒ©²Ä´øÒ»¸ö¼´¿É
-¾ÍÔÙÒ²²»ÓÃÉÏÉ½ÏÂº£ÕÒÒ©»òÊÇ»¨Ç®ÂòÒ©²ÄÁË
-ÔÚÎåÃ¢ĞÇÕóÖ´ĞĞÊø¸¿ÒÇÊ½
-ÒÀ·¨Êõ¹æ¶¨·ÅÖÃËùĞèÒ©²Ä¼°¾íÖááá
-µãÈ¼À¯Öòáá,»áÒªÍæ¼ÒÊäÈë·¨ÊõÖäÓï
-´ËÊ±ÏÈÓÃÓÎ±êÖ¸ÏòÒ©²Ä¼°¾íÖá
-°´×¡»¬Êó×ó¼ü½«µãµ½µÄ¶«Î÷ÒÆµ½Íæ¼ÒÉíÉÏ
-µÈµ½Ò©²Ä¼°¾íÖá¶¼¼ñÍêÁËÖ®áá,ÔÙÊäÈëÖäÓï
-Ö®ááÄã»á·¢ÏÖ·¨ÊõÒÑ¾­¼ÇÒä³É¹¦
-¶ø¾íÖá¼°Ò©²ÄÈ´ÍêÈ«Ã»ÓĞÏûºÄ
-ì¶ÊÇºõ,ÔÙÒ²²»ÓÃµ£ĞÄÒ©²ÄÏûºÄµÄÎÊÌâÁË
+æ³•æœ¯å…±æœ‰å…«çº§,æ¯çº§å››ç§,å…±è®¡ä¸‰åäºŒç§
+æ¯ç§æ³•æœ¯éƒ½éœ€è¦è‡³å°‘ä¸€ç±»çš„è¯ææ­é…å…¶å·è½´
+åœ¨äº”èŠ’æ˜Ÿé˜µæ‰§è¡ŒæŸç¼šä»ªå¼(bind spell)å¾Œæ‰èƒ½ä½¿ç”¨
+è¯æä¸€å…±æœ‰å…«ç§,ç”±æ–¼èƒŒåŒ…ä»¥åŠè¢‹å­çš„ç©ºé—´éå¸¸æœ‰é™
+ä½¿ç©å®¶åˆ°æ¸¸æˆä¸­å¾ŒæœŸå¸¸å¸¸æœ‰è¢‹æ»¡ä¸ºæ‚£ä¹‹è‹¦
+åœ¨æ­¤æä¾›ä¸€ä¸ªç‰¹æ®Šæ–¹å¼,ç©å®¶åªè¦æ¯ç§è¯æå¸¦ä¸€ä¸ªå³å¯
+å°±å†ä¹Ÿä¸ç”¨ä¸Šå±±ä¸‹æµ·æ‰¾è¯æˆ–æ˜¯èŠ±é’±ä¹°è¯æäº†
+åœ¨äº”èŠ’æ˜Ÿé˜µæ‰§è¡ŒæŸç¼šä»ªå¼
+ä¾æ³•æœ¯è§„å®šæ”¾ç½®æ‰€éœ€è¯æåŠå·è½´å¾Œ
+ç‚¹ç‡ƒèœ¡çƒ›å¾Œ,ä¼šè¦ç©å®¶è¾“å…¥æ³•æœ¯å’’è¯­
+æ­¤æ—¶å…ˆç”¨æ¸¸æ ‡æŒ‡å‘è¯æåŠå·è½´
+æŒ‰ä½æ»‘é¼ å·¦é”®å°†ç‚¹åˆ°çš„ä¸œè¥¿ç§»åˆ°ç©å®¶èº«ä¸Š
+ç­‰åˆ°è¯æåŠå·è½´éƒ½æ¡å®Œäº†ä¹‹å¾Œ,å†è¾“å…¥å’’è¯­
+ä¹‹å¾Œä½ ä¼šå‘ç°æ³•æœ¯å·²ç»è®°å¿†æˆåŠŸ
+è€Œå·è½´åŠè¯æå´å®Œå…¨æ²¡æœ‰æ¶ˆè€—
+æ–¼æ˜¯ä¹,å†ä¹Ÿä¸ç”¨æ‹…å¿ƒè¯ææ¶ˆè€—çš„é—®é¢˜äº†
 
-ÈÃ¹ÖÎïÊŞ¶ÔÄãÊÓ¶ø²»¼û
-´ò¿ª±³°ü£¨°´B¼ü£©£¬ÕâÊÇ¹ÖÎïÃÇ¾Í»á¶ÔÄãÊÓ¶ø²»¼û£¬Äã¾Í¿ÉÒÔËæÒâ¿ñ´òËûÃÇÁË¡£ÎªÁË²»Ó°ÏìÊÓÏß£¬Äã¿ÉÒÔ°Ñ±³°üÍÏµ½ÆÁÄ»±ßÔµ
+è®©æ€ªç‰©å…½å¯¹ä½ è§†è€Œä¸è§
+æ‰“å¼€èƒŒåŒ…ï¼ˆæŒ‰Bé”®ï¼‰ï¼Œè¿™æ˜¯æ€ªç‰©ä»¬å°±ä¼šå¯¹ä½ è§†è€Œä¸è§ï¼Œä½ å°±å¯ä»¥éšæ„ç‹‚æ‰“ä»–ä»¬äº†ã€‚ä¸ºäº†ä¸å½±å“è§†çº¿ï¼Œä½ å¯ä»¥æŠŠèƒŒåŒ…æ‹–åˆ°å±å¹•è¾¹ç¼˜
 
 Hints
 
-Behind the Avatar¡¯s house, by the training dummy, is a fence with no gate. Normally, you can¡¯t get out. However, if you climb the dummy, you can jump over, or, using the fly cheat, you can simply clip straight through. Behind the gate, hidden by a bush near the large tree, is a lever. Pulling the lever reveals a variety of teleporters that will outfit you with armor or take you to various places in Brittania. Warning: There¡¯s no way to get back once you leave. 
+Behind the Avatarâ€™s house, by the training dummy, is a fence with no gate. Normally, you canâ€™t get out. However, if you climb the dummy, you can jump over, or, using the fly cheat, you can simply clip straight through. Behind the gate, hidden by a bush near the large tree, is a lever. Pulling the lever reveals a variety of teleporters that will outfit you with armor or take you to various places in Brittania. Warning: Thereâ€™s no way to get back once you leave. 
 
-First, go to the Gypsy at the Avatar¡¯s house on earth, and choose your virtue/class. Afterwards, pull the secret lever behind the Avatar¡¯s house, and equip yourself with armor. Teleport into Brittania, and make your way to the tower where you enter the world. The tower is actually a dungeon, and loaded in several segments, so open the door and walk in, and once it¡¯s loaded, activate the flymode cheat and fly up into the room you first appear in. Remove your armor, magic items, and anything else you want to keep, and drop them in that room. Exit the tower the same way you entered, and fly up to the top. On top of the tower is a teleporter. Enter it, and you will be taken back to the tower with your stats adjusted for class as if you had gone through the gypsy¡¯s moongate, the proper items in the chest, AND everything you dropped in the room initially.
+First, go to the Gypsy at the Avatarâ€™s house on earth, and choose your virtue/class. Afterwards, pull the secret lever behind the Avatarâ€™s house, and equip yourself with armor. Teleport into Brittania, and make your way to the tower where you enter the world. The tower is actually a dungeon, and loaded in several segments, so open the door and walk in, and once itâ€™s loaded, activate the flymode cheat and fly up into the room you first appear in. Remove your armor, magic items, and anything else you want to keep, and drop them in that room. Exit the tower the same way you entered, and fly up to the top. On top of the tower is a teleporter. Enter it, and you will be taken back to the tower with your stats adjusted for class as if you had gone through the gypsyâ€™s moongate, the proper items in the chest, AND everything you dropped in the room initially.
 

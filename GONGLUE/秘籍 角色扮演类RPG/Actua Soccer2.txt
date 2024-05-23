@@ -1,10 +1,10 @@
 Actua Soccer2
 
-ÔÚÖ÷ÆÁÄ»ÏÂÊäÈëÒÔÏÂÃØ¼¼£º
+åœ¨ä¸»å±å¹•ä¸‹è¾“å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š
 Code Result
-bigdaddy Ê¹²ÎÈüÕß±äµÃ¾Ş´ó
-bilbobaggins Ê¹²ÎÈüÕß±äµÃ°«Ğ¡
-brianclough Ê¹²ÎÈüÕß¿´ÆğÀ´Ïóbrian clough 
-twisycontrol Ê¹±ÈÈü×ªÎªtable football
-itscominghome ÒÔÈÎºÎÒ»Ö§Òâ´óÀûA¼¶¶ÓÎé²Î¼Ó±ÈÈü
+bigdaddy ä½¿å‚èµ›è€…å˜å¾—å·¨å¤§
+bilbobaggins ä½¿å‚èµ›è€…å˜å¾—çŸ®å°
+brianclough ä½¿å‚èµ›è€…çœ‹èµ·æ¥è±¡brian clough 
+twisycontrol ä½¿æ¯”èµ›è½¬ä¸ºtable football
+itscominghome ä»¥ä»»ä½•ä¸€æ”¯æ„å¤§åˆ©Açº§é˜Ÿä¼å‚åŠ æ¯”èµ›
 

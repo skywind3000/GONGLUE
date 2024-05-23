@@ -1,11 +1,11 @@
 Extreme Paintbrawl
 
-���Ǳ�ɼ��ô�ʼ��ﾯ
-ͬʱ����[Ctrl] + [Alt] + [Shift]��Ȼ�����롰Aye! Yo mother was a mounty!�����ٰ��س���
+主角变成加拿大皇家骑警
+同时按下[Ctrl] + [Alt] + [Shift]，然后输入“Aye! Yo mother was a mounty!”，再按回车。
 
-��ǽ
-ͬʱ���� [Ctrl] + [Alt] + [Shift]��Ȼ�����롰dnclip�����ٰ��س���
+穿墙
+同时按下 [Ctrl] + [Alt] + [Shift]，然后输入“dnclip”，再按回车。
 
-����ģʽ
-��MAFIA��ΪС�ӵ����֣��Ϳɵõ���õĵ�ҩ�������Ͷ�Ա
+作弊模式
+以MAFIA作为小队的名字，就可得到最好的弹药、武器和队员
 

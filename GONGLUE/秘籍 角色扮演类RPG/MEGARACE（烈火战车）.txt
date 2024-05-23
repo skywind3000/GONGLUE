@@ -1,6 +1,6 @@
-MEGARACE���һ�ս����
+MEGARACE（烈火战车）
 
-�޸�ΪȦ���������Ƶķ�����
+修改为圈数不受限制的方法：
 
-�������ϵ�PACEPRG.EXE�ļ����Ƶ�Ӳ�̵İ�װĿ¼�У�����PCTOOLS���޸Ĵ��ļ�����SECT0004��DISP0160��01��Ϊ00���������е��������ļ�����Ӧ���޸ġ�
+将光盘上的PACEPRG.EXE文件复制到硬盘的安装目录中，进入PCTOOLS，修改此文件，将SECT0004，DISP0160的01改为00，并对运行的批处理文件做相应的修改。
 

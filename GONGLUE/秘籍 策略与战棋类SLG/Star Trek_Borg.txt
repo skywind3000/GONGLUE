@@ -1,7 +1,7 @@
 Star Trek_Borg
 
-borg 回到上一场景
-hugh 自动选择最好的东西
-obey 跳到下一场景
+borg 鍥炲埌涓婁竴鍦烘櫙
+hugh 鑷姩閫夋嫨鏈�濂界殑涓滆タ
+obey 璺冲埌涓嬩竴鍦烘櫙
 
 

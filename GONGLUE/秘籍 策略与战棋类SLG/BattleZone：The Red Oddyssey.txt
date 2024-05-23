@@ -1,10 +1,10 @@
-BattleZone£ºThe Red Oddyssey
+BattleZoneï¼šThe Red Oddyssey
 
-ÓÎÏ·ÖĞ°´ÏÂShift + AltÊäÈëÒÔÏÂÃØ¼¼£º 
+æ¸¸æˆä¸­æŒ‰ä¸‹Shift + Altè¾“å…¥ä»¥ä¸‹ç§˜æŠ€ï¼š 
 
-TEDONTDIE£½ ´ò¿ªµØÍ¼ 
-TENERD£½Sattelite Without Comm Tower 
-TEBUFFY£½ÉÏµÛÄ£Ê½ 
-TEDEADITE£½ÎŞÏŞîø¼× 
-TERAT£½ÎŞÏŞScrap en Pilots 
+TEDONTDIEï¼ æ‰“å¼€åœ°å›¾ 
+TENERDï¼Sattelite Without Comm Tower 
+TEBUFFYï¼ä¸Šå¸æ¨¡å¼ 
+TEDEADITEï¼æ— é™é“ ç”² 
+TERATï¼æ— é™Scrap en Pilots 
 

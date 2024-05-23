@@ -1,20 +1,20 @@
-ģ������
+模拟人生
 
-��Ϸ��ͬʱ����CTRL+ALT+SHIFT+CȻ������
+游戏中同时按下CTRL+ALT+SHIFT+C然后输入
 
-      KLAPAUCIUS : �õ�1000Ԫ
+      KLAPAUCIUS : 得到1000元
 
-      WATER_TOOL : ����ķ�����Χ����
+      WATER_TOOL : 让你的房子周围下雨
 
-      SET_HOUR : (Values 1-24) ���õ�ǰʱ��
+      SET_HOUR : (Values 1-24) 设置当前时间
 
-      SET_SPEED : (Values -1000 - +1000 ) ���õ�ǰ�ٶ�
+      SET_SPEED : (Values -1000 - +1000 ) 设置当前速度
 
-      INTERESTS : �޸�����Ը����Ȥ����
+      INTERESTS : 修改你的性格和兴趣爱好
 
-      MAP_EDIT ON : �༭��ͼ����
+      MAP_EDIT ON : 编辑地图开启
 
-      MAP_EDIT OFF : �༭��ͼ�ر�
+      MAP_EDIT OFF : 编辑地图关闭
 
 
 

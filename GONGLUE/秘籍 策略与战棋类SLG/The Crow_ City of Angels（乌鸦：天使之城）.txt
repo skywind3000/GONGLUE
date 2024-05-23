@@ -1,7 +1,7 @@
-The Crow_ City of Angels£¨ÎÚÑ»£ºÌìÊ¹Ö®³Ç£©
+The Crow_ City of Angelsï¼ˆä¹Œé¸¦ï¼šå¤©ä½¿ä¹‹åŸŽï¼‰
 
-ÔÚÓÎÏ·ÖÐ¼üÈë£º
-F6 ÎÞÏÞÄÜÁ¿¡£
-F8 Ìø¹Ø¡£
-F9 µÐÈËÏûÊ§¡£
+åœ¨æ¸¸æˆä¸­é”®å…¥ï¼š
+F6 æ— é™èƒ½é‡ã€‚
+F8 è·³å…³ã€‚
+F9 æ•Œäººæ¶ˆå¤±ã€‚
 

@@ -1,8 +1,8 @@
 Triple Play 98
 
-ÔÚÂ¶Ìì´óÐÍÔË¶¯³¡»ò¶ÓÎéÑ¡ÔñÆÁÄ»Ê±°´ÒÔÏÂ¼ü
-1212+CTRL: EAÃÎÖ®¶Ó
-1212+CTRL+213: ÐÂµÄÂ¶Ìì´óÐÍÔË¶¯³¡
-1212+shift+ctrl: EAÃÎÖ®¶ÓÖ÷³¡
-ÔÚmonster homeÖÐ,°´×¡1,2,3,4¼üÔÙ°´ÉÏ,¿Õ¸ñ,×óÓÒ,shift,alt,ctrl,µ±ÄãµÄ×´Ì¬¸Ä±äÊ±°´shiftºÍÉÏ.
+åœ¨éœ²å¤©å¤§åž‹è¿åŠ¨åœºæˆ–é˜Ÿä¼é€‰æ‹©å±å¹•æ—¶æŒ‰ä»¥ä¸‹é”®
+1212+CTRL: EAæ¢¦ä¹‹é˜Ÿ
+1212+CTRL+213: æ–°çš„éœ²å¤©å¤§åž‹è¿åŠ¨åœº
+1212+shift+ctrl: EAæ¢¦ä¹‹é˜Ÿä¸»åœº
+åœ¨monster homeä¸­,æŒ‰ä½1,2,3,4é”®å†æŒ‰ä¸Š,ç©ºæ ¼,å·¦å³,shift,alt,ctrl,å½“ä½ çš„çŠ¶æ€æ”¹å˜æ—¶æŒ‰shiftå’Œä¸Š.
 

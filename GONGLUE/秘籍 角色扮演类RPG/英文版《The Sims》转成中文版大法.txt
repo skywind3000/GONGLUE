@@ -1,5 +1,5 @@
-Ó¢ÎÄ°æ¡¶The Sims¡·×ª³ÉÖĞÎÄ°æ´ó·¨
+è‹±æ–‡ç‰ˆã€ŠThe Simsã€‹è½¬æˆä¸­æ–‡ç‰ˆå¤§æ³•
 
-Ê¹ÓÃWindowsµÄRegedit£¬ĞŞ¸ÄRegistry¡£ 
-¡¡¡¡½øÈëRegeditÕÒÑ°¡°HKEY_LOCAL_MACHINESoftwareMaxisThe Sims¡±£¬ĞŞ¸ÄSIMS_LANGUAGE£¬½«¡¸USEnglish¡¹£¬¸Ä³É¡¸TraditionalChinese¡¹£¬Ö´ĞĞÓÎÏ·£¬Õû¸ö½çÃæ¶¼»á»»³ÉÖĞÎÄ¡£
+ä½¿ç”¨Windowsçš„Regeditï¼Œä¿®æ”¹Registryã€‚ 
+ã€€ã€€è¿›å…¥Regeditæ‰¾å¯»â€œHKEY_LOCAL_MACHINESoftwareMaxisThe Simsâ€ï¼Œä¿®æ”¹SIMS_LANGUAGEï¼Œå°†ã€ŒUSEnglishã€ï¼Œæ”¹æˆã€ŒTraditionalChineseã€ï¼Œæ‰§è¡Œæ¸¸æˆï¼Œæ•´ä¸ªç•Œé¢éƒ½ä¼šæ¢æˆä¸­æ–‡ã€‚
 

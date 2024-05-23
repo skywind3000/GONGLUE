@@ -1,8 +1,8 @@
 FIFA 2000
 
-MOMONEY = нчочвй╫П 
-HOOLIGAN = ╦╫╪с╤с 
+MOMONEY = Ф≈═И≥░Х╣└И┤▒ 
+HOOLIGAN = И≥└Е┼═И≤÷ 
 BURNABY = EAC Pitch 
-SIZZLE = иа╣Гдёй╫ 
-DIZZY = рЛпндёй╫ 
-LIGHTSOUT = ╥╒╧Бё╗glow)дёй╫?
+SIZZLE = И≈╙Г■╣Ф╗║Е╪▐ 
+DIZZY = Е╪┌Е╫╒Ф╗║Е╪▐ 
+LIGHTSOUT = Е▐▒Е┘┴О╪┬glow)Ф╗║Е╪▐?

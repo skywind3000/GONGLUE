@@ -1,9 +1,9 @@
 Submarine Titans
 
-technologi�����пƼ� 
-metal���õ�1000���� 
-gold���õ�1000�ƽ� 
-corium���õ�5000ëƤ 
-fow���������� 
-air��ȫ����� 
-exitron���õ�5000�ƽ�5000ëƤ��10000����
+technologi＝所有科技 
+metal＝得到1000金属 
+gold＝得到1000黄金 
+corium＝得到5000毛皮 
+fow＝看见所有 
+air＝全部天空 
+exitron＝得到5000黄金，5000毛皮，10000金属

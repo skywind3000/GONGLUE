@@ -1,13 +1,13 @@
-Kingpin£ºLife of Crime£¨Ê×ÄÔÈËÎï£º·¸×ïÉúÑÄ£©
+Kingpinï¼šLife of Crimeï¼ˆé¦–è„‘äººç‰©ï¼šçŠ¯ç½ªç”Ÿæ¶¯ï¼‰
 
-½«ÓÎÏ·µÄµÄ¿ì½Ý·½Ê½ÃüÐÐ¸ÄÎª D:\kingpin\kingpin.exe +developer 1£¬½øÈëÓÎÏ·£¬ÔÚÓÎÏ·ÖÐ°´ÏÂ`¼üºóÊäÈëÒÔÏÂÃØÂë£º
+å°†æ¸¸æˆçš„çš„å¿«æ·æ–¹å¼å‘½è¡Œæ”¹ä¸º D:\kingpin\kingpin.exe +developer 1ï¼Œè¿›å…¥æ¸¸æˆï¼Œåœ¨æ¸¸æˆä¸­æŒ‰ä¸‹`é”®åŽè¾“å…¥ä»¥ä¸‹ç§˜ç ï¼š
 
-IMMORTAL£½ÎÞµÐ
-NOCLIP£½¿ìËÙÄ£Ê½
-GIVE ALL£½µÃµ½ËùÓÐÎïÆ·
-GIVE CASH xxx£½µÃµ½½ðÇ®
-GIVE COIL£½µÃµ½Coil 
-GIVE WATCH£½µÃµ½Watch 
-GIVE BATTERY£½µÃµ½Battery 
-EXTRACRISPY£½Ð§¹û²»Ã÷
+IMMORTALï¼æ— æ•Œ
+NOCLIPï¼å¿«é€Ÿæ¨¡å¼
+GIVE ALLï¼å¾—åˆ°æ‰€æœ‰ç‰©å“
+GIVE CASH xxxï¼å¾—åˆ°é‡‘é’±
+GIVE COILï¼å¾—åˆ°Coil 
+GIVE WATCHï¼å¾—åˆ°Watch 
+GIVE BATTERYï¼å¾—åˆ°Battery 
+EXTRACRISPYï¼æ•ˆæžœä¸æ˜Ž
 

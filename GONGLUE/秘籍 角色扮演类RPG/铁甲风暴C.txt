@@ -1,13 +1,13 @@
-Ìú¼×·ç±©
+é“ç”²é£æš´
 
-ÔÚÓÎÏ·ÖĞ°´Enter£¬ÊäÈë
+åœ¨æ¸¸æˆä¸­æŒ‰Enterï¼Œè¾“å…¥
 
-luckybirdT Íê³ÉÈÎÎñ
-pitybird ÈÎÎñÊ§°Ü
-thunderbird ÎÒ·½Éú²ú¼ÓËÙ
-magicbird Ñ¡ÖĞ²¿¶ÓÎŞµĞ
-magicbird È¡ÏûÎŞµĞ 
-richbird ¼ÓÇ®10000 
-tomgog ½»µçÄÔÍĞ¹Ü
-amitofo Ñ¡ÖĞ²¿¶Ó¼ÓÑª
-sunshine µØÍ¼È«ÁÁ
+luckybirdT å®Œæˆä»»åŠ¡
+pitybird ä»»åŠ¡å¤±è´¥
+thunderbird æˆ‘æ–¹ç”Ÿäº§åŠ é€Ÿ
+magicbird é€‰ä¸­éƒ¨é˜Ÿæ— æ•Œ
+magicbird å–æ¶ˆæ— æ•Œ 
+richbird åŠ é’±10000 
+tomgog äº¤ç”µè„‘æ‰˜ç®¡
+amitofo é€‰ä¸­éƒ¨é˜ŸåŠ è¡€
+sunshine åœ°å›¾å…¨äº®

@@ -1,15 +1,15 @@
 Dominion
 
-�õ�$99999��
-�س������롰TILT�������ؼ����Է���ʹ�ã�
-û���״
-�س������롰SETI��
-������Դ��
-�س������롰LUSHEE��
-��ʾ��ͼ��
-�س������롰INFRARED��
-ɱ�����˲��ӣ�
-�س������롰COMBUSTION��
-���ٽ��죺
-�س������롰ZIPPER�� 
+得到$99999：
+回车并输入“TILT”（此秘技可以反复使用）
+没有雷达：
+回车并输入“SETI”
+增加资源：
+回车并输入“LUSHEE”
+显示地图：
+回车并输入“INFRARED”
+杀死敌人部队：
+回车并输入“COMBUSTION”
+快速建造：
+回车并输入“ZIPPER” 
 

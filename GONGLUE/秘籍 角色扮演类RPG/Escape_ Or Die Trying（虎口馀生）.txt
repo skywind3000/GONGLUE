@@ -1,13 +1,13 @@
-Escape_ Or Die Trying£¨»¢¿ÚâÅÉú£©
+Escape_ Or Die Tryingï¼ˆè™å£é¦€ç”Ÿï¼‰
 
-ÔÚÓÎÏ·Ö÷»­ÃæÊäÈëÏÂÁĞÃÜ¼¼¡Ã
+åœ¨æ¸¸æˆä¸»ç”»é¢è¾“å…¥ä¸‹åˆ—å¯†æŠ€âˆ¶
 
 lacrimosa = Level select; appears after new game and character chosen
 sophia = Sophia now playable
 karma = Karma now playable
 
 
-ÔÚÓÎÏ·ÔİÍ£Ê±ÊäÈëÏÂÁĞÃÜ¼¼¡Ã
+åœ¨æ¸¸æˆæš‚åœæ—¶è¾“å…¥ä¸‹åˆ—å¯†æŠ€âˆ¶
 
 xul = Full energy
 boz = Full mana
@@ -23,4 +23,4 @@ bar = Unknown
 birdy = Unknown
 odt = Unknown
 
-×¢¡ÃÊäÈë³É¹¦áá»áÓĞÒôĞ§²úÉú¡£
+æ³¨âˆ¶è¾“å…¥æˆåŠŸå¾Œä¼šæœ‰éŸ³æ•ˆäº§ç”Ÿã€‚

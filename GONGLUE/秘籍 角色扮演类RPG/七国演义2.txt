@@ -1,16 +1,16 @@
-Æß¹úÑİÒå2
+ä¸ƒå›½æ¼”ä¹‰2
 
-ÔÚÓÎÏ·ÖĞÊäÈë!!!@@@###ºó,ÔÙÊäÈëÏÂÁĞÃÜÂë:
+åœ¨æ¸¸æˆä¸­è¾“å…¥!!!@@@###å,å†è¾“å…¥ä¸‹åˆ—å¯†ç :
 
-Ctrl+B = ½¨ÖşÁ¢¿ÌÍê³É
+Ctrl+B = å»ºç­‘ç«‹åˆ»å®Œæˆ
 Ctrl+C = Cash and life points (+1000 each)
-Ctrl+M = ÏÔÊ¾µØÍ¼
-Ctrl+T = ¿Æ¼¼Éı¼¶
-Ctrl+U = Ó¢Ã÷¾ıÖ÷
-Ctrl+Z = ¿ìËÙ½¨ÖşÄ£Ê½
-Ctrl+\ = Ê³Îï+1000
+Ctrl+M = æ˜¾ç¤ºåœ°å›¾
+Ctrl+T = ç§‘æŠ€å‡çº§
+Ctrl+U = è‹±æ˜å›ä¸»
+Ctrl+Z = å¿«é€Ÿå»ºç­‘æ¨¡å¼
+Ctrl+\ = é£Ÿç‰©+1000
 Ctrl+/ = Add 1000 life points
-Ctrl+; = ³ÇÊĞÈË¿Ú+10
+Ctrl+; = åŸå¸‚äººå£+10
 Ctrl++ = Seat of power full pray point, tower of science full pray point, full spy skill
 Ctrl+! = Increase fryhtan battling score by 10
 

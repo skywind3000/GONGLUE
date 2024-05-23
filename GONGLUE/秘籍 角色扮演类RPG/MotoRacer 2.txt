@@ -1,10 +1,10 @@
 MotoRacer 2
 
-ÔÚÓÎÏ·ÖÐÊäÈëÒÔÏÂÃÜÂë¼¤»îÃÜ¼¼£º 
+åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å¯†ç æ¿€æ´»å¯†æŠ€ï¼š 
 
-CDNALSI £º¿ÉÒÔ½øÈëËùÓÐµÄÈüµÀ 
-CESREVER £ºÔÚMain Menu ÖÐÊ¹ÓÃÊ±£¬¿É»ñµÃÐÂÈüµÀ 
-CTEKCOP £º»ð¼ýÇý¶¯µÄ»ú³µ 
+CDNALSI ï¼šå¯ä»¥è¿›å…¥æ‰€æœ‰çš„èµ›é“ 
+CESREVER ï¼šåœ¨Main Menu ä¸­ä½¿ç”¨æ—¶ï¼Œå¯èŽ·å¾—æ–°èµ›é“ 
+CTEKCOP ï¼šç«ç®­é©±åŠ¨çš„æœºè½¦ 
 
 
 

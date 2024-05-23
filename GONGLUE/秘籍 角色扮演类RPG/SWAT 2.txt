@@ -1,17 +1,17 @@
 SWAT 2
 
-��SWAT.INI�е�[missions played]��Ŀ�ɼ������²�����SM#=1��#=1��15�� TM#=1��#=16��30�������Ϳ�����ϷQuick Mission ģʽ�����������񡣣�
+在SWAT.INI中的[missions played]项目可加入以下参数：SM#=1（#=1至15） TM#=1（#=16至30）这样就可在游戏Quick Mission 模式中玩所有任务。！
 
-��������
-�����г�����SWAT����ս���е�֤�Ϊ����ȫ��ʾս���е���ڣ����е�֤�ﶼ�����Ѽ�����
-MISSION3 -����ҩ
-MISSION5 -����Ʊ��`����С����
-MISSION7 -ǹ������ҩ
-MISSION8 -�����ɷ����ϵ��׹ܺ�ըҩ
-MISSION9 -ǹ��ըҩ
-MISSION10-ըҩ
-MISSION12-���д��
-MISSION13-С���Ӻͷ��ѵ绰��CELL PHONE��
-MISSION14-�ѻ��ֵ�ǹ���г���ϯ
-MISSION15-�г���ϯ
+显著迹象：
+下面列出的是SWAT各关战役中的证物，为了完全显示战役中的情节，所有的证物都必须搜集到。
+MISSION3 -麻醉药
+MISSION5 -银行票据`存款和小册子
+MISSION7 -枪和麻醉药
+MISSION8 -在嫌疑犯身上的雷管和炸药
+MISSION9 -枪和炸药
+MISSION10-炸药
+MISSION12-银行存款
+MISSION13-小册子和蜂窝电话（CELL PHONE）
+MISSION14-狙击手的枪和市长出席
+MISSION15-市长出席
 

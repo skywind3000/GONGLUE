@@ -1,25 +1,25 @@
-Vigilance£¨¾¯½ä£©
+Vigilanceï¼ˆè­¦æˆ’ï¼‰
 
-ÔÚÓÎÏ·ÖÐ£¬°´ÏÂ»Ø³µ¼üºóÊäÈëÒÔÏÂ×Ö·û´®ÒÔ»ñµÃÏàÓ¦µÄÃÜ¼¼¹¦ÄÜ£º
-*cheat£ºÎÞÏÞµ¯Ò©µÄÉÏµÛÄ£Ê½
-*state£ºÏÔÊ¾Íæ¼ÒµÄµ±Ç°¶¯×÷
-*thunderdome£ºÏÔÊ¾ÉúÃüÊý
-*fps£ºÏÔÊ¾ÓÎÏ·»­ÃæÖ¡Êý
-*maxfps£ºÏÔÊ¾×î´óÓÎÏ·»­ÃæÖ¡Êý
-*suicide£º×ÔÉ±
-*coords£ºÏÔÊ¾µ±Ç°ÒÂÎï
-*other£ºÔÊÐíÄã¿ØÖÆµÐÈË
-*ghost£º¿ÉÒÔ´©Ç½ÐÐ×ß
-*freeze£ºÏÔÊ¾ÉúÃüµãÊý
-*WAR£º¹¦ÄÜ²»Ã÷
-*catco£º¹¦ÄÜ²»Ã÷
-*jzk£ºÏÔÊ¾ÐÅÏ¢
-*HoneyBunny£ºÏÔÊ¾ÐÅÏ¢
+åœ¨æ¸¸æˆä¸­ï¼ŒæŒ‰ä¸‹å›žè½¦é”®åŽè¾“å…¥ä»¥ä¸‹å­—ç¬¦ä¸²ä»¥èŽ·å¾—ç›¸åº”çš„å¯†æŠ€åŠŸèƒ½ï¼š
+*cheatï¼šæ— é™å¼¹è¯çš„ä¸Šå¸æ¨¡å¼
+*stateï¼šæ˜¾ç¤ºçŽ©å®¶çš„å½“å‰åŠ¨ä½œ
+*thunderdomeï¼šæ˜¾ç¤ºç”Ÿå‘½æ•°
+*fpsï¼šæ˜¾ç¤ºæ¸¸æˆç”»é¢å¸§æ•°
+*maxfpsï¼šæ˜¾ç¤ºæœ€å¤§æ¸¸æˆç”»é¢å¸§æ•°
+*suicideï¼šè‡ªæ€
+*coordsï¼šæ˜¾ç¤ºå½“å‰è¡£ç‰©
+*otherï¼šå…è®¸ä½ æŽ§åˆ¶æ•Œäºº
+*ghostï¼šå¯ä»¥ç©¿å¢™è¡Œèµ°
+*freezeï¼šæ˜¾ç¤ºç”Ÿå‘½ç‚¹æ•°
+*WARï¼šåŠŸèƒ½ä¸æ˜Ž
+*catcoï¼šåŠŸèƒ½ä¸æ˜Ž
+*jzkï¼šæ˜¾ç¤ºä¿¡æ¯
+*HoneyBunnyï¼šæ˜¾ç¤ºä¿¡æ¯
 
-CDÒô¹ì¿ØÖÆ
-*cd_next£ºÏÂÒ»Òô¹ì
-*cd_prev£ºÇ°Ò»Òô¹ì
-*cd_stop£ºÍ£Ö¹CDÒô¹ì
-*cd_play£º²¥·ÅCDÒô¹ì
+CDéŸ³è½¨æŽ§åˆ¶
+*cd_nextï¼šä¸‹ä¸€éŸ³è½¨
+*cd_prevï¼šå‰ä¸€éŸ³è½¨
+*cd_stopï¼šåœæ­¢CDéŸ³è½¨
+*cd_playï¼šæ’­æ”¾CDéŸ³è½¨
 
 

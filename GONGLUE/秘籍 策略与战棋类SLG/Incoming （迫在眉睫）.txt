@@ -1,30 +1,30 @@
-Incoming £¨ÆÈÔÚÃ¼½Ş£©
+Incoming ï¼ˆè¿«åœ¨çœ‰ç«ï¼‰
 
-ÔÚÖ÷²Ëµ¥ÏÂÊäÈë¡°numbronedacrestreet"¿É½øÈëÁíÒ»¸öÒş²Ø²Ëµ¥£¬ÕâÑù¿É½øÈë5´¦Òş²Ø¹Ø¿¨¡£°´×¡[shift]²»·Å¼´¿ÉÊäÈëÏÂÁĞÃØ¼¼£º
-wirewewaiting   È¥³ıÌùÍ¼
-whatsthepoint   ½«»­Ãæ±ä³ÉÒ»Ğ©Ğ¡Ô²µã
-soldasarock   ÎŞµĞ
-flatbroke   Ã»ÓĞÒõÓ°
-flymetothemoon    ½øÈëÔÂÇòÄ£Ê½
-haveall   µÃµ½ËùÓĞ×°±¸
-superdaisy   Ò»ÅÚ½«È«²¿µĞÈË¸Éµô
-supershoot   Ò»ÅÚ½«È«²¿µĞÈË¸Éµô
-invunerability   ÎŞµĞ
-infinitelives   ÎŞÏŞÉúÃü
-infiniteweapons   ÎŞÏŞµ¯Ò©
-masteroftheuniverse   ÇĞ»»ÌùÍ¼
-oldmacdonald   ³öÏÖÌøÔ¾µÄÄÌÅ£
+åœ¨ä¸»èœå•ä¸‹è¾“å…¥â€œnumbronedacrestreet"å¯è¿›å…¥å¦ä¸€ä¸ªéšè—èœå•ï¼Œè¿™æ ·å¯è¿›å…¥5å¤„éšè—å…³å¡ã€‚æŒ‰ä½[shift]ä¸æ”¾å³å¯è¾“å…¥ä¸‹åˆ—ç§˜æŠ€ï¼š
+wirewewaiting   å»é™¤è´´å›¾
+whatsthepoint   å°†ç”»é¢å˜æˆä¸€äº›å°åœ†ç‚¹
+soldasarock   æ— æ•Œ
+flatbroke   æ²¡æœ‰é˜´å½±
+flymetothemoon    è¿›å…¥æœˆçƒæ¨¡å¼
+haveall   å¾—åˆ°æ‰€æœ‰è£…å¤‡
+superdaisy   ä¸€ç‚®å°†å…¨éƒ¨æ•Œäººå¹²æ‰
+supershoot   ä¸€ç‚®å°†å…¨éƒ¨æ•Œäººå¹²æ‰
+invunerability   æ— æ•Œ
+infinitelives   æ— é™ç”Ÿå‘½
+infiniteweapons   æ— é™å¼¹è¯
+masteroftheuniverse   åˆ‡æ¢è´´å›¾
+oldmacdonald   å‡ºç°è·³è·ƒçš„å¥¶ç‰›
 
-×÷±×¹¦ÄÜ¼ü£º
-[F2]   Ãé×¼±äÒ×
-[F3]   ²»ËÀ
-[F4]   ÎŞÏŞÉúÃü
-[F5]   µ¯Ò©ÎŞÏŞ
-[F6]   Ç¿Á¦Õ¨µ¯
-[F7]   ÍË³öÓÎÏ·
-[F8]   ´æ´¢µ±Ç°×´¿ö
-[F9]   ÔØÈë´æ´¢×´¿ö
-[F10]   µÈ´ıÄ£Ê½
-[F11]   ÖØĞÂ¿ªÊ¼ÓÎÏ·
+ä½œå¼ŠåŠŸèƒ½é”®ï¼š
+[F2]   ç„å‡†å˜æ˜“
+[F3]   ä¸æ­»
+[F4]   æ— é™ç”Ÿå‘½
+[F5]   å¼¹è¯æ— é™
+[F6]   å¼ºåŠ›ç‚¸å¼¹
+[F7]   é€€å‡ºæ¸¸æˆ
+[F8]   å­˜å‚¨å½“å‰çŠ¶å†µ
+[F9]   è½½å…¥å­˜å‚¨çŠ¶å†µ
+[F10]   ç­‰å¾…æ¨¡å¼
+[F11]   é‡æ–°å¼€å§‹æ¸¸æˆ
 
 

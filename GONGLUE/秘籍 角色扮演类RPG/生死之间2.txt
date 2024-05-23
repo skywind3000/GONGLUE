@@ -1,9 +1,9 @@
-����֮��2
+生死之间2
 
-����Ϸ�����м���س�������Ļ���½ǳ��֡����������룺
+在游戏过程中键入回车键，屏幕左下角出现“？”后，输入：
 
-victory ���� 
-goto mission x x��ʾ�ؿ� 
-give spacem y ��Ǯ��yΪ����
-destroy it �ݻٽ�����ս����λ�����н�����λ����룬�Ե���˫��������
-use all stations ��ʹ�����еĽ�����ս����λ
+victory 过关 
+goto mission x x表示关卡 
+give spacem y 加钱，y为数量
+destroy it 摧毁建筑和战斗单位。点中建筑或单位后键入，对敌我双方都适用
+use all stations 可使用所有的建筑和战斗单位

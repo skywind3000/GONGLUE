@@ -1,58 +1,58 @@
-ºáÉ¨Ç§¾ü£ºÍõ¹ú
+æ¨ªæ‰«åƒå†›ï¼šç‹å›½
 
-ÔÚskirmish»ò¶àÈËÄ£Ê½ÓÎÏ·ÖĞ°´[Enter]£¬È»ºóÊäÈëÒÔÏÂÃÜÂë£º 
-¡¡¡¡+atm = Ôö¼Ó1000½ğÊôºÍÄÜÁ¿ 
-¡¡¡¡+bigbrother = Traces unit/structures in order that they were built 
-¡¡¡¡+bps = ÔÚ¶àÈËÓÎÏ·Ä£Ê½ÖĞÏÔÊ¾Êı¾İ´«Êä 
-¡¡¡¡+clock = ÏÔÊ¾ÓÎÏ·Ê±ÖÓ 
-¡¡¡¡+cdstart »ò cdplay = ²¥·ÅCDÒôÀÖ 
-¡¡¡¡+cdstop = Í£Ö¹²¥·ÅCDÒôÀÖ 
-¡¡¡¡+combustion = µĞÈËËÀÍö 
-¡¡¡¡+contour[1-15] = View 3D contour mesh 
-¡¡¡¡+control[0-3] = ¿ØÖÆskirmishµÄAI 
-¡¡¡¡+dither = Dithering replaces gray line of sight 
-¡¡¡¡+doubleshot = ÎäÆ÷µÄÆÆ»µÁ¦¼Ó±¶ 
-¡¡¡¡+halfshot = ÎäÆ÷µÄÆÆ»µÁ¦¼õ°ë 
-¡¡¡¡+ilose = Á¢¿ÌÊ§°Ü 
-¡¡¡¡+infrared = Õ½ÕùÃÔÎí ¿ª/¹Ø 
-¡¡¡¡+iwin = Á¢¿ÌÊ¤Àû 
-¡¡¡¡+kill = É±ËÀËùÓĞ²¿¶Ó 
-¡¡¡¡+kill 0-4 = É±ËÀÍæ¼Ò 0-4 
-¡¡¡¡+light 1000 = Darker structures 
-¡¡¡¡+light = Black structures 
-¡¡¡¡+logo [1-9] = ÔÚskirmishÖĞ¸Ä±ä¶ÔÊÖµÄÑÕÉ« 
-¡¡¡¡+lushee = ÓĞÏŞµÄ×ÊÔ´Ôö¼Ó 
-¡¡¡¡+mapping = Cover the screen in black 
-¡¡¡¡+meteor = Ëæ»úÔÉÊ¯Óê 
-¡¡¡¡+nanolathing = Ê¹ÓÃNanolathingºÍ½ğÊôÒªË«±¶ 
-¡¡¡¡+noenergy = ¼õÉÙÄÜÔ´ 
-¡¡¡¡+nometal = ¼õÉÙ½ğÊô 
-¡¡¡¡+noshake = È¡Ïû±¬Õ¨Ğ§¹û 
-¡¡¡¡+nowisee »òlos = È«µØÍ¼ 
-¡¡¡¡+radar = È«À×´ï 
-¡¡¡¡+shadow = ÒõÓ°¿ª¹Ø 
-¡¡¡¡+share radar = ¹²ÏíÀ×´ï 
-¡¡¡¡+share metal = ¹²Ïí½ğÊô 
-¡¡¡¡+share energy = ¹²ÏíÄÜÔ´ 
-¡¡¡¡+share all = ¹²ÏíËùÓĞ×ÊÔ´ 
-¡¡¡¡+shootall = Ò²Éä»÷½¨Öş 
-¡¡¡¡+showranges = Display ranges by holding [Shift] when pointer is over unit 
-¡¡¡¡+sing = Ñ¡ÖĞµÄ²¿¶Ó»á³ª¸è 
-¡¡¡¡+sound3d = 3DÒôĞ§¿ª¹Ø 
-¡¡¡¡+switchalt = °´[Alt] + [number]×ª»»²¿¶Ó 
-¡¡¡¡+tilt = ×î¶àÈËÊıºÍ×ÊÔ´ 
-¡¡¡¡+view [0-4] = ÏÔÊ¾¶ÔÊÖµÄÄÜÁ¿ºÍ½ğÊô 
-¡¡¡¡+zipper = ¿ìËÙ½¨Ôì 
+åœ¨skirmishæˆ–å¤šäººæ¨¡å¼æ¸¸æˆä¸­æŒ‰[Enter]ï¼Œç„¶åè¾“å…¥ä»¥ä¸‹å¯†ç ï¼š 
+ã€€ã€€+atm = å¢åŠ 1000é‡‘å±å’Œèƒ½é‡ 
+ã€€ã€€+bigbrother = Traces unit/structures in order that they were built 
+ã€€ã€€+bps = åœ¨å¤šäººæ¸¸æˆæ¨¡å¼ä¸­æ˜¾ç¤ºæ•°æ®ä¼ è¾“ 
+ã€€ã€€+clock = æ˜¾ç¤ºæ¸¸æˆæ—¶é’Ÿ 
+ã€€ã€€+cdstart æˆ– cdplay = æ’­æ”¾CDéŸ³ä¹ 
+ã€€ã€€+cdstop = åœæ­¢æ’­æ”¾CDéŸ³ä¹ 
+ã€€ã€€+combustion = æ•Œäººæ­»äº¡ 
+ã€€ã€€+contour[1-15] = View 3D contour mesh 
+ã€€ã€€+control[0-3] = æ§åˆ¶skirmishçš„AI 
+ã€€ã€€+dither = Dithering replaces gray line of sight 
+ã€€ã€€+doubleshot = æ­¦å™¨çš„ç ´ååŠ›åŠ å€ 
+ã€€ã€€+halfshot = æ­¦å™¨çš„ç ´ååŠ›å‡åŠ 
+ã€€ã€€+ilose = ç«‹åˆ»å¤±è´¥ 
+ã€€ã€€+infrared = æˆ˜äº‰è¿·é›¾ å¼€/å…³ 
+ã€€ã€€+iwin = ç«‹åˆ»èƒœåˆ© 
+ã€€ã€€+kill = æ€æ­»æ‰€æœ‰éƒ¨é˜Ÿ 
+ã€€ã€€+kill 0-4 = æ€æ­»ç©å®¶ 0-4 
+ã€€ã€€+light 1000 = Darker structures 
+ã€€ã€€+light = Black structures 
+ã€€ã€€+logo [1-9] = åœ¨skirmishä¸­æ”¹å˜å¯¹æ‰‹çš„é¢œè‰² 
+ã€€ã€€+lushee = æœ‰é™çš„èµ„æºå¢åŠ  
+ã€€ã€€+mapping = Cover the screen in black 
+ã€€ã€€+meteor = éšæœºé™¨çŸ³é›¨ 
+ã€€ã€€+nanolathing = ä½¿ç”¨Nanolathingå’Œé‡‘å±è¦åŒå€ 
+ã€€ã€€+noenergy = å‡å°‘èƒ½æº 
+ã€€ã€€+nometal = å‡å°‘é‡‘å± 
+ã€€ã€€+noshake = å–æ¶ˆçˆ†ç‚¸æ•ˆæœ 
+ã€€ã€€+nowisee æˆ–los = å…¨åœ°å›¾ 
+ã€€ã€€+radar = å…¨é›·è¾¾ 
+ã€€ã€€+shadow = é˜´å½±å¼€å…³ 
+ã€€ã€€+share radar = å…±äº«é›·è¾¾ 
+ã€€ã€€+share metal = å…±äº«é‡‘å± 
+ã€€ã€€+share energy = å…±äº«èƒ½æº 
+ã€€ã€€+share all = å…±äº«æ‰€æœ‰èµ„æº 
+ã€€ã€€+shootall = ä¹Ÿå°„å‡»å»ºç­‘ 
+ã€€ã€€+showranges = Display ranges by holding [Shift] when pointer is over unit 
+ã€€ã€€+sing = é€‰ä¸­çš„éƒ¨é˜Ÿä¼šå”±æ­Œ 
+ã€€ã€€+sound3d = 3DéŸ³æ•ˆå¼€å…³ 
+ã€€ã€€+switchalt = æŒ‰[Alt] + [number]è½¬æ¢éƒ¨é˜Ÿ 
+ã€€ã€€+tilt = æœ€å¤šäººæ•°å’Œèµ„æº 
+ã€€ã€€+view [0-4] = æ˜¾ç¤ºå¯¹æ‰‹çš„èƒ½é‡å’Œé‡‘å± 
+ã€€ã€€+zipper = å¿«é€Ÿå»ºé€  
 
-¡¡¡¡ÔÚÌôÕ½Ä£Ê½ºÍ¶àÈËÄ£Ê½ÖĞ£¬°´ÏÂ[Enter]½Ğ³ö¶Ô»°´°£¬ÊäÈëÏÂÁĞÃÜÂë£º 
-¡¡¡¡+lightrange [1-20]£º¸Ä±ä¹âÓ°ÑÕÉ« (´Ó 1 µ½ 20) 
-¡¡¡¡+rollingfog£ºÃÔÎíĞ§¹û (ĞèÒª 3D ¼ÓËÙ¿¨) 
-¡¡¡¡+wackyfog£º²¨ÀËÃÔÎíĞ§¹û (ĞèÒª 3D ¼ÓËÙ¿¨) 
-¡¡¡¡+quit£ºÀë¿ªÓÎÏ· 
-¡¡¡¡+lotsablood£º¸üÑªĞÈ 
-¡¡¡¡+nameunit [unit]£º¸ü¸Ä²¿¶ÓÃû×Ö 
-¡¡¡¡+f2menu£ºÏÔÊ¾²Ëµ¥ 
-¡¡¡¡+makeposter£º×¥Í¼ 
-¡¡¡¡+vidmode£º¸Ä±ä·Ö±æÂÊ 
-¡¡¡¡+selectunits£ºÈ¡ÏûÑ¡ÔñµÄµ¥Î» 
-¡¡¡¡+fogcolor [1-256]£º¸Ä±äÕ½ÕùÃÔÎíµÄÑÕÉ« (´Ó 1 µ½ 256)
+ã€€ã€€åœ¨æŒ‘æˆ˜æ¨¡å¼å’Œå¤šäººæ¨¡å¼ä¸­ï¼ŒæŒ‰ä¸‹[Enter]å«å‡ºå¯¹è¯çª—ï¼Œè¾“å…¥ä¸‹åˆ—å¯†ç ï¼š 
+ã€€ã€€+lightrange [1-20]ï¼šæ”¹å˜å…‰å½±é¢œè‰² (ä» 1 åˆ° 20) 
+ã€€ã€€+rollingfogï¼šè¿·é›¾æ•ˆæœ (éœ€è¦ 3D åŠ é€Ÿå¡) 
+ã€€ã€€+wackyfogï¼šæ³¢æµªè¿·é›¾æ•ˆæœ (éœ€è¦ 3D åŠ é€Ÿå¡) 
+ã€€ã€€+quitï¼šç¦»å¼€æ¸¸æˆ 
+ã€€ã€€+lotsabloodï¼šæ›´è¡€è…¥ 
+ã€€ã€€+nameunit [unit]ï¼šæ›´æ”¹éƒ¨é˜Ÿåå­— 
+ã€€ã€€+f2menuï¼šæ˜¾ç¤ºèœå• 
+ã€€ã€€+makeposterï¼šæŠ“å›¾ 
+ã€€ã€€+vidmodeï¼šæ”¹å˜åˆ†è¾¨ç‡ 
+ã€€ã€€+selectunitsï¼šå–æ¶ˆé€‰æ‹©çš„å•ä½ 
+ã€€ã€€+fogcolor [1-256]ï¼šæ”¹å˜æˆ˜äº‰è¿·é›¾çš„é¢œè‰² (ä» 1 åˆ° 256)

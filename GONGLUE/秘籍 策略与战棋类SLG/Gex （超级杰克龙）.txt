@@ -1,18 +1,18 @@
-Gex £¨³¬¼¶½Ü¿ËÁú£©
+Gex ï¼ˆè¶…çº§æ°å…‹é¾™ï¼‰
 
-ÒÔÏÂÎªÑ¡¹Ø´úÂë£º
-SVZFKHGP£º cemetery 1
-BXRFYHGP£º cemetery 2
-KXVKRHKP£º jungle isle 1
-SVKLPHKP£º jungle isle 2
-CVBLPHKP£º jungle isle 3
-ZVTCYHGP£º new toonland 1
-CVHCSHKP£º new toonland 2
-RVTCSHGP£º new toonland 3
-CVBLPHKP£º new toonland 4
-YTCHPHKP£º kung fuville 1
-ZTDHPHKP£º kung fuville 2
-DXVGRHKP£º kung fuville 3
-GYVYRHKP£º rezopolis 1
+ä»¥ä¸‹ä¸ºé€‰å…³ä»£ç ï¼š
+SVZFKHGPï¼š cemetery 1
+BXRFYHGPï¼š cemetery 2
+KXVKRHKPï¼š jungle isle 1
+SVKLPHKPï¼š jungle isle 2
+CVBLPHKPï¼š jungle isle 3
+ZVTCYHGPï¼š new toonland 1
+CVHCSHKPï¼š new toonland 2
+RVTCSHGPï¼š new toonland 3
+CVBLPHKPï¼š new toonland 4
+YTCHPHKPï¼š kung fuville 1
+ZTDHPHKPï¼š kung fuville 2
+DXVGRHKPï¼š kung fuville 3
+GYVYRHKPï¼š rezopolis 1
 
 

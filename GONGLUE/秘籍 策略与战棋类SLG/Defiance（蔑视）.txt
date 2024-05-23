@@ -1,9 +1,9 @@
-Defiance�����ӣ�
+Defiance（蔑视）
 
-����Ϸ�а��¡�Pause/break"��Ȼ��
-IAMGOD ��ǹ����
-ALLGUNS ����ҩ
-GHOST һ��ģʽ
-HIDEENEMIES �л� Enemies/����
-FPS ��ʾ����������
+在游戏中按下“Pause/break"，然后：
+IAMGOD 刀枪不入
+ALLGUNS 满弹药
+GHOST 一流模式
+HIDEENEMIES 切换 Enemies/对象
+FPS 显示画面流畅度
 

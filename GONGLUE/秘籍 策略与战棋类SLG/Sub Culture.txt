@@ -1,27 +1,27 @@
 Sub Culture
 
-ÔÚÓÎÏ·ÖĞÊäÈëÒÔÏÂÃÜÂë
-bedlk ÎŞµĞ
-billy ¼ÓËÙ
-colours µ½µÚ5¹Ø
-cotton µ½µÚ2¹Ø
-delicates µ½µÚ3¹Ø
-didit ¹ı¹Ø
-dryer µ½µÚ1¹Ø
-halfload µ½µÚ6¹Ø
-haveall ¿ÉÖ´ĞĞËùÓĞÈÎÎñ
-havesome ¿ÉÖ´ĞĞ²¿·ÖÈÎÎñ
-imnotluc ÎŞµĞ
-kamikaze ×ÔÉ±
-mutant ·À·øÉä
-refill »¤¼×¼ÓÇ¿
-rinse µ½µÚ0¹Ø
-tick ²âÁ¿Æ÷
-tonka ×°¼×¼ÓÇ¿
-tumble µ½µÚ4¹Ø
-wonga ¼ÓÇ®
-scotty ´«ËÍµ½Ä³µØ(ÊäÈëºó,ÓÎÏ·»áÔİÍ£,ÔÙ°´µØÃû¼´¿ÉÒÆ¶¯µ½ÄÇÀï)
-µØÃûÈçÏÂ£º
+åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹å¯†ç 
+bedlk æ— æ•Œ
+billy åŠ é€Ÿ
+colours åˆ°ç¬¬5å…³
+cotton åˆ°ç¬¬2å…³
+delicates åˆ°ç¬¬3å…³
+didit è¿‡å…³
+dryer åˆ°ç¬¬1å…³
+halfload åˆ°ç¬¬6å…³
+haveall å¯æ‰§è¡Œæ‰€æœ‰ä»»åŠ¡
+havesome å¯æ‰§è¡Œéƒ¨åˆ†ä»»åŠ¡
+imnotluc æ— æ•Œ
+kamikaze è‡ªæ€
+mutant é˜²è¾å°„
+refill æŠ¤ç”²åŠ å¼º
+rinse åˆ°ç¬¬0å…³
+tick æµ‹é‡å™¨
+tonka è£…ç”²åŠ å¼º
+tumble åˆ°ç¬¬4å…³
+wonga åŠ é’±
+scotty ä¼ é€åˆ°æŸåœ°(è¾“å…¥å,æ¸¸æˆä¼šæš‚åœ,å†æŒ‰åœ°åå³å¯ç§»åŠ¨åˆ°é‚£é‡Œ)
+åœ°åå¦‚ä¸‹ï¼š
 Touka   Boot   Flats    Beluga    Knob     Anchor    Velcova    Arch      Outlet2
 Tryton   Pipe    Outlet3    Aquatraz    Volcano   Pipe2   Refinery   Cave
 Bucket   Ribs   Tunnel   Outlet   Wood    Can   Limpet   Abyss    Cleft

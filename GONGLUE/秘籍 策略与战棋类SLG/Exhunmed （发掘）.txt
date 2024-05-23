@@ -1,8 +1,8 @@
-Exhunmed £¨·¢¾ò£©
+Exhunmed ï¼ˆå‘æŽ˜ï¼‰
 
-lobocop: ËùÓÐÎäÆ÷
-lobodeity: ÎÞµÐ
-loboswag: ËùÓÐÎïÆ·»Ø¸´
-lobopick: ËùÓÐÔ¿³×
+lobocop: æ‰€æœ‰æ­¦å™¨
+lobodeity: æ— æ•Œ
+loboswag: æ‰€æœ‰ç‰©å“å›žå¤
+lobopick: æ‰€æœ‰é’¥åŒ™
 
 

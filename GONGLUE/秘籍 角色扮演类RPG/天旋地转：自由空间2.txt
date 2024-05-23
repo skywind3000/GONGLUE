@@ -1,37 +1,37 @@
-ÌìÐýµØ×ª£º×ÔÓÉ¿Õ¼ä2
+å¤©æ—‹åœ°è½¬ï¼šè‡ªç”±ç©ºé—´2
 
-ÓÎÏ·ÖÐÊäÈëwww.freespace2.com£¬È»ºó°´×¡~¼üÊäÈëÒÔÏÂµÄÃÜ¼¼£¬Ê¹ÓÃcheat¾Í²»ÄÜ½ø¼¶£º
+æ¸¸æˆä¸­è¾“å…¥www.freespace2.comï¼Œç„¶åŽæŒ‰ä½~é”®è¾“å…¥ä»¥ä¸‹çš„å¯†æŠ€ï¼Œä½¿ç”¨cheatå°±ä¸èƒ½è¿›çº§ï¼š
 
-C - ¸øµÐÈË·¢ÐÅÏ¢
+C - ç»™æ•Œäººå‘ä¿¡æ¯
 
-K - É±ËÀÄ¿±ê
+K - æ€æ­»ç›®æ ‡
 
-Shift K - ´Ý»ÙÄ¿±êµÄ´Î¼¶ÏµÍ³
+Shift K - æ‘§æ¯ç›®æ ‡çš„æ¬¡çº§ç³»ç»Ÿ
 
-Alt K - ¶Ô×Ô¼º10%µÄÉËº¦
+Alt K - å¯¹è‡ªå·±10%çš„ä¼¤å®³
 
-I - ÎÞµÐ
+I - æ— æ•Œ
 
-Shift I - Ê¹Ä¿±êÎÞµÐ
+Shift I - ä½¿ç›®æ ‡æ— æ•Œ
 
-Shift W - ¸øËùÓÐ´¬ÎÞÏÞÎäÆ÷£¬°üÀ¨×Ô¼º
+Shift W - ç»™æ‰€æœ‰èˆ¹æ— é™æ­¦å™¨ï¼ŒåŒ…æ‹¬è‡ªå·±
 
-W - ¸ø¼º·½ËùÓÐ´¬ÎÞÏÞÎäÆ÷
+W - ç»™å·±æ–¹æ‰€æœ‰èˆ¹æ— é™æ­¦å™¨
 
-G - ËùÓÐÖ÷ÈÎÎñÍê³É
+G - æ‰€æœ‰ä¸»ä»»åŠ¡å®Œæˆ
 
-Shift G - ËùÓÐ´ÎÈÎÎñÍê³É
+Shift G - æ‰€æœ‰æ¬¡ä»»åŠ¡å®Œæˆ
 
-Alt G - ËùÓÐ¼Ó·ÖÈÎÎñÍê³É
+Alt G - æ‰€æœ‰åŠ åˆ†ä»»åŠ¡å®Œæˆ
 
-9 - ÏòÇ°ÇÐ»»ËùÓÐ¶þ¼¶ÎäÆ÷
+9 - å‘å‰åˆ‡æ¢æ‰€æœ‰äºŒçº§æ­¦å™¨
 
-Shift 9 - ÏòºóÇÐ»»ËùÓÐ¶þ¼¶ÎäÆ÷
+Shift 9 - å‘åŽåˆ‡æ¢æ‰€æœ‰äºŒçº§æ­¦å™¨
 
-0 - Scroll ÏòÇ°ÇÐ»»ËùÓÐÖ÷ÎäÆ÷
+0 - Scroll å‘å‰åˆ‡æ¢æ‰€æœ‰ä¸»æ­¦å™¨
 
-Shift 0 - ÏòºóÇÐ»»ËùÓÐÖ÷ÎäÆ÷
+Shift 0 - å‘åŽåˆ‡æ¢æ‰€æœ‰ä¸»æ­¦å™¨
 
-R - ÏòÄ¿±ê·¢³öÖØÐÂ×°±¸ÇëÇó
+R - å‘ç›®æ ‡å‘å‡ºé‡æ–°è£…å¤‡è¯·æ±‚
 
 

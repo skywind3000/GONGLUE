@@ -1,12 +1,12 @@
-Quiver£¨²ü¶¶£©
+Quiverï¼ˆé¢¤æŠ–ï¼‰
 
-´ÅÅÌÍêÈ«°æ»òÃâ·Ñ°æÖÐ£º
-WUSS £º ÎÞµÐ¡£
-NUKE £º É±µôËùÓÐµÐÈË¡£
-MMAP £º µÃµ½È«µØÍ¼¡£
-ÍêÈ«°æ£º
-PANSY £ºÈ«ÎäÆ÷ºÍµ¯Ò©È«Âú¡£
-BUTTHEAD £º ËùÓÐÔ¿³×
-STUN £º µÐÈËÔÎµ¹
-WARP £º ×÷ÓÃ²»Ã÷£¿(Èç¹ûÖªµÀ,Çë¸æËß0start)
+ç£ç›˜å®Œå…¨ç‰ˆæˆ–å…è´¹ç‰ˆä¸­ï¼š
+WUSS ï¼š æ— æ•Œã€‚
+NUKE ï¼š æ€æŽ‰æ‰€æœ‰æ•Œäººã€‚
+MMAP ï¼š å¾—åˆ°å…¨åœ°å›¾ã€‚
+å®Œå…¨ç‰ˆï¼š
+PANSY ï¼šå…¨æ­¦å™¨å’Œå¼¹è¯å…¨æ»¡ã€‚
+BUTTHEAD ï¼š æ‰€æœ‰é’¥åŒ™
+STUN ï¼š æ•Œäººæ™•å€’
+WARP ï¼š ä½œç”¨ä¸æ˜Žï¼Ÿ(å¦‚æžœçŸ¥é“,è¯·å‘Šè¯‰0start)
 

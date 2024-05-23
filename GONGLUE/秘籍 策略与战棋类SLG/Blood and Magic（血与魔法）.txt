@@ -1,29 +1,29 @@
-Blood and Magic��Ѫ��ħ����
+Blood and Magic（血与魔法）
 
-��סALT���󣬼����������룺�����¡��õ��������Ӣ
-�����ֶ�����Ϸ�б��ֵ����֣�
-ACOLYTE �õ�basal golem
-ALASKA �õ�gnome
-BODY GUARD �õ�guardian
-BOOST ������mana������ȫ��
-CONCRETE �õ�stone golem
-DEAD FLESH �õ�zombie
-ELMINSTER �о�ȫ�����
-FATAL ATTRACTION �õ�fury
-FATHER �õ�cleric
-FLYING MONKIES �õ�gargoyle
-FOG? WHAT FOG? �ر�ս��֮��
-GREMLIN �õ�enchanter
-JARETH �õ�goblin
-LANCELOT �õ�paladin
-MERLIN �õ�wizard
-MERV �õ�griffin
-MICROSQUISH �õ�juggernaut
-MOTHER IN LAW �õ�harpy
-NEEDS FOOD BADLY �õ�warrior
-RAISE DEAD �õ�ghoul
-SEDUCTION �õ�nymph
-SHADOW �õ�wraith
-SMOG �õ�wyrm
-WOLVERINE �õ�druid
-YOGI �õ�ranger
+按住ALT键后，键入以下密码：（以下“得到”后面的英
+文名字都是游戏中兵种的名字）
+ACOLYTE 得到basal golem
+ALASKA 得到gnome
+BODY GUARD 得到guardian
+BOOST 法力（mana）点数全满
+CONCRETE 得到stone golem
+DEAD FLESH 得到zombie
+ELMINSTER 研究全部完成
+FATAL ATTRACTION 得到fury
+FATHER 得到cleric
+FLYING MONKIES 得到gargoyle
+FOG? WHAT FOG? 关闭战争之雾
+GREMLIN 得到enchanter
+JARETH 得到goblin
+LANCELOT 得到paladin
+MERLIN 得到wizard
+MERV 得到griffin
+MICROSQUISH 得到juggernaut
+MOTHER IN LAW 得到harpy
+NEEDS FOOD BADLY 得到warrior
+RAISE DEAD 得到ghoul
+SEDUCTION 得到nymph
+SHADOW 得到wraith
+SMOG 得到wyrm
+WOLVERINE 得到druid
+YOGI 得到ranger

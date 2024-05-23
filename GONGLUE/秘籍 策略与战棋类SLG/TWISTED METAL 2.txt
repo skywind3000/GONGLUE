@@ -1,35 +1,35 @@
 TWISTED METAL 2
 
-ÔÚÑ¡ÔñÆû³µ»­ÃæÊ±¼üÈë:
-GLORIOUS - ¼¤»îÃØ¼¼
-ICECREAM - ±ä³É±ù¼¤Áè?
-BIGBOY - Ïñ¸ö´óº¢×Ó.
-ÔÚÓÎÏ·¹ý³Ìµ±ÖÐ:
-GLORIOUS - ¼¤»îÃØ¼¼
-DIVINE - ÉÏµÛÄ£Ê½.
-ALLUCANEAT - ÎÞÏÞÉúÃü
-DOUBLEDOWN - ÎäÆ÷ÄÜÁ¿²»¼õ.
-HOLYSMOKES - ÎÞÏÞÎäÆ÷.
+åœ¨é€‰æ‹©æ±½è½¦ç”»é¢æ—¶é”®å…¥:
+GLORIOUS - æ¿€æ´»ç§˜æŠ€
+ICECREAM - å˜æˆå†°æ¿€å‡Œ?
+BIGBOY - åƒä¸ªå¤§å­©å­.
+åœ¨æ¸¸æˆè¿‡ç¨‹å½“ä¸­:
+GLORIOUS - æ¿€æ´»ç§˜æŠ€
+DIVINE - ä¸Šå¸æ¨¡å¼.
+ALLUCANEAT - æ— é™ç”Ÿå‘½
+DOUBLEDOWN - æ­¦å™¨èƒ½é‡ä¸å‡.
+HOLYSMOKES - æ— é™æ­¦å™¨.
 SLAMFEST - ?
-GIMMEMORE - Ôö¼ÓÎäÆ÷
+GIMMEMORE - å¢žåŠ æ­¦å™¨
 2HOT - ?
 CUSUCKA - ?
-FRAMERATE - È¥µôÏÔÊ¾»­ÃæÁ÷³©¶È.
-D,U,R,L,U,U,D,D - ³öÂôÎäÆ÷»ñµÃÉúÃüÔö¼Ó
-L,R,U - ±¬Õ¨¶³½á
-R,L,D - µØÀ×
-R,L,U - Äý¹ÌÆûÓÍ
-U,U,R - ¶ÜÅÆ
-U,U,L - ¸ßÌø
-L,R,D - Ïòºó¹¥»÷
-R,D,L,U - ¶·Åñ
+FRAMERATE - åŽ»æŽ‰æ˜¾ç¤ºç”»é¢æµç•…åº¦.
+D,U,R,L,U,U,D,D - å‡ºå–æ­¦å™¨èŽ·å¾—ç”Ÿå‘½å¢žåŠ 
+L,R,U - çˆ†ç‚¸å†»ç»“
+R,L,D - åœ°é›·
+R,L,U - å‡å›ºæ±½æ²¹
+U,U,R - ç›¾ç‰Œ
+U,U,L - é«˜è·³
+L,R,D - å‘åŽæ”»å‡»
+R,D,L,U - æ–—ç¯·
 U,D,U,U,Space -?
 
-ÔÚ¶àÈË¾ºÈüÄ£Ê½ÏÂ:
-DASBAK - ÍøÂç¼¤»îÃØ¼¼
-SLEUTH - Íµ¿´
-JMSWAMP - ÕÓÔó×ÔÉ±¹Ø
-TMBURBS - Cyburbia ¹Ø
-TMROOF - ÎÝ¶¥¹Ø
+åœ¨å¤šäººç«žèµ›æ¨¡å¼ä¸‹:
+DASBAK - ç½‘ç»œæ¿€æ´»ç§˜æŠ€
+SLEUTH - å·çœ‹
+JMSWAMP - æ²¼æ³½è‡ªæ€å…³
+TMBURBS - Cyburbia å…³
+TMROOF - å±‹é¡¶å…³
 
 

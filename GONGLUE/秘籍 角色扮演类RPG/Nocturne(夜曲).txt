@@ -1,54 +1,54 @@
-Nocturne(Ò¹Çú)
+Nocturne(å¤œæ›²)
 
-ÕıÊ½°æ: 
+æ­£å¼ç‰ˆ: 
 
-°´[F10]È»ºóÊäÈë£º
-godgames = ÎŞµĞ
-gasmask = µÃµ½·À¶¾Ãæ¾ß
-elephant = µÃµ½´ó±¿ÏóÇ¹£¨BFG ºÍ BIG firepower£©
-TAB Key = debugÄ£Ê½
+æŒ‰[F10]ç„¶åè¾“å…¥ï¼š
+godgames = æ— æ•Œ
+gasmask = å¾—åˆ°é˜²æ¯’é¢å…·
+elephant = å¾—åˆ°å¤§ç¬¨è±¡æªï¼ˆBFG å’Œ BIG firepowerï¼‰
+TAB Key = debugæ¨¡å¼
 gold = -- shows advertisment for the company's new game "Fly" the screen will say "Buy Fly! today!"
-winblows = µÃµ½ËùÓĞÎäÆ÷ºÍµ¯Ò©
-skeletonkey = µÃµ½SkeletonÔ¿³×£¨ÓĞµÄ°æ±¾¿ÉÒÔµÃµ½ËùÓĞÔ¿³×£©
-moreammo = µÃµ½¸ü¶àµÄµ¯Ò©
-goremode = ¿ª¹ØÑªĞÈ»­Ãæ
-thunderstorm = ÏÂÓê
-snowstorm = ÏÂÑ©
-bighead = ´óÍ·Ä£Ê½
-healme = »Ø¸´ÉúÃüÖµ
-silver = µÃµ½500¿ÅSilver×Óµ¯
-aqua = µÃµ½ 500¿ÅAqua Vampire×Óµ¯
-mercury = µÃµ½ 500¿ÅMercury×Óµ¯
-burningstake = µÃµ½»ğÑæ¼ı
-oldhat = Ä°ÉúÈË´÷Ææ¹ÖµÄÃ±×Ó
-youfarted = Ä°ÉúÈËµÃµ½·À¶¾Ãæ¾ß£¨Ö»ÄÜÓÃÓÚÉı¼¶°æ£©
-dismember = ¸üÑªĞÈ£¨Ö»ÄÜÓÃÓÚÉı¼¶°æ£©
-pinkbunny = Ê¹µç³ØÖØĞÂ³äµç£¨Ö»ÄÜÓÃÓÚÉı¼¶°æ£©
-bandaid = »Ö¸´ÉúÃüÖµ£¨Ö»ÄÜÓÃÓÚÉı¼¶°æ£©
-goldmode = ¶ÔÄãËµ"buy FLY!"
-freezer = ´ò¿ª/¹Ø±Õ ¶³×¡µĞÈË
-ifarted = Ä°ÉúÈËµÃµ½·À¶¾Ãæ¾ß
-recharge = Ê¹µç³ØÖØĞÂ³äµç
-bigboom = ¼ûÏÂÃæÏêÏ¸ËµÃ÷£¨Ö»ÄÜÓÃÓÚÉı¼¶°æ£©
-headOfHorrors = ¼ûÏÂÃæÏêÏ¸ËµÃ÷
-shotgunshell = µÃµ½É¢µ¯Ç¹ºÍ500¿Å×Óµ¯£¨ÄÜÓÃÓÚÉı¼¶°æºÍÎ´Éı¼¶°æ£©
-baronsaturday = µÃµ½Baron
-gimmecrap = ËùÓĞÎäÆ÷ºÍµ¯Ò©
-keysuper = SkeletonÔ¿³×
-reallycold = ¿ª/¹Ø µĞÈËµÄAI
+winblows = å¾—åˆ°æ‰€æœ‰æ­¦å™¨å’Œå¼¹è¯
+skeletonkey = å¾—åˆ°Skeletoné’¥åŒ™ï¼ˆæœ‰çš„ç‰ˆæœ¬å¯ä»¥å¾—åˆ°æ‰€æœ‰é’¥åŒ™ï¼‰
+moreammo = å¾—åˆ°æ›´å¤šçš„å¼¹è¯
+goremode = å¼€å…³è¡€è…¥ç”»é¢
+thunderstorm = ä¸‹é›¨
+snowstorm = ä¸‹é›ª
+bighead = å¤§å¤´æ¨¡å¼
+healme = å›å¤ç”Ÿå‘½å€¼
+silver = å¾—åˆ°500é¢—Silverå­å¼¹
+aqua = å¾—åˆ° 500é¢—Aqua Vampireå­å¼¹
+mercury = å¾—åˆ° 500é¢—Mercuryå­å¼¹
+burningstake = å¾—åˆ°ç«ç„°ç®­
+oldhat = é™Œç”Ÿäººæˆ´å¥‡æ€ªçš„å¸½å­
+youfarted = é™Œç”Ÿäººå¾—åˆ°é˜²æ¯’é¢å…·ï¼ˆåªèƒ½ç”¨äºå‡çº§ç‰ˆï¼‰
+dismember = æ›´è¡€è…¥ï¼ˆåªèƒ½ç”¨äºå‡çº§ç‰ˆï¼‰
+pinkbunny = ä½¿ç”µæ± é‡æ–°å……ç”µï¼ˆåªèƒ½ç”¨äºå‡çº§ç‰ˆï¼‰
+bandaid = æ¢å¤ç”Ÿå‘½å€¼ï¼ˆåªèƒ½ç”¨äºå‡çº§ç‰ˆï¼‰
+goldmode = å¯¹ä½ è¯´"buy FLY!"
+freezer = æ‰“å¼€/å…³é—­ å†»ä½æ•Œäºº
+ifarted = é™Œç”Ÿäººå¾—åˆ°é˜²æ¯’é¢å…·
+recharge = ä½¿ç”µæ± é‡æ–°å……ç”µ
+bigboom = è§ä¸‹é¢è¯¦ç»†è¯´æ˜ï¼ˆåªèƒ½ç”¨äºå‡çº§ç‰ˆï¼‰
+headOfHorrors = è§ä¸‹é¢è¯¦ç»†è¯´æ˜
+shotgunshell = å¾—åˆ°æ•£å¼¹æªå’Œ500é¢—å­å¼¹ï¼ˆèƒ½ç”¨äºå‡çº§ç‰ˆå’Œæœªå‡çº§ç‰ˆï¼‰
+baronsaturday = å¾—åˆ°Baron
+gimmecrap = æ‰€æœ‰æ­¦å™¨å’Œå¼¹è¯
+keysuper = Skeletoné’¥åŒ™
+reallycold = å¼€/å…³ æ•Œäººçš„AI
 driveby = Tommy Gun
 woodenstakegun = Wooden Stake Crossbow
 t2000 = Terminator mode
-layitonme = ¸ü¶àµ¯Ò©
-iamacheatingbastard = ÎŞµĞ
-ebola = É±ËÀÖÜÎ§µÄÉúÎï 
+layitonme = æ›´å¤šå¼¹è¯
+iamacheatingbastard = æ— æ•Œ
+ebola = æ€æ­»å‘¨å›´çš„ç”Ÿç‰© 
 
-×¢Òâ£ºÒÔÉÏÄ³Ğ©ÃØ¼¼ÔÚ×îĞÂ°æ±¾ÖĞÒÑ¾­±»È¡ÏûÁË 
+æ³¨æ„ï¼šä»¥ä¸ŠæŸäº›ç§˜æŠ€åœ¨æœ€æ–°ç‰ˆæœ¬ä¸­å·²ç»è¢«å–æ¶ˆäº† 
 
-BigBoom ºÍ headOfHorrors ËµÃ÷£º
-µ±Äã±»Ò»´óÈºµĞÈËÎ§¹¥Ê±£¬°´F10È»ºóÊäÈëbigboom£¬»á·¢ÉúÒâÏë²»µ½µÄÇé¿ö£¬ÓĞÊ±Ö»»áÉ±ËÀÒ»¸öµĞÈË£¬ÓĞÊ±»áÉ±ËÀËùÓĞµĞÈË¡£Èç¹ûÄãÊäÈëÁËheadOfHorrors£¬Äã¾Í¿ÉÒÔÈÃbigboom°´ÄãÔ¤ÆÚµÄ·½·¨Æğ×÷ÓÃ¡£ 
+BigBoom å’Œ headOfHorrors è¯´æ˜ï¼š
+å½“ä½ è¢«ä¸€å¤§ç¾¤æ•Œäººå›´æ”»æ—¶ï¼ŒæŒ‰F10ç„¶åè¾“å…¥bigboomï¼Œä¼šå‘ç”Ÿæ„æƒ³ä¸åˆ°çš„æƒ…å†µï¼Œæœ‰æ—¶åªä¼šæ€æ­»ä¸€ä¸ªæ•Œäººï¼Œæœ‰æ—¶ä¼šæ€æ­»æ‰€æœ‰æ•Œäººã€‚å¦‚æœä½ è¾“å…¥äº†headOfHorrorsï¼Œä½ å°±å¯ä»¥è®©bigboomæŒ‰ä½ é¢„æœŸçš„æ–¹æ³•èµ·ä½œç”¨ã€‚ 
 
-Ğ¡ÌáÊ¾£º
+å°æç¤ºï¼š
 
 Tip: Let Svetlana kill as many vampires as possible in the village of Falkenberg. The ammo you save here will be badly needed when the two of you split up at Castle Gaustadt. 
 
@@ -58,17 +58,17 @@ Tip: Several of the game's cinematic scenes are immediately followed by attacks 
 
 Tip: Explore every room and area possible, including the bloody remains of zombies, vampires, and monsters. Hidden areas often contain ammo or health power-ups, and enemies sometimes carry keys to unlock doors. 
 
-ÊÔÍæ°æ: 
+è¯•ç©ç‰ˆ: 
 
-giveallammo = ¸øµ±Ç°ÎäÆ÷¼Ó100¿Å×Óµ¯
-gathering = ÎŞµĞ
-crossbow = µÃµ½Crossbow 
-tommygun = µÃµ½Tommygun 
-beavis = µÃµ½Flamethrower 
-shotgun = µÃµ½Shotgun 
+giveallammo = ç»™å½“å‰æ­¦å™¨åŠ 100é¢—å­å¼¹
+gathering = æ— æ•Œ
+crossbow = å¾—åˆ°Crossbow 
+tommygun = å¾—åˆ°Tommygun 
+beavis = å¾—åˆ°Flamethrower 
+shotgun = å¾—åˆ°Shotgun 
 flametip = Enables Flaming Arrows 
-freeze = ¶³×¡/½â¶³µĞÈË
-battery = ³äµçFlashlight
+freeze = å†»ä½/è§£å†»æ•Œäºº
+battery = å……ç”µFlashlight
 baron = Summon the Baron 
 masterkey = Gives Skeleton Key 
 dismember = Dismemberment On/Off 

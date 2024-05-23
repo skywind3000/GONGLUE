@@ -1,11 +1,11 @@
 Toy Commander
 
-�ؼ����룺
-��ͣ��Ϸ��Ȼ��סL��һ���������´��룺
-ȫ����ͼ��A, Y, X, B, Y, X. 
-����������X, A, Y, B, A, X. 
-�л���еǹ��B, A, Y, X, A, B. 
-99���;���A, B, X, Y, B, A. 
-������ߣ�A, X, B, Y, A, Y. 
-���ص�����Ϸ�أ�A, B, A, B, Y, X. 
+秘技代码：
+暂停游戏，然后按住L，一次输入以下代码：
+全部地图：A, Y, X, B, Y, X. 
+重型武器：X, A, Y, B, A, X. 
+切换机械枪：B, A, Y, X, A, B. 
+99重型军火：A, B, X, Y, B, A. 
+修理玩具：A, X, B, Y, A, Y. 
+隐藏单人游戏关：A, B, A, B, Y, X. 
 

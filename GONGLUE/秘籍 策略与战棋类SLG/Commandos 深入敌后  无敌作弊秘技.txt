@@ -1,13 +1,13 @@
-Commandos ����к�  �޵������ؼ�
+Commandos 深入敌后  无敌作弊秘技
 
-����Ϸ��������GONZO1982�ͻ������ģʽ
+在游戏中输入中GONZO1982就会打开作弊模式
 
-����:
-SHIFT+V : ��ʾ��������߹���·��. 
-SHIFT+X : ˲���ƶ�������ȥ�ĵط�.
-CTRL+I : �޵�. 
-CTRL+SHIFT+N : ��ɵ�ǰ����.
-����PASSWORD
+释文:
+SHIFT+V : 显示出玩家所走过册路线. 
+SHIFT+X : 瞬间移动到你想去的地方.
+CTRL+I : 无敌. 
+CTRL+SHIFT+N : 完成当前任务.
+过关PASSWORD
 Mission 2: 4JJXB
 Mission 3: ZDD1T
 Mission 4: RFF1J

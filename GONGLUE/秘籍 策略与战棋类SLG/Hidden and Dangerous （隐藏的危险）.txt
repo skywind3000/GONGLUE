@@ -1,18 +1,18 @@
-Hidden and Dangerous £¨Òş²ØµÄÎ£ÏÕ£©
+Hidden and Dangerous ï¼ˆéšè—çš„å±é™©ï¼‰
 
-ÔÚÕ½ÒÛÑ¡µ¥ÖĞÊäÈë unlockcheatmode ´ò¿ª×÷±×Ä£Ê½£¬±ã¿ÉÔÚÓÎÏ·ÖĞÊäÈëÒÔÏÂÃØ¼¼
-zombie£½Type after being killed and you¡¯ll comeback as a zombie£¨²»ÖªËùÎ½£© 
-bighead£½´óÍ·Ä£Ê½
-killthemall£½µĞÈ«Ãğ
-showtheend£½¹Û¿´±¬»ú¶¯»­
-missiondone£½Á¢¼´¹ı¹Ø
-missionfail£½ÈÎÎñÊ§°Ü
-openalldoor£½´ò¿ªËùÓĞµÄÃÅ
-goodhealth£½¼ÓÑª
-allammo£½ËùÓĞÎäÆ÷¡¢×°±¸
-laracroft£½»»ÉÏLara CroftµÄÒÂ·ş 
-enemylookf£½¹Û¿´µĞÈË
-enemylookb£½ºóÄÔ³¤ÑÛ£¿£¿
-playercoords£½Õ¹Ê¾·ş×°
-noplayerhits£½ÈÃÄã²»ÄÜ¿ªÇ¹Éä»÷
+åœ¨æˆ˜å½¹é€‰å•ä¸­è¾“å…¥ unlockcheatmode æ‰“å¼€ä½œå¼Šæ¨¡å¼ï¼Œä¾¿å¯åœ¨æ¸¸æˆä¸­è¾“å…¥ä»¥ä¸‹ç§˜æŠ€
+zombieï¼Type after being killed and youâ€™ll comeback as a zombieï¼ˆä¸çŸ¥æ‰€è°“ï¼‰ 
+bigheadï¼å¤§å¤´æ¨¡å¼
+killthemallï¼æ•Œå…¨ç­
+showtheendï¼è§‚çœ‹çˆ†æœºåŠ¨ç”»
+missiondoneï¼ç«‹å³è¿‡å…³
+missionfailï¼ä»»åŠ¡å¤±è´¥
+openalldoorï¼æ‰“å¼€æ‰€æœ‰çš„é—¨
+goodhealthï¼åŠ è¡€
+allammoï¼æ‰€æœ‰æ­¦å™¨ã€è£…å¤‡
+laracroftï¼æ¢ä¸ŠLara Croftçš„è¡£æœ 
+enemylookfï¼è§‚çœ‹æ•Œäºº
+enemylookbï¼åè„‘é•¿çœ¼ï¼Ÿï¼Ÿ
+playercoordsï¼å±•ç¤ºæœè£…
+noplayerhitsï¼è®©ä½ ä¸èƒ½å¼€æªå°„å‡»
 

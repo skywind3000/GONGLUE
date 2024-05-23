@@ -1,15 +1,15 @@
-Crusaders of Might & Magic(ħ��ʮ�־�)
+Crusaders of Might & Magic(魔法十字军)
 
-��[ENTER]�����������ؼ���
+按[ENTER]键输入以下秘技：
 Code Result
--EMBIGGENME �ϵ�ģʽ
--CRAZYGUY ���з���ͳ�����
--WHOAH ����ģʽ��LMB=���٣�RMB=���٣�
--UBERLOAD ����
--SHOWFPS ��ʾ֡��
--CALCFPS ����֡��
--DEBUG ��ʾ������Ϣ
--BOUNDINGBOX ��Ŀ����Χ���Ʒ�Χ�� 
--3DNOW! 3D��ʾ����/�أ�
-CSWIRE ������ʾ����/�أ�
-ע�⣺���š�-��ҲҪ���롣
+-EMBIGGENME 上帝模式
+-CRAZYGUY 所有符咒和超能力
+-WHOAH 飞行模式（LMB=快速，RMB=慢速）
+-UBERLOAD 跳关
+-SHOWFPS 显示帧速
+-CALCFPS 计算帧速
+-DEBUG 显示调试信息
+-BOUNDINGBOX 在目标周围绘制范围框 
+-3DNOW! 3D显示（开/关）
+CSWIRE 地形显示（开/关）
+注意：负号“-”也要输入。
