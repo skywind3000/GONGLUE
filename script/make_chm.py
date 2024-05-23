@@ -144,6 +144,8 @@ class ChmBook (object):
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
+        gonglue.clear_html()
+        gonglue.compile_to_html()
         book = ChmBook()
         book.create_hhp()
         book.create_hhc()
