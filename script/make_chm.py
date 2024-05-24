@@ -58,6 +58,11 @@ class ChmBook (object):
                 else:
                     for fn in self.htmls['*']:
                         f.write(f'html\\{fn}\n')
+            for root, dirs, files in os.walk(gonglue.IMAGES):
+                for fn in files:
+                    img = os.path.join(root, fn)
+                    img = os.path.relpath(img, gonglue.IMAGES)
+                    f.write(f'images\\{img}\n')
             f.write('\n')
             f.write('[INFOTYPES]\n')
             f.write('\n')
@@ -147,10 +152,9 @@ class ChmBook (object):
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
-        gonglue.clear_html()
-        gonglue.compile_to_html()
+        gonglue.prepare()
         book = ChmBook()
-        book.create_hhp(0)
+        book.create_hhp(1)
         book.create_hhc()
         book.create_hhk()
         book.build()

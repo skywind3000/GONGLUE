@@ -21,6 +21,7 @@ PROJECT = os.path.abspath(os.path.join(FILEDIR, '..'))
 GONGLUE = os.path.join(PROJECT, 'GONGLUE')
 BUILD = os.path.join(PROJECT, 'build')
 HTMLDIR = os.path.join(BUILD, 'html')
+IMAGES = os.path.join(BUILD, 'images')
 
 
 #----------------------------------------------------------------------
@@ -243,6 +244,27 @@ def clear_html():
 
 
 #----------------------------------------------------------------------
+# copy images
+#----------------------------------------------------------------------
+def copy_images():
+    import shutil
+    if os.path.isdir(IMAGES):
+        shutil.rmtree(IMAGES)
+    shutil.copytree(os.path.join(PROJECT, 'images'), IMAGES)
+    return 0
+
+
+#----------------------------------------------------------------------
+# prepare work
+#----------------------------------------------------------------------
+def prepare():
+    clear_html()
+    copy_images()
+    compile_to_html()
+    return 0
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
@@ -268,6 +290,7 @@ if __name__ == '__main__':
         pprint.pprint(html_files)
         return 0
     def test5():
+        # copy_images()
         return 0
     test5()
 
