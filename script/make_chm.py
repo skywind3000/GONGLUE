@@ -23,7 +23,7 @@ class ChmBook (object):
     def __init__ (self):
         self.htmls = gonglue.list_html()
 
-    def create_hhp (self):
+    def create_hhp (self, enable_search = True):
         hhp = os.path.join(gonglue.BUILD, 'chm.hhp')
         version = time.strftime('%Y-%m-%d')
         with open(hhp, 'w', encoding = 'gbk') as f:
@@ -38,7 +38,10 @@ class ChmBook (object):
             f.write('Default Window=MyWindow\n')
             f.write('Default topic=html\\INTRO.html\n')
             f.write('Display compile progress=Yes\n')
-            f.write('Full-text search=Yes\n')
+            if enable_search:
+                f.write('Full-text search=Yes\n')
+            else:
+                f.write('Full-text search=No\n')
             f.write('Language=0x804 Chinese (Simplified, PRC)\n')
             f.write(f'Title=游戏攻略秘籍汇编（{version}）\n')
             f.write('\n')
@@ -147,7 +150,7 @@ if __name__ == '__main__':
         gonglue.clear_html()
         gonglue.compile_to_html()
         book = ChmBook()
-        book.create_hhp()
+        book.create_hhp(0)
         book.create_hhc()
         book.create_hhk()
         book.build()
