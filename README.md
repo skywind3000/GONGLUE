@@ -16,12 +16,12 @@
 
 导出 HTML 时会将第一行作为标题。
 
-而使用 Markdown 时，也会将第一行文字作为本页的标题。
+而使用 Markdown 时，也会将第一个标题（井号开头的行）作为本页的标题。
 
 
 ## 电子书
 
-使用 `script` 目录里的 `make_chm.py` 可以生成 chm 文件，但需要提前安装好 Html Help Workshop 并且可以在 `$PATH` 中找到 `hhc.exe` 程序。
+使用 `script` 目录里的 `make_chm.py` 和 `make_epub.py` 可以生成 chm 和 epub 电子书，但需要提前安装好 Html Help Workshop 并且可以在 `$PATH` 中找到 `hhc.exe` 程序。
 
 同时需要依赖下面几个 Python 库：
 
