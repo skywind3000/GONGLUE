@@ -35,6 +35,9 @@ class EpubBook (object):
         book.spine = []
         self.css_epub = None
         self.css_nav = None
+        image = os.path.join(gonglue.PROJECT, 'images/cover.jpg')
+        book.set_cover('cover.jpg', open(image, 'rb').read())
+        book.spine = ['cover', 'nav']
 
     def add_html (self):
         book = self.book
@@ -46,6 +49,7 @@ class EpubBook (object):
                 filename = os.path.join(gonglue.BUILD, srcname)
                 item = epub.EpubHtml(title=title, file_name=srcname)
                 item.content = gonglue.read_file_content(filename)
+                item.media_type = 'application/xhtml+xml'
                 item.add_item(self.css_epub)
                 book.add_item(item)
                 book.toc.append(item)
@@ -62,6 +66,7 @@ class EpubBook (object):
                 filename = os.path.join(gonglue.BUILD, srcname)
                 item = epub.EpubHtml(title=title, file_name=srcname)
                 item.content = gonglue.read_file_content(filename)
+                item.media_type = 'application/xhtml+xml'
                 item.add_item(self.css_epub)
                 book.add_item(item)
                 book.spine.append(item)
@@ -69,8 +74,7 @@ class EpubBook (object):
                 count += 1
                 if count > 5 and 1:
                     break
-            section[1] = tuple(section[1])
-            book.toc.append(tuple(section))
+            book.toc.append(section)
         return 0
 
     def add_images (self):
@@ -98,11 +102,6 @@ class EpubBook (object):
         self.css_nav = item
         return 0
 
-    def add_cover (self):
-        book = self.book
-        book.add_item(epub.EpubCover())
-        return 0
-
     def build (self):
         print('building epub...')
         book = self.book
@@ -120,12 +119,11 @@ class EpubBook (object):
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
-        # gonglue.prepare()
+        gonglue.prepare()
         book = EpubBook()
         book.init()
         book.add_images()
         book.add_html()
-        book.add_cover()
         book.build()
         return 0
     test1()
