@@ -11,7 +11,7 @@
 import sys
 import time
 import os
-import ebooklib.epub as epub
+from ebooklib import epub
 import gonglue
 
 
@@ -63,7 +63,7 @@ class EpubBook (object):
                 book.spine.append(item)
                 section[1].append(item)
                 count += 1
-                if count > 5 and 0:
+                if count > 5 and 1:
                     break
             section[1] = tuple(section[1])
             book.toc.append(tuple(section))
@@ -82,6 +82,15 @@ class EpubBook (object):
                     item.content = f.read()
                 book.add_item(item)
                 print('+', srcname, mimetype)
+        name = os.path.join(gonglue.PROJECT, 'images/style_epub.css')
+        item = epub.EpubItem(uid = "style_default", file_name = 'style/default.css', media_type='text/css')
+        item.content = gonglue.read_file_content(name)
+        book.add_item(item)
+        return 0
+
+    def add_cover (self):
+        book = self.book
+        book.add_item(epub.EpubCover())
         return 0
 
     def build (self):
@@ -90,8 +99,7 @@ class EpubBook (object):
         # toc: table of content (index menu)
         book.add_item(epub.EpubNcx())
         # navi pages
-        # epub.add_item(epub.EpubNav())
-        book.add_item(epub.EpubCover())
+        book.add_item(epub.EpubNav())
         epub.write_epub(f'{gonglue.BUILD}/GONGLUE.epub', book, {})
         return 0
 
@@ -104,8 +112,9 @@ if __name__ == '__main__':
     def test1():
         book = EpubBook()
         book.init()
-        book.add_html()
         book.add_images()
+        book.add_html()
+        book.add_cover()
         book.build()
         return 0
     test1()
