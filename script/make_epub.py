@@ -26,30 +26,43 @@ class EpubBook (object):
 
     def init (self):
         epub = self.epub
-        epub.set_identifier('GAMEGUIDE20240524')
+        uuid = 'GAMEGUIDE-LW-' + time.strftime('%Y%m%d%H%M%S')
+        epub.set_identifier(uuid)
         epub.set_title('Game Guide')
         epub.add_author('skywind')
         epub.set_language('zh')
 
     def add_html (self):
         epub = self.epub
-        for dirname in self.htmls:
-            count = 0
-            for fn in self.htmls[dirname]:
-                title = self.htmls[dirname][fn]
-                if dirname != '*':
-                    srcname = f'html/{dirname}/{fn}'
-                else:
-                    srcname = f'html/{fn}'
+        if '*' in self.htmls:
+            for fn in self.htmls['*']:
+                title = self.htmls['*'][fn]
+                srcname = f'html/{fn}'
                 print(srcname)
                 filename = os.path.join(gonglue.BUILD, srcname)
                 item = ebooklib.epub.EpubHtml(title=title, file_name=srcname)
                 item.content = gonglue.read_file_content(filename)
                 epub.add_item(item)
                 epub.toc.append(item)
+        for dirname in self.htmls:
+            count = 0
+            if dirname == '*':
+                continue
+            section = [ebooklib.epub.Section(dirname), []]
+            for fn in self.htmls[dirname]:
+                title = self.htmls[dirname][fn]
+                srcname = f'html/{dirname}/{fn}'
+                print(srcname)
+                filename = os.path.join(gonglue.BUILD, srcname)
+                item = ebooklib.epub.EpubHtml(title=title, file_name=srcname)
+                item.content = gonglue.read_file_content(filename)
+                epub.add_item(item)
+                section[1].append(item)
                 count += 1
-                if count > 10:
+                if count > 5:
                     break
+            section[1] = tuple(section[1])
+            epub.toc.append(tuple(section))
         return 0
 
     def add_images (self):
@@ -58,12 +71,25 @@ class EpubBook (object):
             for fn in files:
                 filename = os.path.join(root, fn)
                 srcname = os.path.relpath(filename, gonglue.IMAGES)
+                srcname = f'images/{srcname}'
                 mimetype = gonglue.guess_mimetype(filename)
                 item = ebooklib.epub.EpubItem(file_name=srcname, media_type=mimetype)
                 with open(filename, 'rb') as f:
                     item.content = f.read()
                 epub.add_item(item)
                 print('+', srcname, mimetype)
+        return 0
+
+    def build (self):
+        print('building epub...')
+        epub = self.epub
+        # toc: table of content (index menu)
+        epub.add_item(ebooklib.epub.EpubNcx())
+        # navi pages
+        # epub.add_item(ebooklib.epub.EpubNav())
+        epub.spine = ['nav'] + self.epub.toc
+        epub.add_item(ebooklib.epub.EpubCover())
+        ebooklib.epub.write_epub(f'{gonglue.BUILD}/GONGLUE.epub', epub, {})
         return 0
 
 
@@ -77,6 +103,7 @@ if __name__ == '__main__':
         book.init()
         book.add_html()
         book.add_images()
+        book.build()
         return 0
     test1()
 
