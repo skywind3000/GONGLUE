@@ -19,9 +19,16 @@
 而使用 Markdown 时，也会将第一行文字作为本页的标题。
 
 
-## 生成电子书
+## 电子书
 
 使用 `script` 目录里的 `make_chm.py` 可以生成 chm 文件，但需要提前安装好 Html Help Workshop 并且可以在 `$PATH` 中找到 `hhc.exe` 程序。
+
+同时需要依赖下面几个 Python 库：
+
+- markdown
+- ebooklib
+
+不想自己编译的话，也可以到 [Release](releases) 页面里下载预先编译好的版本。
 
 ## History
 
@@ -32,6 +39,7 @@
 
 - [X] 完成分类
 - [X] 支持 Markdown
+- [x] 支持内置图片
 - [X] 导出成 chm 的脚本
 - [ ] 导出成 epub 的脚本
 - [ ] CI 自动生成电子书
