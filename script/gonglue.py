@@ -75,6 +75,47 @@ def read_file_title(filename):
 
 
 #----------------------------------------------------------------------
+# read file content
+#----------------------------------------------------------------------
+def read_file_content(filename, encoding = 'utf-8'):
+    with open(filename, 'r', encoding = encoding, errors = 'ignore') as f:
+        return f.read()
+    return None
+
+
+#----------------------------------------------------------------------
+# read file binary
+#----------------------------------------------------------------------
+def read_file_binary(filename):
+    with open(filename, 'rb') as f:
+        return f.read()
+    return None
+
+
+#----------------------------------------------------------------------
+# guess mimetype
+#----------------------------------------------------------------------
+def guess_mimetype(filename):
+    extname = os.path.splitext(filename)[-1].lower()
+    if extname in ('.jpg', '.jpeg'):
+        return 'image/jpeg'
+    elif extname == '.gif':
+        return 'image/gif'
+    elif extname == '.png':
+        return 'image/png'
+    elif extname == '.css':
+        return 'text/css'
+    elif extname in ('.html', '.htm'):
+        return 'text/html'
+    elif extname == '.txt':
+        return 'text/plain'
+    elif extname == '.md':
+        return 'text/markdown'
+    return 'application/octet-stream'
+
+
+
+#----------------------------------------------------------------------
 # list htmls
 #----------------------------------------------------------------------
 def list_html():
