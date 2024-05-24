@@ -193,7 +193,9 @@ TEMPLATE = '''<!DOCTYPE html>
 <!--STYLE-->
 </head>
 <body>
+<!--BODYHEAD-->
 <!--CONTENT-->
+<!--BODYFOOT-->
 </body>
 </html>
 '''

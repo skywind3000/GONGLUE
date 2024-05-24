@@ -22,9 +22,9 @@ class EpubBook (object):
 
     def __init__ (self):
         self.htmls = gonglue.list_html()
-        self.book = epub.EpubBook()
 
     def init (self):
+        self.book = epub.EpubBook()
         book = self.book
         uuid = 'GAMEGUIDE-LW-' + time.strftime('%Y%m%d%H%M%S')
         book.set_identifier(uuid)
@@ -33,6 +33,8 @@ class EpubBook (object):
         book.set_language('zh')
         book.toc = []
         book.spine = []
+        self.css_epub = None
+        self.css_nav = None
 
     def add_html (self):
         book = self.book
@@ -44,6 +46,7 @@ class EpubBook (object):
                 filename = os.path.join(gonglue.BUILD, srcname)
                 item = epub.EpubHtml(title=title, file_name=srcname)
                 item.content = gonglue.read_file_content(filename)
+                item.add_item(self.css_epub)
                 book.add_item(item)
                 book.toc.append(item)
                 book.spine.append(item)
@@ -59,6 +62,7 @@ class EpubBook (object):
                 filename = os.path.join(gonglue.BUILD, srcname)
                 item = epub.EpubHtml(title=title, file_name=srcname)
                 item.content = gonglue.read_file_content(filename)
+                item.add_item(self.css_epub)
                 book.add_item(item)
                 book.spine.append(item)
                 section[1].append(item)
@@ -86,10 +90,12 @@ class EpubBook (object):
         item = epub.EpubItem(uid = "style_default", file_name = 'style/default.css', media_type='text/css')
         item.content = gonglue.read_file_content(name)
         book.add_item(item)
+        self.css_epub = item
         name = os.path.join(gonglue.PROJECT, 'images/style_nav.css')
         item = epub.EpubItem(uid = "style_nav", file_name = 'style/nav.css', media_type='text/css')
         item.content = gonglue.read_file_content(name)
         book.add_item(item)
+        self.css_nav = item
         return 0
 
     def add_cover (self):
