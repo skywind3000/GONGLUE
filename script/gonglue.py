@@ -55,11 +55,19 @@ def read_file_title(filename):
     title = ''
     if not os.path.isfile(filename):
         return os.path.splitext(os.path.basename(filename))[0]
+    extname = os.path.splitext(filename)[-1].lower()
     with open(filename, 'r', encoding = 'utf-8', errors = 'ignore') as f:
         for line in f:
             line = line.strip('\r\n\t ')
-            if line:
-                title = line.lstrip('# ')
+            if extname == '.md':
+                if line.startswith('# '):
+                    title = line.lstrip('# ')
+                    break
+            elif extname == '.txt':
+                if line:
+                    title = line.lstrip('# ')
+                    break
+            else:
                 break
     if not title:
         title = os.path.splitext(os.path.basename(filename))[0]
@@ -141,6 +149,7 @@ TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <title><!--TITLE--></title>
+<!--STYLE-->
 </head>
 <body>
 <!--CONTENT-->
@@ -151,7 +160,10 @@ TEMPLATE = '''<!DOCTYPE html>
 #----------------------------------------------------------------------
 # convert files
 #----------------------------------------------------------------------
-def convert(srcname, template, htmlfile, footer = None):
+def convert(srcname, template, htmlfile, footer = None, css = None):
+    style = ''
+    if css:
+        style = f'<link rel="stylesheet" href="{css}">'
     if os.path.splitext(srcname)[-1].lower() == '.md':
         import markdown
         with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
@@ -171,6 +183,7 @@ def convert(srcname, template, htmlfile, footer = None):
         content = markdown.markdown(text, extensions = extensions)
         final = template.replace('<!--TITLE-->', title)
         final = final.replace('<!--CONTENT-->', content)
+        final = final.replace('<!--STYLE-->', style)
         if htmlfile:
             with open(htmlfile, 'wt', encoding='utf-8') as f:
                 f.write(final)
@@ -193,6 +206,7 @@ def convert(srcname, template, htmlfile, footer = None):
     content = '<h1>' + title + '</h1>\n\n' + content
     final = template.replace('<!--TITLE-->', title)
     final = final.replace('<!--CONTENT-->', content)
+    final = final.replace('<!--STYLE-->', style)
     if htmlfile:
         with open(htmlfile, 'wt', encoding='utf-8') as f:
             f.write(final)
@@ -214,8 +228,9 @@ def compile_to_html():
             srcname = file_list[dirname][filename]
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
+            css = '../../images/style.css'
             print(f'Generating {relname} ...')
-            t = convert(srcname, TEMPLATE, outname)
+            t = convert(srcname, TEMPLATE, outname, None, css)
             if 0:
                 print(t)
                 sys.exit(1)
@@ -230,7 +245,8 @@ def compile_to_html():
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
             print(f'Generating {relname} ...')
-            t = convert(srcname, TEMPLATE, outname, footer)
+            css = '../images/style_intro.css'
+            t = convert(srcname, TEMPLATE, outname, footer, css)
     return 0
 
 
