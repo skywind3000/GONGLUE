@@ -86,6 +86,10 @@ class EpubBook (object):
         item = epub.EpubItem(uid = "style_default", file_name = 'style/default.css', media_type='text/css')
         item.content = gonglue.read_file_content(name)
         book.add_item(item)
+        name = os.path.join(gonglue.PROJECT, 'images/style_nav.css')
+        item = epub.EpubItem(uid = "style_nav", file_name = 'style/nav.css', media_type='text/css')
+        item.content = gonglue.read_file_content(name)
+        book.add_item(item)
         return 0
 
     def add_cover (self):
@@ -110,6 +114,7 @@ class EpubBook (object):
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
+        # gonglue.prepare()
         book = EpubBook()
         book.init()
         book.add_images()
