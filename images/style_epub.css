@@ -1,5 +1,7 @@
 body {
-    font-family: "Microsoft YaHei", "NSimSun", "Arial";
+    font-family: "Microsoft YaHei", "sans-serif", "Segoe UI", 
+	"Roboto", "Ubuntu", "Cantarell", "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", 
+    "Segoe UI Symbol", "Noto Color Emoji", "NSimSun", "Arial";
 }
 
 h1 {
