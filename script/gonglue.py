@@ -228,7 +228,10 @@ def compile_to_html():
             srcname = file_list[dirname][filename]
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
-            css = '../../images/style.css'
+            if os.path.splitext(filename)[-1].lower() == '.md':
+                css = '../../images/style_md.css'
+            else:
+                css = '../../images/style_txt.css'
             print(f'Generating {relname} ...')
             t = convert(srcname, TEMPLATE, outname, None, css)
             if 0:
@@ -245,7 +248,7 @@ def compile_to_html():
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
             print(f'Generating {relname} ...')
-            css = '../images/style_intro.css'
+            css = '../images/style_top.css'
             t = convert(srcname, TEMPLATE, outname, footer, css)
     return 0
 
