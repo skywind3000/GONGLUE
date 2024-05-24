@@ -167,6 +167,7 @@ def convert(srcname, template, htmlfile, footer = None):
         extensions.append('markdown.extensions.tables')
         extensions.append('markdown.extensions.admonition')
         extensions.append('markdown.extensions.wikilinks')
+        extensions.append('markdown.extensions.nl2br')
         content = markdown.markdown(text, extensions = extensions)
         final = template.replace('<!--TITLE-->', title)
         final = final.replace('<!--CONTENT-->', content)
