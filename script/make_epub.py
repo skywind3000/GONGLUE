@@ -72,7 +72,7 @@ class EpubBook (object):
                 book.spine.append(item)
                 section[1].append(item)
                 count += 1
-                if count > 5 and 1:
+                if count > 5 and 0:
                     break
             book.toc.append(section)
         return 0
