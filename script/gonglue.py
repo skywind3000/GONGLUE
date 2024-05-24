@@ -151,6 +151,28 @@ TEMPLATE = '''<!DOCTYPE html>
 # convert files
 #----------------------------------------------------------------------
 def convert(srcname, template, htmlfile, footer = None):
+    if os.path.splitext(srcname)[-1].lower() == '.md':
+        import markdown
+        with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
+            text = f.read()
+        text += '\n'
+        if footer:
+            text += '\n' + footer
+        title = read_file_title(srcname)
+        extensions = ['markdown.extensions.extra']
+        extensions.append('markdown.extensions.tables')
+        extensions.append('markdown.extensions.toc')
+        extensions.append('markdown.extensions.fenced_code')
+        extensions.append('markdown.extensions.tables')
+        extensions.append('markdown.extensions.admonition')
+        extensions.append('markdown.extensions.wikilinks')
+        content = markdown.markdown(text, extensions = extensions)
+        final = template.replace('<!--TITLE-->', title)
+        final = final.replace('<!--CONTENT-->', content)
+        if htmlfile:
+            with open(htmlfile, 'wt', encoding='utf-8') as f:
+                f.write(final)
+        return final
     title = ''
     with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
         for line in f:

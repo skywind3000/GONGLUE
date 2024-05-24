@@ -169,5 +169,8 @@ cython_debug/
 *.hhc
 *.epub
 /script/test_*.py
+test_*.txt
+test_*.md
+test_*.html
 
 
