@@ -21,7 +21,7 @@
 
 ## 电子书
 
-使用 `script` 目录里的 `make_chm.py` 和 `make_epub.py` 可以生成 chm 和 epub 电子书，但需要提前安装好 Html Help Workshop 并且可以在 `$PATH` 中找到 `hhc.exe` 程序。
+使用 `script` 目录里的 `make_chm.py` 和 `make_epub.py` 可以生成 chm 和 epub 电子书，但需要提前安装好 [Html Help Workshop](https://www.helpandmanual.com/downloads_mscomp.html) 并且可以在 `$PATH` 中找到 `hhc.exe` 程序（我自己做了一个 [精简版](https://github.com/skywind3000/support/releases/tag/1.0.0) 下载里面的 hhc.zip 解压到当前目录即可）。
 
 同时需要依赖下面几个 Python 库：
 
