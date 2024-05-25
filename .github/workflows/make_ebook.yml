@@ -46,8 +46,10 @@ jobs:
     - name: rebuild 
       run: |
         $env:Path += ';.'
-        hhc build/chm.hhp || cat c:/.err
+        hhc build/chm.hhp
         ls 
+        ls build
+        ls script
 
 
     - name: Upload result
