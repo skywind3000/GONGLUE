@@ -65,6 +65,8 @@ class EpubBook (object):
         self.css_nav = None
         image = os.path.join(gonglue.PROJECT, 'images/cover.jpg')
         book.set_cover('cover.jpg', open(image, 'rb').read())
+        cover: epub.EpubItem = book.get_item_with_id('cover')
+        cover.is_linear = True
         book.spine = ['cover', 'nav']
 
     def add_html (self, debug = False):
@@ -137,6 +139,7 @@ class EpubBook (object):
                 if fn == 'style.css':
                     continue
                 srcname = os.path.relpath(filename, gonglue.IMAGES)
+                srcname = srcname.replace('\\', '/')
                 srcname = f'images/{srcname}'
                 mimetype = gonglue.guess_mimetype(filename)
                 item = epub.EpubItem(file_name=srcname, media_type=mimetype)
