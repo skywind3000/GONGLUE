@@ -11,7 +11,7 @@
 import sys
 import time
 import threading
-import Queue
+import queue
 
 
 #----------------------------------------------------------------------
@@ -37,8 +37,8 @@ class TaskExecutor (object):
     def __init__ (self, name = '', num = 1, slap = 0.05):
         self.name = name
         self.stderr = None
-        self.__q1 = Queue.Queue(0)
-        self.__q2 = Queue.Queue(0)
+        self.__q1 = queue.Queue(0)
+        self.__q2 = queue.Queue(0)
         self.__threads = []                 # 线程池
         self.__stop_unconditional = False   # 强制停止标志，有该标志就停止
         self.__stop_empty_queue = False     # 完成停止标志，有该标志且无新任务才退出
@@ -49,12 +49,12 @@ class TaskExecutor (object):
         self.__cond_main = threading.Condition()
 
         self.__slap = slap
-        self.__environ = [ OBJECT() for n in xrange(num) ]
+        self.__environ = [ OBJECT() for n in range(num) ]
         self.__envctor = None               # 线程环境初始化构造函数
         self.__envdtor = None               # 线程环境结束时析构函数
         
     # 输出错误
-    def log_err (self, text):
+    def log (self, text):
         self.__lock_output.acquire()
         if self.stderr:
             self.stderr.write(text + '\n')
@@ -79,7 +79,7 @@ class TaskExecutor (object):
                     self.__cond_main.wait(5)                    
                 else:
                     node = self.__q1.get(True, self.__slap)
-            except Queue.Empty as e:              
+            except Queue.Empty:
                 pass            
             self.__cond_main.release()
             if node is None:
@@ -100,19 +100,19 @@ class TaskExecutor (object):
                     node.ex = e
                     node.ts = time.time() - ts
                     node.ok = False
-                    self.log_err('[%s] error in run(): %s\n%s'%(name, e, callstack()))
-                    #self.log_err('[%s] error in run(): %s'%(name, e))
+                    self.log('[%s] error in run(): %s\n%s'%(name, e, callstack()))
+                    #self.log('[%s] error in run(): %s'%(name, e))
                     #for line in callstack().split('\n'):
-                    #   self.log_err(line)
+                    #   self.log(line)
                 except:
                     node.hr = hr
                     node.ex = None
                     node.ts = time.time() - ts
                     node.ok = False
-                    self.log_err('[%s] unknow error in run()\n%s'%(name, e, callstack()))
-                    #self.log_err('[%s] unknow error in run()'%(name))
+                    self.log('[%s] unknow error in run()\n%s'%(name, e, callstack()))
+                    #self.log('[%s] unknow error in run()'%(name))
                     #for line in callstack().split('\n'):
-                    #   self.log_err(line)
+                    #   self.log(line)
                 node.task.__env__ = None
                 self.__q2.put(node)
             self.__q1.task_done()
@@ -132,9 +132,9 @@ class TaskExecutor (object):
                 break
             try:
                 node = self.__q2.get(False)
-            except Queue.Empty as e:
+            except Queue.Empty:
                 break
-            if node != None:
+            if node is not None:
                 name = 'main'
                 node.task.__error__ = node.ex
                 node.task.__elapse__ = node.ts
@@ -142,40 +142,40 @@ class TaskExecutor (object):
                     try: 
                         node.task.done()
                     except Exception as e: 
-                        self.log_err('[main] error in done(): %s\n%s'%(e, callstack()))
-                        #self.log_err('[main] error in done(): %s'%(e))
+                        self.log('[main] error in done(): %s\n%s'%(e, callstack()))
+                        #self.log('[main] error in done(): %s'%(e))
                         #for line in callstack().split('\n'):
-                        #   self.log_err(line)
+                        #   self.log(line)
                     except:
-                        self.log_err('[main] unknow error in done()\n%s' % (callstack(),))
-                        #self.log_err('[main] unknow error in done()')
+                        self.log('[main] unknow error in done()\n%s' % (callstack(),))
+                        #self.log('[main] unknow error in done()')
                         #for line in callstack().split('\n'):
-                        #   self.log_err(line)
+                        #   self.log(line)
                 else:
                     try: 
                         node.task.error(node.ex)
                     except Exception as e: 
-                        self.log_err('[main] error in error(): %s\n%s'% (e, callstack()))
-                        #self.log_err('[main] error in error(): %s'%e)
+                        self.log('[main] error in error(): %s\n%s'% (e, callstack()))
+                        #self.log('[main] error in error(): %s'%e)
                         #for line in callstack().split('\n'):
-                        #   self.log_err(line)
+                        #   self.log(line)
                     except:
-                        self.log_err('[main] unknow error in error()\n%s' % (callstack(),))
-                        #self.log_err('[main] unknow error in error()')
+                        self.log('[main] unknow error in error()\n%s' % (callstack(),))
+                        #self.log('[main] unknow error in error()')
                         #for line in callstack().split('\n'):
-                        #   self.log_err(line)
+                        #   self.log(line)
                 try: 
                     node.task.final()
                 except Exception as e: 
-                    self.log_err('[main] error in final(): %s\n%s'%(e, callstack()))
-                    #self.log_err('[main] error in final(): %s'%(e))
+                    self.log('[main] error in final(): %s\n%s'%(e, callstack()))
+                    #self.log('[main] error in final(): %s'%(e))
                     #for line in callstack().split('\n'):
-                    #   self.log_err(line)
+                    #   self.log(line)
                 except:
-                    self.log_err('[main] unknow error in final()\n%s' % callstack())
-                    #self.log_err('[main] unknow error in final()')
+                    self.log('[main] unknow error in final()\n%s' % callstack())
+                    #self.log('[main] unknow error in final()')
                     #for line in callstack().split('\n'):
-                    #   self.log_err(line)
+                    #   self.log(line)
                 count += 1
             self.__q2.task_done()
             if node is None:
