@@ -79,7 +79,7 @@ class TaskExecutor (object):
                     self.__cond_main.wait(5)                    
                 else:
                     node = self.__q1.get(True, self.__slap)
-            except Queue.Empty:
+            except queue.Empty:
                 pass            
             self.__cond_main.release()
             if node is None:
@@ -116,7 +116,7 @@ class TaskExecutor (object):
                 node.task.__env__ = None
                 self.__q2.put(node)
             self.__q1.task_done()
-            if node == None:
+            if node is None:
                 break
         if self.__envdtor:
             self.__envdtor(env)
@@ -132,7 +132,7 @@ class TaskExecutor (object):
                 break
             try:
                 node = self.__q2.get(False)
-            except Queue.Empty:
+            except queue.Empty:
                 break
             if node is not None:
                 name = 'main'
@@ -236,8 +236,8 @@ class TaskExecutor (object):
         hr = False
         self.__lock_main.acquire()
         if not self.__threads:
-            self.__q1 = Queue.Queue(0)
-            self.__q2 = Queue.Queue(0)
+            self.__q1 = queue.Queue(0)
+            self.__q2 = queue.Queue(0)
             self.__stop_unconditional = False
             self.__stop_empty_queue = False
             self.__active_thread_num = False
