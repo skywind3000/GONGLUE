@@ -47,6 +47,7 @@ if __name__ == '__main__':
     def test1():
         html = crawler.read_file_content('html/gamersky_ff6.html')
         toc = analyze_toc(html)
+        pprint.pprint(toc)
         return 0
     test1()
 
