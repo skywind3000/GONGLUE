@@ -42,6 +42,13 @@ jobs:
 
     - name: Check output
       run: ls build
+    
+    - name: rebuild 
+      run: |
+        $env:Path += ';.'
+        hhc build/chm.hhp || cat c:/.err
+        ls 
+
 
     - name: Upload result
       uses: actions/upload-artifact@v4.3.3
