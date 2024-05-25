@@ -29,9 +29,12 @@ jobs:
       run: |
         python script/make_epub.py
 
-    - name: download chm
+    - name: download html_help_workshop
       run: |
-        curl https://github.com/EWSoftware/SHFB/raw/master/ThirdPartyTools/htmlhelp.exe > hhc.exe 
+        curl https://github.com/cayi-77/html_help_workshop_achive/raw/main/html_help_workshop.zip -L > hhh.zip
+        7z x hhh.zip
+        ls
+        ls hhh
 
     - name: Build chm
       run: |
