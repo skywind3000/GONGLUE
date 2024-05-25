@@ -1,3 +1,4 @@
-markdown>=3.5
-ebooklib>=0.18
+markdown==3.5
+ebooklib==0.18
+beautifulsoup4==4.11.1
 
