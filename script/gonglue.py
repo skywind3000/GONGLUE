@@ -27,8 +27,7 @@ IMAGES = os.path.join(BUILD, 'images')
 # change code page
 #----------------------------------------------------------------------
 
-reload(sys)
-sys.setdefaultencoding('UTF8')
+print(sys.getdefaultencoding())
 
 #----------------------------------------------------------------------
 # list text files
