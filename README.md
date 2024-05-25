@@ -27,6 +27,7 @@
 
 - markdown
 - ebooklib
+- beautifulsoup4
 
 不想自己编译的话，也可以到 [Release](releases) 页面里下载预先编译好的版本。
 
