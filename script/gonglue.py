@@ -23,12 +23,6 @@ BUILD = os.path.join(PROJECT, 'build')
 HTMLDIR = os.path.join(BUILD, 'html')
 IMAGES = os.path.join(BUILD, 'images')
 
-#----------------------------------------------------------------------
-# change code page
-#----------------------------------------------------------------------
-
-reload(sys)
-sys.setdefaultencoding('UTF8')
 
 #----------------------------------------------------------------------
 # list text files
@@ -281,7 +275,7 @@ def compile_to_html():
                 css = '../../images/style_md.css'
             else:
                 css = '../../images/style_txt.css'
-            print(f'Generating {relname} ...')
+            # print(f'Generating {relname} ...') bad encoding in CI
             t = convert(srcname, TEMPLATE, outname, None, css)
             if 0:
                 print(t)

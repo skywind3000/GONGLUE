@@ -118,6 +118,8 @@ class EpubBook (object):
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
+    sys.stdin.reconfigure(encoding='utf-8')
+    sys.stdout.reconfigure(encoding='utf-8')
     def test1():
         gonglue.prepare()
         book = EpubBook()
