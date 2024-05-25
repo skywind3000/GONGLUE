@@ -23,6 +23,12 @@ BUILD = os.path.join(PROJECT, 'build')
 HTMLDIR = os.path.join(BUILD, 'html')
 IMAGES = os.path.join(BUILD, 'images')
 
+#----------------------------------------------------------------------
+# change code page
+#----------------------------------------------------------------------
+
+reload(sys)
+sys.setdefaultencoding('UTF8')
 
 #----------------------------------------------------------------------
 # list text files
