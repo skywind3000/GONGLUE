@@ -10,20 +10,34 @@
 #======================================================================
 import sys
 import time
+import pprint
+import bs4
 
 import crawler
 
 
 #----------------------------------------------------------------------
+# global
+#----------------------------------------------------------------------
+URL = 'https://www.gamersky.com/handbook/201512/694858.shtml'
+
+
+#----------------------------------------------------------------------
 # 
 #----------------------------------------------------------------------
-def main ():
-    url = 'http://www.gamersky.com/ent/202405/1481985.shtml'
-    c = crawler.Crawler()
-    c.fetch(url)
-    print(c.title)
-    print(c.content)
-    return 0
+def analyze_toc(html):
+    toc = []
+    soup = bs4.BeautifulSoup(html, 'html.parser')
+    div = soup.find('div', class_ = 'Content_Paging')
+    assert div
+    for li in div.find_all('li'):
+        a = li.find('a')
+        if not a:
+            continue
+        href = a.get('href')
+        title = a.get_text()
+        toc.append((title, href))
+    return toc
 
 
 #----------------------------------------------------------------------
@@ -31,7 +45,8 @@ def main ():
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
-        
+        html = crawler.read_file_content('html/gamersky_ff6.html')
+        toc = analyze_toc(html)
         return 0
     test1()
 
