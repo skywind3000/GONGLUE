@@ -27,6 +27,15 @@ jobs:
 
     - name: Build epub
       run: |
-        chcp 65001
         python script/make_epub.py
 
+    - name: download chm
+      run: |
+        curl http://web.archive.org/web/20160201063255/http://download.microsoft.com/download/0/A/9/0A939EF6-E31C-430F-A3DF-DFAE7960D564/htmlhelp.exe
+        ls
+        mv htmlhelp.exe hhc.exe
+
+    - name: Build chm
+      run: |
+        $env:Path += ';.;D:\a\GONGLUE\GONGLUE' 
+        python script/make_chm.py
