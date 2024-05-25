@@ -275,7 +275,7 @@ def compile_to_html():
                 css = '../../images/style_md.css'
             else:
                 css = '../../images/style_txt.css'
-            # print(f'Generating {relname} ...') bad encoding in CI
+            print(f'Generating {relname} ...')
             t = convert(srcname, TEMPLATE, outname, None, css)
             if 0:
                 print(t)
