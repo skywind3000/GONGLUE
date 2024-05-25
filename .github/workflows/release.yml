@@ -1,0 +1,50 @@
+name: Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      working-directory: script
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run script
+      working-directory: script
+      run: |
+        python make_epub.py
+        python make_chm.py
+        ls ../build
+
+    - name: Upload epub
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ github.event.release.upload_url }}
+        asset_path: ./build/GONGLUE.epub
+        asset_name: GONGLUE.epub
+        asset_content_type: application/octet-stream
+
+    # - name: Upload chm
+    #   uses: actions/upload-release-asset@v1
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #   with:
+    #     upload_url: ${{ github.event.release.upload_url }}
+    #     asset_path: ./build/GONGLUE.chm
+    #     asset_name: GONGLUE.chm
+    #     asset_content_type: application/octet-stream
