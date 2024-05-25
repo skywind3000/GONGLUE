@@ -29,7 +29,7 @@ jobs:
       run: |
         python script/make_epub.py
 
-    - name: download html_help_workshop
+    - name: Download html_help_workshop
       run: |
         curl https://github.com/cayi-77/html_help_workshop_achive/raw/main/html_help_workshop.zip -L > hhh.zip
         7z x hhh.zip
@@ -39,3 +39,13 @@ jobs:
       run: |
         $env:Path += ';.' 
         python script/make_chm.py
+
+    - name: Check output
+      run: ls build
+
+    - name: Upload result
+      uses: actions/upload-artifact@v4.3.3
+      with: 
+        # name: # optional, default is artifact 
+        path: build 
+  
