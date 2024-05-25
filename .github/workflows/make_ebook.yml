@@ -27,5 +27,6 @@ jobs:
 
     - name: Build epub
       run: |
+        chcp 65001
         python script/make_epub.py
 
