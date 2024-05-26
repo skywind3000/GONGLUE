@@ -175,5 +175,8 @@ test_*.md
 test_*.html
 
 /script/crawlers/html/*
+/script/crawlers/image/*
+/script/crawlers/cache/*
+/script/crawlers/out/*
 
 
