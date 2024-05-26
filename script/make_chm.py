@@ -151,16 +151,28 @@ class ChmBook (object):
 
 
 #----------------------------------------------------------------------
+# build chm
+#----------------------------------------------------------------------
+def build_chm():
+    gonglue.prepare()
+    book = ChmBook()
+    print('Creating hhp/hhc/hhk ...')
+    book.create_hhp(enable_search = 0)
+    book.create_hhc()
+    book.create_hhk()
+    print('Building chm ...')
+    print('')
+    sys.stdout.flush()
+    book.build()
+    return 0
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
-        gonglue.prepare()
-        book = ChmBook()
-        book.create_hhp(enable_search = 0)
-        book.create_hhc()
-        book.create_hhk()
-        book.build()
+        build_chm()
         return 0
     test1()
 
