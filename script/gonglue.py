@@ -274,7 +274,7 @@ def convert(srcname, template, htmlfile, footer = None, css = None):
 #----------------------------------------------------------------------
 # compile to html
 #----------------------------------------------------------------------
-def compile_to_html():
+def compile_to_html(verbose = False):
     file_list = list_text()
     for dirname in file_list:
         if dirname == '*':
@@ -290,7 +290,8 @@ def compile_to_html():
                 css = '../../images/style_md.css'
             else:
                 css = '../../images/style_txt.css'
-            print(f'Generating {relname} ...')
+            if verbose:
+                print(f'Generating {relname} ...')
             t = convert(srcname, TEMPLATE, outname, None, css)
             if 0:
                 print(t)
@@ -305,7 +306,8 @@ def compile_to_html():
             srcname = file_list['*'][filename]
             outname = os.path.join(target, os.path.splitext(filename)[0] + '.html')
             relname = os.path.relpath(outname, BUILD)
-            print(f'Generating {relname} ...')
+            if verbose:
+                print(f'Generating {relname} ...')
             css = '../images/style_top.css'
             t = convert(srcname, TEMPLATE, outname, footer, css)
     return 0
@@ -336,9 +338,14 @@ def copy_images():
 # prepare work
 #----------------------------------------------------------------------
 def prepare():
+    print('Initializing ...')
     clear_html()
+    print('Copying images ...')
     copy_images()
+    print('Compiling to html ...')
     compile_to_html()
+    print('Ready to proceed.')
+    print('')
     return 0
 
 
