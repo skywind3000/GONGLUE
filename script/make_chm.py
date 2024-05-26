@@ -47,7 +47,10 @@ class ChmBook (object):
             f.write('\n')
             f.write('[WINDOWS]\n')
             w = f'"游戏攻略秘籍汇编（{version})",'
-            w += r'"chm.hhc","chm.hhk","html\INTRO.html","html\INTRO.html",,,,,0x63520,,0x384e,[0,0,500,400],,,,,,,0'
+            if enable_search:
+                w += r'"chm.hhc","chm.hhk","html\INTRO.html","html\INTRO.html",,,,,0x63520,,0x384e,[0,0,500,400],,,,,,,0'
+            else:
+                w += r'"chm.hhc","chm.hhk","html\INTRO.html","html\INTRO.html",,,,,0x43120,,0x384e,[0,0,500,400],,,,,,,0'               
             f.write(f'MyWindow={w}\n')
             f.write('\n')
             f.write('[FILES]\n')
@@ -154,7 +157,7 @@ if __name__ == '__main__':
     def test1():
         gonglue.prepare()
         book = ChmBook()
-        book.create_hhp(1)
+        book.create_hhp(enable_search = 0)
         book.create_hhc()
         book.create_hhk()
         book.build()
