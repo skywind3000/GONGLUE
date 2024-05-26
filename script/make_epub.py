@@ -71,7 +71,6 @@ class EpubBook (object):
 
     def add_html (self, debug = False):
         book = self.book
-        mode = 1
         index = 0
         category = 0
         if '*' in self.htmls:
