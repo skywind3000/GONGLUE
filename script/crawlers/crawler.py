@@ -167,15 +167,42 @@ def read_file_content(filename):
 
 
 #----------------------------------------------------------------------
+# download file
+#----------------------------------------------------------------------
+def download(url, filename):
+    import requests
+    r: requests.Response = lazy.get(None, url)
+    if r is None:
+        raise IOError(-1, f'download failed: {url}')
+    if r.status_code != 200:
+        code = r.status_code
+        raise IOError(code, f'download failed({code}): {url}')
+    mime = r.headers.get('Content-Type', 'application/octet-stream')
+    if mime.startswith('text/'):
+        text = r.text
+        with open(filename, 'w', encoding = 'utf-8') as f:
+            f.write(text)
+        print(f'download text: {filename}')
+    else:
+        with open(filename, 'wb') as f:
+            f.write(r.content)
+        print(f'download binary: {filename}')
+    return 0
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
+    def test0():
+        return 0
     def test1():
         t = fetch('http://www.baidu.com/')
         print(t)
         return 0
     def test2():
+        download('http://www.baidu.com/', 'html/baidu.html')
         return 0
-    test2()
+    test0()
 
 
