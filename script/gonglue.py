@@ -346,6 +346,7 @@ def prepare():
     compile_to_html()
     print('Ready to proceed.')
     print('')
+    sys.stdout.flush()
     return 0
 
 
