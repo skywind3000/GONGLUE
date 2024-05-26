@@ -71,7 +71,7 @@ class EpubBook (object):
 
     def add_html (self, debug = False):
         book = self.book
-        mode = 0
+        mode = 1
         index = 0
         category = 0
         if '*' in self.htmls:
@@ -90,11 +90,7 @@ class EpubBook (object):
                 item.add_item(self.css_epub)
                 book.add_item(item)
                 book.spine.append(item)
-                if mode == 0:
-                    book.toc.append(item)
-                else:
-                    link = epub.Link(srcname, title, srcname)
-                    book.toc.append(link)
+                book.toc.append(item)
         for dirname in self.htmls:
             count = 0
             if dirname == '*':
@@ -117,14 +113,12 @@ class EpubBook (object):
                 item.add_item(self.css_epub)
                 book.add_item(item)
                 book.spine.append(item)
-                if mode == 0:
-                    section[1].append(item)
-                else:
-                    link = epub.Link(srcname, title, srcname)
-                    section[1].append(link)
+                section[1].append(item)
                 count += 1
                 if count > 5 and debug:
                     break
+            if len(section[1]) > 0:
+                section[0].href = section[1][0].file_name
             book.toc.append(section)
         return 0
 
