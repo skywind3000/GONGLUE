@@ -26,7 +26,7 @@ def patch_html(html):
         src = tag.get('src')
         if src:
             pos = src.find('/images/')
-            if pos >= 0:
+            if pos >= 0 and src.startswith('../'):
                 tag['src'] = 'images/' + src[pos + 8:]
     for tag in soup.find_all('link'):
         href = tag.get('href')
