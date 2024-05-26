@@ -214,6 +214,28 @@ def ensure_dir(dirname):
 
 
 #----------------------------------------------------------------------
+# string_crc32: useful for changing remote image url to local file
+#----------------------------------------------------------------------
+def string_crc32(text):
+    import zlib
+    crc32 = zlib.crc32(text.encode('utf-8')) & 0xffffffff
+    text = '%08x' % crc32
+    return text.lower()
+
+
+#----------------------------------------------------------------------
+# image_local: change remote image url to local file
+#----------------------------------------------------------------------
+def image_local(url, dirname):
+    name = string_crc32(url)
+    ext = url.split('.')[-1].lower()
+    if ext not in ('jpg', 'jpeg', 'png', 'gif', 'bmp'):
+        ext = 'jpg'
+    name = os.path.join(dirname, 'image_' + name + '.' + ext)
+    return name.replace('\\', '/')
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
@@ -226,6 +248,9 @@ if __name__ == '__main__':
     def test2():
         download('http://www.baidu.com/', 'html/baidu.html')
         return 0
-    test0()
+    def test3():
+        print(string_crc32('http://www.baidu.com/'))
+        return 0
+    test3()
 
 
