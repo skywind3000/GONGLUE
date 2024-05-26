@@ -33,7 +33,7 @@ def download_html():
         else:
             url = URL[:-6] + f'_{c+1}.shtml'
         print(f'downloading {url}')
-        outname = f'html/ff6/c{c}.html'
+        outname = f'html/ff6/c{c+1}.html'
         crawler.download(url, outname)
     return 0
 
@@ -57,6 +57,13 @@ def analyze_toc(html):
 
 
 #----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def analyze_html(html):
+    return 0
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
@@ -68,6 +75,8 @@ if __name__ == '__main__':
     def test2():
         download_html()
         return 0
-    test1()
+    def test3():
+        return 0
+    test3()
 
 

@@ -190,7 +190,10 @@ def download(url, filename):
         raise IOError(code, f'download failed({code}): {url}')
     mime = r.headers.get('Content-Type', 'application/octet-stream')
     if mime.startswith('text/'):
-        text = r.text
+        if r.content:
+            text = r.content.decode('utf-8', errors = 'ignore')
+        else:
+            text = r.text
         with open(filename, 'w', encoding = 'utf-8') as f:
             f.write(text)
         print(f'download text: {filename}')
