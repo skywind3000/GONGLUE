@@ -25,6 +25,22 @@ URL = 'https://www.gamersky.com/handbook/201512/694858.shtml'
 #----------------------------------------------------------------------
 # 
 #----------------------------------------------------------------------
+def download_html():
+    crawler.ensure_dir('html/ff6')
+    for c in range(31):
+        if c == 0:
+            url = URL
+        else:
+            url = URL[:-6] + f'_{c+1}.shtml'
+        print(f'downloading {url}')
+        outname = f'html/ff6/c{c}.html'
+        crawler.download(url, outname)
+    return 0
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
 def analyze_toc(html):
     toc = []
     soup = bs4.BeautifulSoup(html, 'html.parser')
@@ -48,6 +64,9 @@ if __name__ == '__main__':
         html = crawler.read_file_content('html/gamersky_ff6.html')
         toc = analyze_toc(html)
         pprint.pprint(toc)
+        return 0
+    def test2():
+        download_html()
         return 0
     test1()
 

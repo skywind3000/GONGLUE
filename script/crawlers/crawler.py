@@ -14,6 +14,17 @@ import os
 
 
 #----------------------------------------------------------------------
+# internals
+#----------------------------------------------------------------------
+DIRNAME = os.path.dirname(os.path.abspath(__file__))
+PROJECT = os.path.abspath(os.path.join(DIRNAME, '../..'))
+BUILD = os.path.join(PROJECT, 'build')
+CACHE = os.path.join(PROJECT, '.cache')
+SCRIPT = os.path.join(PROJECT, 'script')
+CRAWLER = os.path.join(PROJECT, 'script/crawler')
+
+
+#----------------------------------------------------------------------
 # LazyRequests
 #----------------------------------------------------------------------
 class LazyRequests (object):
@@ -187,6 +198,15 @@ def download(url, filename):
         with open(filename, 'wb') as f:
             f.write(r.content)
         print(f'download binary: {filename}')
+    return 0
+
+
+#----------------------------------------------------------------------
+# ensure_dir 
+#----------------------------------------------------------------------
+def ensure_dir(dirname):
+    if not os.path.exists(dirname):
+        os.makedirs(dirname)
     return 0
 
 
