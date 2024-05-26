@@ -178,5 +178,6 @@ test_*.html
 /script/crawlers/image/*
 /script/crawlers/cache/*
 /script/crawlers/out/*
+/script/crawlers/test_*.py
 
 

@@ -236,6 +236,37 @@ def image_local(url, dirname):
 
 
 #----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def html_to_markdown(html, **options):
+    import markdownify
+    import bs4
+    if isinstance(html, str):
+        md = markdownify.markdownify(html, **options)
+    elif isinstance(html, bs4.element.Tag):
+        md = markdownify.MarkdownConverter(**options).convert_soup(html)
+    else:
+        raise TypeError('html_to_markdown: invalid type')
+    return md
+
+
+#----------------------------------------------------------------------
+# merge empty lines
+#----------------------------------------------------------------------
+def merge_empty_lines(input_text):
+    lines = input_text.split('\n')
+    output_text = []
+    for line in lines:
+        if line.strip() == '':
+            line = ''
+        if line == '':
+            if output_text and output_text[-1].strip() == '':
+                continue
+        output_text.append(line)
+    return '\n'.join(output_text)
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':

@@ -111,7 +111,77 @@ def download_images(soup):
                 print(f'downloading {filename}')
                 crawler.download(src, filename)
             else:
-                print(f'already downloaded {filename}')
+                # print(f'already downloaded {filename}')
+                pass
+    return 0
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def table_unwrap(soup: bs4.element.Tag):
+    for table in soup.find_all('table', class_ = 'table2'):
+        td1 = table.td
+        td2 = td1.find_next_sibling()
+        if td2.img:
+            td1, td2 = td2, td1
+        div = bs4.BeautifulSoup('<div></div>', 'html.parser').div
+        p1 = bs4.BeautifulSoup('<p></p>', 'html.parser').p
+        p2 = bs4.BeautifulSoup('<p></p>', 'html.parser').p
+        p1.append(td1)
+        p2.append(td2)
+        div.append(p1)
+        div.append(p2)
+        table.replace_with(div)
+        td1.unwrap()
+        td2.unwrap()
+    return 0
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def clear_markdown(md: str):
+    md = md.strip('\r\n')
+    md = crawler.merge_empty_lines(md)
+    foot = '更多相关内容请关注：最终幻想6专区'
+    if md.endswith(foot):
+        md = md[:-len(foot)].strip('\r\n\t ')
+        md += '\n'
+    md = '\n'.join(md.split('\n')[1:]).lstrip('\r\n')
+    content = []
+    for line in md.split('\n'):
+        line = line.rstrip('\r\n\t ')
+        if line.startswith('**') and line.endswith('**'):
+            line = line[2:-2]
+            line = '## ' + line
+        content.append(line)
+    return '\n'.join(content)
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def export_markdown():
+    merge = []
+    merge.append('# 最终幻想6攻略')
+    merge.append('')
+    for chapter in range(1, 32):
+        srcname = f'html/ff6/c{chapter}.html'
+        dstname = f'html/ff6/m{chapter}.md'
+        print('processing', srcname)
+        html = crawler.read_file_content(srcname)
+        soup = purify_html(html)
+        download_images(soup)
+        table_unwrap(soup)
+        opts = {}
+        md = crawler.html_to_markdown(soup, **opts)
+        md = clear_markdown(md)
+        open(dstname, 'w', encoding = 'utf-8').write(md)
+        merge.append(md)
+        merge.append('')
+    md = '\n'.join(merge)
+    open('html/ff6/ff6.md', 'w', encoding = 'utf-8').write(md)
     return 0
 
 
@@ -131,8 +201,24 @@ if __name__ == '__main__':
         html = crawler.read_file_content('html/ff6/c1.html')
         soup = purify_html(html)
         download_images(soup)
+        table_unwrap(soup)
         print(soup)
         return 0
-    test3()
+    def test4():
+        html = crawler.read_file_content('html/ff6/c1.html')
+        soup = purify_html(html)
+        download_images(soup)
+        table_unwrap(soup)
+        opts = {}
+        # opts['strip'] = ['table']
+        # opts['convert'] = ['img']
+        opts['keep_inline_images_in'] = ['td', 'div', 'tr']
+        md = crawler.html_to_markdown(soup, **opts)
+        print(md)
+        return 0
+    def test5():
+        export_markdown()
+        return 0
+    test5()
 
 
