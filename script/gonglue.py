@@ -189,6 +189,20 @@ def text2html(text):
 
 
 #----------------------------------------------------------------------
+# add target="_blank" to external links
+#----------------------------------------------------------------------
+def patch_markdown_html(html):
+    import bs4
+    soup = bs4.BeautifulSoup(html, 'html.parser')
+    for tag in soup.find_all('a'):
+        if tag.has_attr('href'):
+            href = tag['href']
+            if href.startswith('http://') or href.startswith('https://'):
+                tag['target'] = '_blank'
+    return str(soup)
+
+
+#----------------------------------------------------------------------
 # default template
 #----------------------------------------------------------------------
 TEMPLATE = '''<!DOCTYPE html>
@@ -233,6 +247,7 @@ def convert(srcname, template, htmlfile, footer = None, css = None):
         final = template.replace('<!--TITLE-->', title)
         final = final.replace('<!--CONTENT-->', content)
         final = final.replace('<!--STYLE-->', style)
+        final = patch_markdown_html(final)
         if htmlfile:
             with open(htmlfile, 'wt', encoding='utf-8') as f:
                 f.write(final)
