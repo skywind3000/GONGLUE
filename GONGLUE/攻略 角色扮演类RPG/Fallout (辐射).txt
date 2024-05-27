@@ -1,0 +1,90 @@
+Fallout (辐射)
+
+电玩族的家提供 
+
+　　肩负了拯救Vault-13居民的使命，玩家必须在一百五十天内找到净水晶片，否则便再没有食水供应。现在可行的方法，便是前往其他Vault去寻找。在旅途中，你会遇到各种各样的其他任务，但紧记时有限，不要接受太多无关的任务......
+　　游戏开始时，玩者可选择使用游戏内预先设定的人物或自行制作。游戏的三位预设主角虽有特色，但在作战能力（Traits）以至技能（Skills）方面都稍为逊色，所以笔者选择了自行制作。
+
+制作人物
+
+　　根据游戏的系统人物属性分为“力量”(ST)、“感觉”(PE)、“耐力”(EN)、“魅力”(CH)、“智慧”(IN)、“敏捷度”(AG)和“运气”(LU)。除此之外，游戏加设了选择性技能(Optional Traits)，供玩者改变人物的特性。玩者在设定人物时须注意，人物的属性设定了就不能改变，就算人物升级，属性亦不会增加，玩者可改变的只是Skill Points及增加Traits。所以初期属性便直接影响了人物的战斗力及升级时的分别，而Skill Points低却可借升级来补救。至于属性方面，“力量”及“耐力”是相当重要的，因为它们直接影响了人物的“生命点数”(Hit Points)，如果生命点数太低，根本就不能通过初期的难关，所以在设定时，要有一定的Hit Points，玩者须小心分配。除此之外，“智慧”是另一样重要的属性，因它直接影响了玩者在升级后可分配的Skill Points。而“敏捷度”则影响了人物的“行动点数”(Action Points)，以及战斗时的攻击次数。玩者可以不要“选择性技能”(Optional Traits)，但笔者个人认为这些技能是有好过无。在十六种技能中，笔者选择几种比较重要的介绍一下。“技巧”(Finesse)影响了人物在作战时的表现。选择了Finesse，在攻击时，玩者击中敌人要害的机会率便会提高。“快枪手”(Fast shot)直接影响玩者开枪时需要的“行动点数”。最后，笔者推荐大家选择“天赋”(Gifted)这技能，因为选择了Gifted后，人物的每一项属性都会增加一点，其副作用是Skill Points会减少10％。但Skill PointS减少其实并不重要，反正可随着人物的升级而增加。
+　　最后，在选择三样专门技能时，Energy Weapon及Lockpick是必不可少的。因为最后玩者会使用Plasma Rifle，所以Energy Weapon的技能是很重要的。至于Lockpick，因为整个游戏都需要玩者不断开锁，所以开锁的能力也不可缺少。最后一种专门技能应选择什么？玩者可在Small Guns、Melee Weapons、Throwing或Steal之中选择其一。
+
+踏上旅程
+
+　　除了少数的任务（例如找寻Water Chips)，游戏的设定是没有指定所有任务必须完成或要依次序才能解决的，所以笔者亦不按照自己的冒险过程来制作攻略，而是指出在每一个地点会出现的任务及其完成方法，也会叙述一下各城市的重点及特色。
+
+Vault 13
+
+　　这是玩者的大本营，任务是找寻Water Chips，但当然不会这么容易便可在Vault 13内找到，这个任务是游戏的主线，玩者不需太急。
+　　开始时，玩者站在Vault l3的正门，身旁有一堆骨，不妨搜寻一下，会得到一些弹药及物资。Vault 13内满布老鼠，玩者不妨把它们全部杀死，这样便会得到400点经验。杀死所有老鼠后，便朝西方的出口走去。
+
+Shady Sand
+
+　　离开Vault 13后，按Vault 15的button，向东走会途经一个小村庄，那就是Shady Sand。
+　　Shady Sand内有两大问题，分别是Radscorpion的祸害及Raiders的威胁。因为玩者于初期阶段，未够实力单人上战场，所以最好先到城门右边的屋内找寻lan(穿蓝裤的Guard)帮手。在与lan交谈时，玩者可要求他帮助，一般情况下，lan都会接受玩者的请求。有了lan的帮助，便可要求门口的守卫Seth带领玩者到Radscorpion的巢穴。紧记将所有Radscorpion消灭，并且带一条Radscorpion的尾巴返回Shady Sands。返回村庄后，将尾巴交给Razro，他会为玩者制造解毒剂。最后，玩者不妨花点时间到处走走，并且搜寻一下书架等物品，必定会有意外收获。
+　　另一个任务是消灭Raiders。离开Shady Sand再回去时，长者的女儿Tandi便会被Raiders拐走，长老会要求玩者救回她。拯救Tandi时，切勿使用武器。玩者需要到Raiders的巢穴找Khans的首领，要求他释放Tandi。跟着便是与首领徒手决斗，直至一方认输。成功后玩者便可救回Tandi，带她返回Shady Sands见长老后，再返回Raiders的巢穴将之一一消灭。
+
+Vault 15
+
+　　离开Shady Sands后，继续向东行便会到达Vault l5。在进入Vault l5前，紧记带一条绳来拉动升降机。这里的任务相当简单，就是解决所有老鼠，并且搜遍全部柜子，玩者会找到一件Leather Jacket及一些弹药。
+　　离开Vault l5后，向南行会到达Junktown。进入Juhktown时，玩者要把武器收好，因为Junktown是一个太平城市(？)。
+
+
+　　Junktown的任务有两个，第一件是阻止Gizmo的犯罪活动。首先玩者需要到General store找Junktown的市长Killian，在倾谈时，会有一名由Gizmo派来的杀手出现。玩者协助Killian将杀手消灭后，Killian会要求玩者协助捉拿Gizmo。然后玩者便要去找Gizmo，并假意答应帮他杀死Killian，然后拿取与Gizmo谈话的录音带到Killian处，再去捉拿Gizmo。当然Gizmo会作出反击，干脆将他杀死，任务完成。
+　　完成第一个任务后，去问守卫首领Lars有没有其他工作，lars便会提及Gizmo前手下Skulz的恐怖活动，当然又会要求玩者协助。玩者需在下午四时进入Soum Pitt酒吧，并会目睹酒吧老板射杀Skulz成员的经过。救在混乱之际，玩者要偷取在桌上的翁，并将它带到Skulz的大本营，要求加入组织。当Skulz的首领Vinnie看见此瓮时，便会准许玩者加入，并且会提及报仇大计，玩者当然要假装参与。到达酒吧后，将所有Skulz的成员杀死并且物归原主，任务便告完成。
+
+Hub
+
+　　Hub是一个大城市，玩者在里面会找到各样军火的补给及一些可增加玩者skill PointS的书店，如果玩者有足够资金，不妨买几本书来增加知识。
+　　这关的任务特别多。第一个任务是解开失踪商队之谜。玩者可到Far Go Trader找Butch，Butch便会要求玩者协助调查商队失踪之谜。想要进一步的资料，玩者可到GunShop找Beth。当谈及Death Claw时，她会转介玩者到Old Towns找Harold，他是一个受到幅射感染的人。听过Harold的资料后，到Harold的屋外，要求一名流浪汉带领玩者到Death Claw的巢穴。消灭Death Claw后，玩者会在巨人(Super Mutant)手中得到Holodisk。将Holodisk交给Butch，便会得到奖赏。
+　　第二个任务是消灭Decker。到FLC找Lorenzo要求Decker的资料，他会转介玩者到酒吧找Kane。Kane会带领玩者到Decker处找工作，当Decker解释完工作性质后，玩者必须接受工作并且到警署报案。玩者跟着要返回Decker的住所捉拿他，当然会遇到反抗，将所有人杀死再返回警署，任务便告完成。
+　　第三个任务是加入小偷组织。玩者可到Old Towns一间小屋的地牢找小偷组织的首领Loxley并且要求加入。Loxley便会要求玩者到Heights处偷取Hightower的项链。玩者须在入黑时，避过守卫静静潜入Hightower的屋内偷取项链。项链放在一个铁箱内，解除铁箱的陷阱后，取出项链交给Loxley，便会得到一个Electronic Lockpick供日后使用。
+
+
+　　在Old Towns内的第一间小屋中，有一群流氓胁持了Brotherhood of Steel的一名成员。消灭所有流氓后，玩者会从流氓处得到Combat Shotgun。利用Lockpick技能，释放Brotherhood of Steel的成员，任务便告完成。
+　　如有时间，不妨到Hub的大门处帮助Caravan送货物。虽然没有太多的金钱回报，但经验值的增长是相当可观的。
+
+Necropolis
+
+　　Necropolis是一个非常奇怪的城市并且是整个游戏的关键。奇怪的是，所有地面上的人都是坏分子，善良的人就住在地下。如果玩者不想浪费时间，入市镇后便要避开所有受感染者(Mutant)，从下水道进入地下城。进去后，不断往北走，便会遇到一群善良的感染者，与他们的首领倾谈他们的问题(当然是与水有关)。从谈话过程中，玩者会知道Water Chip就在此处，然后答应为他们修理Water Pump。继续往北走便可返回地面，来到Watershed。玩者会在一间大屋处找到Harry。与他倾谈，但千万不要答应去见他的队长，因为在大本营内，无论玩者有多大本领都无法安全离开。拒绝探访大本营后，战斗便开始，切记要以最高速度将他及其手下杀死，因为有Laser Rifie及Flamer。消灭所有巨人后，从Larry站立的下水道去到地下城。玩者会找到修理WaterPump的组件，带回给地下城的首领看，玩者会从他手中得到三本有关Electronics的书。看过后，重返Watershed，修理好Water Pump后，在同一间屋内往南走，另一个下水道入口便出现，然后往地下城去。在地下城里往北走，玩者便会到达Vault，乘搭电梯到第三层，玩者会看见一部仍然正常运作的电脑，这便是Water Chip的所在。
+
+Boneyard
+
+　　这是一个最有价值的城市，玩者在这里会得到最强的武器。Boneyard由四个市镇组成，分别是Downtown、Adytum、Warehouse及Fortress。
+　　Downtown的面积最大，Downtown的西方是Library，即是Followers of Apocalypse的大本营。东方有Blade的大本营。
+　　第一件任务是到Adytum找长老Zimmerman倾谈他儿子被杀一事，他会要求玩者到Blades杀死女匪首Razor，玩者当然要接受这任务。到达Downtown后，要求Blades守卫MacRoe教导玩者打架，这时他会以太忙为理由而推辞。直入Blades的屋内，找Razor并提出Zimmerman的事，她会给玩者一盒Holodisk。玩者带这盒Holodisk回到Zimmerman处。原来整件事是与Adytum的Regulator有关的，这时玩者不得不与Regulator打得你死我活！战斗完毕，重返Razor处，任务便告完成。
+
+
+　　第二件任务是帮助Miles找寻修理Hydroponic farm的组件。组件可在Warehouse的死尸处找到，不过Warehouse是Death Claw的巢穴，千万要小心。拿到组件后带回Miles处，再给Smitty修理，便会得到奖赏。另外，Smitty及Miles更送了一件大礼给玩者，这便是为玩者改装Plasma Rifles及Power Armour。
+　　第三件任务便是帮助Gun Runners的首领Gabriel消灭Death Claw。重返Warehouse，消灭地面的Death Claws，到地下室找寻Mother Death Claw并将她消灭。因为MotherDeath Claw相当难对付，所以笔者建议玩者从Gun Runner处购入Plasma Rifle后并带它到smitty处装为Turbo plasmeRifle。另外在战斗时，不妨用Aimshot射其眼部，因DeathClaw的要害在眼睛。
+　　最后，紧记到Library找Nicole问Child of Cathedral的事及要求Mac Roe教玩者打架的技术。
+
+The Glow
+
+　　The Glow是一个受到严重幅射破坏的城市。一入Glow，玩者会看见地面上有一个大洞穴，只须利用一条绳便可以进去，但切记要先利用Rad X使自己的Radiation Resistance升至100％。
+　　此城的任务很简单，只须使这里的Power Generator重新运作便可。一落洞穴，玩者需要搜查一下尸体上的AccessKey等。在第一层，玩者会看见有一名Brotherhood of Steel成员的尸体，搜查一下，玩者会发现Holodisk及红色Access Key。此Key是用来启动往一至三楼之电梯用的，而Holodisk必须带回Brotherhood of Steel处。到达第二层，玩者会在一具尸体上找到蓝色Access Key，这是用来控制电梯往四楼及六搂的。power Generator位于第六层，可以利用Repair技能将它修好。一旦修好它，所有Sentry Robot便会启动。当启动了Power Generator后，那部可到达第五层的电梯便能使用，可利用在第四层找到的黄色Aceess Key使它开启。在第五层内，玩者需要在一个柜内找寻另一盒Holodisk，并将超级电脑内的资料拷贝下来。任务完成后，便可立刻离开TheGlow。
+
+Brotherhood of Steel
+
+　　将在The Glow找到的Holodisk交给门口的守卫，玩者便可加入Brotherhood of steel。
+　　Brotherhood of Steel是一个高科技的城市，玩者可得到Power Armour及使自己的属性永久提升。紧记找Michaei及Talus(在第一层)拿Power Armour，以及到第二层找医生。在离开前，到第四层找长老Marsa，他便会告诉玩者在西北方有怪事发生，要求玩者前往查个究竟。离开Brotherhood of Steel后，千万不要忘记到Boneyard找Miles将Power Armour升级。
+
+Military Base
+
+　　当玩者带Water Chip回Vault l3后，Overseer便会要求玩者到西北方Super Mutant的基地。
+　　到达Milttary Base后，将门口的Guard杀死，并利用他的对讲机，说有不明来历的入侵者，玩者便会得到2OOO点经验值。
+　　Milltary Base的任务相当筒单，将所有Super Mutant杀死便可。基地内有两种电力墙，第一种是红色的，玩者可直接走过，但会造成少许伤害；第二种是绿色的，玩者不能直接通过，必须利用Repair技术使它暂时失灵。到达最后一层。玩者会遇到Super Mutant的队长，另外还有VanHaagen，将他们消灭。最后，玩者要在同一层内找电脑室，并且利用Science技术来控制主电脑，启动自毁程序，之后要立刻离开，任务便告完成。
+
+Child of Cathedral
+
+　　原来整件事都是由Child of Cathedral的首领控制的。所以玩者必须依据Boneyard的Nicole的资料到这里找Laura，并且与她谈及Red Rider，她便会带玩者到Church内找Morpheus的秘道。在秘道旁有一条棵，玩者必须到每一层并将所有Super Mutant消灭。在第三层，玩者会遇见Morpheus，怎么办？将他杀死并拿取他身上的key。返回地面，开启秘道的门。地下城合共有四层，super Mutant的主人在第三层，而第四层有一个原子弹。玩者有两个方法可以“爆机”。第一是将Super Mutant的主人消灭，第二是启动原子弹自爆程序。如里玩者考虑前者的话，必须找寻一些可以供玩者躲藏的地点，因为Super Mutat的主人火力相当强劲，一不留神便会没命。无论玩者选择哪一种方法，任务完成后，都必须立即离开，否则......离开后，游戏便告完成。
+
+补充说明
+
+　　《Fallout》内的任务是没有有次序的，玩者不需要依据笔者提供的路线走，玩者也可以先拿取所有最强装备才进行冒险亦可，但切记要准时把Water Chip交到Vault 13，否则便会前功尽弃。
+　　与《Diablo》一样，《Fallout》预设了三个人物（两男一女)供玩家选择，但玩家亦可选择自行制造一个人物来进行游戏。制造一个人物是把“点数”分配；跟着便挑选技能，如急救、赌搏及偷窃等；为了令人物变得独特，还加上一些特徵，每样特徵对人物有好和坏的影响，如选上了Bruiser（彪形大汉），那人物便会在力量上大了点，但其动作则慢了点。虽然自制人物是难了点，但这才像玩RPG呢！
+　　另外，玩家在游戏中可找同伴一同冒险，但这些同伴是不受玩家控制的，他们全由电脑控制，但是他们有自己的个性，游戏时不能过分信任他们，说不定有些家伙会在战斗时投向敌人呢！
+　　《Fallout》基本上是采用即时模式的，但遇上敌人时便转为回合模式的战斗，象《X-Com》般。比起《Diablo》的“互劈”战斗，《Fallout》的战略味似乎略胜一筹。
+　　总而言之，《Fallout》在各方面都没令笔者失望，怪不得它在97年问鼎了年度最佳RPG大奖。 
+
