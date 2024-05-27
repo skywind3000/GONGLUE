@@ -1,0 +1,80 @@
+创世纪8
+
+凯文提供 
+
+
+　　1.跟Devon讲过话之後,把地上的装备捡一捡,走上码头。 
+　　2.进入Tenebrae城市,启动"CentralTenebrae"传送点。(皇宫第二层) 
+　　3.跟Bentic说话(在EastTenebrae的图书馆里), 他会要你去找Mythran. 
+　　4.往北离开Tenebrae,沿着路往东北,进入一洞窟, 过了洞窟之後,就到了Plateau. 在房子内可找到Mythran. 
+　　5.跟Mythran讲话,拿取CallItem及买个卷轴(Scroll) 以後可以用CallItem传送至各个传送点。 
+　　6.在房间二楼启动"Plateau"传送点。 
+　　7.回到Tenebrae,往东离开城市,顺着路往东北走, 直到进入墓园(Cemetery) 
+　　8.跟Vividos说话,自愿帮他取回被Tenebrae城主(Tempest) 取走的Dagger。 
+　　9.回到CentralTenebrae到皇宫,找机会跟女佣说话, 她会要你在Booldwatch　时候在她家找她。 (别忘了U8的"长期抗战"系统) 她家在EastTenebrae,只有Booldwatch时才会开门。 
+　　10.跟女佣谈Dagger,他会给你一把钥匙, 可以开Tempest锁住Dagger的箱子。在皇座前有的垫子下面有另外一支钥匙,可以开Tempest的房间门。 
+　　11.把Dagger还给Vividos,让他可以把Lothian...... 然後跟他说你要作他的学徒.... 
+　　12.Vividos会给你一把KeyofCaretaker,以後Earth的法术都得靠这只手仗在他的书房里收集药材,得知OpenGround等法术用法, 在北方的另一个屋子里,施展OpenGround可以打开一道门。 
+　　13.在Catacombs东北部掉入一个陷阱(门里有个僵尸会爬起来,打开门走进去) 找寻各个Necromancer..... 开始依照每一位Necromamcer的指示,学会每一项Earth法术, 最後会要你去找MountainKing 
+　　14.回到Catacombs,往下走,经过一道小门,再继续往南, 有个地方：石笋群中有个柱子上有开关,扳动他,往下走出Catacombs 就可以找到StoneCove的入口。 
+　　15.进入StoneCove,然後尽你可能的找到MountainKing, 当你找到"HallofMoutainKing"传送点, 那MountainKing就在附近了。 
+　　16.回到Cemetery,跟Vividos说话後,埋葬了Lithian, Vividos会给你另一个手仗KeyofScion 很多你原来打不开的门都可以打开了。 
+　　17.回到Catacombs中,找到一个门牌是：TowardFatedoyoutravel. 用KeyofScion打开,然後一直深入.... 尽你可能找到ZealandShield,并解开阶梯的谜底 (应该很多人都有玩过) 用StoneFlesh通过那道光线,然後把Shield摆上供桌.... 拿取在骷髅(Skeleton)下的钥匙,打开门, 进去想办法把KhumashGor干掉,拿取ObeliskTip, 钥匙环也可以使你方便许多。 
+　　18.UpperCatacombs还有个传送点,可以用SkullofQuakes用在墙壁上的发光物来启动,启不启动都不是很要紧。 
+　　19.回到TenebraePalace的地牢中,跟Devon说话, 再到地牢里的另一个封闭房间,使用跟Mythran买的卷轴, 看一看房里的文件....然後....自己看吧。 
+　　20.回到Catacombs,并找到"CarthaxLake"传送点, 往西南走入一山洞,继续....直到看到一块墓碑,用OpenGround..... 
+　　21.离开山洞,到湖的最中央跟Hydos说话,回去跟Devon说话, 他会要你去找Healer..... 
+　　22.启动"ArgentrockIsle"传送点,进入城中,城北的人说话想办法通过第一项TestofWisdom... 
+　　23.跟Stellos谈TestofCenteredness... 到『城外』西边的山顶上,把自己保持在图形内一段时间就算通过。 (WindPoint) 
+　　24.回到Stellos,接受下一个测验,到城西建筑(monastery)的地下室, 收集8个SilverOre.... 收集完了跟Stellos说话,回到WestTenebrae,跟铁匠Korick 谈话,制造每个Foci.... 
+　　25.把每个Foci摆到Centerofthemonastery,即可使用Air系的法术接受第三个测验,回到地下室,想办法解决一只Torax的伤口,就算通过... 记得每项Air系法术的特性。 
+　　26.跟Stellos说话,想办法解决谁偷了Foci.... 用HearTruth...... 
+　　27.回到Windpoint处,然後用想办法助跑跳过海洋.....:) 继续前进,直到见到了AirTitan.... 用Reveal,然後用AerialServant把BreathofAir收为己有。 
+　　28.找到Demon’sCrag的入口 (有个机关有两个门,不管怎麽扳都会有一个升起来档路) 踩住其中一个,然後用AerialServant扳动开关,即可通过。 
+　　29.用AirWalk跳往跟你说话的那人位置.... 往南....就会进入了Demon’sCrag..... 
+　　30.Demon’sCrag也有个传送点,找到并启动它。 
+　　31.帮助Bane.....得到Vardion的真名,并告诉Bane, 使其成为1stAcolyte... 
+　　32.学习制造Fire系的法术.....Bane会告诉你一些要诀。此为第一项测验 
+　　33.第二项测验....沿着路往西北走,开了门往山洞里走.... 不要管Guardian(此Guardian非彼Guardian　....:)　) 通过,然後跟Deamon说话..... 
+　　34.传送後... 各往东北、东南、西北、西南方向找寻4个Symbol(蓝色五角星) 善用各个法术,如：EndureHeat、Extinguish、Flash、 ArmorofFlames..... 尽你可能的搜寻此处,除了4Symbol以外,并找到 SummonDaemom的法术、FlamSting武器。 
+
+　　35.回到传送点传送走,跟Daemon说话後,可以见Master.... 依照Master的叙述通过测验........ 
+　　36.回到洞穴并用FlamSting把Master作掉.....:Q 回到出事的那个五角星,带着TongueofFlame走过它, 记得捡起来。 
+　　37.离开Deamon’sCrag,回到Plateau找Mythran有关 "DestructionoftheTemple".....等 
+　　38.回到TenebraePalace,找Devon谈BlackrockPiece 在Palace的西南角落的箱子可以找到TearofSea.... 
+　　39.回到HalloftheMontainKing.... StoneCove入口旁还有个小门,进去後往左转直到"ConventicleofDeath" 对里面的土施展CreatGolem把门打开,进去後用OpenGround可得 HeartofEarth.... 
+　　40.回到Plateau找Mythran学Ether法术的"EtherealTravel" 施展之.... 
+　　41.往南.....尽可能找到Stratos...在他身上使用BreathofAir　(AIR) 
+　　42.往北.....尽可能找到Hydros　...在他身上使用TearofSea(WATER) 
+　　43.往西.....尽可能找到Pyros　...在他身上使用TongueofFlame(FIRE) 
+　　44.往东.....尽可能找到Lithos　...在他身上使用HeartofEarth　(EARTH) 
+　　45.把四个东西依照位置摆在五角星上 　(FIRE)(WATER) 　(AIR)　(EARTH) 　(EMPTY) 
+　　46.使用ObeliskTip在自己身上(必须站在五角星上) 再把ObeliskTip放在Empty的位置 .....走入BlackGate....欣赏结局吧。 
+　　附上各入口相对位置简图: 
+　　Catacombs......此图是凭印象绘出,只是大概的相对位置而已。
+
+
+┏　┓
+　2　
+3
+4　
+┗┓
+5┗　┓
+┗　1　┫6
+　┗┓
+┏　┛
+┏　9　┛
+　
+　
+┗78┛
+
+
+　　1:Cemetary(墓园) 
+　　2:寻找6位Necromancer的入口 
+　　3:探访完Necromancers後的出现处 
+　　4:欲寻ZealandShield、ObeliskTip的入口 
+　　5:一小门 
+　　6:通往ArgentrockIsle(Healer---AirTitan) 
+　　7:MontainKing(StoneCove)、HeartofEarth 
+　　8:CarthaxLake、FreeHydros 
+　　9:Daemon’sCrag.....
