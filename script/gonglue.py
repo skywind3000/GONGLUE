@@ -23,6 +23,12 @@ BUILD = os.path.join(PROJECT, 'build')
 HTMLDIR = os.path.join(BUILD, 'html')
 IMAGES = os.path.join(BUILD, 'images')
 
+#----------------------------------------------------------------------
+# fix encoding
+#----------------------------------------------------------------------
+
+sys.stdin.reconfigure(encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
 
 #----------------------------------------------------------------------
 # list text files
