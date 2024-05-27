@@ -44,7 +44,8 @@ def download_pages():
         srcname = os.path.normpath(srcname)
         srcname = os.path.relpath(srcname)
         if crawler.download(url, srcname, True):
-            print(f'skip {srcname}')
+            # print(f'skip {srcname}')
+            pass
     return 0
 
 

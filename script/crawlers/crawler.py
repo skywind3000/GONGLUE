@@ -285,7 +285,6 @@ def localize_image(root, dirname, prefix):
         if src.startswith('http://') or src.startswith('https://'):
             srcname = image_local(src, '')
             dstname = os.path.join(dirname, srcname)
-            print('srcname', srcname)
             img.attrs['src'] = f'{prefix}{srcname}'
             if not os.path.isfile(dstname):
                 print(f'downloading {dstname}')
