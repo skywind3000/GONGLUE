@@ -234,7 +234,9 @@ def image_local(url, dirname):
     ext = url.split('.')[-1].lower()
     if ext not in ('jpg', 'jpeg', 'png', 'gif', 'bmp'):
         ext = 'jpg'
-    name = os.path.join(dirname, 'image_' + name + '.' + ext)
+    name = 'image_' + name + '.' + ext
+    if dirname:
+        name = os.path.join(dirname, name)
     return name.replace('\\', '/')
 
 
@@ -267,6 +269,31 @@ def merge_empty_lines(input_text):
                 continue
         output_text.append(line)
     return '\n'.join(output_text)
+
+
+#----------------------------------------------------------------------
+# localize_image: download images and change image url to local
+#----------------------------------------------------------------------
+def localize_image(root, dirname, prefix):
+    import bs4
+    assert isinstance(root, bs4.element.Tag)
+    ensure_dir(dirname)
+    for img in root.find_all('img'):
+        src = img.get('src')
+        if not src:
+            continue
+        if src.startswith('http://') or src.startswith('https://'):
+            srcname = image_local(src, '')
+            dstname = os.path.join(dirname, srcname)
+            print('srcname', srcname)
+            img.attrs['src'] = f'{prefix}{srcname}'
+            if not os.path.isfile(dstname):
+                print(f'downloading {dstname}')
+                download(src, dstname)
+            else:
+                # print(f'already downloaded {filename}')
+                pass
+    return 0
 
 
 #----------------------------------------------------------------------

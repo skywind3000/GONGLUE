@@ -14,6 +14,7 @@ import time
 import pprint
 import bs4
 import crawler
+import gamersky
 
 sys.path.append(crawler.SCRIPT)
 # pylint: disable=wrong-import-order,wrong-import-position
@@ -63,7 +64,16 @@ def parse_pages():
 # 
 #----------------------------------------------------------------------
 def parse_html(html):
-    print('here')
+    root = gamersky.purify_html(html)
+    crawler.localize_image(root, 'images/games/gamersky', '../../images/games/gamersky/')
+    opts = {}
+    md = crawler.html_to_markdown(root, **opts)
+    md = crawler.merge_empty_lines(md)
+    md = md.strip('\r\n\t ')
+    if md.endswith('更多相关内容请关注：拳皇97专区'):
+        md = md[:-len('更多相关内容请关注：拳皇97专区')].strip('\r\n\t ')
+    md = f'## {md}\n'
+    print(md)
     return 0
 
 
