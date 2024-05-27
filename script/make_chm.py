@@ -210,18 +210,21 @@ class ChmBook (object):
             f.write('</HEAD>\n')
             f.write('<BODY>\n')
             f.write('<UL>\n')
+            output = []
             for dirname in self.htmls:
                 if dirname == '*':
                     continue
-                htmls = self.htmls[dirname]
-                for fn in htmls:
-                    title = htmls[fn]
+                for fn in self.htmls[dirname]:
+                    title = self.htmls[dirname][fn]
                     srcname = f'html/{dirname}/{fn}'
                     dstname = self.names[srcname].replace('/', '\\')
-                    f.write('<LI><OBJECT type="text/sitemap">\n')
-                    f.write(f'  <param name="Name" value="{title}">\n')
-                    f.write(f'  <param name="Local" value="{dstname}">\n')
-                    f.write('</OBJECT>\n')
+                    output.append((title, dstname))
+            output.sort()
+            for title, dstname in output:
+                f.write('<LI><OBJECT type="text/sitemap">\n')
+                f.write(f'  <param name="Name" value="{title}">\n')
+                f.write(f'  <param name="Local" value="{dstname}">\n')
+                f.write('</OBJECT>\n')
             f.write('</UL>\n')
             f.write('</BODY>\n')
             f.write('</HTML>\n')
