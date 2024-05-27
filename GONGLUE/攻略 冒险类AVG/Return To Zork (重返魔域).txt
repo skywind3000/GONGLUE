@@ -1,0 +1,201 @@
+Return To Zork (重返魔域)
+
+上帝偏爱步兵提供 
+
+NOTE: 
+
+　　1.多多SAVEGAME 
+
+　　2.多照相，在询问别人时，可用照片或录音机或拥有物来作问题。 
+
+　　3.多查察你拥有什麽及多看地图。 
+
+　　4.由於thisgame很复杂，它允许有不同方式完成，但有些只能有一次机会，要小心行事。 
+
+　　一开始在MountainPass，取路旁石头(rock)掷向秃鹰(Vulture)将秃鹰赶走，用小刀(knife)取得plant(注意用digup不要用cut)，就可向灯塔前进。 
+
+　　与灯塔管理者交谈得知向南的路不可能通过，(陆的不行找水的)灯塔後面用小刀取得藤(vines)，再用藤将木板(boards)绑在一起造木筏(raft)就可向West Shanbar出发。 
+
+　　注意;可放录音带给管理员听，能得到较多的讯息。 
+
+在WESTSHANBAR 
+
+　　断桥处登岸(千万别想由断桥往东走)，在学校门口用小刀敲钟(bell) Peepers老师会考你问题，取出随CD附的手册，有一篇EncyclopediaFrobozzica内有你需要的答案(此为高明的游戏保护)，然後她会交给你notebook。School对面是市长室里面的档案有很多重要提示，绝对绝对值得一看。(notekook会自动记录重要讯息，有空记得常翻阅) 
+
+　　School旁的HardwareStore内有盒子(box)，将旁边老鼠抓起放到盒子内，再拾起旁边的crank。 
+
+　　而HardwareStore对面是GiftShop被锁住，钥匙在OldMill後面。由School另一边靠河旁道路就可达OldMill里有一酒鬼Boos，先不要理他，打开往後面的门，拾起钥匙顺手让卡住的水车运转(此乃密道的开关)。回GiftShopinsertkey就可打开门，在此有三样东西必拿:1。架子上的illumynitebattery将这电池装入Tele-Orb，然後老家伙就会常出现给提示及打屁，2。钱柜内的钱当然收下，旁的ticketstoDizzyWorld 拿取後就可离开。 
+
+　　桥下男孩(Waif)不要吓他，把ticketstoDizzyWorld给他，他会给一件礼物(gift) 做为回报。 
+
+　　回OldMill找Boos喝酒，一进门Boos就递上一杯酒，先不要喝，把酒倒到旁边植物( plant)，再找Boos乾杯(toast)，待Boos举杯时，再选drink(喝空杯子)，重覆喝四次 Boos就会醉倒，但千万千万要记得在第三次与第四次之间向Boos要钥匙(key)，笔者在此处卡住很久很久很久......!@$#% 等Boos醉倒，密道就会出现，进去吧!(Boos醉倒撞掉不少瓶罐，其中flask一定要拿) 
+
+　　开门後就进入地下世界，Oldmill变成Newmill，先四处逛逛(当然不要逛死掉)尽量把地图弄个大概(注:地图右上角有个小折角可变换地上，地下的地图，这问题被问怕了，特别在此说明)以下地点自行看inventory的地图(map);对了，记得多照相。 
+
+　　首先在Fool’sMemorial拿书，此书由四种不同语言所写的，所以要找四个人来翻译(RebeccaandMayorandWitchItahandCanuk，Blacksmith好像也可以)要问 Rebecca之前，先回去问Ms。Peppers她会告诉你这书是四种语言写的四个故事，Rebecca 知道其中一种语言，再去问Rebecca，如果Rebecca仍然想不起来，放Ms。Peppers的录音带给Rebecca听，Rebecca就会恢复翻译能力。(回去找Peppers时，顺道拜访Mayor) EastShanbar1。Ben在桥边 
+
+
+┌─┐┌─┐┌─┐ 2.General Store
+
+│2 ││3 ││4 │ 3.Moodock
+
+────────── 4.incinerater
+
+──────── 5.Inn of Isenough
+
+1 │ 5 ││6 │ 6.Blacksmith
+
+└──┘└─┘
+
+　　Moodock喜好下棋(Survivor)，他会教你如何走棋规则，然後陪Moodock下盘棋，待赢棋後，Moodock送rustyDwarvenSwordandacoin(很容易赢，多试几次就知道) 将rustysword交给Blacksmith，过一阵子再来。(交剑之前一定要lookatsword切记) 往Pugney’sRanch走(先不要捡地上brabox，如果拿box，Guardian会因你的偷窃行为而出面惩罚你。)找Pugney谈话，先威胁(threaten)Pugney，然後马上跟Pugney道歉， Pugney会? 
+
+　　许你拿brabox，(leavehimalone)。 
+
+Snoot’sFarm 
+
+　　没人开门，由窗户进入，先开正对面的门(旁为通往厨房通道)，Rebecca 当面给一拳，待醒来，Rebecca会问个问题，请再翻开手册EncyclopediaFrobozzica上的解答。Rebecca就会允许你拿取任何东西。厨房桌上有Thermozz拿了再说，在sink打开水龙头取Thermozz装水。pickupsoap放入sink中，打开水龙头就可制造肥皂水(Soapy Water)取出Waif’sgift 
+
+　　放进肥皂水中刷洗，可得Disc破片。冰箱内有块肉顺手收下吧! turnonoven(烤箱)，结果.....，巫师会在此时出现说故事。左边房间一定要打开来看看，里面有只狗(Alexis)。离开前记得到卧室拿镜子(mirror)。 
+
+　　到EastShanbar，Blacksmith对面是焚化炉(incinerator)，把brabox丢到炉内，再把hotwire用Thermozz内的水浇冷，就可得wire(此物是用来打开GeneralStore的 key)。到GeneralStore用wire打开门，里有壹盒饼乾，摇两次可得哨子(Whistle)。把盒子内病鼠(diseasedmice)丢弃，将桌上rats放入盒内。 
+
+　　注:diseasedmice跑不动所以丢弃。 
+
+　　桥旁的Ben在出租船，给他看女照片(不管谁只要女的就行了)，Ben会告诉你，他也有个女友是女巫，要求替他送封信，当然义不容? 
+
+　　收下信(勿偷看)。拿钱给Ben，Ben将船租给你，把盒子内的老鼠(rats)放入引擎内，船就能动，只一条路通女巫家(WitchItah) 进去後把信交给WitchItah，她看完信就赶著去会情人把船开走，要你自己用她的魔杖(stick)走出沼泽(Bogs)。只好拿著魔杖找路了!其实沼泽这小迷宫并不难走，魔杖下沉的地方会留下小洞，很容易的。(此处自行绘图，我走过几次都不一样) 
+
+　　出口在WhisperingWoods的入口处，回Ben处，Ben手上有rape请他教你Cow-Hitch knot，再租一次船，二次拜访WitchItah问她有关书(book)的事，她会替你翻译一段笑话，再拿母牛照片给她看(shelovesanimals)，Witch会给你蝙蝠(bats)，取batscage就可以离开。 
+
+　　在Ruins会捡到11tilepiecesandframe把tiledropintotheframe就呈现一幅拼图(TheMagicTilesPuzzle)如下: 
+
+
+┌─┬─┬─┬─┐
+
+│1 │2 │3 │4 │ 一开始12为空位,所以由11移动到12 (以下"-"表移动)
+
+├─┼─┼─┼─┤ 11-12 , 7-11 , 8-7 , 4-8 , 3-4 , 7-3 , 11-7 ,
+
+│5 │6 │7 │8 │ 12-11 , 8-12 , 4-8 , 3-4 , 2-3 , 6-2 , 7-6 ,11-7
+
+├─┼─┼─┼─┤ 10-11 , 6-10 , 5-6 , 9-5 , 10-9 , 6-10 , 2-6 ,
+
+│9 │10│11│12│ 1-2 , 5-1 , 6-5 , 7-6 , 3-7 , 2-3 , 6-2 , 7-6 ,
+
+└─┴─┴─┴─┘ 11-7 , 12-11
+
+　　依上述方法即可解开拼图，而那第12片tile，在解开同时自然出现，可得下面讯息: WaterUnseenAtFallsMixWithBatDroppingYieldsPotionFor 同时地上出现illumyniterock和piecesofDisc记得拿! 
+
+　　InnofIsenough(inEastShanbar)，给Molly钱租房间，由电梯上去，进入房间取出illumyniterocks放在nightstand再把灯关掉(turnofflights)不久就可听到鼾声，进入梦中(Morphius出现恐吓你)，梦醒，先开灯，再把rocks收回。出旅店，先去完成其它的事，记得有空回旅社再睡两次(就是说，总共睡三次)。 
+
+　　注:在此钱可能不够，去ForestSpirits内有棵cointree，用WitchItah’sstick 打cointree就会有钱掉下，但下次掉钱，须先出森林，再重覆上述动作。参考下面的MapofForestSpirits。 
+
+　　回Blacksmith处，给钱，Blacksmith将修好的剑还你，把剑拿来看，嗯!剑上宝石不见，是把假剑，找Blacksmith理论，showthefakeswordtotheBlacksmith，Blacksmith 当然不承认，要一直威胁(threaten)Blacksmith直到他还剑或给你voucher(凭单) 要你自己找Ben拿，就可取回TrueDwarvenSword。 
+
+　　Snoot’sFarm旁边是Silo利用在HardwareStore取得的crank，放在Silo latchturncrankclockwise。一声巨响，?个Silo爆掉，得胡萝卜(carrot)。 
+
+　　Pugney’sRanch有头母牛，先取旁边乾草(hay)，以身上火?点燃，手在火上烤热，再拿 
+
+　　出Thermozz来装牛奶。(以後要再取牛奶须先喂牛吃胡萝卜，再重覆上述步骤) 
+
+　　TheForestoftheSpirits:(2)。Bowman眼睛瞎掉，对Fairy乱射箭，把装有milk 的ThermozzgiveittotheBowman。拿回他留下的东西。(3)。遇Fairy处是黑暗森林，点燃火? ，不断与Fairy谈话(friendly)直到Fairy拿FairyDust给你。(5)。当你靠近TreeSpirit，她会唱歌给你听(其实是暗示，在notebook可看到)(6)。此处是个陷阱，随便拿个东西丢进(Throwonto)thePileofLeaves，再用swordcutsprung trap。可取回丢进去的东西。(7)用DwarvenSword砍BoarMemorial三次，得discpiece (8)。有一只蜘蛛(Spider)无法通过，只有到TrollCaverns拿FearNecklace之後才能过，在此先提;pickupFearNecklaceshowittoSpider，pickupswordtocut thewebdown。如此便可通过。(9)。FloodControlDam#3取出flask装水，再取bat guano放入flask内，两者混和後 
+
+TheMapofForestSpirits 
+
+　　1。起点 
+
+　　82。遇Bowman 
+
+
+9 ──□ ─□─□─□─□─□ □7 3.遇Fairy
+
+│ │ │ │ │ 4.coin tree
+
+□─□─□ □─□ 5.tree spirit
+
+N │ │ │ 6.Pile of Leaves
+
+│ □ 7.Wild Boar
+
+W ┼ E │ │ │ 8.Spider
+
+S ─□─□─□─□─□─□─ □ 9.To Flood Control
+
+│ │ │ │ │ Dam #3
+
+□─□─□ □ □─□─□
+
+│ 5 6 │
+
+─□
+
+│ │
+
+□─□─□
+
+│ 3 │ │
+
+─□ □─□─□
+
+│ │ │ │ │
+
+─□─□ □─□─□─
+
+2 │ │ │
+
+1□ □4
+
+　　得到FairyDust後pourtheDustontherotmeat(由冰箱取出，不久就腐坏)，前往VulturePits先不要进去，在入口处throwthemeat，秃鹰会来吃，等鹰们睡著，赶紧进去，拿到爪子(talon)，就可离开。 
+
+　　WhisperingWood进入前先确定Thermozz内的牛奶是全满(full)非partialfull 在入口处释放蝙蝠(removebatfromcage)，记得拾取蝙蝠掉地上的屎(guano)放入 flask内，就可跟著蝙蝠走，这是最简单的迷宫，惟一要注意的是;当你快瞎掉之前，喝牛奶就可解决。迷宫中有个声音;Threeringsbegin，tworingsreturn;意思是在码头敲铃三声Ferryman会来接你，回程则敲两声。当Ferryman伸手要东西时，只要将下棋赢来的coinshowtoFerryman就可以。(回来也是show给他看即可) 
+
+　　小岛只一条路通Canuk’shouse，内有一只鸦子，卷轴(scroll)，瓶子(内有船)，蓝图(blueprints)，先看蓝图，图上所绘就是门口那长方行Doorknocker(Illumynite HorsehoeMagnetDoorKnocker)离开房间，在门口取出sword，prythemagnetoff。这马蹄形磁铁加上哨子就可任你移动(任何曾去过)。pickupmagnet，usemagnet withWhistle，blowWhistle。经过这道手续，以後只要用地图就能迅速移动。 
+
+　　取那内有船的瓶子，看卷轴，pickupscroll，lookatscroll，scrollreadto Duck。鸭子会变回Canuk’s的原形，先问他Book，他会帮你翻译一段笑话，最後问他Bottle 他会翻脸要你去瓶内帮他取回他放在里面的discpiece，而且只有20分钟，在船上，先往上有数目字，往左有些线索，往前可进入舱房，拿桌上rag，看床旁保险箱(turntne handleonthesafe)，numberis"9427"取discpieceandrustymetalthing。 
+
+　　离开前先pickupmirror(从Rebecca卧室取得)，离开瓶子後，Canuk欲对你施法，还好镜子已在手上，Canuk反被自己变成鸦子。 
+
+　　注:如果循原路叫Ferryman载你离开小岛可加分。 
+
+　　进入CliffsDepression前，先把录音带位置准备好，确定已录好Rebcca，Mayor WitchItah，Canuk四人替你翻译好的笑话。 
+
+　　拿取围住大树的绳子，把绳子绑在树突向悬崖处，循著绳子往下，进入笑话俱乐部，主持人要你讲笑话，赶紧用录音机把四人笑话播放，因众人开心，主持人送奖品给你(discpiece)。在bondingplant死掉之前，赶快离开(如bonding plant死掉，你会变得很沮丧)。 
+
+　　上来後记得收回绳子。 
+
+　　用地图回灯塔(Lighthouse)，Keeper不肯开门，showillumynite，Keeper就会开门 askdiscpiece，Keeper会拿出他的discpiece要你收下。 
+
+　　由左边上塔顶，取出绳子用Cow-Hitchknot将绳子绑在栏干上，再将Talon勾在绳上，最後把绳子丢到对岸大树上，就可到对岸了。用地图回灯塔，收回Talonandrope，再用地图回对岸。 
+
+　　往前走到TempleatBelNaire，庭院雕像手中shinyshield记得拿。Temple内的女人(HolyWoman)，showDwarvenSwordtoHolyWoman，她会祝福此剑。askthe sword。 
+
+　　Temple外有两条路，右边通往DwarvenCamp，在camp，Dwarvengeneral一看到你及 sword就认定是自己人，送你miner’shelmet，并招呼另一伙伴，talktoDwarven leader他会告诉你DwarvenMines要如何通过。 
+
+　　根据指示矿坑路线如下:左，右，前(直走)，右，左，右，前，右，左，左，右，前。(人你的左右边，不是monitor)，手脚要快。 
+
+　　矿车一路行至AncientRuins，七座雕像成半圆形，圆心是trencher，将Disc放在trencher 
+
+　　雕像由左至右应放置物品:1。stick2。Talon3。Thermozz4。不用放任何物品 5。miner’shelmetandbox6。shinyshield7。theorb。 
+
+? 
+
+　　trencher旁红色钮(redbutton)，结果得到完?的Disc。拾回所有物品，就可离开。 
+
+　　回TrollCaverns，洞外有? 
+
+　　骷尸，它留下讯息"L。U。D"，意思是砍人的方向。戴上minerhelmet才能进去。三个守卫，第一个swingleft，第贰个swingup，第参个swing down。 
+
+　　Trollleader是个好说大话的家伙，吓(threaten)他三次，他就会乖乖交出FearNecklace。 
+
+　　记得曾提过ForestoftheSpirits那只蜘蛛吗?现在可以去找它了。Showthe FearNecklacetotheSpider。useswordcuttheweb。抵达FloodControlDam#3 
+
+　　往上走有个水龙头，取出flask装水(silverflask+bat’sguano+floodwater= invisibilitypotion)。 
+
+　　CliffsofDepression附近不是有条路过不去(WallofIllusion)取出Disc掷向幻象墙，向Citadel前进吧! 
+
+　　Citadel大门上方有只手，拿出弓和箭向手射去(pickupbow，usebowwith arrow) 
+
+　　进入後，Orc挡住去路，赶快喝下隐形药水(flask)，使用录音机播放Alexis(狗)的吠声，就能骗他离开。再进去是条桥(其实是左右两条桥，刚开始是左桥)，将身上所有东西都往左桥抛过去(throw)直到右桥浮上来为止(反正以後都用不著)。过桥前记得SAVE。 
+
+　　过桥後Morphius要你跟他下一盘Survivor，这次不容易过关，巫师是走类似西洋棋的骑士的走法，在4*4格子中，切记先把外围格子解决，再走中间四个格子，多走几次应该没有问题才是。接著欣赏结局画面。
+

@@ -1,4 +1,4 @@
-Baldu’s Gate（柏德之门）
+Baldur’s Gate（柏德之门）
 
 打开伯德之门游戏目录下的baldur.ini文件，在[Game Options]小节首行插入 Cheats=1 保存这个文件后，进入游戏。 
 
