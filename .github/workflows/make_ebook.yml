@@ -41,6 +41,13 @@ jobs:
         $env:Path += ';.;.\HHW' 
         python script\make_chm.py
 
+    - name: Clear up
+      run: |
+        Remove-Item -Path build\html -Recurse -Force
+        Remove-Item -Path build\images -Recurse -Force
+        Remove-Item -Path build\doc -Recurse -Force
+        Remove-Item -Path build\*.exe -Recurse -Force
+
     - name: Check output
       run: ls build
     
