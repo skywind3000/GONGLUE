@@ -21,7 +21,7 @@ PROJECT = os.path.abspath(os.path.join(DIRNAME, '../..'))
 BUILD = os.path.join(PROJECT, 'build')
 CACHE = os.path.join(PROJECT, '.cache')
 SCRIPT = os.path.join(PROJECT, 'script')
-CRAWLER = os.path.join(PROJECT, 'script/crawler')
+CRAWLER = os.path.join(PROJECT, 'script/crawlers')
 
 
 #----------------------------------------------------------------------
