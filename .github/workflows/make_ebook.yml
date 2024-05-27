@@ -49,6 +49,11 @@ jobs:
         Remove-Item -Path build\*.exe -Recurse -Force
         Remove-Item -Path build\chm.hh* -Recurse -Force
 
+    - name: Rename files
+      run: |
+        mv build\GONGLUE.chm build\GONGLUE-$(date -f "yyyyMMdd").chm
+        mv build\GONGLUE.epub build\GONGLUE-$(date -f "yyyyMMdd").epub
+
     - name: Check output
       run: ls build
     
@@ -58,20 +63,12 @@ jobs:
         # name: # optional, default is artifact 
         path: build
   
-
-  release:
-    # if: startsWith(github.ref, 'refs/tags/')
-
-    runs-on: windows-latest
-
-    needs: [build]
-
-    steps:
-
-      - name: Download artifact
-        uses: actions/download-artifact@v3
-
-      - name: List downloaded files
-        run: ls -R
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        generate_release_notes: true
+        files: build/*
 
 
