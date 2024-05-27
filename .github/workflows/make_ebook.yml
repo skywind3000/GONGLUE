@@ -72,6 +72,8 @@ jobs:
         uses: actions/download-artifact@v3
 
       - name: List downloaded files
-        run: ls build
+        run: |
+          ls
+          ls build
 
 
