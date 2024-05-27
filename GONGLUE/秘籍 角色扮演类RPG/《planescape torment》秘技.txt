@@ -1,3 +1,0 @@
-《planescape torment》秘技
-
-在world map 里右上方lower ward里的Dead Nations 左下方的stale marys chambers里找stale mary对话，所有内容均为1. 即Answer1:"I had some questions." Answer2:"Mary,I need to speak with the silent king.can you help me." Answer3:"I need to leave this place."然后就gained exp 3750,得到exp后，会leave， 去左上边的洞传送到silent king处。问题就在这里，得到exp后不要leave,找stale mary重复上面的三个问题，就又一次gained exp 3750.在这里可gained exp无限.我在这里可是把主角的属性全部加到了上限喔.(win98+dx7.0下测试，绝无问题).

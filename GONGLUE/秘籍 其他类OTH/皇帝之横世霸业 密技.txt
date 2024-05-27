@@ -1,0 +1,18 @@
+皇帝之横世霸业 密技
+
+　　在游戏画面中，按下F9键，输入下列密码，再按Enter键： 
+
+　　游戏中密技： 
+　　open whole map = 关闭地图迷雾 
+　　change people = 人口升到最大值 
+　　change gold = 金+1000 
+　　change foods = 粮+5000 
+　　change wood = 木+5000 
+　　change iron = 铁+1000 
+　　change horse = 马+500 
+
+　　打开剧本： 
+　　open main senario = 一般剧本所有关卡开启 
+　　open short senario = 短剧本所有关卡开启 
+　　open taiwan = 台海模拟战关卡开启（从练习剧本中发现） 
+　　open cat = 喵喵冒险记关卡开启（从练习剧本中发现）
