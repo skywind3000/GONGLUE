@@ -180,8 +180,11 @@ def read_file_content(filename):
 #----------------------------------------------------------------------
 # download file
 #----------------------------------------------------------------------
-def download(url, filename):
+def download(url, filename, skip = False):
     import requests
+    if skip and os.path.exists(filename):
+        # print(f'skip download: {filename}')
+        return 1
     r: requests.Response = lazy.get(None, url)
     if r is None:
         raise IOError(-1, f'download failed: {url}')
