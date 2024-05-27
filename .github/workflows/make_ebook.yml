@@ -8,7 +8,7 @@ on:
       - '*' # patter like 'v*' for 'v1.0'  
 
 permissions:
-  contents: [read, write]
+  contents: write
 
 jobs:
   build:
