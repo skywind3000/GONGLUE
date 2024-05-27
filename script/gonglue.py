@@ -150,9 +150,9 @@ def list_html():
     sorted_array = []
     for dirname in html_files:
         for fn, title in html_files[dirname].items():
-            t1 = dirname.encode('gbk')
-            t2 = fn.encode('gbk')
-            t3 = title.encode('gbk')
+            t1 = dirname.encode('gbk', errors = 'ignore')
+            t2 = fn.encode('gbk', errors = 'ignore')
+            t3 = title.encode('gbk', errors = 'ignore')
             sorted_array.append((t1, t2, t3))
     sorted_array.sort()
     html_files = {}
