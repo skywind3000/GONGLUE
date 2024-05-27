@@ -47,6 +47,7 @@ jobs:
         Remove-Item -Path build\images -Recurse -Force
         Remove-Item -Path build\doc -Recurse -Force
         Remove-Item -Path build\*.exe -Recurse -Force
+        Remove-Item -Path build\chm.hh* -Recurse -Force
 
     - name: Check output
       run: ls build
