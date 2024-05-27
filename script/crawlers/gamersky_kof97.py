@@ -15,6 +15,9 @@ import pprint
 import bs4
 import crawler
 
+sys.path.append(crawler.SCRIPT)
+# pylint: disable=wrong-import-order,wrong-import-position
+import gonglue  # noqa
 
 
 #----------------------------------------------------------------------
@@ -37,8 +40,30 @@ def download_pages():
         else:
             url = URL[:-6] + f'_{n}.shtml'
         srcname = os.path.join(HTML, f'c{n}.html')
+        srcname = os.path.normpath(srcname)
+        srcname = os.path.relpath(srcname)
         if crawler.download(url, srcname, True):
             print(f'skip {srcname}')
+    return 0
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def parse_pages():
+    for n in range(1, NUM + 1):
+        srcname = os.path.join(HTML, f'c{n}.html')
+        html = gonglue.read_file_content(srcname)
+        parse_html(html)
+        break
+    return 0
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def parse_html(html):
+    print('here')
     return 0
 
 
@@ -48,6 +73,7 @@ def download_pages():
 if __name__ == '__main__':
     def test1():
         download_pages()
+        parse_pages()
         return 0
     test1()
 
