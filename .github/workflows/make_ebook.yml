@@ -74,6 +74,5 @@ jobs:
       - name: List downloaded files
         run: |
           ls
-          ls build
 
 
