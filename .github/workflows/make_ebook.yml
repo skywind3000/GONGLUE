@@ -3,9 +3,6 @@ name: Build ebook
 on:
   release:
     types: [published]
-  push:
-    tags:
-      - '*' # patter like 'v*' for 'v1.0'  
 
 permissions:
   contents: write
