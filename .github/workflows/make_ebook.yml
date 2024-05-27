@@ -29,7 +29,7 @@ jobs:
       run: |
         python script/make_epub.py
 
-    - name: Download html_help_workshop
+    - name: Download chmcmd
       run: |
         curl https://github.com/skywind3000/support/releases/download/1.0.0/chmcmd.zip -L > chmcmd.zip
         7z x chmcmd.zip
@@ -39,20 +39,11 @@ jobs:
     - name: Build chm
       run: |
         $env:Path += ';.;.\HHW' 
-        python script/make_chm.py
+        python script\make_chm.py
 
     - name: Check output
       run: ls build
     
-    - name: rebuild 
-      run: |
-        $env:Path += ';.'
-        hhc build/chm.hhp
-        ls 
-        ls build
-        ls script
-
-
     - name: Upload result
       uses: actions/upload-artifact@v4.3.3
       with: 
