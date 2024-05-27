@@ -37,7 +37,7 @@ jobs:
 
     - name: Build chm
       run: |
-        $env:Path += ';.' 
+        $env:Path += ';.;.\HHW' 
         python script/make_chm.py
 
     - name: Check output

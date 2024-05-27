@@ -144,8 +144,8 @@ class ChmBook (object):
         return 0
 
     def build (self):
-        os.chdir(gonglue.BUILD)
-        cmd = 'hhc chm.hhp'
+        os.chdir(gonglue.PROJECT)
+        cmd = 'hhc build/chm.hhp'
         os.system(cmd)
         return 0
 
