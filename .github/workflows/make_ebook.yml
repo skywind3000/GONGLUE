@@ -51,8 +51,8 @@ jobs:
 
     - name: Rename files
       run: |
-        mv build\GONGLUE.chm build\GONGLUE-$(date -f "yyyyMMdd").chm
-        mv build\GONGLUE.epub build\GONGLUE-$(date -f "yyyyMMdd").epub
+        mv build\GONGLUE.chm build\GONGLUE-$(Get-Date -f "yyyyMMdd").chm
+        mv build\GONGLUE.epub build\GONGLUE-$(Get-Date -f "yyyyMMdd").epub
 
     - name: Check output
       run: ls build
