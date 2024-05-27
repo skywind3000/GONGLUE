@@ -11,6 +11,7 @@
 import sys
 import time
 import os
+import io
 
 
 #----------------------------------------------------------------------
@@ -27,9 +28,55 @@ IMAGES = os.path.join(BUILD, 'images')
 #----------------------------------------------------------------------
 # fix encoding
 #----------------------------------------------------------------------
-
 sys.stdin.reconfigure(encoding='utf-8')
 sys.stdout.reconfigure(encoding='utf-8')
+
+
+#----------------------------------------------------------------------
+# auto detect encoding and decode into a string
+#----------------------------------------------------------------------
+def string_decode(payload, encoding = None):
+    content = None
+    if payload is None:
+        return None
+    if hasattr(payload, 'read'):
+        try: content = payload.read()
+        except: pass
+    else:
+        content = payload
+    if content is None:
+        return None
+    if isinstance(content, str):
+        return content
+    if not isinstance(payload, bytes):
+        return str(payload)
+    if content[:3] == b'\xef\xbb\xbf':
+        return content[3:].decode('utf-8', 'ignore')
+    elif encoding is not None:
+        return content.decode(encoding, 'ignore')
+    guess = [sys.getdefaultencoding(), 'utf-8']
+    if sys.stdout and sys.stdout.encoding:
+        guess.append(sys.stdout.encoding)
+    try:
+        import locale
+        guess.append(locale.getpreferredencoding())
+    except:
+        pass
+    visit = {}
+    text = None
+    for name in guess + ['gbk', 'ascii', 'latin1']:
+        if name in visit:
+            continue
+        visit[name] = 1
+        try:
+            text = content.decode(name)
+            break
+        except:
+            pass
+    if text is None:
+        text = content.decode('utf-8', 'ignore')
+    return text
+
 
 #----------------------------------------------------------------------
 # list text files
@@ -51,8 +98,31 @@ def list_text():
             continue
         if '*' not in file_list:
             file_list['*'] = {}
-        file_list['*'][fn] = os.path.join(GONGLUE, fn)
+        t = os.path.join(GONGLUE, fn)
+        file_list['*'][fn] = t
     return file_list
+
+
+#----------------------------------------------------------------------
+# read file binary
+#----------------------------------------------------------------------
+def read_file_binary(filename):
+    with open(filename, 'rb') as f:
+        return f.read()
+    return None
+
+
+#----------------------------------------------------------------------
+# read file content
+#----------------------------------------------------------------------
+def read_file_content(filename, encoding = None):
+    t = read_file_binary(filename)
+    if t is not None:
+        x = string_decode(t, encoding)
+        if x is not None:
+            x = x.replace('\r\n', '\n')
+            return x
+    return None
 
 
 #----------------------------------------------------------------------
@@ -63,7 +133,10 @@ def read_file_title(filename):
     if not os.path.isfile(filename):
         return os.path.splitext(os.path.basename(filename))[0]
     extname = os.path.splitext(filename)[-1].lower()
-    with open(filename, 'r', encoding = 'utf-8', errors = 'ignore') as f:
+    content = read_file_content(filename)
+    if content is not None:
+        import io
+        f = io.StringIO(content)
         for line in f:
             line = line.strip('\r\n\t ')
             if extname == '.md':
@@ -80,23 +153,6 @@ def read_file_title(filename):
         title = os.path.splitext(os.path.basename(filename))[0]
     return title
 
-
-#----------------------------------------------------------------------
-# read file content
-#----------------------------------------------------------------------
-def read_file_content(filename, encoding = 'utf-8'):
-    with open(filename, 'r', encoding = encoding, errors = 'ignore') as f:
-        return f.read()
-    return None
-
-
-#----------------------------------------------------------------------
-# read file binary
-#----------------------------------------------------------------------
-def read_file_binary(filename):
-    with open(filename, 'rb') as f:
-        return f.read()
-    return None
 
 
 #----------------------------------------------------------------------
@@ -230,8 +286,7 @@ def convert(srcname, template, htmlfile, footer = None, css = None):
         style = f'<link rel="stylesheet" href="{css}">'
     if os.path.splitext(srcname)[-1].lower() == '.md':
         import markdown
-        with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
-            text = f.read()
+        text = read_file_content(srcname)
         text += '\n'
         if footer:
             text += '\n' + footer
@@ -254,14 +309,15 @@ def convert(srcname, template, htmlfile, footer = None, css = None):
                 f.write(final)
         return final
     title = ''
-    with open(srcname, 'r', encoding='utf-8', errors = 'ignore') as f:
-        for line in f:
-            line = line.rstrip('\r\n\t ')
-            if not line:
-                continue
-            title = line.lstrip('# ')
-            break
-        text = f.read()
+    content = read_file_content(srcname)
+    sio = io.StringIO(content)
+    for line in sio:
+        line = line.rstrip('\r\n\t ')
+        if not line:
+            continue
+        title = line.lstrip('# ')
+        break
+    text = sio.read()
     text += '\n'
     if not title:
         title = os.path.splitext(os.path.basename(srcname))[0]
