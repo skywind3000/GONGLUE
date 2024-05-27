@@ -1,6 +1,6 @@
 # GONGLUE
 
-单机游戏攻略秘籍，直接点开 GONGLUE 目录查看，共计 1479 篇，所有内容都来自网络。
+单机游戏攻略秘籍，直接点开 GONGLUE 目录查看，共计 1479+ 篇，所有内容都来自网络。
 
 ## 格式说明
 
@@ -21,7 +21,7 @@
 
 ## 电子书
 
-使用 `script` 目录里的 `make_chm.py` 和 `make_epub.py` 可以生成 chm 和 epub 电子书，但需要提前安装好 [chmcmd](https://wiki.freepascal.org/htmlhelp_compiler)，一个开源的 CHM 编译工具，并且可以在 `$PATH` 中找到 `chmcmd.exe` 程序（我自己做了一个 [精简版](https://github.com/skywind3000/support/releases/download/1.0.0) 下载里面的 chmcmd.zip 解压到当前目录即可）。
+使用 `script` 目录里的 `make_chm.py` 和 `make_epub.py` 可以生成 chm 和 epub 电子书，但需要提前安装好 [chmcmd](https://wiki.freepascal.org/htmlhelp_compiler)，一个开源的 CHM 编译工具，并且可以在 `$PATH` 中找到 `chmcmd.exe` 程序（我自己做了一个 [精简版](https://github.com/skywind3000/support/releases/1.0.0) 下载里面的 chmcmd.zip 解压到当前目录即可）。
 
 同时需要依赖下面几个 Python 库：
 
