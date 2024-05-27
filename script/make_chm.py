@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #======================================================================
 #
-# make_chm.py - 
+# make_chm.py - new chm generator using chmcmd
 #
 # Created by skywind on 2024/05/23
 # Last Modified: 2024/05/23 17:26:08
@@ -110,7 +110,7 @@ class ChmBook (object):
             f.write('Index file=chm.hhk\n')
             # f.write('Default Window=Main\n')
             f.write('Default Window=MyWindow\n')
-            f.write('Default topic=html\\INTRO.html\n')
+            f.write('Default topic=doc\\c0.html\n')
             f.write('Display compile progress=Yes\n')
             if enable_search:
                 f.write('Full-text search=Yes\n')
@@ -228,8 +228,8 @@ class ChmBook (object):
         return 0
 
     def build (self):
-        os.chdir(gonglue.PROJECT)
-        cmd = 'chmcmd build/chm.hhp'
+        os.chdir(gonglue.BUILD)
+        cmd = 'chmcmd chm.hhp'
         os.system(cmd)
         return 0
 
@@ -240,15 +240,16 @@ class ChmBook (object):
 def build_chm():
     gonglue.prepare()
     book = ChmBook()
-    print('Creating hhp/hhc/hhk ...')
+    print('Patching html ...')
     book.prepare()
+    print('Creating hhp/hhc/hhk ...')
     book.create_hhp(enable_search = 0)
     book.create_hhc()
     book.create_hhk()
     print('Building chm ...')
     print('')
     sys.stdout.flush()
-    # book.build()
+    book.build()
     return 0
 
 
@@ -268,7 +269,7 @@ if __name__ == '__main__':
         book.create_hhk()
         book.build()
         return 0
-    test2()
+    test1()
 
 
 
