@@ -24,7 +24,7 @@ import gonglue  # noqa
 #----------------------------------------------------------------------
 # INTERNAL
 #----------------------------------------------------------------------
-HTML = os.path.join(crawler.CRAWLER, 'html/games/kof97')
+HTML = os.path.join(crawler.CRAWLERS, 'html/games/kof97')
 URL = 'https://www.gamersky.com/handbook/201804/1032863.shtml'
 NUM = 34
 

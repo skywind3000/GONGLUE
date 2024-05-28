@@ -21,7 +21,12 @@ PROJECT = os.path.abspath(os.path.join(DIRNAME, '../..'))
 BUILD = os.path.join(PROJECT, 'build')
 CACHE = os.path.join(PROJECT, '.cache')
 SCRIPT = os.path.join(PROJECT, 'script')
-CRAWLER = os.path.join(PROJECT, 'script/crawlers')
+CRAWLERS = os.path.join(PROJECT, 'script/crawlers')
+
+sys.path.append(SCRIPT)
+
+# pylint: disable=wrong-import-position, wrong-import-order
+import gonglue    # noqa
 
 
 #----------------------------------------------------------------------
@@ -171,10 +176,10 @@ def fetch(url):
 #----------------------------------------------------------------------
 # functions
 #----------------------------------------------------------------------
-def read_file_content(filename):
-    with open(filename, 'r', encoding = 'utf-8', errors = 'ignore') as f:
-        return f.read()
-    return None
+def read_file_content(filename, encoding = None):
+    return gonglue.read_file_content(filename, encoding)
+
+
 
 
 #----------------------------------------------------------------------
@@ -193,10 +198,7 @@ def download(url, filename, skip = False):
         raise IOError(code, f'download failed({code}): {url}')
     mime = r.headers.get('Content-Type', 'application/octet-stream')
     if mime.startswith('text/'):
-        if r.content:
-            text = r.content.decode('utf-8', errors = 'ignore')
-        else:
-            text = r.text
+        text = gonglue.string_decode(r.content)
         with open(filename, 'w', encoding = 'utf-8') as f:
             f.write(text)
         print(f'download text: {filename}')

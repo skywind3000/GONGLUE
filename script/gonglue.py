@@ -154,6 +154,40 @@ def read_file_title(filename):
     return title
 
 
+#----------------------------------------------------------------------
+# write file content
+#----------------------------------------------------------------------
+def write_file_content(filename, content):
+    if isinstance(content, str):
+        with open(filename, 'w', encoding = 'utf-8') as f:
+            f.write(content)
+    else:
+        with open(filename, 'wb') as f:
+            f.write(content)
+    return 0
+
+
+#----------------------------------------------------------------------
+# json: load
+#----------------------------------------------------------------------
+def read_json(filename):
+    import json
+    content = read_file_content(filename)
+    if content is not None:
+        return json.loads(content)
+    return None
+
+
+#----------------------------------------------------------------------
+# json: save
+#----------------------------------------------------------------------
+def write_json(filename, data):
+    import json
+    content = json.dumps(data, indent = 4, ensure_ascii = False)
+    write_file_content(filename, content)
+    return 0
+
+
 
 #----------------------------------------------------------------------
 # guess mimetype
