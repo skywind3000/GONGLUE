@@ -1,6 +1,7 @@
-Starcraft（星际争霸）
+星际争霸 秘籍
 
 游戏中先按下ENTER键，然后在CHAT框内键入以下字符，再按ENTER键激活密技。
+
 power overwhelming：打开上帝模式
 operation cwal：建造速度加快
 the gathering：技能点数无限
