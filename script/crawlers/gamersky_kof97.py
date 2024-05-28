@@ -53,11 +53,14 @@ def download_pages():
 # 
 #----------------------------------------------------------------------
 def parse_pages():
+    content = []
     for n in range(1, NUM + 1):
         srcname = os.path.join(HTML, f'c{n}.html')
         html = gonglue.read_file_content(srcname)
-        parse_html(html)
-        break
+        md = parse_html(html)
+        content.append(md + '\n')
+        # break
+    open('html/games/kof97.md', 'w', encoding = 'utf-8').write(''.join(content))
     return 0
 
 
@@ -75,7 +78,7 @@ def parse_html(html):
         md = md[:-len('更多相关内容请关注：拳皇97专区')].strip('\r\n\t ')
     md = f'## {md}\n'
     print(md)
-    return 0
+    return md
 
 
 #----------------------------------------------------------------------
