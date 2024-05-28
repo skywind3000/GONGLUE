@@ -141,8 +141,11 @@ def write_sitemap():
         names[n] = 0
     for n in index['miji']:
         names[n] = 0
-    array = list(names.keys())
+    array = []
+    for name in names:
+        array.append((name.encode('gbk', 'ignore'), name))
     array.sort()
+    array = [x[1] for x in array]
     for name in array:
         srcname = filename_normalize(name)
         htmlname = os.path.join(sitemap, srcname + '.html')
