@@ -28,10 +28,18 @@ def purify_html(html) -> bs4.element.Tag:
     top = soup.find('div', class_ = 'Mid2L_con')
     if not top:
         raise ValueError('cannot find Mid2L_con')
-    p = top.find('div', class_ = 'post_ding_top').find('p')
-    top.find('a', class_ = 'post_ding_top_down').decompose()
-    top.find('div', class_ = 'Content_Paging').decompose()
+    p = top.find('div', class_ = 'post_ding_top_down')
+    if p:
+        p.decompose()
+    p = top.find('div', class_ = 'Content_Paging')
+    if p:
+        p.decompose()
     p = top.find('p', class_ = 'gs_nc_editor')
+    while p:
+        next = p.find_next_sibling()
+        p.decompose()
+        p = next
+    p = top.find('span', id = "pe100_page_contentpage")
     while p:
         next = p.find_next_sibling()
         p.decompose()
