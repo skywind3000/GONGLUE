@@ -20,7 +20,7 @@ import gonglue    # noqa
 
 
 #----------------------------------------------------------------------
-# 
+# internal
 #----------------------------------------------------------------------
 HTML = os.path.join(crawler.CRAWLERS, 'html/sina/index')
 JSON = os.path.join(crawler.CRAWLERS, 'html/sina/index.json')
@@ -34,7 +34,7 @@ MARK2 = '》'
 
 
 #----------------------------------------------------------------------
-# 
+# download index
 #----------------------------------------------------------------------
 def download_index():
     crawler.ensure_dir(HTML)
@@ -52,7 +52,7 @@ def download_index():
 
 
 #----------------------------------------------------------------------
-# 
+# parse index page
 #----------------------------------------------------------------------
 def parse_page(html):
     soup = bs4.BeautifulSoup(html, 'html.parser')
@@ -90,25 +90,36 @@ def index_merge(index, records):
 
 
 #----------------------------------------------------------------------
-# 
+# parse index
 #----------------------------------------------------------------------
 def parse_index():
     index = {}
+    index['gonglue'] = {}
+    index['miji'] = {}
     for n in range(1, NUM1 + 1):
         srcname = os.path.join(HTML, f'c{n}.html')
         html = crawler.read_file_content(srcname)
         lst = parse_page(html)
         print(f'{n}/{NUM1} c{n}.html')
-        index_merge(index, lst)
+        index_merge(index['gonglue'], lst)
     for n in range(1, NUM2 + 1):
         srcname = os.path.join(HTML, f'm{n}.html')
         html = crawler.read_file_content(srcname)
         lst = parse_page(html)
         print(f'{n}/{NUM2} m{n}.html')
-        index_merge(index, lst)
+        index_merge(index['miji'], lst)
     gonglue.write_json(JSON, index)
     return 0
 
+
+#----------------------------------------------------------------------
+# get index
+#----------------------------------------------------------------------
+def get_index():
+    if not os.path.exists(JSON):
+        download_index()
+        parse_index()
+    return gonglue.read_json(JSON)
 
 
 #----------------------------------------------------------------------
@@ -116,9 +127,9 @@ def parse_index():
 #----------------------------------------------------------------------
 if __name__ == '__main__':
     def test1():
-        download_index()
         return 0
     def test2():
+        download_index()
         parse_index()
         return 0
     def test3():
@@ -127,7 +138,11 @@ if __name__ == '__main__':
             size = len(index[game])
             print(game, size)
         return 0
-    test3()
+    def test4():
+        index = get_index()
+        print(len(index))
+        return 0
+    test4()
 
 
 
