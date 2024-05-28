@@ -1,0 +1,65 @@
+合金装备4 剧情解析
+
+　　转一篇里屋的帖子，作者chenke，分析得不错，牵扯到大量剧透，还没有通关的朋友建议先不要看。
+
+　　Metal Gear Solid 4 故事发生时间2014年.....Metal Gear Solid 3 1964年, Metal Gear Solid: Portable Ops 1970年, Metal Gear 1995年, Metal Gear 2 1999年, Metal Gear Solid 2005年, Metal Gear Solid 2 tank篇2007年, plant篇2009年......始于3代, 50年的故事终于有了一了断
+
+　　地点, 总共5个ACT, 分别是中东, 南美, 东欧, Shadow Moses Island(一代场景), Outer Haven(2代Arsenal Gear的改进型)
+
+　　登场人物及去向
+
+　　Solid Snake: 想必这人来龙去脉都知道....也没必要多做解释了, 作为Les Enfants Terribles计划的产物, Snake受到生长加速的影响, 所以在1代的9年后已经显得如此苍老, 因为多年的战争记忆及Foxdie的影响, 一度对自己的生存失去信念, 但最终还是勇敢的选择了活下去, 不管剩下的日子是多久.....这还差不多
+
+　　PS: 题外话, 关于Snake自杀这点, 国外网站有过大论战, 说穿了还是文化意识形态差别, 日本人的文化, 对自杀觉得是相当"崇拜"的心理, 尤其是以一个战士的身份选择自尽, 而在西方人眼里, 不管出于什么情况什么条件, "自杀"都是一种懦弱和逃避的表现, 所以欧美玩家根本无法接受Snake这样的英雄人物以自杀的方式了结自己的一生
+
+　　Hal "Otacon" Emmerich: 此人还是老样子, 装得老实实则一肚子闷骚, 而且是红颜克星 , 跟他有关系的女人不管远近没一个善终, 本作跟Naomi在直升机里野战了一场, 也该知足了
+
+　　Sunny: Olga Gurlukovich的亲生女儿, 在出生后就被Patriots带走以此威胁Olga合作, 导出了2代后来Olga的情节, 被Snake和Otacon救出后就一直与2人一起在Nomad(他们的运输机)生活, 年仅7岁有点语言障碍确是个电脑天才, 帮助Naomi编写的程序最终造成Partiots整个AI系统崩溃, 了结了一切
+
+　　Naomi Hunter: 她和Grey Fox的关系不用说了, 一代里为了报复给Snake注射了Foxdie的人, 但最终还是选择了原谅. 本作可以说是举足轻重的关键人物, 她和Sunny编写的程序摧毁了Patriots的整个AI系统GW, JA, TJ, JM, 和JD.....另外跟Otacon玩了一夜情, 原本已经得了癌症, 全靠身体里的nanomachine维持身体机能, 最后在Shadow Moses的机库, Grey Fox死去的地方关闭了体内的nanomachine, 选择了结束生命
+
+　　Ocelot: 可以说是MGS系列的Wesker了, 见证了整个系列的几乎全部事件, 了解几乎所有的内情, 并且还是The Boss在战场上生下的亲生儿子(老爸是The Sorrow), 但Ocelot出生后随即被Philosophers带走....游戏2代装上了Liquid的手臂后一直处于与Liquid共存的状态......不过都是装出来的, Liquid从未寄生, 而是Ocelot用体内nanomachine的作用和心理暗示, 使自己完美演了这么一场戏, 为的就是蒙骗Patriots的AI, 掩人耳目, 他的目的就是为了救出Big Boss和了结Patriots, 从3代就可以知道Ocelot一直都是和Big Boss一条战线的, 可以说对Big Boss有点崇拜和战友之情, 最后和Snake在Outer Haven甲板上肉搏一场, 给自己70年的风雨画上了句号
+
+　　Raiden: 2代的小白脸, 这次变成熟了点, 当然还是很奶油....因为受2代事件的影响, 和自己女人闹散了(可能也是刻意的), 独自一人去寻找真相并遇到了Big Mama(3代的Eva), 本作出场身体已被完全改造(和Grey Fox差不多), 连血液都是人造的, 中途救了Snake不少次, 自己倒搞成人棍了....不过游戏最后手术接好了双手, 并且和Rosemary重归于好, 连儿子都这么大了.....
+
+　　Rosemary: 2代Raiden的女友, 游戏之后因为原因种种Raiden选择了独自离开, 她就和Snake和Raiden的上司Roy Campbell结了婚.....不过事后知道是假扮的, Campell这么做为了保护Rose, 和她跟Raiden的儿子, 事后一家三口团圆, 算happy ending吧
+
+　　Roy Campbell: Snake和Raiden曾经的顶头上司, 冒着被Meryl骂老牛吃嫩草的骂名, 和Rose结了婚, 实则是为了保护母女俩不受Patriots的伤害, 事后和Meryl和好
+
+　　Meryl Silverburgh: 一代的女主角, Campbell口中的侄女, 实则是他的女儿, 本作作为Rat Patrol Team 01的指挥出场, 职责是监视PMC的活动, 比1代还强势, 那体型比他老公还强壮.....
+
+　　Johnny(Akiba): 系列著名龙套了, 这作咸鱼翻身, 戏份大增, 还秀了真面目是个帅哥, 最后和Merly结婚, 又一happy ending....此人就是1代看守牢房的守卫, 先在囚室被Meryl拨了个精光(搞得感冒), 后来又在看守Snake的时候闹肚子.....3代故事中, Johnny的爷爷Johnny作为看守Big Boss的守卫登场, 闲聊中提到了自己的妻儿在美国, 自己却因为冷战留在了苏联, 他们家族所有的男孩都叫Johnny
+
+　　Meiling: 1代作为Snake的后援部队之一出现, 是她发明了Snake使用的Codec和Soliton Radar, 2代作为反Metal Gear的组织的成员但没有"直接"露脸, 4代作为密苏里号的舰长出场, 这艘原本已经作为博物馆的战舰在合约到期后又作为训练舰派上了用处(因为其设备太过陈旧), 而正是因为曾经退役作为博物馆, 设备太过陈旧, 密苏里没有接入Patriots的控制网络, 因此在Ocelot瘫痪了美军全部的武器系统后, 它仍能活动.
+
+　　Vamp: 2代的罗马尼亚不死男, 4代终于解释了其不死的原因, 并非此人身体机能有何特别, 而是他体内特殊的nanomachine赋予了他惊人的回复能力(不就是Wolverine嘛....), Naomi干的好事.....在Shadow Moses的Rex机库中, Snake破坏了他的nanomachine, 并最后死在Raiden手里
+
+　　Zero: 3代中Big Boss的指挥官, Major Zero, 在3代以及Potable Ops的故事后, 他成功控制了Philosophers' Legacy, 并利用这笔空前庞大的资金创立了Patriots, 意图以The Boss的意愿为纲领建立一个统一的理想的世界, 但随着组织实力的空前膨胀, 以Big Boss为首的势力在意识形态上难以与Zero共存, 曾经的好友最终反目, 走上了各自的道路. 在Zero年老之后, 他不相信任何的继任者, 而是把Patriots所有的决定和控制权都交给AI去完成, 分别是GW, JA, TJ, JM, 而这4个AI又由最重要的Proxy AI JD掌控全局, 整个系统几乎控制着美国和世界的一切. 随着4代的结束, Patriots的控制土崩瓦解, 已经处于植物人状态的Zero, 被Big Boss关闭了氧气供应, 结束了生命.
+
+　　Big Mama: 就是3代的Eva, 算年龄已经70多了, 虽然Snake和Liquid是Les Enfants Terribles基因工程的产物, 但却仍然需要母体来培育, Eva就是他们的生母, 3代中作为美国在苏联的2个卧底(Adam和Eva)帮助Big Boss执行任务, 事后知道Adam其实就是Ocelot, 而真正的Eva已经被Eva干掉, 她是中国派去夺取Philosophers' Legacy的间谍, 虽然表面上任务成功, 但Ocelot早知真相从中作梗, Eva得到的核试验资料是真的, Legacy确实假的....任务失败后Eva被中国驱逐, 由此加入了Patriots, 成为了6名创始成员之一, 在Patriots内部分裂之后, 她理所当然的选择和Big Boss站在一起.....深爱Big Boss的女人, 游戏最后死在Snake怀中
+
+　　Big Boss: 这位也不用介绍了, 亲密战友如The Boss和Major Zero称其为Jack, 代号Naked Snake, 3代和Portable Ops的主角, 传奇的英雄, 几乎可以说是整个故事的起源(当然还有个The Boss在上), The Boss的死可以说是Big Boss心中永远的烙印, 对他后来的所有价值观, 作为, 起了决定性的作用, 像Eva这样深爱他的女人也明白自己不可能取代The Boss在Big Boss心中的特殊地位. Portable Ops事件之后, 受Major Zero的邀请加入了Patriots, 成为了组织的6位创始人之一, 不过随着Patriots实力的空前膨胀, Big Boss最终与Zero反目并分道扬镳, 一心想达成自己心愿的Big Boss在Outer Heaven和Zanzibar Land两次被Snake阻止并深受重伤, 其躯体被Patriots回收并保持在休眠状态, 随后又被Eva夺回并用Liquid和Solidus的身体组织修复了Big Boss躯体. Big Boss最后出现在The Boss的墓地, 刻意接近Snake让他体内的Foxdie病毒杀死了自己, 临死前他告诫Snake在剩下的时间里好好活着
+
+　　Patriots: Major Zero在Portable Ops故事之后建立的秘密组织, 总共包括6名成员, Zero, Big Boss, Ocelot, Eva, Para-Medic, Sigint, 就是3代的6名主要角色
+
+　　追溯Patriots建立的根源, 玩过3代的人都知道, 在世界大战期间美国, 苏联和中国最有影响力的人物集结了所有财力和物力建立了Philosophers, 目的就是动员所有资源击败轴心国, 包括之类的一系列工程都是用其资金运作的, 用Volgin的话说其资源至少可以再打5次二战, 但随着冷战爆发东西对立, 组织内部矛盾激化, 而苏联方面GRU的Colonel Volgin利用其父亲曾经掌管Philosophers的资金流动, 夺取了这笔财富.
+
+　　美国方面的Philosophers势力为了夺回Philosophers' Legacy, 于是派出The Boss假意投诚苏联, 利用苏联内部GRU方面以Volgin为首的势力和赫鲁晓夫的权力斗争, 上演了3代的无间道, The Boss为国捐躯, 却要背负叛徒和引爆核武的恐怖份子的一世骂名, 对Big Boss的心理有着重要影响
+
+　　在Portable Ops的最后, FOX unit反叛势力的首领Gene把自己所有的资金设备全都交给了Big Boss, 并暗示他终有一天会用到这些(后来的Outer Heaven), 另一方面, Zero和Ocelot铲除了美国方面的Philosophers势力, 并利用Legacy重新建立了Patriots
+
+　　在Zero理想中Patriots的理念是继承The Boss的信念, 建立一个统一的世界, 但随着Patriots的实力日渐增强, Zero开始利用组织的资源和权力掌控美国的经济, 军事, , 进而到整个世界, 眼见自己的同僚已经走上了与自己不同的道路, Big Boss, Eva离开了组织, Ocelot表面没走但实则是帮Big Boss的
+
+　　接下来就是几十年的对抗, 从Outer Heaven到Zanzibar Land, 甚至是Liquid和Solidus的叛变, 基本就是Big Boss和Sons of the Big Boss理想中的世界, 和Zero理想中的世界的激烈冲突
+
+　　在Zero年迈后, 固执的他不愿意也不相信将Patriots的权力交给任何继承者, 而把全部的分析权决定权都交给AI完成, 分别为GW, JA, TJ, JM, 这4个AI又由最重要的proxy AI JD(John Doe)掌控全局, 整个系统完全控制着整个美国和世界经济军事等等, 大到核武, 小到每位士兵手中的步枪, 全都受到系统的完全控制, 在4代中反复提到的每个士兵体内的nanomachine也是AI的另一种控制方式, nanomachine完全掌握着士兵所有的行为, 从情绪行为到心理状态, 也完全是系统的一部分....也许这就是他心中最完美的世界
+
+　　6名成员的四人, Zero, Big Boss, Eva, Ocelot, 前面介绍过了
+
+　　另2位, Para-Medic, 就是后来MGS1中提到的Dr.Clark, 她直接参与了70年代克隆Big Boss的Les Enfants Terribles计划, 后来又把受重伤的Grey Fox改造成Cyborg Ninja, 不过在MGS1事件前就死在Fox手里
+
+　　而Sigint, 3代里那个说话搞笑的武器专家, 就是1代里那个DARPA Chief Donald Anderson(Snake受命要去救的2个人之一, 还有个ArmsTech的老总Kenneth Baker), 不过游戏后来说了, 在牢里和Snake对话的DARPA chief是Decoy Octopus假扮的, 真正的Sigint早前已经被Ocelot干掉了, 尸体扔在牢里都生蛆了....
+
+　　算上在MGS1已经死去的Para-Medic和Sigint, 4的故事中死去的Eva和Ocelot, 最后在The Boss的墓地, Big Boss关闭了Major Zero的氧气瓶, 并刻意接触Snake让Foxdie感染自己, 最后也倒在了The Boss的墓碑旁, 应了一句话, it ends where it begins...
+
+　　至此随着Patriots的AI系统崩溃, 6名创始人也悉数离开人世, 爱国者组织彻底告一段落。
