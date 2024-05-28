@@ -123,6 +123,66 @@ def get_index():
 
 
 #----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def filename_normalize(name):
+    return name.replace('|', '_').replace('\\', '_').replace('/', '_')
+
+
+#----------------------------------------------------------------------
+# 
+#----------------------------------------------------------------------
+def write_sitemap():
+    index = get_index()
+    sitemap = os.path.join(crawler.CRAWLERS, 'html/sina/sitemap')
+    crawler.ensure_dir(sitemap)
+    names = {}
+    for n in index['gonglue']:
+        names[n] = 0
+    for n in index['miji']:
+        names[n] = 0
+    array = list(names.keys())
+    array.sort()
+    for name in array:
+        srcname = filename_normalize(name)
+        htmlname = os.path.join(sitemap, srcname + '.html')
+        print(htmlname)
+        with open(htmlname, 'w', encoding = 'utf-8') as f:
+            f.write('<html><head><title>%s</title></head><body>\n' % name)
+            if name in index['gonglue']:
+                f.write('<h1>攻略</h1>\n')
+                for title, href, date in index['gonglue'][name]:
+                    f.write('<p><a href="%s" target="_blank">%s</a>\n' % (href, title))
+                    f.write('<span style="color:gray">%s</span></p>\n' % date)
+            if name in index['miji']:
+                f.write('<h1>秘籍</h1>\n')
+                for title, href, date in index['miji'][name]:
+                    f.write('<p><a href="%s" target="_blank">%s</a>\n' % (href, title))
+                    f.write('<span style="color:gray">%s</span></p>\n' % date)
+            f.write('</body></html>\n')
+    filename = os.path.join(crawler.CRAWLERS, 'html/sina/sitemap.html')
+    with open(filename, 'w', encoding = 'utf-8') as f:
+        f.write('<style> .center-div {\n')
+        f.write('  display: flex;\n')
+        f.write('  justify-content: center;\n')
+        f.write('  align-items: center;\n')
+        f.write('} </style>\n')
+        f.write('<div class="center-div">\n')
+        f.write('<div>\n')
+        f.write('<div style="font-size:24px">新浪游戏</div>\n')
+        for name in array:
+            c1 = len(index['gonglue'].get(name, {}))
+            c2 = len(index['miji'].get(name, {}))
+            srcname = filename_normalize(name)
+            fn = f'sitemap/{srcname}.html'
+            f.write('<p><a href="%s" target="_blank">%s</a>(%d/%d)</p>\n' % (fn, name, c1, c2))
+        f.write('</div>\n')
+        f.write('</div>\n')
+    print('size=%d' % len(array))
+    return 0
+
+
+#----------------------------------------------------------------------
 # testing suit
 #----------------------------------------------------------------------
 if __name__ == '__main__':
@@ -142,7 +202,10 @@ if __name__ == '__main__':
         index = get_index()
         print(len(index))
         return 0
-    test4()
+    def test5():
+        write_sitemap()
+        return 0
+    test5()
 
 
 
