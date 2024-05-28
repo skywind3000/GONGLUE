@@ -1,0 +1,50 @@
+魔法门之英雄无敌2 伤害计算
+
+1.游戏中攻防点是很重要的兵种、将的衡量标准。间接影响最终伤害。双方将领攻防点相同后文简称同将。
+
+在双方英雄攻防给兵加点后，进攻兵种的攻击减去受击方的防御，为正的话进攻方伤害上升破坏值的10％，为负，下降5％。最多将破坏增幅到5倍，或者降至20％。
+
+2.加攻击点有边际效应，加防御没有。所以攻击低时加攻击收益大，防御高时加防御收益大。举个例子，零点攻击的将带1攻击的农民攻击1防御将带的15防御的泰坦，造成25％的伤害，泰坦如果升一点防御，农民只能造成20％。这一点防御降低了农民20％的输出，但是同将的农民打农民原本输出100％的破坏值，受击方加一点防御，受破坏的95％，仅仅下降了5％。这也是为啥高防御时适合继续用钢铁皮肤，只要没有溢出。反过来同样方法分析低攻击时适合加攻击。
+
+3.箭术天赋，资深可以增加50％远程破坏，并且跟攻防点不是一个乘区，所以破坏的计算是
+
+相乘的。远程攻击时收益比五点攻击都要有用。同将资深泰坦远程打农民，初始破坏值为25，攻击加成1+（15-1）×10％，箭术加成1+50％。三个乘区相乘，25×2.4×1.5＝90破坏。如果把箭术50％换算成攻防区，25×2.9＝72.5，明显少的多。
+
+4.兵种破坏是浮动的，但是数量大时伤害是趋于平均值的，一大群破坏1～3的侏儒，伤害基本是稳定的，破坏计算是每个兵单独随机并相加，就是稳定的平均值。
+
+英文说明：
+
+Damage Formula
+
+You can find out how much damage one creature inflicts to another. The Rules:
+The total damage a creature inflicts is the base damage of one creature X the number of creatures.
+Each point of attack skill over defence skill gives 10% extra damage.
+(Maximum damage inflicted is 3 X normal damage or when your attack skill higher by 30).
+Each point of defence skill over attack skill reduces damage by 5%.
+(Minimum damage recieved is 30% of normal damage or when your defence skill higher by 14).
+
+EXAMPLE: (we will use average damage instead of random)
+6 Champions (att=10 ; def=9 ; dam=5-10 ; hits=40) attack
+4 Ogre Lords (att=9 ; def=5 ; dam=5-7 ; hits=60).
+Cahmpions do 7.5 points of average damage each (7.5 X 6 = 45 dam).
+The Champion's attack is 5 points higher than Ogre Lord'd defence, so
+Champions do 45+23(50%)=68 damage.
+1 Ogre Lord dies and another one takes 8 Damage.
+Ogre Lords retaliate doing 6 points of average damage each (6 X 3 = 18 dam).
+Ogre Lord's attack and Champion's defence are the same, so Ogre Lords do 18 Damage.
+That is not enough to kill one Champion, so Champion has 22 hit points left.
+
+Hero's attack and defence are added to attack and defence of hero's creatures.
+
+
+Wandering Monster Quantities
+
+FEW: 1-4
+SEVERAL: 5-9
+PACK: 10-19
+LOTS: 20-49
+HORDE: 50-99
+THRONG: 100-249
+SWARM: 250-499
+ZOUNDS: 500-999
+LEGION: 1000+
