@@ -1,4 +1,4 @@
-Quake II：Ground Zero（雷神之锤II：核爆毁灭）
+雷神之锤2 - 核爆毁灭
 
 和《雷神之锤II》一样，在游戏中输入"GiVE XXX"和"MAP XXX"（XXX为相应物品和关卡名称）后回车可得到相应物品和关卡：
 

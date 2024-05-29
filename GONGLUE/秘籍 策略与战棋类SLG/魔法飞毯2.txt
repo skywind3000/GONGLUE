@@ -1,4 +1,4 @@
-Magic Carpet II（魔法飞毯II）
+魔法飞毯2
 
 在按下回车后，键入“I”和“WINDY”：
 Alt-F1 学会所有魔法

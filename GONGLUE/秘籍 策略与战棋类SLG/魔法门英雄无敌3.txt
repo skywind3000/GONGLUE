@@ -1,4 +1,4 @@
-Heroes of Might and Magic III （魔法门英雄无敌 III）
+魔法门英雄无敌3
 
 按‘tab’键，键入以下字符串，再打回车
 nwconlyamodel＝立刻建出城里所有建筑 
