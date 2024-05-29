@@ -1,4 +1,0 @@
-JetFighter III（喷射战斗机 III）
-
-Ctrl-X：摧毁所有的目标
-
