@@ -1,4 +1,4 @@
-SIMCITY2000（模拟城市2000）
+模拟城市 2000 秘籍
 
 Windows版
 buddamus 在 Toolbar 激活时按才有效
