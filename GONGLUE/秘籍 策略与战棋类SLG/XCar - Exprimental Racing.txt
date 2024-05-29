@@ -1,4 +1,4 @@
-XCar_ Exprimental Racing
+XCar - Exprimental Racing
 
 在游戏过程中：
 CTRL+SHIFT+F8 ：改变画面颜色。
