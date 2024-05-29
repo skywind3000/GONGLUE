@@ -1,4 +1,4 @@
-Ultima IX_ Ascension（创世纪9：升腾）
+Ultima IX - Ascension (创世纪9 升腾)
 
 在遊戲目錄中找到 default.kmp 這個檔
 將下列指令加到 [Cheat Commands] 底下

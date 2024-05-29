@@ -1,4 +1,4 @@
-Half-Life_ Opposing Force
+Half-Life - Opposing Force
 
 用“hl.exe -dev -console -game gearbox”的办法启动，就可以使用以下命令：
 IMPULSE 101 ----得到所以武器和弹药

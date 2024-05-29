@@ -1,4 +1,4 @@
-M_A_X_2（铁血兵团II）
+MAX2 (铁血兵团2)
 
 编辑文件名Max2.ini的文件，将其中的设定作如下改动便可进入所有关。
 current_campaign_1_mission=1

@@ -1,4 +1,4 @@
-Half-Life_ Redemption
+Half-Life - Redemption
 
 使用命令行“-dev -toconsole”启动游戏，如果没有出现橙黄色
 文字，再输入“~”。在游戏中深入“”和“sv_cheats 1”进入

@@ -1,4 +1,4 @@
-L_A_ Blaster（洛城警网）
+LA Blaster (洛城警网)
 
 /CRYOEASY 进入没有观光者的EASY模式
 /CRYOEASY2 进入没有突变异种的EASY模式

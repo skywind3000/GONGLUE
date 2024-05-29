@@ -1,4 +1,4 @@
-Half-Life_ Opposing
+Half-Life - Opposing
 
 用“hl.exe -dev -console -game gearbox”的办法启动，就可以使
 用以下命令： 

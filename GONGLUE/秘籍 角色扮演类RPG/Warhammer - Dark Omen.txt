@@ -1,4 +1,4 @@
-Warhammer_ Dark Omen
+Warhammer - Dark Omen
 
 1.在主屏幕输入“fudgeislush”，听到声音证实输入正确后，输入以下代码:
 CTRL-C-G :在CASH中增加1000 GC
