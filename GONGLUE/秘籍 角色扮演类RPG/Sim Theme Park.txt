@@ -1,8 +1,0 @@
-Sim Theme Park
-
-暂停游戏，并输入demo,然后输入以下代码：
-Shift + C：得到$50,000
-Shift + Z：树木、浴室和其它设施
-Ctrl + Z：全部交通工具
-Alt + Z：全部商店 
-
