@@ -1,4 +1,4 @@
-F_A_ Premier Football Manager 2000
+FA Premier Football Manager 2000
 
 启动游戏时加入以下参数：
 /fastbuild777：快速建造

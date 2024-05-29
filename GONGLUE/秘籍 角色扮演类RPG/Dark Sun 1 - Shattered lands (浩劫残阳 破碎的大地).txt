@@ -1,4 +1,4 @@
-DARK SUN 1_ Shattered lands(浩劫残阳_破碎的大地)
+Dark Sun 1 - Shattered lands (浩劫残阳 破碎的大地)
 
 键入“dsun -k911”启动游戏，并在游戏中输入下列字串：
 
