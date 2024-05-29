@@ -1,18 +1,20 @@
-Ultima IX - Ascension (创世纪 9 升腾)
+Ultima 9 - Ascension (创世纪9 升腾)
 
 注意：以下密码可能导致死机（游戏制作者说的）
 
-在游戏目录中找到 default.kmp 这个文件，有写字板之类的文本编辑工具打开它
+在遊戲目錄中找到 default.kmp 這個檔
+將下列指令加到 [Cheat Commands] 底下
 
-将下列指令加到 [Cheat Commands] 底下
 alt+shift+i = toggle_avatar_invulnerable
 alt+shift+l = toggle_avatar_fly
 
-在游戏进行中即可使用秘技
-alt+shift+i = 圣者无敌
-alt+shift+l = 圣者飞行
+在遊戲進行中即可使用密技
 
-还可以在 [Cheat Commands] 后加上以下密码：
+alt+shift+i = 聖者無敵
+alt+shift+l = 聖者飛行
+
+以下是其他的有用指令
+
 pass_one_hour
 unpass_one_hour
 sunrise_sunset
@@ -22,6 +24,12 @@ toggle_sun
 toggle_wind
 toggle_storms
 toggle_avatar_fast
+
+
+只要把 Game Disc movie 下的 .dat 檔全改成 .mpg , 你就可以用撥放軟體來看了. 不過還是勸你別先偷看,以免破壞你的玩完遊戲的決心了。
+
+依影片來看,淨化完八根黑岩之柱,就是跟守護神的對決之日了。
+
 
 法术共有八级,每级四种,共计三十二种
 每种法术都需要至少一类的药材搭配其卷轴
@@ -42,6 +50,7 @@ toggle_avatar_fast
 
 让怪物兽对你视而不见
 打开背包（按B键），这是怪物们就会对你视而不见，你就可以随意狂打他们了。为了不影响视线，你可以把背包拖到屏幕边缘
+
 
 Hints
 

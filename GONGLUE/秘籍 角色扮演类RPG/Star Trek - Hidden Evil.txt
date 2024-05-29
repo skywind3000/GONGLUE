@@ -1,4 +1,8 @@
 Star Trek - Hidden Evil
 
-无限生命力：
-在游戏进行中（无论何处）只要输入"kirk" 就行了。
+在游戏中输入以下代码：
+kirk：不死
+spock：跳关
+bones：把Hypospray加到Inventory 
+scotty：得到全部Keys和Passcard 
+

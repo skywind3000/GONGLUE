@@ -1,4 +1,4 @@
-Tarzan（泰山）
+Tarzan (泰山)
 
 stlevel＝跳关
 ststage＝选关

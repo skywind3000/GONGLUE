@@ -1,4 +1,4 @@
-Seven Kingdoms 2_ The Fryhtan Wars（七国王朝2）
+Seven Kingdoms 2 - The Fryhtan Wars (七国王朝2)
 
 Ctrl+B = 建筑立刻完成 
 　　Ctrl+C = Cash and life points (+1000 each) 
