@@ -1,0 +1,5 @@
+大航海时代3
+
+用PCTOOLS将存档文件SAVEDATE.CSD中的地址SECT0000
+/DISP0153及0154改为FFFF,这样钱就多了.
+

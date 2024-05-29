@@ -1,0 +1,263 @@
+第十一小时
+
+大家还记得《The7thGuest》(第七访客)吧?这个游戏在当年轰动了整个游戏界，令然知吸引了多少玩家为之“疯狂”，在苦苦等待两年后，终于在95年底等到了它的续作——四张光碟装的《The11th Hour》。
+
+　　由于《惊魂11时》与前作间隔时间两年多，所以当时以真人拍摄及虚拟空间的领先技术，至今已有多家公司跟进，无法再形成独步群雄的优势。不过由它可以支援到24- bit真彩的640×480的解析度这一点看来，就可以傲视全球。可见TRILOBYTE公司始终是超人一等的!所以如果你只有256色的显示卡，那么就只能以256色灰谐来显示了!
+
+　　在内容方面除了真人拍摄的电影部份，它还有一段卡通动画的介绍，很有意思!而最令人感动的是，制作小组有心的将这游戏的制作过程区分成电影拍摄、谜题设计等部分，全收录在一片光碟中，内容相当的丰富。还有一个惊喜是给 DOOM迷的，在光碟中所附的WAD档中，有DOOM、 DOOM2和Heretic的WAD档，场景就是取自这游戏的大屋，让玩家有机会在鬼屋中大开杀戒!
+
+　　其实游戏的好处还很多，只有在慢慢的解谜中才会真正领略到。其中乐趣不敢独享，故撰攻略一份以飨读者。笔者把《惊魂11时》中内容分为三种类型:第一种是谜语部分，主要是通过解开所给的字谜，而找到所指之物;第二种是谜题部分，它们则是一些预定好的益智游戏，有固定的答案;第三种则是游戏中最难的斗智游戏，多为和STAUF竞争，均无固定答案，只得奉上笔者苦心钻研的一些心得和经验以减少玩家碰上的难度。
+
+　　好了，闲话少说，让我们踏入“鬼屋之旅”吧!
+
+序
+
+　　你，CarlDenning，是电视影集“Case Unsolved”的特约采访记者。而你的制作伙伴兼情人 RobinMorales，不久前在采访Harley小镇时失踪。一天，你收到了一个包裹，里面是一台GAMEBOOK笔记本电脑，通过它，你得知Robin正被困于小镇中的一栋鬼屋中。于是你断然决定只身赴险，不顾一切也要救出Robin……
+
+　　7thHour
+
+　　钟声响过七下后，你的GAME BOOK“嘟嘟嘟”地叫个不停，或许这就意味着你征途开始，快打开看看吧!
+
+　　〖谜语之一〗Wintercoatwornforamixer?
+
+　　关键:Wintercoat重新排列后得到TonicWater。
+
+　　答案:一楼Lib(书房)中壁炉旁的Stauf牌Tonic Water。
+
+　　在此房间里，你还可找到八本红绿相间排列的书，这就是你的第一道谜题。
+
+　　〖谜题之一〗红绿书本排排看
+
+　　关键:按书架上的标示可知，要求绿收全放左边而红书全放右边，一次会抽取二本书放至到空隙中去。
+
+　　答案:本题有好几种解法，笔者提供一种最快的方法。由左至右将书本标上数字，首先将书本2和3搬到最右面，然后将5和6搬到2和3留下的空隙，再将8和2搬到5和6留下的空隙，最后将现在最左边的两本搬到8和2留下的空隙，便大功告成了。
+
+　　回到Foyer(客厅)，你在楼梯左边可以发现一盘棋。
+
+　　〖谜题之二〗移马智力游戏
+
+　　关键:将两黑马与白马位置对换，且马的走法必须按照国际象棋中马的走法。
+
+　　答案:先将十个位置标号(见附图)，按以下走法:
+
+　　1→4→10→2→8
+
+　　7→1→4→10→2
+
+　　5→2→1→4→10
+
+　　6→4→1→7→5
+
+　　10→4→1→7
+
+　　2→10→4→1
+
+　　8→2→10→4→6
+
+　　1→4→10→2
+
+　　7→1→4→10
+
+　　6→4→1→7
+
+　　10→4→1
+
+　　2→10→4→6
+
+　　接下来，你来到二楼Brian Dutton房间，那儿正有一台收款机等你去解决……
+　　〖谜题之三〗收款机之收支平衡
+
+　　关键:使收款机左右二边同为81。
+
+　　答案:这题答案亦有多种，如:
+
+　　55125551010或551255552510
+
+　　亦有使左右皆为81，却不是正解的。如:
+
+　　5125
+
+　　2525
+
+　　此时打开GAMEBOOK，可发现第二道谜语:
+
+　　〖谜语之二〗Rollingrock，bottlecap
+
+　　关键:bottle cap是瓶塞的意思，所以把rock重组可得cork，亦是软木塞的意思。
+
+　　答案:就在房中电视机下方的酒瓶的瓶盖。
+
+　　〖谜语之三〗Artsy，excitedlecher
+
+　　关键:Artsy重新组合后为Satyr，意为希腊传说中半人半羊的森林之神。
+
+　　答案:在一楼楼梯左边的古董钟里，有一条秘道直通 Gallery(画廊)，在Gallery中便可找到一副Satyr与三女图。
+
+　　〖谜语之四〗Aheartattackcouldputyouintoground
+
+　　关键:Ground意为地面，所以由heart得earth(地球)。
+
+　　答案:一楼Lib中的Earthglobe(地球仪)。
+
+　　你由二楼的Brian Dutton房间中左边的门来到Chapel，再穿过一道木门便到了Lab(实验室)。这儿会出现你的第一道与Stauf斗智游戏。
+
+　　〖斗智游戏之一〗老鼠走迷宫
+
+　　关键:你要让老鼠走入右边的小屋就算获胜。反之，让 Stauf把老鼠引至左边的小屋你就是输了。规则是双方轮流把多出的一块方块塞入四周的八个入口，挤出对面的一块，直至形成一条使老鼠回屋的道路。
+
+　　经验:一边从右边小屋洞口开始建立路径，而不要从老鼠开始，一边要破坏stauf建立的路径。不行就多试几次，熟能生巧吗!
+
+　　〖谜语之五〗BattleGround!
+
+　　关键:把Battle重组得Tablet(药片)。
+
+　　答案:此房中桌上的药片，就在老鼠迷宫旁。
+
+　　〖谜语之六〗Barsdetercuckoobird。
+
+　　关键:Cuckoo是杜鹃鸟，Bardeter重组后得Red Breast。
+
+　　答案:一楼古董钟旁的杜鹃鸟图中右下方红色胸口的鸟。
+
+　　〖谜语之七〗ModernArtflourishedunderthesun
+
+　　关键:ModernArt即为现代艺术，由flourishedunder thesun可猜出是向日葵。
+
+　　答案:Gallery中在少女与向日葵画下方的抽象画，而这抽象画又是你的第二道斗智游戏。
+
+　　〖斗智游戏之二〗地盘大家抢
+
+　　关键:抢了任一块色块，周围与之相领的色块皆会被自动填色。你与stauf轮流填色，谁抢到最后一块即得胜。
+
+　　经验:此题较难，可选GAME BOOK中HELP一项帮你解题。从中你会发现选好第一步是非常的重要!
+　　至此，整理一下数十段影片，你可得到完整的第一片CD的影片欣赏:
+
+　　Robin开车抵达Harley镇的一家餐馆，向女老板Elline点了二样小吃后，趁机和她攀谈了起来。可当Robin问及她的右手和鬼屋的牵连时，Elline脸色马上大变，口中只说:“鬼的故事不足为信!”
+
+　　而另一边，Elline的女儿Marine正在旅舍与情夫Chuck调情，害得Chuck连五分钟后的商务会战都无心前往了……
+
+　　Robin在村间空地上发现了一块沾血的石头，这时，正巧遇上当地警察署长Jim。Jim好心劝她还是少管闲事为妙!
+
+　　Carl从GAME BOOK中看到Robin身处危境，似乎Robin也听得到Carl的警告声。
+
+　　而一神秘女子正坐在几台监视器前，一边疯狂敲打键盘，一边着急的喊着:“Carl，你在哪里……”
+
+　　8thHour
+
+　　〖谜语之八〗skedAddled
+
+　　关键:Addled意为混乱，故打乱sked后得到新词desk。
+
+　　答案:一楼Lib中的书桌
+
+　　〖谜语之九〗Partofthebodyexaminedindoctor’soffice
+
+　　关键:body意为身体，再取doctor’s office中的一部分tor’so，也是躯体的意思。答案:Gallery中地上的半截人体雕像。
+
+　　〖谜语之十〗Libationforaffectionatepuppycalledsounder
+
+　　关键:Libation意为祭酒，affectionate puppy舔人的小狗就是licker，它的同音字liquor是烈酒的意思。
+
+　　答案:二楼BrianDutton房间中电视机下方的那个曾看到过的酒瓶。
+
+　　来到二楼的GAMERm，这儿正有一桌球等着你
+
+　　〖谜题之四〗桌球编号游戏
+
+　　关键:根据它们内在联系，按顺序逐一为九球编号
+
+　　答案:内在顺序:正确编号:
+
+　　〖谜语之十一〗Animalsulliedstreet
+
+　　关键:Animal意为动物，重组street可得setter(长毛猎犬)。
+
+　　答案:在此房墙上三只狗的画中最右边的长毛猎犬。
+
+　　〖谜语之十二〗Jfcrvxqctf，zayrmumykcytd·Edcgf dcurbkeydkdetdymwmauy，zaydcgfumtjmytd·Edcgt umiflbcurxfyEjau·EqkfkfjfjficyfrXma’rzfdfbmumq vxbmu。
+
+　　关键:由GAMEBOOK 中提示可把字母一一推算，正确原文应是:
+
+　　Readmyfacebutdonotwatch。lhavehandswith whichtocount，buthavenocrotch。lhavenolegsand yetlrun。IFwewererelated。You’dbethesonofmyson。
+
+　　答案:一楼楼梯左边的古董钟
+
+　　来到二楼Ba，哇，好恐怖噢!
+
+　　〖谜语之五〗四蜘蛛易位
+
+　　关键:七步之内把两只咖啡蜘蛛与两只白蜘蛛易位。每次按有线移动一只蜘蛛，换蜘蛛移动算一步。
+
+　　答案:
+
+　　1→5
+
+　　3→7→1
+
+　　8→4→3→7
+
+　　6→2→8→4→3
+
+　　5→6→2→8
+
+　　1→5→6
+
+　　7→1
+　　〖谜语之十三〗ZugotdyodmpynrmystpimtZu drvpmfzrsmdaogyjrtiqptviyjrtypyjrhtpimf
+
+　　关键:全句正解如下:
+
+　　Myfirstisnotbentaround。Mysecondmeanslift heruporcuthertotheground。
+
+　　答案:浴缸沿上的剃刀
+
+　　〖谜语之十四〗Fruitlooponstove
+
+　　关键:Fruit意为水果，loop是圆，stove同义字为range，圆在range上组成orange(桔子)。
+
+　　答案:一楼dinRm中水果画像中左下角的桔子。
+
+　　前往还未曾去过的二楼EdKnox卧室。
+
+　　〖谜题之六〗推镜拼图
+
+　　关键:记住镜子完整时形状，当它被取走一块打乱后，把它恢复成原状。
+
+　　经验:由于每次打乱情况不同，故无固定解。应先确定缺少哪一块，从远的一端上下两块着手，慢慢推至缺镜处。在一旁用九张小纸模拟一番，可大大提高成功速度。
+
+　　〖谜语之十五〗Dreamsaboundofarmingthe rebels。Whatofnocturnalhorses’schedule?
+
+　　关键:重组armingthe 得到nightmare恶梦神话中的妖马。
+
+　　答案:在此房的墙上可找到Tuselli的名画“nightmare”。
+
+　　〖谜语之十六〗Adistant，ancientCastlekeep。This famousprinceaplacetosleep。Tosleep，perchanceto dream。ofanupsetteagardenindochine。
+
+　　关键:upset意为颠倒，把teagarden颠倒一下变成greatdane 大丹狗。
+
+　　答案:一楼Lib中壁炉左边的大丹狗画。
+
+　　〖谜语之十七〗Aman—horseontheflysoundslikea woundedbull’seye。
+
+　　关键:man—horse为半人半马，bull’seye 是靶中心，就是center，它的近音词centaur也是半人马的意思。
+
+　　答案:三楼chapel里的有翅膀的半人马像。
+
+　　找到半人马像后，你便会发现那有趣的三角棋。
+
+　　斗智游戏之三:连三边
+
+　　关键:你与stauf轮流落子，谁先连出一条连着三个边的线即为胜者。
+
+　　经验:先从底部第三排中间落子，住两底角发展，因为一角等于两边，所以胜利在望!
+
+　　Jim警长开车送Robin至Dr。Thordan的诊所。Robin和柜台小姐Marine(!)说明来意后，marine很不情愿地通报了Dr。Th ordan。原来Dr。Thordan就是当年为Elline接上义肢的大夫。Robin追问Dr。Thordan事情过程，他没办法只得道出了那段血腥的往事……Robin听完后说她实在也不想让Elline 勾起那痛苦的回忆，但她是唯一生还者。可Dr。Thordan告诉她除了Elline外，还有一个叫Samatha forth的女人也逃出生还，但自此和轮椅为伴……
+
+　　而Marine又在瀑布前与Chuck亲热，并交给了他一把剃刀 ……之后，Marine来到了她母亲Elline的餐馆喝咖啡。Ellin e劝她不要再和Chuck鬼混下去，以免败坏了名声。可Mari ne却顶嘴道:“有其母必有其女嘛!”然后便扬长而去……
+
+　　Robin在跑回家中被突然窜Jim吓了一大跳，原来Jim只不过是专程为Robin送健康慢跑鞋的，真可谓大献殷勤!
+
+　　在鬼屋中，Marine牵着条狗在散步!突然，狗头变成了人头，而Marine却变了一副鬼样，原来她们都是半人半鬼的怪物!
+
+　　而在最后，又一名探鬼屋的冒险者虽拼命逃跑，但最终还是死在了Chuck的剃刀之下……
+

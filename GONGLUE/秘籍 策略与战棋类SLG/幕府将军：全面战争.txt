@@ -1,9 +1,0 @@
-幕府将军：全面战争
-
-在游戏中你可以输入以下秘籍： 
-.matteosartori 地图全开 
-.daggins 地图全开 
-.muchkoku. 拥有无限的KoKu 
-.conan. 建筑单位能力提升并对KoKu产生负面影响 
-.prototypearmy. 部队生命无限 
-.ifoundsomecu 所有地方均为铜制品
