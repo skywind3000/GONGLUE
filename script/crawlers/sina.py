@@ -208,7 +208,7 @@ if __name__ == '__main__':
     def test5():
         write_sitemap()
         return 0
-    test5()
+    test1()
 
 
 
