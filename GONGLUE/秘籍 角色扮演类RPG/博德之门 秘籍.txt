@@ -1,4 +1,4 @@
-Baldur’s Gate
+博德之门 秘籍
 
 编辑在游戏所在目录的文件baldur.ini，在Game Options条目内增加一行“Cheats=1”。
 存盘后运行游戏，在游戏中输入Ctrl-Tab，来打开/关闭控制台。在控制台输入以下代码,

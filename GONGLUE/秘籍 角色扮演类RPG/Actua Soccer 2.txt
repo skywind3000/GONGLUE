@@ -1,9 +1,0 @@
-Actua Soccer 2
-
-在主菜单输入以下代码：
-bigdaddy：使玩家变巨人
-bilbobaggins：使玩家变侏儒
-brianclough：使玩家看上去象brian clough
-twisycontrol：使游戏象TABLE FOOTBALL
-itscominghome：让玩家操作Italian serie A team 
-

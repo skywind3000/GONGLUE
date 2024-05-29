@@ -9,4 +9,3 @@ fly　　　　　　　飞行模式
 walk　　　　　　 走路模式 
 behindview 1　　 第三人称视角 
 behindview 0　　 第一人称视角 
-

@@ -4,3 +4,7 @@
 
 在物品选择画面按「上上下下左右左右、决定键」=无限弹药
 
+无限弹药：
+进入物品选择屏幕，输入：up, up, down, down, left,
+right,left, right, Right Trigger。 
+

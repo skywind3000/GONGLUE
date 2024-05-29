@@ -1,4 +1,4 @@
-Star Wars - The Phantom Menace
+星球大战 - 幽灵威胁
 
 在游戏中，按下 [backspace] 并 
 输入 "Give me life" 补满生命值， 

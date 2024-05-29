@@ -1,4 +1,4 @@
-Battlezone 2
+战争地带2 秘籍
 
 按住[Shift] + [Alt]，然后输入以下代码：
 tebuffy--上帝模式
