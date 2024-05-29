@@ -1,4 +1,4 @@
-模拟人生(The Sims)
+模拟人生
 
 在游戏过种中，按下Ctrl + Shift + Alt + C然后敲入以下代码set_hour # ?/td> 改变月天数 # (1-24) 
 set_speed # ?/td> 改变游戏的速度 # (-1000-1000) 
