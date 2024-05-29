@@ -1,4 +1,4 @@
-EYE OF THE BEHOLDER 3(魔眼杀机)
+魔眼杀机3
 
 在开始游戏之前，先在DOS环境下输入：set aesop_diag=1，然后在游戏中按下列键：
 

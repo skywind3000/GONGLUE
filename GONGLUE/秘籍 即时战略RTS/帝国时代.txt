@@ -1,4 +1,4 @@
-Age of Empires
+帝国时代
 
 进入“Chat模式”，然后输入以下代码：
 BIG BERTHA：飞机弹射器射程为16，有效直径为10

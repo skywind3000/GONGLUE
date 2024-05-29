@@ -1,4 +1,4 @@
-Virtual Fighter II
+VR 战士 2
 
 选dural(他可以使用其它角色的绝招)
 进行人物选择时,在akira上输入方向键下,上,右,左,G为银身

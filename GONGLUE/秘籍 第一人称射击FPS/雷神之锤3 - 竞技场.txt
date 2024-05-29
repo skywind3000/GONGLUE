@@ -1,7 +1,13 @@
 雷神之锤3 - 竞技场
 
-god＝上帝模式
-noclip＝不间断游戏
-screenshot＝截图
+在服务器Q3a控制台用devmap激活作弊模式,输入devmap q3test1进入,然后返回控制台,输入以下: 
+
+　　give all - 得到所有武器 
+　　give health 补血 
+　　give armor 得到装甲 
+　　give quad damage 减血(变态!) 
+　　give personal teleporter 心灵移动术 
+　　god 上帝模式 
+　　allammo 全部功能 
 
 

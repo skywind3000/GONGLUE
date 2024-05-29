@@ -1,4 +1,4 @@
-Virtua Squad II（VR特警II）
+VR 战警 2
 
 1.修改vcop2.ini,在[gamesetting]最后加上extra=2,在游戏中按F6进行设置,多了两个新选项
 special
