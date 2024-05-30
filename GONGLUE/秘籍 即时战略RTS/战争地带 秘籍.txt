@@ -1,4 +1,4 @@
-Battlezone（终极战区）
+战争地带 秘籍
 
 一、在游戏过程中按住Ctrl和Alt键入以下命令：
 bzbody —— 不死之身
