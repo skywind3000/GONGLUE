@@ -1,8 +1,19 @@
 三角洲部队2
 
 键入“~”，然后输入以下代码：
-THETROOPER：上帝模式
-SUNANDSTEEL：重装弹药
-DIEWITHYOURBOOTSON：弹药无限
-STILLLIFE：隐形 
 
+　　thetrooper = 无敌模式 
+　　sunandsteel = 充填弹药 
+　　diewithyourbooyson = 无限弹药 
+　　stilllife = 隐身（太黑了吧） 
+　　revelation 8发炮弹
+
+正式版：
+
+游戏中按下：“ ` ”键，输入以下秘技：
+输入短语："you've got problems"，不要空格，然后切换到第三人称视角看看会发生什么。
+
+Demo版： 
+
+进无敌护身服：
+按' 并输入imnotafraidtofight。
