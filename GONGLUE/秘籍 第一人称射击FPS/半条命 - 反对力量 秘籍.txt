@@ -1,4 +1,4 @@
-Half-Life - Opposing Force (半条命 反对力量)
+半条命 - 反对力量 秘籍
 
 用hl.exe -console命令启动游戏，按下“~”键后键入“sv_cheats 1”，然后就可使用以下密技：
 IMPULSE 101得到所有武器和弹药
