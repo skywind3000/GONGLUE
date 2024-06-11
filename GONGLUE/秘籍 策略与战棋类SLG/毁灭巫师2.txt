@@ -1,4 +1,4 @@
-Hexen II （毁灭巫师 II）
+毁灭巫师2
 
 god =无敌
 noclip =穿墙
