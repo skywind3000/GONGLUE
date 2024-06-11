@@ -1,4 +1,4 @@
-unreal（虚幻）
+虚幻
 
 ALLAMMO -所有武器的弹药变为999
 FLY - 飞翔
