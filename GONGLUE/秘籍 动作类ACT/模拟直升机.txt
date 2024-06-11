@@ -1,4 +1,4 @@
-SimCopter by Maxis
+模拟直升机
 
 I’m CEO of Mcdonnell Douglas ：当你在hanger 上选择直升机
 时，从1 按到9 ，你就可以得到所有的直升机。
