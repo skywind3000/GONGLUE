@@ -1,4 +1,4 @@
-Daedalus Encounter（宇宙冒险家）
+宇宙冒险家
 
 1.谜题破解法：
 按住ALT+SHIFT不放，再键入该谜题的第一个字母即可自动完成这道谜题。例如要跳过“Probe Logic Circuit”这道谜题，只需按下ALT+SHIFT+P三个按键即可，但“Orbit”这道谜题例外，必须按下ALT+SHIFT+I才能自动通过。

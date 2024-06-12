@@ -1,4 +1,4 @@
-Battlecuicer 3000AD（星战 3000AD）
+战斗巡洋舰 3010AD
 
 在游戏中可输入下列秘技：
 CTRL+A 加快时间

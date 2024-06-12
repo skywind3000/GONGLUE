@@ -1,4 +1,4 @@
-Kingpin：Life of Crime（首脑人物：犯罪生涯）
+匪首：犯罪生涯
 
 将游戏的的快捷方式命行改为 D:\kingpin\kingpin.exe +developer 1，进入游戏，在游戏中按下`键后输入以下秘码：
 

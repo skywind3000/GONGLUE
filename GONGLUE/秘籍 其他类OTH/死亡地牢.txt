@@ -1,4 +1,4 @@
-DEATHTRAP DUNGEON （地城奇兵）
+死亡地牢
 
 在游戏中途键入:
 ELVIS =生命值无限

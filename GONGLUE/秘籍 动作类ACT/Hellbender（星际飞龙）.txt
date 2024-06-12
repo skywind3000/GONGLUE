@@ -1,4 +1,4 @@
-Hellbender （星际飞龙）
+Hellbender（星际飞龙）
 
 AUNTEM#（# = 1-8）：跳到1-8号星球
 IMPUMPD：得到所有武器
