@@ -1,4 +1,4 @@
-Turok Dinosaur Hunter
+恐龙猎人
 
 在作弊菜单中输入
 BGGNTSS = 灯光效果
