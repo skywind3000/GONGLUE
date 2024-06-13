@@ -1,4 +1,4 @@
-Joint Strike Fighter
+联合打击战斗机
 
 在驾驶选择窗口中同时按CTRL+右CTRL+ENTER,就可以使用所有飞机在游戏中按以下键
 ctrl+T+U - 加速
