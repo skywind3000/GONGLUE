@@ -1,4 +1,4 @@
-Streets of SimCity
+模拟城市大赛车
 
 按CTRL+ALT+X打开作弊对话框,以下秘技只能在"player’s choice part of the game"中使用,在"Screnario"和"network"中是不行的.
 cruise control-自动控制
