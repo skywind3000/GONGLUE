@@ -1,6 +1,6 @@
 # Rogue（肉鸽）
 
-本文是著名 Rogue 教程《A Guide to the Dungeons of Doom》的中文翻译版本，获取 Rogue 游戏可以见本文最后一部分。
+本文是著名 Rogue 教程 “A Guide to the Dungeons of Doom” 的中文翻译版本，获取 Rogue 游戏可以见本文最后一部分。
 
 ## 1. 游戏介绍
 
