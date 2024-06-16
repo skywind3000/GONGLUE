@@ -256,16 +256,18 @@ C:>rogue -s
 
 ## 附2：游戏获取
 
+Windows 用户可以选择下面其中一个:
+
+- [rogue-clone-iv](https://rogueclone.sourceforge.net)
+- [rogue-clone-iii](https://github.com/skywind3000/rogue-clone)
+
 对于 Linux （debian/ubuntu）而言，默认包管理器中已经包含 rogue，用下面命令安装：
 
 ```bash
 sudo apt-get install bsdgames-nonfree
 ```
 
-Windows 用户可以选择下面其中一个:
-
-- [rogue-clone-iv](https://rogueclone.sourceforge.net)
-- [rogue-clone-iii](https://github.com/skywind3000/rogue-clone)
+然后输入 `rogue` 即可进入游戏。
 
 其中版本 `iv` 最后定格于 2004 年，主要增加了色彩和 ascii 扩展字符模式（可选），但是使用古老的 C 语法编写；而版本 `iii` 看似少了一个版本号，但实则是 Linux 上一直更新的版本，并且全部转成了 c99 代码。
 
