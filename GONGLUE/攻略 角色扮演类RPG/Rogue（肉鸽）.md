@@ -271,7 +271,7 @@ sudo apt-get install bsdgames-nonfree
 
 网上还有个 [Rogue Clone IV](https://rogueclone.sourceforge.net) 看起来版本更高，但其实代码定格于 2004 年，二十多年没更新，不像上面版本 `iii` 那样早已改为 c99 并随着 BSD/Linux 发行版一直在完善更新。
 
-但版本 `iv` 有个优点，可以显示 ASCII 扩展字符集，并会上色；有需要体验该版本的，注意中文系统下要注意设置环境变量：
+但版本 `iv` 有个优点，可以显示 ASCII 扩展字符集，并会上色；有需要体验该版本的，注意中文系统下要设置环境变量：
 
 ```
 set ROGUEOPTS=noPCgraphics
