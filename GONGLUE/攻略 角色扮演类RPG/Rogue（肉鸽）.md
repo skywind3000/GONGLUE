@@ -263,21 +263,18 @@ C:>rogue -s
 sudo apt-get install bsdgames-nonfree
 ```
 
-然后输入 `rogue` 即可进入游戏。
+然后输入 `rogue` 即可进入游戏；同时 Windows 用户可以打开网址:
 
-Windows 用户可以选择下面其中一个:
+- [https://github.com/skywind3000/rogue-clone/releases](https://github.com/skywind3000/rogue-clone/releases)
 
-- [rogue-clone-iii](https://github.com/skywind3000/rogue-clone)
-- [rogue-clone-iv](https://rogueclone.sourceforge.net)
+里面下载 `rogue-clone.exe` 即可使用，这个版本和 Linux 的版本代码是同一份，都是叫做 "Rogue Clone III"。
 
-其中版本 `iv` 最后定格于 2004 年，主要增加了色彩和 ascii 扩展字符模式（可选），但是使用古老的 C 语法编写，二十年没更新；而版本 `iii` 看似少了一个版本号，但实则是 BSD/Linux 上一直在更新改进的版本，并且全部转成了 c99 代码。
+网上还有个 [Rogue Clone IV](https://rogueclone.sourceforge.net) 看起来版本更高，但其实代码定格于 2004 年，二十多年没更新，不像上面版本 `iii` 那样早已改为 c99 并随着 BSD/Linux 发行版一直在完善更新。
 
-因此推荐使用 `iii` 版本，它包含很多操作改进，例如 `q` 命令喝药时，左边让你输入物品编号的同时，右边还会提示你可用物品列表，不用跟传统 rogue 那样每次用 `i` 看半天清单。
-
-如果使用 `iv` 版本，中文系统下要注意设置环境变量：
+但版本 `iv` 有个优点，可以显示 ASCII 扩展字符集，并会上色；有需要体验该版本的，注意中文系统下要注意设置环境变量：
 
 ```
-C:>set ROGUEOPTS=noPCgraphics
+set ROGUEOPTS=noPCgraphics
 ```
 
 禁用扩展字符，避免乱码。
