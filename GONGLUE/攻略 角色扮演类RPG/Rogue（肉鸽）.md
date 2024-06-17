@@ -13,7 +13,7 @@
 
 ## 2. 游戏开始
 
-你刚刚开始了一场游戏《Rogue》。你的目标是尽可能多地收集宝藏，找到耶多尔护身符（Amulet of Yendor），并活着离开末日地牢。屏幕上显示了你在当前地牢层级所经过的地方和所见到的事物的地图。随着你探索更多的层级，这些信息会显示在你面前的屏幕上。
+你刚刚开始了一场《Rogue》游戏。你的目标是尽可能多地收集宝藏，找到耶多尔护身符（Amulet of Yendor），并活着离开末日地牢。屏幕上显示了你在当前地牢层级所经过的地方和所见到的事物的地图。随着你探索更多的层级，这些信息会显示在你面前的屏幕上。
 
 在《Rogue》游戏中，所有命令都是一到两个按键，命令的结果会在屏幕上以图形方式显示。游戏至少需要 24 行 80 列的屏幕大小。如果屏幕更大，也只会使用 24x80 的区域来显示地图。
 
@@ -263,15 +263,12 @@ C:>rogue -s
 sudo apt-get install bsdgames-nonfree
 ```
 
-然后输入 `rogue` 即可进入游戏；同时 Windows 用户可以打开网址:
+然后输入 `rogue` 即可进入游戏；同时 Windows 用户可以二选一:
 
+- [https://rogueclone.sourceforge.net](https://rogueclone.sourceforge.net)
 - [https://github.com/skywind3000/rogue-clone/releases](https://github.com/skywind3000/rogue-clone/releases)
 
-里面下载 `rogue-clone.exe` 即可使用，这个版本和 Linux 的版本代码是同一份，都是叫做 "Rogue Clone III"。
-
-网上还有个 [Rogue Clone IV](https://rogueclone.sourceforge.net) 看起来版本更高，但其实代码定格于 2004 年，二十多年没更新，不像上面版本 `iii` 那样早已改为 c99 并随着 BSD/Linux 发行版一直在完善更新。
-
-但版本 `iv` 有个优点，可以显示 ASCII 扩展字符集，并会上色；有需要体验该版本的，注意中文系统下要设置环境变量：
+注意：下载第一个的话，中文系统下要设置环境变量：
 
 ```
 set ROGUEOPTS=noPCgraphics
