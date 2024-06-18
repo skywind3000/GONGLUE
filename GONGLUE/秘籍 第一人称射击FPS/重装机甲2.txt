@@ -1,4 +1,4 @@
-Heavy Gear II （重金属 II）
+重装机甲2
 
 在游戏中按下~键然后输入：
 set camti＝无敌
