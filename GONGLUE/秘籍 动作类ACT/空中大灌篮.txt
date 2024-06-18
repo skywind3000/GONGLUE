@@ -1,4 +1,4 @@
-Space Jam（空中大灌篮）
+空中大灌篮
 
 以SJ加参数(所加的参数即为游戏秘技)的形式启动游戏, 例如用SJ little_toons来启动游戏. 如果想同时激活多条秘技,只需同时加上多条秘技即可.
 例用:SJlittle_toons little_monstars superjumps启动游戏.
