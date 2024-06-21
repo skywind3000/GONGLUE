@@ -1,6 +1,6 @@
-# Rogue（肉鸽）
+# Rogue 官方手册
 
-本文是著名 Rogue 教程 “A Guide to the Dungeons of Doom” 的中文翻译版本，获取 Rogue 游戏可以见本文最后一部分。
+本文是著名 Rogue 教程 “A Guide to the Dungeons of Doom” 的中文翻译版本。
 
 ## 1. 游戏介绍
 
@@ -242,37 +242,3 @@ C:>rogue -s
 蒂莫西·斯托尔（Timothy Stoehr）编写了《Rogue》5.3 克隆版本 I 和 II，并将其捐赠给加利福尼亚大学伯克利分校。伯克利的工作人员在标准版《Rogue》停止免费提供后，开始随 BSD UNIX® 操作系统分发《Rogue》5.3 克隆版本 III。UNIX是 The Open Group 在美国及其他国家的注册商标。
 
 很久以后，迈克尔·莱霍泰（Michael Lehotay）将《Rogue》克隆版改编为 DOS 版本，并发布为 DOS《Rogue》克隆版。尼克·斯特拉古齐（Nick Straguzzi）添加了对颜色和 IBM PC 图形的支持，两人共同发布了适用于 DOS 和 Windows 的《Rogue》克隆版IV。《Rogue》克隆版 IV 保留了 DOS《Rogue》克隆版的版本号，从 2.1 版本开始。
-
-
-## 附1：通关经验
-
-- 没路可走时，不是游戏出错，而是有隐藏门和隐藏通路，在怀疑有隐藏门和路的周围一格多按几次 `s` 进行搜索可以发现（每按一次大概有 25% 的概率发现，所以重点点地方每走一步多按几下）。
-- 注意食物规划，太过饥饿会晕倒，持续晕倒会死亡。
-- 碰到怪多的地方先逃跑到狭长通道，边走边恢复血，不停的喝药和远程攻击。
-- 厉害的不会动的盖屋可用 `t` 命令远程投掷伤害，或者 `z` 命令魔杖远程攻击。
-- 注意冰冻怪 `I` ，如果不动的话，先别主动招惹，清空周围的怪再量力而行。
-- 拿到耶多尔附身符后，碰到楼梯 `%` 可以用 `<` 命令返回上层，这时你可以用 `<` 和 `>` 在多层间来回探索不着急去一层离开。
-- `rogue-clone` 有巫师模式，按 `Ctrl+w` 并输入 `bathtub` 可以开启，开启后 `Ctrl+s` 可以查看全地图，很管用，但开启巫师模式后分数不记录到排行榜。
-
-
-## 附2：游戏获取
-
-对于 Linux （debian/ubuntu）而言，默认包管理器中已经包含 rogue，用下面命令安装：
-
-```bash
-sudo apt-get install bsdgames-nonfree
-```
-
-然后输入 `rogue` 即可进入游戏；同时 Windows 用户可以二选一:
-
-- [https://rogueclone.sourceforge.net](https://rogueclone.sourceforge.net)
-- [https://github.com/skywind3000/rogue-clone/releases](https://github.com/skywind3000/rogue-clone/releases)
-
-注意：下载第一个的话，中文系统下要设置环境变量：
-
-```
-set ROGUEOPTS=noPCgraphics
-```
-
-禁用扩展字符，避免乱码。
-
