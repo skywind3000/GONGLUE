@@ -6,6 +6,7 @@
 
 - 没路可走时，不是游戏出错，而是有隐藏门和隐藏通路，在怀疑有隐藏门和路的周围一格多按几次 `s` 进行搜索可以发现（每按一次大概有 25% 的概率发现，所以重点点地方每走一步多按几下）。
 - 注意食物规划，太过饥饿会晕倒，持续晕倒会死亡。
+- 在使用 `e`，`q`, `t`, `r` 等命令后面需要输入物品编号时，可以输入 `*` 查看当前可以使用的对应物品，不用每次用之前按 `i` 看半天。
 - 碰到怪多的地方先逃跑到狭长通道，边走边恢复血，不停的喝药和远程攻击，或者用传送卷轴传送走。
 - 厉害的不会动的盖屋可用 `t` 命令远程投掷伤害，或者 `z` 命令魔杖远程攻击。
 - 注意冰冻怪 `I` ，如果不动的话，先别主动招惹，清空周围的怪再量力而行。
@@ -69,16 +70,22 @@
 sudo apt-get install bsdgames-nonfree
 ```
 
-然后输入 `rogue` 即可进入游戏；同时 Windows 用户可以二选一:
+然后输入 `rogue` 即可进入游戏；同时 Windows 用户有多个选择:
 
-- [https://rogueclone.sourceforge.net](https://rogueclone.sourceforge.net)
 - [https://github.com/skywind3000/rogue-clone/releases](https://github.com/skywind3000/rogue-clone/releases)
+- [https://rogueclone.sourceforge.net](https://rogueclone.sourceforge.net)
+- [https://oryxdesignlab.itch.io/classic-rogue](https://oryxdesignlab.itch.io/classic-rogue)
+- [https://github.com/mikeyk730/Rogue-Collection/releases](https://github.com/mikeyk730/Rogue-Collection/releases)
 
-注意：下载第一个的话，中文系统下要设置环境变量：
+注意：下载第二个的话，中文系统下要设置环境变量：
 
 ```
 set ROGUEOPTS=noPCgraphics
 ```
 
-禁用扩展字符，避免乱码。
+禁用扩展字符，避免乱码；使用第一个 `rogue-clone` 进入巫师模式后，用 CTRL+g 可以恢复血量和体力。
+
+对于 GBA 用户，可以下载 AGB_Rogue：
+
+- [https://www.gamebrew.org/wiki/AGB_Rogue_GBA](https://www.gamebrew.org/wiki/AGB_Rogue_GBA)
 
