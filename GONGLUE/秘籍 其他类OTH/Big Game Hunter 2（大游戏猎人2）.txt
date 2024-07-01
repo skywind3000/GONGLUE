@@ -1,4 +1,4 @@
-Big Game Hunter II（大游戏猎人 II）
+Big Game Hunter 2（大游戏猎人2）
 
 在游戏中同时按住以下组合键以获得相应的密技功能
 CTRL+ALT+C键：获得自动视角功能

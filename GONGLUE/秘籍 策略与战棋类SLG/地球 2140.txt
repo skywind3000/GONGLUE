@@ -1,7 +1,7 @@
-Earth 2140 （公元2140）
+地球 2140
 
-1.在640x480模式下，需以“dos4gwgame.exe x640 md mv ww ms kr”命令来启动游戏（可修改原earth640.bat档）。
-2.在800x600模式下，需以“dos4gwgame.exe x800 md mv ww ms kr”命令来启动游戏（可修改原earth800.bat档）。
+1.在640x480模式下，需以“dos4gw game.exe x640 md mv ww ms kr”命令来启动游戏（可修改原earth640.bat档）。
+2.在800x600模式下，需以“dos4gw game.exe x800 md mv ww ms kr”命令来启动游戏（可修改原earth800.bat档）。
 3.欲键入密码（需大写）时，需同时按下ctrl和shift两键不放，然后快速键入下列密码：
 RTHMN2：获得二倍于一个货柜的金钱数量
 RTHMN4：获得二倍于一个货柜的金钱数量

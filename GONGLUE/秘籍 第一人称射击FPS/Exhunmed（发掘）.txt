@@ -1,4 +1,4 @@
-Exhunmed （发掘）
+Exhunmed（发掘）
 
 lobocop: 所有武器
 lobodeity: 无敌
