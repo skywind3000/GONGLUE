@@ -1,4 +1,4 @@
-System Shock 2
+网络奇兵2
 
 在游戏中同时按下“SHIFT”和“；”（分号），然后输入以下代码：
 summon_obj [item],其中的ITEM可以是：

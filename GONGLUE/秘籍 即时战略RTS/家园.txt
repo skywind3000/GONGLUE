@@ -1,4 +1,4 @@
-Homeworld（家园）
+家园
 
 用以下命令为选项启动游戏：（如：c:\homeworld\homeworld.exe /debug）
 

@@ -1,4 +1,4 @@
-Tank Racer
+坦克赛车手
 
 用十六进制来编写tanksave.dat文件： 
 

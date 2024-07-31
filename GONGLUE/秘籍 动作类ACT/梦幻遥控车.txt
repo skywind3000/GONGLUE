@@ -1,4 +1,4 @@
-Revolt（梦幻遥控车）
+梦幻遥控车
 
 在游戏目录下的 CAR 目录中找到 Paremeters.txt 
 可修改以下各参数 
