@@ -1,0 +1,29 @@
+Seven Kingdoms 2
+
+在游戏中按!!##%%&&，会出现确认消息，然后输入以下代码：
+CTRL + M：全部地图
+CTRL + T：全部技术
+CTRL + U：转换Mortal\Immortal国王
+CTRL + /：加1000食物
+CTRL + C：加1000金钱
+CTRL + Z：快速建造模式
+CTRL + Semicolon：在选定的城市加10个人口
+ALT + CTRL + K：建筑物损伤减20
+ALT + CTRL + J：建筑物损伤加20
+ALT + CTRL + X：减1000食物
+ALT + CTRL + C：减1000金钱
+
+Seven Kingdoms 2 - The Fryhtan Wars
+
+Ctrl+B = 建筑立刻完成 
+　　Ctrl+C = Cash and life points (+1000 each) 
+　　Ctrl+M = 显示地图 
+　　Ctrl+T = 科技升级 
+　　Ctrl+U = 英明君主 
+　　Ctrl+Z = 快速建筑模式 
+　　Ctrl+\ = 食物+1000 
+　　Ctrl+/ = Add 1000 life points 
+　　Ctrl+; = 城市人口+10 
+　　Ctrl++ = Seat of power full pray point, tower of science full 　　　　　　 pray point, full spy skill 
+　　Ctrl+! = Increase fryhtan battling score by 10 
+

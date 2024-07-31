@@ -1,4 +1,4 @@
-Unreal Tournament（虚幻：锦标赛）
+虚幻竞技场
 
 游戏中按`打开控制台，输入"iamtheone"后再输入以下秘技：
 
