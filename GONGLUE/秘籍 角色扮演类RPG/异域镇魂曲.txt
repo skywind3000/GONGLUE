@@ -1,0 +1,43 @@
+异域镇魂曲
+
+在 world map 里右上方 lower ward 里的 Dead Nations 左下方的 stale marys chambers 里找stale mary 对话，所有内容均为：
+
+Answer1:"I had some questions." 
+Answer2:"Mary,I need to speak with the silent king.can you help me." 
+Answer3:"I need to leave this place." 然后就gained exp 3750,
+
+得到 exp 后，会 leave， 去左上边的洞传送到 silent king 处。问题就在这里，得到 exp 后不要leave，找 stale mary 重复上面的三个问题，就又一次 gained exp 3750。在这里可 gained exp 无限。我在这里可是把主角的属性全部加到了上限喔。
+
+(win98+dx7.0下测试，绝无问题).
+
+
+编辑你的Torment.ini文件，找到[Movies]段，在该段内
+按下面编辑，即可看见全部电影：
+[Movies]
+BISLOGO=1
+TSRLOGO=1
+OPENING=1
+SS_MSLAB=1
+SIGIL=1
+TIME=1
+SS_PHARD=1
+SS_ADETH=1
+ALYBIRTH=1
+DEATH=1
+MAZE1=1
+CURSTD=1
+OUTLANDS=1
+BAATOR=1
+CARCERI=1
+CRETURN=1
+FORTRESS=1
+FORTDOOR=1
+ARRV_IGN=1
+T1ENTER=1
+METEOR=1
+DRAGON=1
+T1ABSORB=1
+FINALE=1
+CONFLAG=1
+T1DEATH=1
+RUNE=1

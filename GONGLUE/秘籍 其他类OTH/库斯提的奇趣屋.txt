@@ -1,4 +1,4 @@
-Krusty’s Super Fun House
+库斯提的奇趣屋
 
 在游戏中等待直到屏幕上出现 "Hi Kids" 的提示， 
 就可以输入以下密码以进入不同的关卡： 

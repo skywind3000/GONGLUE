@@ -1,4 +1,4 @@
-Sim Isle
+模拟小岛
 
 200 random things are added to island
 Pause game and type “catsndogs”.

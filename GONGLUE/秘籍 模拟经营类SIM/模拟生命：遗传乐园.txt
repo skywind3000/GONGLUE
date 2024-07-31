@@ -1,4 +1,4 @@
-SimLife
+模拟生命：遗传乐园
 
 游戏中输入以下代码：
 food：停止Ultra-Food来源

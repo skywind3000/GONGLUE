@@ -1,4 +1,4 @@
-Sim Earth
+模拟地球
 
 Modify ocean level
 Hold [Option] in the Edit window. Then select “Raise/Lower” land tool. Additional options should appear allowing you to change the sea level. 
