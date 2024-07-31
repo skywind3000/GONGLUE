@@ -1,4 +1,4 @@
-Frogger 3D
+青蛙过河3D
 
 按“ESC”键暂停游戏，然后输入以下代码：
 NO MORE ROAD SPLATS -无限生命

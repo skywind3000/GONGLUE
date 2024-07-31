@@ -1,3 +1,5 @@
+光之迷宫
+
 Labyrinth of Light
 
 各关代码：

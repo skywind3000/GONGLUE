@@ -1,10 +1,59 @@
 创世纪9：升腾
 
-在游戏目录中找到 default.kmp 这个文件，有写字板之类的文本
-编辑工具打开它，将下列指令加到 Cheat Commands 底下 
-alt+shift+i = toggle_avatar_invulnerable 
-alt+shift+l = toggle_avatar_fly 
-在游戏进行中即可使用秘技 
-alt+shift+i = 圣者无敌 
-alt+shift+l = 圣者飞行
+注意：以下密码可能导致死机（游戏制作者说的）
 
+在遊戲目錄中找到 default.kmp 這個檔
+將下列指令加到 [Cheat Commands] 底下
+
+alt+shift+i = toggle_avatar_invulnerable
+alt+shift+l = toggle_avatar_fly
+
+在遊戲進行中即可使用密技
+
+alt+shift+i = 聖者無敵
+alt+shift+l = 聖者飛行
+
+以下是其他的有用指令
+
+pass_one_hour
+unpass_one_hour
+sunrise_sunset
+pass_one_minute
+unpass_one_minute
+toggle_sun
+toggle_wind
+toggle_storms
+toggle_avatar_fast
+
+
+只要把 Game Disc movie 下的 .dat 檔全改成 .mpg , 你就可以用撥放軟體來看了. 不過還是勸你別先偷看,以免破壞你的玩完遊戲的決心了。
+
+依影片來看,淨化完八根黑岩之柱,就是跟守護神的對決之日了。
+
+
+法术共有八级,每级四种,共计三十二种
+每种法术都需要至少一类的药材搭配其卷轴
+在五芒星阵执行束缚仪式(bind spell)後才能使用
+药材一共有八种,由於背包以及袋子的空间非常有限
+使玩家到游戏中後期常常有袋满为患之苦
+在此提供一个特殊方式,玩家只要每种药材带一个即可
+就再也不用上山下海找药或是花钱买药材了
+在五芒星阵执行束缚仪式
+依法术规定放置所需药材及卷轴後
+点燃蜡烛後,会要玩家输入法术咒语
+此时先用游标指向药材及卷轴
+按住滑鼠左键将点到的东西移到玩家身上
+等到药材及卷轴都捡完了之後,再输入咒语
+之後你会发现法术已经记忆成功
+而卷轴及药材却完全没有消耗
+於是乎,再也不用担心药材消耗的问题了
+
+让怪物兽对你视而不见
+打开背包（按B键），这是怪物们就会对你视而不见，你就可以随意狂打他们了。为了不影响视线，你可以把背包拖到屏幕边缘
+
+
+Hints
+
+Behind the Avatar’s house, by the training dummy, is a fence with no gate. Normally, you can’t get out. However, if you climb the dummy, you can jump over, or, using the fly cheat, you can simply clip straight through. Behind the gate, hidden by a bush near the large tree, is a lever. Pulling the lever reveals a variety of teleporters that will outfit you with armor or take you to various places in Brittania. Warning: There’s no way to get back once you leave. 
+
+First, go to the Gypsy at the Avatar’s house on earth, and choose your virtue/class. Afterwards, pull the secret lever behind the Avatar’s house, and equip yourself with armor. Teleport into Brittania, and make your way to the tower where you enter the world. The tower is actually a dungeon, and loaded in several segments, so open the door and walk in, and once it’s loaded, activate the flymode cheat and fly up into the room you first appear in. Remove your armor, magic items, and anything else you want to keep, and drop them in that room. Exit the tower the same way you entered, and fly up to the top. On top of the tower is a teleporter. Enter it, and you will be taken back to the tower with your stats adjusted for class as if you had gone through the gypsy’s moongate, the proper items in the chest, AND everything you dropped in the room initially.

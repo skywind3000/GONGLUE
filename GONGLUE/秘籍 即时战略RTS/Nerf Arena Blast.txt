@@ -1,4 +1,4 @@
-Nerf ArenaBlast
+Nerf Arena Blast
 
 在游戏中输入“~”，接着输入以下代码：
 god--上帝模式

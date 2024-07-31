@@ -1,4 +1,4 @@
-Pharoah（法老王）
+法老王
 
 用Windows资源管理器找到 Pharaoh_Model_Normal.txt 文件，
 把它的"只读"属性去掉。然后用记事本打开它，看下它的结构
