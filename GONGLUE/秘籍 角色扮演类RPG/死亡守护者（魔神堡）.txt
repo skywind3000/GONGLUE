@@ -1,4 +1,4 @@
-Death Keep（魔神堡）
+死亡守护者（魔神堡）
 
 LEBUZ = 飞行
 LEOLD = 进入Experience mode模式

@@ -1,4 +1,4 @@
-Dr Goo 3 - The Rubblebum War 技巧和过关代码
+Dr Goo 3 - The Rubblebum War
 
 输入272作为密码，即可搜集全部STARS。
 输入024作为密码，即可禁止死亡盒。

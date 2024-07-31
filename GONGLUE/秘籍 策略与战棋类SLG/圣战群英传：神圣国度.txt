@@ -1,4 +1,4 @@
-Disciples - Sacred Lands
+圣战群英传：神圣国度
 
 键入“Enter”键，接着输入以下代码，再键入“Enter”：
 PLAYHIDEANDSEEK -- 隐形
