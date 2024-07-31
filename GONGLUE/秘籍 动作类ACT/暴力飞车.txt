@@ -1,6 +1,16 @@
 暴力飞车
 
-本密技只有在联线版本（multiplayer version）才有效，在菜单画面时能输入下列密技：
+在游戏中输入以下字符串,会出现以下效果:
+SPAMFORREST:立即刹车
+BIG BOTTOM:车体报废
+GOOGLEPLEX:使用权车子有下水能力
+GIVEMELARD:得到百万大奖
+SMALLUDDERS:巨大的步行者(行人)
+SUPERHOOPS:爆发性的步行者
+IGLOOFUN:急剧加速
+
+
+下面密技只有在联线版本（multiplayer version）才有效，在菜单画面时能输入下列密技：
 
 FEZME 作为Fez Boy参赛
 LEVELME 选关
@@ -10,4 +20,3 @@ ANCHORME 得到铁锚
 CLAWME 得到爪子
 COOLME 得到冷冻剂
 PROBEME 得到探针
-
