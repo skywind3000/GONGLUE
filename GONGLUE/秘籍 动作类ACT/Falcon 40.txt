@@ -1,3 +1,5 @@
-Falcon 40 补充弹药
+Falcon 40 
+
+补充弹药
 
 在飞行时输入“revenge”即可补充弹药
