@@ -1,4 +1,4 @@
-Age of Wonders
+奇迹时代
 
 首先，使用命令行参数“beatrix”启动游戏（如：
 C:\Age of Wonders\aow.exe" beatrix），然后在游戏
