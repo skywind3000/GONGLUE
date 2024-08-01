@@ -1,4 +1,5 @@
-Outcast
+Outcast（时空英豪）
+
 
 游戏中输入“HOKKUSPOKKUS”，现在可以用F12呼叫
 出控制台：
@@ -19,3 +20,17 @@ VILLE：Okriana
 MONTAGNE：Motazaar 
 MARCHES：Okasankaar 
 FOREST：Okar
+
+
+近站在门前, 丢出 F-LINK (传送器) 
+启动传送功能後 , 
+就被传送到门的另一边了
+
+
+修改游戏目录下 outcast.ini 的金钱及生命值设定 
+
+MoneyChest=5.0000000 改成 MoneyChest=5000000.0 
+Money=1.0000000 改成 Money=1000000.0 
+Life=5.0000000 改成 Life=5000000.0 
+
+
