@@ -1,4 +1,6 @@
-Shadow Man（影子人）
+夜影侠
+
+Shadow Man
 
 在游戏目录 DATA\SCRIPTS\MENUS\ENGLISH 中有3个文件 
 E3.MSC, DEBUG.MSC 和 RELEASE.MSC 
