@@ -27,6 +27,10 @@ DOC = os.path.join(gonglue.BUILD, 'doc')
 # the root directory, so we need to change the image/css url
 #----------------------------------------------------------------------
 def patch_html(html):
+    css = '<link rel="stylesheet" href="/images/style_chm.css">'
+    header = []
+    header.append(css)
+    html = html.replace('<!--HEADER-->', '\n'.join(header))
     soup = bs4.BeautifulSoup(html, 'html.parser')
     for tag in soup.find_all('img'):
         src = tag.get('src')

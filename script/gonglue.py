@@ -302,6 +302,7 @@ TEMPLATE = '''<!DOCTYPE html>
 <meta charset="utf-8">
 <title><!--TITLE--></title>
 <!--STYLE-->
+<!--HEADER-->
 </head>
 <body>
 <!--BODYHEAD-->
