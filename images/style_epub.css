@@ -7,3 +7,22 @@ body {
 h1 {
     color: blue;
 }
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid #000;
+	/* width: 100%; */
+}
+
+table th {
+	border: 1px solid #000;
+	background-color: #f0f0f0;
+}
+
+table td {
+	border: 1px solid #000;
+	padding: 2px;
+}
+
+
